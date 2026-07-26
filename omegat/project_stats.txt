@@ -1,0 +1,14 @@
+26/7/26, 9:53 pm
+Project Statistics
+
+                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	     689	 9924	                  64562	                 73742	     1	
+Remaining:       	     689	 9924	                  64562	                 73742	     1	
+Unique:          	     657	 9791	                  63286	                 72346	     1	
+Unique Remaining:	     657	 9791	                  63286	                 72346	     1	
+
+
+Individual File Statistics:
+
+File Name                                                    	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+20260722_BuildingCode2026_highlightedOnly.docx_fre-CA.mqxliff	           689	               689	            657	                      657	       9924	           9924	        9791	                  9791	                        64562	                            64562	                         63286	                                   63286	                       73742	                           73742	                        72346	                                  72346	

@@ -1,0 +1,67 @@
+{
+  "total": {
+    "characters-without-spaces": 64562,
+    "characters": 73742,
+    "words": 9924,
+    "files": 1,
+    "segments": 689
+  },
+  "unique-remaining": {
+    "characters-without-spaces": 63286,
+    "characters": 72346,
+    "words": 9791,
+    "files": 1,
+    "segments": 657
+  },
+  "unique": {
+    "characters-without-spaces": 63286,
+    "characters": 72346,
+    "words": 9791,
+    "files": 1,
+    "segments": 657
+  },
+  "project": {
+    "root": "/Users/soutox/Sync/CIDQ/BuildingCode/CIDQ_BillingCode2026_fr-CA_OMT/",
+    "source-language": "en",
+    "target-language": "fr-CA",
+    "name": "CIDQ_BillingCode2026_fr-CA_OMT"
+  },
+  "files": [{
+    "total": {
+      "characters-without-spaces": 64562,
+      "characters": 73742,
+      "words": 9924,
+      "files": 0,
+      "segments": 689
+    },
+    "filename": "20260722_BuildingCode2026_highlightedOnly.docx_fre-CA.mqxliff",
+    "unique-remaining": {
+      "characters-without-spaces": 63286,
+      "characters": 72346,
+      "words": 9791,
+      "files": 0,
+      "segments": 657
+    },
+    "unique": {
+      "characters-without-spaces": 63286,
+      "characters": 72346,
+      "words": 9791,
+      "files": 0,
+      "segments": 657
+    },
+    "remaining": {
+      "characters-without-spaces": 64562,
+      "characters": 73742,
+      "words": 9924,
+      "files": 0,
+      "segments": 689
+    }
+  }],
+  "remaining": {
+    "characters-without-spaces": 64562,
+    "characters": 73742,
+    "words": 9924,
+    "files": 1,
+    "segments": 689
+  }
+}
