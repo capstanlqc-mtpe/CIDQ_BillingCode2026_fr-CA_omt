@@ -1,4 +1,3 @@
-7/27/26, 2:21 PM
 Project Statistics
 
                  	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
