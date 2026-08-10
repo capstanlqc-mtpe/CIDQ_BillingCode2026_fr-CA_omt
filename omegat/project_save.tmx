@@ -1482,12 +1482,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;b2/&gt;&lt;b3/&gt;&lt;b4/&gt;CHAPTER 24 GLASS AND GLAZING&lt;e2/&gt;&lt;e4/&gt;&lt;g6&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;150&lt;x11/&gt;&lt;/g6&gt;&lt;e3/&gt;&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;b2/&gt;&lt;b3/&gt;&lt;b4/&gt;CHAPITRE 24 VERRE ET VITRAGE&lt;e2/&gt;&lt;e4/&gt;&lt;g6&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt; 150&lt;x11/&gt;&lt;/g6&gt;&lt;e3/&gt;&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T172028Z">
+        <seg>&lt;g1&gt;&lt;b2/&gt;&lt;b3/&gt;&lt;b4/&gt;CHAPITRE 24 VITRAGES ET VITRERIE&lt;e2/&gt;&lt;e4/&gt;&lt;g6&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt; 150&lt;x11/&gt;&lt;/g6&gt;&lt;e3/&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
