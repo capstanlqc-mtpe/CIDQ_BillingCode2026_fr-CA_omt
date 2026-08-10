@@ -5397,12 +5397,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The person to whom an annual permit is issued shall keep a detailed record of alterations made under such annual permit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La personne à qui un permis annuel est délivré doit tenir un registre détaillé des modifications apportées en vertu de ce permis annuel.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T233146Z">
+        <seg>La personne à qui un permis annuel est délivré doit tenir un registre détaillé des modifications effectuées en vertu de ce permis annuel.</seg>
       </tuv>
     </tu>
     <tu>
