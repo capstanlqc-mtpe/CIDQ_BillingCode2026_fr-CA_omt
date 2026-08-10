@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.3_0_e363cb094" segtype="paragraph" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.3_0_57b1bb571" segtype="paragraph" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1526,12 +1526,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;b2/&gt;&lt;b3/&gt;&lt;b4/&gt;CHAPTER 4  SPECIAL DETAILED REQUIREMENTS BASED ON OCCUPANCY AND USE&lt;e2/&gt;&lt;e4/&gt;&lt;g6&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;27&lt;x11/&gt;&lt;/g6&gt;&lt;e3/&gt;&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;b2/&gt;&lt;b3/&gt;&lt;b4/&gt;CHAPITRE 4  EXIGENCES DÉTAILLÉES SPÉCIALES BASÉES SUR L'USAGE ET L'UTILISATION&lt;e2/&gt;&lt;e4/&gt;&lt;g6&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt; 27&lt;x11/&gt;&lt;/g6&gt;&lt;e3/&gt;&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T044728Z">
+        <seg>&lt;g1&gt;&lt;b2/&gt;&lt;b3/&gt;&lt;b4/&gt;CHAPITRE 4  EXIGENCES PARTICULIÈRES DÉTAILLÉES SELON L’OCCUPATION ET L’USAGE&lt;e2/&gt;&lt;e4/&gt;&lt;g6&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt; 27&lt;x11/&gt;&lt;/g6&gt;&lt;e3/&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1832,12 +1831,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;Please be reminded that images, other than tables, are not included in this code   document.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;Veuillez prendre note que les figures et illustrations, autres que les tableaux, ne sont pas reproduites dans ce document.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T044640Z">
+        <seg>ASD&lt;g1&gt;Veuillez prendre note que les figures et les illustrations, autres que les tableaux, ne sont pas reproduites dans ce document.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
