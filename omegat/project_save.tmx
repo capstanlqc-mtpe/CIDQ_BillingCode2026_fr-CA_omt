@@ -599,12 +599,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 410  STAGES, PLATFORMS AND TECHNICAL PRODUCTION AREAS&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;32&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 410  SCÈNES, PLATEFORMES ET ZONES DE PRODUCTION TECHNIQUE&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 32&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T044900Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 410  ESTRADES, PLATEFORMES ET AIRES DE PRODUCTION TECHNIQUE&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 32&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -689,21 +688,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 709  SMOKE BARRIERS&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;57&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 709  BARRIÈRES ANTIFUMÉE&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 57&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T044926Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 709  BARRIÈRES DE FUMÉE&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 57&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 710  SMOKE PARTITIONS&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;59&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 710 CLOISONS ANTIFUMÉE&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 59&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T045329Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 710 CLOISONS DE FUMÉE&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 59&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
