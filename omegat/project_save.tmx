@@ -626,12 +626,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 423  SPECIALTY PLUMBING FIXTURES&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;47&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 423 APPAREILS SANITAIRES SPÉCIAUX&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 47&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T211357Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 423 APPAREILS DE PLOMBERIE SPÉCIALISÉS&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 47&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -858,12 +857,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION E3903 LIGHTING OUTLETS&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;36&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION E3903 PRISES D'ÉCLAIRAGE&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 36&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T182623Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION E3903 SORTIES D’ÉCLAIRAGE&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 36&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -965,12 +963,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;g3&gt;SECTION E3902  &lt;/g3&gt;&lt;b5/&gt;GROUND-FAULT AND ARC-FAULT CIRCUIT- INTERRUPTER PROTECTION&lt;e1/&gt;&lt;e5/&gt;&lt;g7&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;&lt;x11/&gt;35&lt;x12/&gt;&lt;/g7&gt;&lt;e2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;g3&gt;SECTION E3902  &lt;/g3&gt;PROTECTION&lt;b5/&gt; PAR DISJONCTEUR DE DÉFAUT À LA TERRE ET DE DÉFAUT D'ARC&lt;e1/&gt;&lt;e5/&gt;&lt;g7&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;&lt;x11/&gt; 35&lt;x12/&gt;&lt;/g7&gt;&lt;e2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T182548Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;g3&gt;SECTION E3902  &lt;/g3&gt;PROTECTION&lt;b5/&gt; PAR DISJONCTEURS-DÉTECTEURS DE DÉFAUT À LA TERRE ET DE DÉFAUT D’ARC&lt;e1/&gt;&lt;e5/&gt;&lt;g7&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;&lt;x11/&gt; 35&lt;x12/&gt;&lt;/g7&gt;&lt;e2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1504,12 +1501,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;b2/&gt;&lt;b3/&gt;&lt;b4/&gt;CHAPTER 39  POWER AND LIGHTING DISTRIBUTION&lt;e2/&gt;&lt;e4/&gt;&lt;g6&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;33&lt;x11/&gt;&lt;/g6&gt;&lt;e3/&gt;&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;b2/&gt;&lt;b3/&gt;&lt;b4/&gt;CHAPITRE 39 DISTRIBUTION DE L'ALIMENTATION ET DE L'ÉCLAIRAGE&lt;e2/&gt;&lt;e4/&gt;&lt;g6&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt; 33&lt;x11/&gt;&lt;/g6&gt;&lt;e3/&gt;&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T182511Z">
+        <seg>&lt;g1&gt;&lt;b2/&gt;&lt;b3/&gt;&lt;b4/&gt;CHAPITRE 39 DISTRIBUTION DE L’ÉLECTRICITÉ ET DE L’ÉCLAIRAGE&lt;e2/&gt;&lt;e4/&gt;&lt;g6&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt; 33&lt;x11/&gt;&lt;/g6&gt;&lt;e3/&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
