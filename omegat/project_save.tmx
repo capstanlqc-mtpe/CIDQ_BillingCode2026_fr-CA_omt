@@ -450,12 +450,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 2403  GENERAL REQUIREMENTS FOR GLASS&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;150&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 2403 EXIGENCES GÉNÉRALES POUR LE VERRE&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 150&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T172149Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 2403 EXIGENCES GÉNÉRALES RELATIVES AU VITRAGE&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 150&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -468,12 +467,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 2407 GLASS IN HANDRAILS AND GUARDS&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;153&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 2407 VERRE DANS LES RAMPES ET LES GARDE-CORPS&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 153&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T173920Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 2407 VERRE DANS LES MAINS COURANTES ET LES GARDE-CORPS&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 153&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
