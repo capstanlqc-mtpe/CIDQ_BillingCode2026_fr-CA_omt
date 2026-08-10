@@ -306,12 +306,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 1103 TYPE A UNITS&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;95&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 1103 LOGEMENTS DE TYPE A&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 95&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T215307Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 1103 UNITÉS DE TYPE A&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 95&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -721,12 +720,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 802  ASSEMBLY AREAS&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;85&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 802  ZONES DE RÉUNION&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 85&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T215136Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 802  AIRES DE RASSEMBLEMENT&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 85&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -739,12 +737,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 803  DRESSING, FITTING AND LOCKER ROOMS&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;88&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 803  VESTIAIRES, CABINES D'ESSAYAGE ET SALLES DE CASIERS&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 88&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T215258Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 803  VESTIAIRES, CABINES D’ESSAYAGE ET LOCAUX DE CASIERS&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 88&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -970,12 +967,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;g3&gt;SECTION&lt;/g3&gt;&lt;b5/&gt; 1106 UNITS WITH COMMUNICATION FEATURES&lt;e1/&gt;&lt;e5/&gt;&lt;g7&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;&lt;x11/&gt;106&lt;x12/&gt;&lt;/g7&gt;&lt;e2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;g3&gt;SECTION&lt;/g3&gt;&lt;b5/&gt; 1106 LOGEMENTS AVEC FONCTIONS DE COMMUNICATION&lt;e1/&gt;&lt;e5/&gt;&lt;g7&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;&lt;x11/&gt; 106&lt;x12/&gt;&lt;/g7&gt;&lt;e2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T215419Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;g3&gt;SECTION&lt;/g3&gt;&lt;b5/&gt; 1106 UNITÉS DOTÉES DE CARACTÉRISTIQUES DE COMMUNICATION&lt;e1/&gt;&lt;e5/&gt;&lt;g7&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;&lt;x11/&gt; 106&lt;x12/&gt;&lt;/g7&gt;&lt;e2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1522,12 +1518,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;b2/&gt;&lt;b3/&gt;&lt;b4/&gt;CHAPTER 8  SPECIAL ROOMS AND SPACES&lt;e2/&gt;&lt;e4/&gt;&lt;g6&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;85&lt;x11/&gt;&lt;/g6&gt;&lt;e3/&gt;&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;b2/&gt;&lt;b3/&gt;&lt;b4/&gt;CHAPITRE 8  SALLES ET ESPACES SPÉCIAUX&lt;e2/&gt;&lt;e4/&gt;&lt;g6&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt; 85&lt;x11/&gt;&lt;/g6&gt;&lt;e3/&gt;&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T215033Z">
+        <seg>&lt;g1&gt;&lt;b2/&gt;&lt;b3/&gt;&lt;b4/&gt;CHAPITRE 8  PIÈCES ET ESPACES SPÉCIAUX&lt;e2/&gt;&lt;e4/&gt;&lt;g6&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt; 85&lt;x11/&gt;&lt;/g6&gt;&lt;e3/&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1585,12 +1580,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;“This is reproduced from 2018 International Building Code, the 2021 International Plumbing Code and ICC A117.1-2017 Standard and Commentary:&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;« La version en anglais de ce document consiste en extraits du Code International du Bâtiment 2018, de l'International Plumbing Code 2021 et du document ICC A117.1-2017 Standard and Commentary :&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T215453Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;« Ce document est reproduit à partir de l’International Building Code de 2018, de l’International Plumbing Code de 2021 et de la norme et du commentaire ICC A117.1-2017 :&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1603,12 +1597,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;Accessible and Usable Buildings and Facilities International Code Council, Inc., Washington, D.C. Reproduced with permission.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;Accessible and Usable Buildings and Facilities International Code Council, inc., Washington, D.C. Reproduit avec permission.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T215545Z">
+        <seg>&lt;g1&gt;Bâtiments et installations accessibles et utilisables. International Code Council, Inc., Washington, D.C. Reproduit avec autorisation.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1818,12 +1811,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;Please be reminded that images, other than tables, are not included in this code document.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;Veuillez prendre note que les figures et illustrations, autres que les tableaux, ne sont pas reproduites dans ce document.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T215639Z">
+        <seg>&lt;g1&gt;Veuillez noter que les images, à l’exception des tableaux, ne sont pas incluses dans le présent document de code.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1944,21 +1936,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;SECTION &lt;b2/&gt;&lt;e13/&gt;&lt;b4/&gt;&lt;b5/&gt;1104 TYPE B UNITS&lt;e2/&gt;&lt;e5/&gt;&lt;g7&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;&lt;x11/&gt;99&lt;x12/&gt;&lt;/g7&gt;&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;SECTION &lt;b2/&gt;&lt;e13/&gt;&lt;b4/&gt;&lt;b5/&gt;1104 LOGEMENTS DE TYPE B&lt;e2/&gt;&lt;e5/&gt;&lt;g7&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;&lt;x11/&gt; 99&lt;x12/&gt;&lt;/g7&gt;&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T215320Z">
+        <seg>&lt;g1&gt;SECTION &lt;b2/&gt;&lt;e13/&gt;&lt;b4/&gt;&lt;b5/&gt;1104 UNITÉS DE TYPE B&lt;e2/&gt;&lt;e5/&gt;&lt;g7&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;&lt;x11/&gt; 99&lt;x12/&gt;&lt;/g7&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;SECTION &lt;b2/&gt;&lt;e13/&gt;&lt;b4/&gt;&lt;b5/&gt;1105 TYPE C (VISITABLE) UNITS&lt;e2/&gt;&lt;e5/&gt;&lt;g7&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;&lt;x11/&gt;105&lt;x12/&gt;&lt;/g7&gt;&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;SECTION &lt;b2/&gt;&lt;e13/&gt;&lt;b4/&gt;&lt;b5/&gt;1105 LOGEMENTS DE TYPE C (VISITABLES)&lt;e2/&gt;&lt;e5/&gt;&lt;g7&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;&lt;x11/&gt; 105&lt;x12/&gt;&lt;/g7&gt;&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T215356Z">
+        <seg>&lt;g1&gt;SECTION &lt;b2/&gt;&lt;e13/&gt;&lt;b4/&gt;&lt;b5/&gt;1105 UNITÉS DE TYPE C (VISITABLES)&lt;e2/&gt;&lt;e5/&gt;&lt;g7&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;&lt;x11/&gt; 105&lt;x12/&gt;&lt;/g7&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3195,12 +3185,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Any owner or owner's authorized agent who intends to construct, enlarge, alter, repair, move, demolish or change the occupancy of a building or structure, or to erect, install, enlarge, alter, repair, remove, convert or replace any electrical, gas, mechanical or plumbing system, the installation of which is regulated by this code, or to cause any such work to be performed, shall first make application to the building official and obtain the required permit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Tout propriétaire ou agent autorisé du propriétaire qui a l'intention de construire, agrandir, altérer, réparer, déplacer, démolir ou modifier l'usage d'un bâtiment ou d'une structure, ou d'ériger, installer, agrandir, altérer, réparer, retirer, convertir ou remplacer tout système électrique, de gaz, mécanique ou de plomberie, dont l'installation est réglementée par le présent code, ou de faire exécuter de tels travaux, doit d'abord déposer une demande auprès du responsable de la construction et obtenir le permis requis.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T215714Z">
+        <seg>Tout propriétaire ou mandataire autorisé du propriétaire qui a l’intention de construire, d’agrandir, de modifier, de réparer, de déplacer ou de démolir un bâtiment ou une construction, ou d’en modifier l’usage, ou d’ériger, d’installer, d’agrandir, de modifier, de réparer, d’enlever, de convertir ou de remplacer tout système électrique, de gaz, mécanique ou de plomberie dont l’installation est régie par le présent code, ou de faire exécuter de tels travaux, doit d’abord présenter une demande à l’autorité compétente en matière de bâtiment et obtenir le permis requis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4176,12 +4165,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Instead of an individual permit for each alteration to an already approved electrical, gas, mechanical or plumbing installation, the building official is authorized to issue an annual permit upon application therefor to any person, firm or corporation regularly employing one or more qualified tradespersons in the building, structure or on the premises owned or operated by the applicant for the permit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Au lieu d'un permis individuel pour chaque modification apportée à une installation électrique, de gaz, mécanique ou de plomberie déjà approuvée, le responsable de la construction est autorisé à délivrer un permis annuel sur demande à toute personne, entreprise ou société employant régulièrement un ou plusieurs artisans qualifiés dans le bâtiment, la structure ou sur les lieux appartenant au demandeur du permis ou exploités par lui.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T225628Z">
+        <seg>Plutôt que de délivrer un permis individuel pour chaque modification apportée à une installation électrique, de gaz, mécanique ou de plomberie déjà approuvée, l’autorité compétente en matière de bâtiment est autorisée à délivrer un permis annuel, sur demande, à toute personne, entreprise ou société employant régulièrement un ou plusieurs ouvriers qualifiés dans le bâtiment, la construction ou les lieux appartenant au demandeur du permis ou exploités par celui-ci.</seg>
       </tuv>
     </tu>
     <tu>
