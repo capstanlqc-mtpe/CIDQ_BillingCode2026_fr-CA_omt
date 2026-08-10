@@ -661,12 +661,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 505  HANDRAILS&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;64&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 505  RAMPES&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 64&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T211420Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 505  MAINS COURANTES&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 64&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1016,12 +1015,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;g3&gt;SECTION&lt;/g3&gt;&lt;b5/&gt; 608 SHOWER COMPARTMENTS&lt;e1/&gt;&lt;e5/&gt;&lt;g7&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;&lt;x11/&gt;74&lt;x12/&gt;&lt;/g7&gt;&lt;e2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;g3&gt;SECTION&lt;/g3&gt;&lt;b5/&gt; 608 COMPARTIMENTS DE DOUCHE&lt;e1/&gt;&lt;e5/&gt;&lt;g7&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;&lt;x11/&gt; 74&lt;x12/&gt;&lt;/g7&gt;&lt;e2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T211927Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;g3&gt;SECTION&lt;/g3&gt;&lt;b5/&gt; 608 CABINES DE DOUCHE&lt;e1/&gt;&lt;e5/&gt;&lt;g7&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;&lt;x11/&gt; 74&lt;x12/&gt;&lt;/g7&gt;&lt;e2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1043,21 +1041,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;g3&gt;SECTION&lt;/g3&gt;&lt;b5/&gt; 612  SAUNAS AND STEAM ROOMS&lt;e1/&gt;&lt;e5/&gt;&lt;g7&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;&lt;x11/&gt;78&lt;x12/&gt;&lt;/g7&gt;&lt;e2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;g3&gt;SECTION&lt;/g3&gt;&lt;b5/&gt; 612 SAUNAS ET HAMMAMS&lt;e1/&gt;&lt;e5/&gt;&lt;g7&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;&lt;x11/&gt; 78&lt;x12/&gt;&lt;/g7&gt;&lt;e2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T211940Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;g3&gt;SECTION&lt;/g3&gt;&lt;b5/&gt; 612 SAUNAS ET SALLES DE VAPEUR&lt;e1/&gt;&lt;e5/&gt;&lt;g7&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;&lt;x11/&gt; 78&lt;x12/&gt;&lt;/g7&gt;&lt;e2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;g3&gt;SECTION&lt;/g3&gt;&lt;b5/&gt; 613  ADULT CHANGING STATIONS&lt;e1/&gt;&lt;e5/&gt;&lt;g7&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;&lt;x11/&gt;78&lt;x12/&gt;&lt;/g7&gt;&lt;e2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;g3&gt;SECTION&lt;/g3&gt;&lt;b5/&gt; 613 TABLES À LANGER POUR ADULTES&lt;e1/&gt;&lt;e5/&gt;&lt;g7&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;&lt;x11/&gt; 78&lt;x12/&gt;&lt;/g7&gt;&lt;e2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T215026Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;g3&gt;SECTION&lt;/g3&gt;&lt;b5/&gt; 613 STATIONS DE CHANGE POUR ADULTES&lt;e1/&gt;&lt;e5/&gt;&lt;g7&gt;&lt;x8/&gt;&lt;x9/&gt;&lt;x10/&gt;&lt;x11/&gt; 78&lt;x12/&gt;&lt;/g7&gt;&lt;e2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
