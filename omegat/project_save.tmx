@@ -885,12 +885,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION R304  MINIMUM ROOM AREAS&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;158&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION R304 SURFACES MINIMALES DES PIÈCES&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 158&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T182443Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION R304 SUPERFICIES MINIMALES DES PIÈCES&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 158&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
