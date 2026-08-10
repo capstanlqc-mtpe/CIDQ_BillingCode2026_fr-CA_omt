@@ -193,30 +193,27 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 1029  EGRESS COURTS&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;119&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 1029  COURS D'ÉVACUATION&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 119&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T155127Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 1029  PASSAGES D’ÉVACUATION&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 119&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 1030  ASSEMBLY&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;119&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 1030  RÉUNION&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 119&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T155152Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 1030  ASSEMBLAGE&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 119&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 1031  EMERGENCY ESCAPE AND RESCUE&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;127&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 1031  ÉVACUATION D'URGENCE ET SAUVETAGE&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 127&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T155550Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 1031  ISSUE DE SECOURS ET D’ÉVACUATION&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 127&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -301,12 +298,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 1103  SCOPING REQUIREMENTS&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt;130&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 1103  EXIGENCES RELATIVES À LA PORTÉE&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 130&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T155633Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;SECTION 1103  EXIGENCES RELATIVES À LA DÉLIMITATION DE LA PORTÉE&lt;e1/&gt;&lt;e3/&gt;&lt;g5&gt;&lt;x6/&gt;&lt;x7/&gt;&lt;x8/&gt;&lt;x9/&gt; 130&lt;x10/&gt;&lt;/g5&gt;&lt;e2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
