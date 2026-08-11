@@ -2977,12 +2977,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A permit shall not be required for the installation, alteration or repair of generation, transmission, distribution or metering or other related equipment that is under the ownership and control of public service agencies by established right.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un permis n'est pas exigé pour l'installation, la modification ou la réparation d'équipement de production, de transport, de distribution ou de comptage ou d'autre équipement connexe qui est la propriété des organismes de services publics et qui est sous leur contrôle en vertu d'un droit établi.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T233832Z">
+        <seg>Aucun permis n’est exigé pour l’installation, la modification ou la réparation d’équipements de production, de transport, de distribution ou de comptage, ou d’autres équipements connexes, qui appartiennent aux organismes de services publics et sont sous leur contrôle en vertu d’un droit établi.</seg>
       </tuv>
     </tu>
     <tu>
