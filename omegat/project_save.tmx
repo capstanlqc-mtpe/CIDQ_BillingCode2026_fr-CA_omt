@@ -4652,12 +4652,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Shade cloth structures constructed for nursery or agricultural purposes, not including service systems.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Structures en toile d'ombrage construites à des fins de pépinière ou agricoles, à l'exclusion des systèmes de service.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T153450Z">
+        <seg>Structures en toile d’ombrage construites à des fins de pépinière ou agricoles, à l’exclusion des systèmes de service.</seg>
       </tuv>
     </tu>
     <tu>
