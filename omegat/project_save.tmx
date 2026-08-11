@@ -4507,39 +4507,35 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Radio and television transmitting stations: The provisions of this code shall not apply to electrical equipment used for radio and television transmissions, but do apply to equipment and wiring for a power supply and the installations of towers and antennas.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Stations émettrices de radio et de télévision : Les dispositions du présent code ne s'appliquent pas à l'équipement électrique utilisé pour les transmissions de radio et de télévision, mais s'appliquent à l'équipement et au câblage pour l'alimentation électrique et à l'installation de tours et d'antennes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T163055Z">
+        <seg>Stations émettrices de radio et de télévision : Les dispositions du présent code ne s’appliquent pas aux équipements électriques utilisés pour les transmissions radio et télévisuelles, mais s’appliquent aux équipements et au câblage destinés à l’alimentation électrique ainsi qu’à l’installation de tours et d’antennes.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Repairs and maintenance: Minor repair work, including the replacement of lamps or the connection of approved portable electrical equipment to approved permanently installed receptacles.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Réparations et entretien : Travaux de réparation mineurs, y compris le remplacement de lampes ou le branchement d'équipement électrique portable approuvé à des prises approuvées installées de façon permanente.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T163019Z">
+        <seg>Réparations et entretien : Travaux de réparation mineurs, y compris le remplacement de lampes ou le branchement d’équipements électriques portatifs approuvés à des prises approuvées installées en permanence.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Replacement of any minor part that does not alter approval of equipment or make such equipment unsafe.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Remplacement de toute pièce mineure qui ne modifie pas l'approbation de l'équipement ou ne rend pas cet équipement dangereux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T163119Z">
+        <seg>Remplacement de toute pièce mineure qui ne modifie pas l'approbation de l'équipement ou n'affecte pas la sécurité de cet équipement.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Replacement of any part that does not alter its approval or make it unsafe.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Remplacement de toute pièce qui ne modifie pas son approbation ou ne la rend pas dangereuse.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T164111Z">
+        <seg>Remplacement de toute pièce qui ne modifie pas son approbation ou n'affecte pas sa sécurité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4790,12 +4786,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Temporary testing systems: A permit shall not be required for the installation of any temporary system required for the testing or servicing of electrical equipment or apparatus.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Systèmes d'essai temporaires : Un permis n'est pas exigé pour l'installation de tout système temporaire requis pour l'essai ou l'entretien d'équipement ou d'appareils électriques.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T163203Z">
+        <seg>Systèmes d’essai temporaires : Aucun permis n’est exigé pour l’installation d’un système temporaire requis pour l’essai ou l’entretien d’équipements ou d’appareils électriques.</seg>
       </tuv>
     </tu>
     <tu>
