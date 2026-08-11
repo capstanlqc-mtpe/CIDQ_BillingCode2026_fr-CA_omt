@@ -3290,12 +3290,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Be accompanied by construction documents and other information as required in Section 107.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Être accompagnée des documents de construction et d'autres informations comme l'exige l'article 107.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T233916Z">
+        <seg>Être accompagnée des documents de construction et des autres renseignements exigés à l’article 107.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3863,12 +3862,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Give such other data and information as required by the building official.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Fournir toutes autres données et informations requises par le responsable de la construction.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T234044Z">
+        <seg>Fournir les autres données et renseignements exigés par le responsable de la construction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3971,21 +3969,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If the application or the construction documents do not conform to the requirements of pertinent laws, the building official shall reject such application in writing, stating the reasons therefor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Si la demande ou les documents de construction ne sont pas conformes aux exigences des lois pertinentes, le responsable de la construction doit rejeter cette demande par écrit, en indiquant les motifs du rejet.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T234114Z">
+        <seg>Si la demande ou les documents de construction ne sont pas conformes aux exigences des lois pertinentes, le responsable de la construction doit rejeter la demande par écrit, en indiquant les motifs de ce rejet.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If the building official is satisfied that the proposed work conforms to the requirements of this code and laws and ordinances applicable thereto, the building official shall issue a permit therefor as soon as practicable.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Si le responsable de la construction est convaincu que l'ouvrage proposé est conforme aux exigences du présent code et aux lois et ordonnances qui s'y appliquent, le responsable de la construction doit délivrer un permis à cet effet dès que possible.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T235924Z">
+        <seg>Si le responsable de la construction est convaincu que les travaux proposés sont conformes aux exigences du présent code ainsi qu’aux lois et ordonnances qui s’y appliquent, il doit délivrer le permis correspondant dès que possible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4722,12 +4718,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>State the valuation of the proposed work.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Indiquer l'évaluation de l'ouvrage proposé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T233926Z">
+        <seg>Indiquer la valeur des travaux proposés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4944,12 +4939,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The building official shall examine or cause to be examined applications for permits and amendments thereto within a reasonable time after filing.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le responsable de la construction doit examiner ou faire examiner les demandes de permis et leurs modifications dans un délai raisonnable après leur dépôt.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T234059Z">
+        <seg>Le responsable de la construction doit examiner ou faire examiner les demandes de permis et leurs modifications dans un délai raisonnable suivant leur dépôt.</seg>
       </tuv>
     </tu>
     <tu>
