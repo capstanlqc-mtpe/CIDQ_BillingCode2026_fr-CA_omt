@@ -5,12 +5,11 @@
   <body>
 <!-- Default translations -->
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>.Window awnings in Group R-3 and U occupancies, supported by an exterior wall that do not project more than 54 inches (1372 mm) from the exterior wall and do not require additional support.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>.Auvents de fenêtre dans les occupations des groupes R-3 et U, soutenus par un mur extérieur, qui ne dépassent pas de plus de 54 po (1 372 mm) du mur extérieur et qui ne nécessitent pas de support supplémentaire.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T153527Z">
+        <seg>.Auvents de fenêtre dans les bâtiments des groupes d’usage R-3 et U, supportés par un mur extérieur, qui ne font pas saillie de plus de 54 po (1 372 mm) par rapport au mur extérieur et qui ne nécessitent pas de support supplémentaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4324,12 +4323,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Nonfixed and movable fixtures, cases, racks, counters and partitions not over 5 feet 9 inches (1753 mm) in height.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Accessoires non fixes et mobiles, boîtiers, étagères, comptoirs et cloisons d'une hauteur maximale de 5 pieds 9 pouces (1753 mm).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T162608Z">
+        <seg>Éléments fixes et mobiles, présentoirs, étagères, comptoirs et cloisons d’une hauteur maximale de 5 pi 9 po (1 753 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4767,12 +4765,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Swings and other playground equipment accessory to detached one- and two-family dwellings.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Balançoires et autres équipements de terrain de jeu accessoires aux habitations individuelles et aux maisons jumelées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T153507Z">
+        <seg>Balançoires et autres équipements de terrain de jeu accessoires aux habitations individuelles et aux habitations bifamiliales détachées.</seg>
       </tuv>
     </tu>
     <tu>
