@@ -3706,12 +3706,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Exemptions from permit requirements of this code shall not be deemed to grant authorization for any work to be done in any manner in violation of the provisions of this code or any other laws or ordinances of this jurisdiction.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les exemptions aux exigences de permis du présent code ne sont pas réputées accorder l'autorisation d'effectuer des travaux de quelque manière que ce soit en violation des dispositions du présent code ou de toute autre loi ou ordonnance de cette juridiction.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T035302Z">
+        <seg>Les exemptions aux exigences en matière de permis du présent code ne sont pas réputées autoriser l’exécution de travaux qui contreviennent de quelque manière que ce soit aux dispositions du présent code ou à toute autre loi ou ordonnance de cette juridiction.</seg>
       </tuv>
     </tu>
     <tu>
