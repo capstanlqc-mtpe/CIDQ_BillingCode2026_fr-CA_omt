@@ -4413,12 +4413,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Painting, papering, tiling, carpeting, cabinets, counter tops and similar finish work.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Peinture, papier peint, carrelage, moquette, armoires, comptoirs et travaux de finition similaires.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T050105Z">
+        <seg>Peinture, pose de papier peint, de carrelage, de moquette, d’armoires, de comptoirs et travaux de finition similaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4493,12 +4492,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Prefabricated swimming pools accessory to a Group R-3 occupancy that are less than 24 inches (610 mm) deep, are not greater than 5,000 gallons (18 925 L) and are installed entirely above ground.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Piscines préfabriquées accessoires à un usage du groupe R-3 d'une profondeur inférieure à 24 po [610 mm], d'une capacité maximale de 5 000 gallons [18 925 L] et installées entièrement au-dessus du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T145815Z">
+        <seg>Piscines préfabriquées accessoires à un usage du groupe R-3, d’une profondeur inférieure à 24 po (610 mm), d’une capacité maximale de 5 000 gallons (18 925 L) et installées entièrement hors sol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4681,12 +4679,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Sidewalks and driveways not more than 30 inches (762 mm) above adjacent grade, and not over any basement or story below and are not part of an accessible route.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les trottoirs et les allées qui ne sont pas à plus de 30 po [762 mm] au-dessus du niveau du sol adjacent, qui ne sont pas au-dessus d'un sous-sol ou d'un étage inférieur et qui ne font pas partie d'un itinéraire accessible.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T050051Z">
+        <seg>Trottoirs et allées qui ne sont pas situés à plus de 30 po (762 mm) au-dessus du niveau du sol adjacent, qui ne sont pas au-dessus d’un sous-sol ou d’un étage inférieur et qui ne font pas partie d’un itinéraire accessible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4789,12 +4786,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Temporary motion picture, television and theater stage sets and scenery.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Décors et paysages temporaires pour le cinéma, la télévision et le théâtre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T050117Z">
+        <seg>Décors et éléments scéniques temporaires pour le cinéma, la télévision et le théâtre.</seg>
       </tuv>
     </tu>
     <tu>
