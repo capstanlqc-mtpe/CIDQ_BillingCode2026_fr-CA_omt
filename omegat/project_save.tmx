@@ -4628,12 +4628,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Self-contained refrigeration system containing 10 pounds (4.54 kg) or less of refrigerant and actuated by motors of 1 horsepower (0.75 kW) or less.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Système de réfrigération autonome contenant 10 livres (4,54 kg) ou moins de réfrigérant et actionné par des moteurs de 1 cheval-vapeur (0,75 kW) ou moins.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T164552Z">
+        <seg>Système de réfrigération autonome contenant 10 livres (4,54 kg) ou moins de fluide frigorigène et actionné par des moteurs d’une puissance maximale de 1 cheval-vapeur (0,75 kW).</seg>
       </tuv>
     </tu>
     <tu>
