@@ -5035,12 +5035,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The clearing of stoppages or the repairing of leaks in pipes, valves or fixtures and the removal and reinstallation of water closets, provided that such repairs do not involve or require the replacement or rearrangement of valves, pipes or fixtures.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le dégagement des obstructions ou la réparation des fuites dans les tuyaux, les robinets ou les appareils sanitaires, ainsi que le retrait et la réinstallation des cabines de toilette, à condition que ces réparations n'impliquent pas ou n'exigent pas le remplacement ou le réaménagement des robinets, des tuyaux ou des appareils sanitaires.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T164730Z">
+        <seg>Le dégagement des obstructions ou la réparation des fuites dans les tuyaux, les robinets ou les appareils sanitaires, ainsi que le retrait et la réinstallation des toilettes, à condition que ces réparations n’impliquent ni n’exigent le remplacement ou le réaménagement des robinets, des tuyaux ou des appareils sanitaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5475,12 +5474,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The stopping of leaks in drains, water, soil, waste or vent pipe, provided, however, that if any concealed trap, drain pipe, water, soil, waste or vent pipe becomes defective and it becomes necessary to remove and replace the same with new material, such work shall be considered as new work and a permit shall be obtained and inspection made as provided in this code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'arrêt des fuites dans les drains, les conduites d'eau, les conduites d'évacuation des eaux usées, les conduites d'évacuation des eaux usées ou les conduites d'évacuation, à condition toutefois que, si un siphon dissimulé, un tuyau de drainage, une conduite d'eau, une conduite d'évacuation des eaux usées, une conduite d'évacuation des eaux usées ou une conduite d'évacuation devient défectueux et qu'il devient nécessaire de le retirer et de le remplacer par du nouveau matériel, ces travaux soient considérés comme de nouveaux travaux et qu'un permis soit obtenu et qu'une inspection soit effectuée conformément au présent code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T164719Z">
+        <seg>L’arrêt des fuites dans les drains, les conduites d’eau, les conduites d’eaux vannes, les conduites d’eaux usées ou les conduites d’évent, à condition toutefois que, si un siphon dissimulé, un tuyau de drainage, une conduite d’eau, une conduite d’eaux vannes, une conduite d’eaux usées ou une conduite d’évent devient défectueux et qu’il est nécessaire de le retirer et de le remplacer par du matériel neuf, ces travaux soient considérés comme de nouveaux travaux et qu’un permis soit obtenu et qu’une inspection soit effectuée conformément au présent code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5744,12 +5742,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Where equipment replacements and repairs must be performed in an emergency situation, the permit application shall be submitted within the next working business day to the building official.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des remplacements et des réparations d'équipement doivent être effectués dans une situation d'urgence, la demande de permis doit être soumise au responsable de la construction au plus tard le jour ouvrable suivant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T222821Z">
+        <seg>Lorsque le remplacement ou la réparation d’équipements doit être effectué en situation d’urgence, la demande de permis doit être présentée au responsable de la construction au plus tard le jour ouvrable suivant.</seg>
       </tuv>
     </tu>
     <tu>
