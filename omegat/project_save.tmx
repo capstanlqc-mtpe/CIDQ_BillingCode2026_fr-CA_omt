@@ -3533,12 +3533,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Describe the land on which the proposed work is to be done by legal description, street address or similar description that will readily identify and definitely locate the proposed building or work.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Décrire le terrain sur lequel les travaux proposés doivent être effectués au moyen d'une description légale, d'une adresse municipale ou d'une description similaire qui permettra d'identifier facilement et de localiser avec certitude le bâtiment ou les travaux proposés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T233904Z">
+        <seg>Décrire le terrain sur lequel les travaux proposés doivent être effectués au moyen d’une description légale, d’une adresse municipale ou d’une description similaire qui permettra d’identifier facilement et de localiser avec précision le bâtiment ou les travaux proposés.</seg>
       </tuv>
     </tu>
     <tu>
