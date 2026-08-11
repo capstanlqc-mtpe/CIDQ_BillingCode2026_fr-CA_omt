@@ -3741,12 +3741,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Fences not over 7 feet (2134 mm) high.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Clôtures ne dépassant pas 7 pi (2134 mm) de hauteur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T035420Z">
+        <seg>Clôtures d’une hauteur maximale de 7 pi (2 134 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4370,12 +4369,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>One-story detached accessory structures used as tool and storage sheds, playhouses and similar uses, provided that the floor area is not greater than 120 square feet (11 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Structures accessoires détachées d'un étage utilisées comme hangars à outils et d'entreposage, maisons de jeu et à des fins similaires, à condition que la surface de plancher ne dépasse pas 120 pi2 [11 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T035408Z">
+        <seg>Structures accessoires détachées d’un seul étage utilisées comme remises à outils et de rangement, maisons de jeu ou à des fins similaires, à condition que leur superficie de plancher ne dépasse pas 120 pi² (11 m²).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4442,12 +4440,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Permits shall not be required for the following:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des permis ne sont pas exigés pour ce qui suit :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T035332Z">
+        <seg>Aucun permis n’est exigé pour ce qui suit :</seg>
       </tuv>
     </tu>
     <tu>
@@ -4613,12 +4610,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Retaining walls that are not over 4 feet (1219 mm) in height measured from the bottom of the footing to the top of the wall, unless supporting a surcharge or impounding Class I, II or IIIA liquids.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Murs de soutènement dont la hauteur n'excède pas 4 pi [1219 mm] mesurée du bas de la semelle au sommet du mur, à moins qu'ils ne supportent une surcharge ou qu'ils ne retiennent des liquides de classe I, II ou IIIA.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T035445Z">
+        <seg>Murs de soutènement d’une hauteur maximale de 4 pi (1 219 mm), mesurée du dessous de la semelle jusqu’au sommet du mur, à moins qu’ils ne supportent une surcharge ou ne retiennent des liquides de classe I, II ou IIIA.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5673,12 +5669,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Water tanks supported directly on grade if the capacity is not greater than 5,000 gallons (18 925 L) and the ratio of height to diameter or width is not greater than 2:1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Réservoirs d'eau soutenus directement au niveau du sol si la capacité n'est pas supérieure à 5 000 gallons (18 925 L) et si le rapport entre la hauteur et le diamètre ou la largeur n'est pas supérieur à 2:1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T050023Z">
+        <seg>Réservoirs d’eau reposant directement sur le sol, si leur capacité ne dépasse pas 5 000 gallons (18 925 L) et si le rapport entre la hauteur et le diamètre ou la largeur ne dépasse pas 2:1.</seg>
       </tuv>
     </tu>
     <tu>
