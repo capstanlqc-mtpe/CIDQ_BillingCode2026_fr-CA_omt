@@ -1730,12 +1730,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;FLOOR AND ROOF DESIGN LOADS&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;CHARGES DE CONCEPTION DU PLANCHER ET DU TOIT&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T025146Z">
+        <seg>&lt;g1&gt;CHARGES DE CALCUL DES PLANCHERS ET DE LA TOITURE&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2121,21 +2120,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;[A] 106.2 Issuance of certificate of occupancy.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[A] 106.2 Délivrance du certificat d'usage.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T025412Z">
+        <seg>&lt;g1&gt;[A] 106.2 Délivrance du certificat d’occupation.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;[A] 106.3 Restrictions on loading.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[A] 106.3 Restrictions sur le chargement.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T025423Z">
+        <seg>&lt;g1&gt;[A] 106.3 Restrictions relatives aux charges.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2859,12 +2856,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A certificate of occupancy required by Section 111 shall not be issued until the floor load signs, required by Section 106.1, have been installed.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un certificat d'usage exigé par l'article 111 ne doit pas être délivré tant que les enseignes de charge au sol, exigées par l'article 106.1, n'ont pas été installées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T025329Z">
+        <seg>Le certificat d’occupation exigé à l’article 111 ne doit pas être délivré tant que les panneaux indiquant les charges des planchers, exigés à l’article 106.1, n’ont pas été installés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4072,12 +4068,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>In commercial or industrial buildings, for each floor or portion thereof designed for live loads exceeding 50 psf (2.40 kN/m2), such design live loads shall be conspicuously posted by the owner or the owner's authorized agent in that part of each story in which they apply, using durable signs.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les bâtiments commerciaux ou industriels, pour chaque étage ou partie d'étage conçu pour des charges utiles supérieures à 50 psf (2,40 kN/m2), ces charges utiles de conception doivent être affichées de manière visible par le propriétaire ou son agent autorisé dans la partie de chaque étage où elles s'appliquent, au moyen d'affiches durables.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T025249Z">
+        <seg>Dans les bâtiments commerciaux ou industriels, pour chaque étage ou partie d’étage conçu pour des charges vives supérieures à 50 lb/pi² (2,40 kN/m²), ces charges vives de calcul doivent être affichées bien en vue par le propriétaire ou son mandataire autorisé dans la partie de chaque étage à laquelle elles s’appliquent, au moyen de panneaux durables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4206,21 +4201,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>It shall be unlawful to place, or cause or permit to be placed, on any floor or roof of a building, structure or portion thereof, a load greater than is permitted by this code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il est illégal de placer, ou de faire placer ou de permettre de placer, sur tout plancher ou toit d'un bâtiment, d'une structure ou d'une partie de ceux-ci, une charge supérieure à celle permise par le présent code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T025451Z">
+        <seg>Il est interdit de placer, de faire placer ou de permettre que soient placées sur un plancher ou une toiture d’un bâtiment, d’une construction ou d’une partie de ceux-ci des charges supérieures à celles permises par le présent code.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>It shall be unlawful to remove or deface such notices.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il est illégal de retirer ou de dégrader ces avis.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T025321Z">
+        <seg>Il est interdit de retirer ou de dégrader ces avis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4731,12 +4724,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Submittal documents consisting of construction documents, statement of special inspections, geotechnical report and other data shall be submitted in two or more sets, or in a digital format where allowed by the building official, with each permit application.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les documents à soumettre, c'est-à-dire les documents de construction, la déclaration d'inspections spéciales, le rapport géotechnique et d'autres données, doivent être soumis en deux exemplaires ou plus, ou en format numérique lorsque le responsable de la construction l'autorise, avec chaque demande de permis.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T025501Z">
+        <seg>Les documents à soumettre, notamment les documents de construction, l’énoncé des inspections spéciales, le rapport géotechnique et les autres données, doivent être soumis en deux exemplaires ou plus, ou dans un format numérique lorsque le responsable de la construction l’autorise, avec chaque demande de permis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4897,12 +4889,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The building official is authorized to suspend or revoke a permit issued under the provisions of this code wherever the permit is issued in error or on the basis of incorrect, inaccurate or incomplete information, or in violation of any ordinance or regulation or any of the provisions of this code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le responsable de la construction est autorisé à suspendre ou à révoquer un permis délivré en vertu des dispositions du présent code lorsque le permis est délivré par erreur ou sur la base d'informations incorrectes, inexactes ou incomplètes, ou en violation de toute ordonnance ou réglementation ou de l'une des dispositions du présent code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T025030Z">
+        <seg>Le responsable de la construction est autorisé à suspendre ou à révoquer un permis délivré en vertu des dispositions du présent code lorsque le permis a été délivré par erreur ou sur la base de renseignements erronés, inexacts ou incomplets, ou en violation de toute ordonnance ou de tout règlement, ou de l’une quelconque des dispositions du présent code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5012,12 +5003,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The building permit or copy shall be kept on the site of the work until the completion of the project.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le permis de construction ou une copie doit être conservé sur le chantier jusqu'à l'achèvement du projet.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T025053Z">
+        <seg>Le permis de construire ou une copie de celui-ci doit être conservé sur le chantier jusqu’à l’achèvement des travaux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5029,12 +5019,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The construction documents shall be prepared by a registered design professional where required by the statutes of the jurisdiction in which the project is to be constructed.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les documents de construction doivent être préparés par un professionnel de conception agréé lorsque les lois de la juridiction dans laquelle le projet doit être construit l'exigent.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T025523Z">
+        <seg>Les documents de construction doivent être préparés par un professionnel de la conception agréé lorsque les lois de la juridiction dans laquelle le projet doit être réalisé l’exigent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5760,12 +5749,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Where special conditions exist, the building official is authorized to require additional construction documents to be prepared by a registered design professional.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>En cas de conditions particulières, le responsable de la construction est autorisé à exiger que des documents de construction supplémentaires soient préparés par un professionnel de la conception agréé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T030240Z">
+        <seg>Lorsque des conditions particulières existent, le responsable de la construction est autorisé à exiger que des documents de construction supplémentaires soient préparés par un professionnel de la conception agréé.</seg>
       </tuv>
     </tu>
     <tu>
