@@ -2068,12 +2068,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;[A] 105.3.2 Time limitation of application.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[A] 105.3.2 Limitation de la durée de la demande.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T235937Z">
+        <seg>&lt;g1&gt;[A] 105.3.2 Délai de validité de la demande.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3102,12 +3101,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>An application for a permit for any proposed work shall be deemed to have been abandoned 180 days after the date of filing, unless such application has been pursued in good faith or a permit has been issued; except that the building official is authorized to grant one or more extensions of time for additional periods not exceeding 90 days each.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une demande de permis pour tout ouvrage proposé est réputée abandonnée 180 jours après la date de dépôt, à moins qu'une telle demande ait été suivie de bonne foi ou qu'un permis ait été délivré; sauf si le responsable de la construction est autorisé à accorder une ou plusieurs prolongations pour des périodes supplémentaires n'excédant pas 90 jours chacune.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T235949Z">
+        <seg>Une demande de permis visant des travaux proposés est réputée abandonnée 180 jours après sa date de dépôt, à moins que la demande n’ait fait l’objet de démarches de bonne foi ou qu’un permis n’ait été délivré; toutefois, le responsable de la construction est autorisé à accorder une ou plusieurs prolongations, pour des périodes supplémentaires ne dépassant pas 90 jours chacune.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5179,12 +5177,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The extension shall be requested in writing and justifiable cause demonstrated.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La demande de prolongation doit être déposée par écrit et faire la preuve d'un motif justifiable.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T024004Z">
+        <seg>La prolongation doit être demandée par écrit et un motif justifiable doit être démontré.</seg>
       </tuv>
     </tu>
     <tu>
