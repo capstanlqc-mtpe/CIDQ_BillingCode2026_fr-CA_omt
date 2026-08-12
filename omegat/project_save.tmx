@@ -3035,12 +3035,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Alcohol and drug centers</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Centres de traitement de l'alcoolisme et de la toxicomanie</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043511Z">
+        <seg>Centres de traitement de l’alcoolisme et de la toxicomanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -3217,12 +3216,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Assisted living facilities</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Établissements de vie assistée</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043600Z">
+        <seg>Établissements de résidence avec services</seg>
       </tuv>
     </tu>
     <tu>
@@ -3288,12 +3286,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Boarding houses (nontransient)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pensions de famille (non temporaires)</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043014Z">
+        <seg>Pensions de famille (permanentes)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3324,12 +3321,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Buildings of Group R-4 shall be classified as one of the occupancy conditions specified in Section 310.5.1 or 310.5.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les bâtiments du Groupe R-4 doivent être classés comme l'une des conditions d'usage spécifiées à la section 310.5.1 ou 310.5.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043449Z">
+        <seg>Les bâtiments du groupe R-4 doivent être classés dans l’une des catégories d’occupation spécifiées aux articles 310.5.1 ou 310.5.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3342,21 +3338,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Care facilities for five or fewer persons receiving care that are within a single-family dwelling are permitted to comply with the International Residential Code provided an automatic sprinkler system is installed in accordance with Section 903.3.1.3 or Section P2904 of the International Residential Code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les établissements de soins pour cinq personnes ou moins recevant des soins qui sont situés dans un logement unifamilial peuvent se conformer à l'International Residential Code, à condition qu'un système d'extincteurs automatiques soit installé selon la section 903.3.1.3 ou la section P2904 de l'International Residential Code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043355Z">
+        <seg>Les établissements de soins destinés à cinq personnes ou moins qui reçoivent des soins et qui sont situés dans une habitation unifamiliale peuvent être conformes à l’International Residential Code, à condition qu’un système de gicleurs automatiques soit installé conformément à l’article 903.3.1.3 ou à l’article P2904 de l’International Residential Code.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Care facilities that provide accommodations for five or fewer persons receiving care</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les établissements de soins qui fournissent un hébergement à cinq personnes ou moins recevant des soins</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043200Z">
+        <seg>Établissements de soins offrant un hébergement à cinq personnes ou moins qui reçoivent des soins</seg>
       </tuv>
     </tu>
     <tu>
@@ -3394,39 +3388,35 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Congregate living facilities (nontransient) with 16 or fewer occupants</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Installations de vie en commun (non temporaires) avec 16 personnes ou moins</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043247Z">
+        <seg>IÉtablissements d’habitation collective (permanents) comptant au plus 16 occupants</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Congregate living facilities (nontransient) with more than 16 occupants</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Établissements d'hébergement collectif (non temporaires) de plus de 16 occupants</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042940Z">
+        <seg>Établissements d’habitation collective (permanents) de plus de 16 occupants</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Congregate living facilities (transient) with 10 or fewer occupants</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Établissements de vie en communauté (de courte durée) avec 10 personnes ou moins</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043258Z">
+        <seg>Établissements d’habitation collective (de courte durée) comptant au plus 10 occupants</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Congregate living facilities (transient) with more than 10 occupants</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Établissements d'hébergement collectif (de courte durée) de plus de 10 occupants</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042847Z">
+        <seg>Établissements d’habitation collective (de courte durée) de plus de 10 occupants</seg>
       </tuv>
     </tu>
     <tu>
@@ -3828,21 +3818,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Group R occupancies not constructed in accordance with the International Residential Code as permitted by Sections 310.4.1 and 310.4.2 shall comply with Section 420.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les usages du Groupe R qui ne sont pas construits conformément à l'International Residential Code tel qu'autorisé par les articles 310.4.1 et 310.4.2 doivent se conformer à la section 420.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042747Z">
+        <seg>Les occupations du groupe R qui ne sont pas construites conformément à l’International Residential Code, comme le permettent les articles 310.4.1 et 310.4.2, doivent être conformes à l’article 420.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Group R-4 occupancies shall meet the requirements for construction as defined for Group R-3, except as otherwise provided for in this code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les usages du groupe R-4 doivent satisfaire aux exigences de construction définies pour le groupe R-3, sauf disposition contraire du présent code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043645Z">
+        <seg>Les occupations du groupe R-4 doivent satisfaire aux exigences de construction définies pour le groupe R-3, sauf disposition contraire du présent code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3873,12 +3861,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Hotels (nontransient)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Hôtels (non transitoires)</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043026Z">
+        <seg>Hôtels (permanents)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4184,12 +4171,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Lodging houses (transient) with five or fewer guest rooms and 10 or fewer occupants</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Maisons d'hébergement (temporaire) avec cinq chambres ou moins et 10 occupants ou moins</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043329Z">
+        <seg>Maisons de chambres (de courte durée) comptant au plus cinq chambres pour les clients et au plus 10 occupants</seg>
       </tuv>
     </tu>
     <tu>
@@ -4228,12 +4214,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Motels (nontransient)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Motels (non transitoires)</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043102Z">
+        <seg>Motels (permanents)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4323,12 +4308,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Owner-occupied lodging houses with five or fewer guest rooms and 10 or fewer total occupants shall be permitted to be constructed in accordance with the International Residential Code, provided that an automatic sprinkler system is installed in accordance with Section 903.3.1.3 or Section P2904 of the International Residential Code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les maisons de chambres occupées par leur propriétaire, comptant cinq chambres ou moins et 10 occupants ou moins au total, peuvent être construites conformément à l'International Residential Code, à condition qu'un système d'extincteurs automatiques soit installé selon la section 903.3.1.3 ou la section P2904 de l'International Residential Code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043421Z">
+        <seg>Les maisons de chambres occupées par leur propriétaire, comptant au plus cinq chambres pour les clients et au plus 10 occupants au total, peuvent être construites conformément à l’International Residential Code, à condition qu’un système de gicleurs automatiques soit installé conformément à l’article 903.3.1.3 ou à l’article P2904 de l’International Residential Code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4483,48 +4467,43 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Residential Group R-1 occupancies containing sleeping units where the occupants are primarily transient in nature, including:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Usages résidentiels du groupe R-1 contenant des unités de couchage où les occupants sont principalement de passage, y compris :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042826Z">
+        <seg>Occupations résidentielles du groupe R-1 contenant des unités de couchage dont les occupants sont principalement de passage, notamment :</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Residential Group R-2 occupancies containing sleeping units or more than two dwelling units where the occupants are primarily permanent in nature, including:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Usages du groupe résidentiel R-2 contenant des unités de couchage ou plus de deux logements où les occupants sont principalement permanents, y compris :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042927Z">
+        <seg>Occupations résidentielles du groupe R-2 contenant des unités de couchage ou plus de deux logements dont les occupants sont principalement permanents, notamment :</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Residential Group R-3 occupancies where the occupants are primarily permanent in nature and not classified as Group R-1, R-2, R-4 or I, including:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Usages résidentiels du groupe R-3 où les occupants sont principalement permanents et non classés dans les groupes R-1, R-2, R-4 ou I, y compris :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043148Z">
+        <seg>Occupations résidentielles du groupe R-3 dont les occupants sont principalement permanents et qui ne sont pas classées dans les groupes R-1, R-2, R-4 ou I, notamment :</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Residential Group R-4 occupancy shall include buildings, structures or portions thereof for more than five but not more than 16 persons, excluding staff, who reside on a 24-hour basis in a supervised residential environment and receive custodial care.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le groupe d'usage Résidentiel, groupe R-4 comprend les bâtiments, les structures ou les parties de ceux-ci pour plus de cinq personnes, mais pas plus de 16 personnes, à l'exclusion du personnel, qui résident 24 heures sur 24 dans un environnement résidentiel supervisé et reçoivent des soins de garde.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043432Z">
+        <seg>Le groupe d’occupation Résidentiel, groupe R-4, comprend les bâtiments, les constructions ou les parties de ceux-ci destinés à plus de cinq personnes, mais à au plus 16 personnes, à l’exclusion du personnel, qui y résident 24 heures sur 24 dans un environnement résidentiel supervisé et reçoivent des soins de garde.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Residential board and care facilities</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Établissements résidentiels de pension et de soins</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043624Z">
+        <seg>Établissements résidentiels d’hébergement et de soins</seg>
       </tuv>
     </tu>
     <tu>
@@ -5444,30 +5423,27 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This group shall include, but not be limited to, the following:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ce groupe doit comprendre, sans s'y limiter, les suivants :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043505Z">
+        <seg>Ce groupe comprend notamment les éléments suivants :</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This occupancy condition shall include buildings in which all persons receiving custodial care, without any assistance, are capable of responding to an emergency situation to complete building evacuation.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Cette condition d'usage comprend les bâtiments dans lesquels toutes les personnes recevant des soins de garde sont capables, sans aucune assistance, de réagir à une situation d'urgence pour effectuer l'évacuation du bâtiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043703Z">
+        <seg>Cette catégorie d’occupation comprend les bâtiments dans lesquels toutes les personnes recevant des soins de garde sont capables, sans aucune assistance, de réagir à une situation d’urgence afin d’évacuer complètement le bâtiment.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This occupancy condition shall include buildings in which there are any persons receiving custodial care who require limited verbal or physical assistance while responding to an emergency situation to complete building evacuation.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Cette condition d'occupation doit inclure les bâtiments dans lesquels se trouvent des personnes recevant des soins de garde qui ont besoin d'une assistance verbale ou physique limitée lorsqu'elles réagissent à une situation d'urgence pour effectuer l'évacuation du bâtiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043721Z">
+        <seg>Cette catégorie d’occupation comprend les bâtiments dans lesquels certaines personnes recevant des soins de garde ont besoin d’une assistance verbale ou physique limitée pour réagir à une situation d’urgence afin d’évacuer complètement le bâtiment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5506,12 +5482,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Vacation timeshare properties</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Propriétés de vacances en temps partagé</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043127Z">
+        <seg>Multipropriétés de vacances</seg>
       </tuv>
     </tu>
     <tu>
