@@ -2683,12 +2683,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 403.4.2 Fire alarm system.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 403.4.2 Système d'alarme incendie.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053022Z">
+        <seg>&lt;g1&gt;[F] 403.4.2 Système d'alarme d'incendie.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2843,12 +2842,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A fire alarm system shall be provided in accordance with Section 907.2.13.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'alarme incendie doit être prévu selon la section 907.2.13.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053128Z">
+        <seg>Un système d'alarme d'incendie doit être prévu selon la section 907.2.13.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2897,12 +2895,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A fire command center complying with Section 911 shall be provided in a location approved by the fire code official.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un centre de commandement d'incendie conforme à la section 911 doit être prévu dans un endroit approuvé par l'agent responsable du code d'incendie.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053300Z">
+        <seg>Un centre de commandement en cas d’incendie conforme à l’article 911 doit être aménagé à un emplacement approuvé par le responsable de la réglementation en matière de prévention des incendies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2915,12 +2912,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A high-rise building shall be equipped with a standpipe system as required by Section 905.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un immeuble de grande hauteur doit être équipé d'un système de colonne montante, comme l'exige l'article 905.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053214Z">
+        <seg>Un bâtiment de grande hauteur doit être équipé d’un système de canalisations d’incendie conformément aux exigences de l’article 905.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2984,12 +2980,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A standby power system complying with Section 2702 and Section 3003 shall be provided for the standby power loads specified in Section 403.4.8.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système électrique de secours conforme à la section 2702 et à la section 3003 doit être prévu pour les charges électriques de secours spécifiées à la section 403.4.8.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053549Z">
+        <seg>Un système d’alimentation électrique de secours conforme aux articles 2702 et 3003 doit être prévu pour les charges d’alimentation électrique de secours spécifiées à l’article 403.4.8.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3035,12 +3030,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>An additional fire pump shall not be required for the secondary water supply unless needed to provide the minimum design intake pressure at the suction side of the fire pump supplying the automatic sprinkler system.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une pompe à incendie supplémentaire n'est pas requise pour l'alimentation en eau secondaire, sauf si elle est nécessaire pour fournir la pression d'admission minimale de conception du côté aspiration de la pompe à incendie alimentant le système d'extincteurs automatiques.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T052910Z">
+        <seg>Une pompe à incendie supplémentaire n’est pas requise pour l’alimentation en eau secondaire, sauf si elle est nécessaire pour fournir la pression d’aspiration minimale de calcul à l’entrée de la pompe à incendie alimentant le système d'extincteurs automatiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3088,12 +3082,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>An automatic secondary on-site water supply having a capacity not less than the hydraulically calculated sprinkler demand, including the hose stream requirement, shall be provided for high-rise buildings assigned to Seismic Design Category C, D, E or F as determined by Section 1613.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une alimentation en eau secondaire automatique sur place d'une capacité au moins égale à la demande des gicleurs calculée hydrauliquement, y compris l'exigence relative au jet de tuyau, doit être prévue pour les immeubles de grande hauteur classés dans les catégories de conception sismique C, D, E ou F, telles que déterminées par la section 1613.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T052928Z">
+        <seg>Une alimentation en eau secondaire automatique sur place, d’une capacité au moins égale à la demande en eau des extincteurs calculée hydrauliquement, y compris le débit requis pour les lances, doit être prévue pour les bâtiments de grande hauteur classés dans les catégories de conception sismique C, D, E ou F, conformément à l’article 1613.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3105,12 +3098,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>An emergency power system complying with Section 2702 shall be provided for the emergency power loads specified in Section 403.4.8.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'alimentation d'urgence conforme à la section 2702 doit être prévu pour les charges d'alimentation d'urgence spécifiées à la section 403.4.8.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053621Z">
+        <seg>Un système d’alimentation électrique d’urgence conforme à l’article 2702 doit être prévu pour les charges d’alimentation électrique d’urgence spécifiées à l’article 403.4.8.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3501,12 +3493,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Each connection and the supply piping between the connection and the pumps shall be sized to supply the flow and pressure required for the pumps to operate.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Chaque raccordement et la tuyauterie d'alimentation entre le raccordement et les pompes doivent être dimensionnés de manière à fournir le débit et la pression nécessaires au fonctionnement des pompes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T052739Z">
+        <seg>Chaque raccordement et la tuyauterie d’alimentation entre le raccordement et les pompes doivent être dimensionnés de manière à fournir le débit et la pression nécessaires au fonctionnement des pompes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3535,12 +3526,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Easily identifiable, manually operable windows or panels shall be distributed around the perimeter of each floor at not more than 50-foot (15 240 mm) intervals.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des fenêtres ou des panneaux facilement identifiables et actionnables manuellement doivent être répartis autour du périmètre de chaque étage à des intervalles ne dépassant pas 50 pi (15 240 mm).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053337Z">
+        <seg>Des fenêtres ou des panneaux facilement identifiables et pouvant être ouverts manuellement doivent être répartis sur le pourtour de chaque étage à des intervalles ne dépassant pas 50 pi (15 240 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3692,12 +3682,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Fire pumps shall be located in rooms protected in accordance with Section 913.2.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les pompes à incendie doivent être situées dans des pièces protégées selon la section 913.2.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053035Z">
+        <seg>Les pompes à incendie doivent être situées dans des locaux protégés conformément à l’article 913.2.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3909,12 +3898,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If the standby or emergency power system includes a generator set inside a building, the system shall be located in a separate room enclosed with 2-hour fire barriers constructed in accordance with Section 707 or horizontal assemblies constructed in accordance with Section 711, or both.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Si le système d'alimentation de secours ou d'urgence comprend un groupe électrogène installé à l'intérieur d'un bâtiment, le système doit être situé dans une pièce séparée, encloisonnée par des barrières coupe-feu de 2 heures construites selon la section 707 ou par des ensembles horizontaux construits selon la section 711, ou les deux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053636Z">
+        <seg>Si le système d’alimentation de secours ou d’urgence comprend un groupe électrogène installé à l’intérieur d’un bâtiment, le système doit être situé dans un local séparé, délimité par des barrières coupe-feu d’un degré de résistance au feu de 2 heures, construites conformément à l’article 707, ou par des ensembles horizontaux construits conformément à l’article 711, ou par les deux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3926,21 +3914,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>In Group I-2, Condition 2, manual start and transfer features for the critical branch of the emergency power are not required to be provided at the fire command center.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans le groupe I-2, condition 2, il n'est pas exigé de prévoir au centre de commandement des incendies des fonctions de démarrage et de transfert manuels pour la branche critique de l'alimentation d'urgence.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053714Z">
+        <seg>Dans le groupe I-2, condition 2, il n’est pas exigé de prévoir au centre de commandement en cas d’incendie des fonctions de démarrage et de transfert manuels pour la branche critique de l’alimentation électrique d’urgence.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>In Group R-1 occupancies, each sleeping unit or suite having an exterior wall shall be permitted to be provided with 2 square feet (0.19 m2) of venting area in lieu of the area specified in Item 1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les usages du groupe R-1, chaque unité de couchage ou suite ayant un mur extérieur peut être dotée d'une surface de ventilation de 2 pi2 [0,19 m2] au lieu de la surface spécifiée au point 1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053436Z">
+        <seg>Dans les occupations du groupe R-1, chaque unité de couchage ou suite comportant un mur extérieur peut être dotée d’une superficie de ventilation de 2 pi² (0,19 m²) au lieu de la superficie spécifiée au point 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4027,12 +4013,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>In-building, two-way emergency responder communication coverage shall be provided in accordance with Section 510 of the International Fire Code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une couverture de communication bidirectionnelle pour les intervenants d'urgence doit être prévue dans le bâtiment selon la section 510 de l'International Fire Code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053226Z">
+        <seg>Une couverture de communication d’urgence bidirectionnelle pour les intervenants d’urgence à l’intérieur du bâtiment doit être assurée conformément à l’article 510 de l’International Fire Code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4168,12 +4153,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Mechanical air-handling equipment providing one exhaust air change every 15 minutes for the area involved.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Équipement mécanique de traitement de l'air assurant un renouvellement de l'air évacué toutes les 15 minutes pour la zone concernée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053502Z">
+        <seg>Équipement mécanique de traitement de l’air assurant un renouvellement de l’air évacué toutes les 15 minutes dans la zone concernée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4487,12 +4471,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Return and exhaust air shall be moved directly to the outside without recirculation to other portions of the building.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'air de retour et l'air d'évacuation doivent être acheminés directement vers l'extérieur sans recirculation vers d'autres parties du bâtiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053535Z">
+        <seg>L’air de reprise et l’air évacué doivent être acheminés directement vers l’extérieur sans recirculation vers d’autres parties du bâtiment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4513,12 +4496,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Separate supply piping shall be provided between each connection to the water main and the pumps.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une tuyauterie d'alimentation séparée doit être prévue entre chaque raccordement à la conduite d'eau principale et les pompes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T052730Z">
+        <seg>Une tuyauterie d’alimentation distincte doit être prévue entre chaque raccordement à la conduite d’eau principale et les pompes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4554,12 +4536,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Smoke detection shall be provided in accordance with Section 907.2.13.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La détection de fumée doit être prévue selon la section 907.2.13.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053102Z">
+        <seg>Un système de détection de fumée doit être installé conformément à l’article 907.2.13.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4640,12 +4621,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>System supervision with manual start and transfer features shall be provided at the fire command center.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une supervision du système avec des fonctions de démarrage et de transfert manuels doit être prévue au centre de commandement des incendies.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053701Z">
+        <seg>Un système de supervision avec des fonctions de démarrage manuel et de transfert doit être installé au centre de commandement en cas d’incendie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4691,12 +4671,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The area of operable windows or panels shall be not less than 40 square feet (3.7 m2) per 50 linear feet (15 240 mm) of perimeter.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La surface des fenêtres ou des panneaux ouvrants ne doit pas être inférieure à 40 pi2 [3,7 m2] par 50 pi linéaires [15 240 mm] de périmètre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053351Z">
+        <seg>La superficie des fenêtres ou des panneaux pouvant être ouverts ne doit pas être inférieure à 40 pi² (3,7 m²) par 50 pi linéaires (15 240 mm) de périmètre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4976,12 +4955,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The detection, alarm and emergency systems of high-rise buildings shall comply with Sections 403.4.1 through 403.4.8.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les systèmes de détection, d'alarme et d'urgence des immeubles de grande hauteur doivent être conformes aux sections 403.4.1 à 403.4.8.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053051Z">
+        <seg>Les systèmes de détection, d’alarme et d’urgence des bâtiments de grande hauteur doivent être conformes aux articles 403.4.1 à 403.4.8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5258,12 +5236,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The secondary water supply shall have a duration of not less than 30 minutes as determined by the occupancy hazard classification in accordance with NFPA 13.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'alimentation en eau secondaire doit avoir une durée d'au moins 30 minutes, telle que déterminée par la classification des risques d'usage conformément à la norme NFPA 13.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053002Z">
+        <seg>L’alimentation en eau secondaire doit avoir une durée d’au moins 30 minutes, déterminée en fonction de la classification des risques liés à l’occupation conformément à la norme NFPA 13.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5408,12 +5385,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>To facilitate smoke removal in post-fire salvage and overhaul operations, buildings and structures shall be equipped with natural or mechanical ventilation for removal of products of combustion in accordance with one of the following:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour faciliter l'évacuation de la fumée lors des opérations de sauvetage et de remise en état après un incendie, les bâtiments et les structures doivent être équipés d'une ventilation naturelle ou mécanique pour l'évacuation des produits de combustion conformément à l'une des dispositions suivantes :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053313Z">
+        <seg>Pour faciliter l’évacuation de la fumée lors des opérations de récupération et de remise en état après un incendie, les bâtiments et les constructions doivent être équipés d’une ventilation naturelle ou mécanique permettant l’évacuation des produits de combustion conformément à l’une des dispositions suivantes :</seg>
       </tuv>
     </tu>
     <tu>
@@ -5426,12 +5402,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Two connections to the same main shall be permitted provided that the main is valved such that an interruption can be isolated so that the water supply will continue without interruption through not fewer than one of the connections.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Deux raccordements à la même conduite principale sont autorisés à condition que la conduite principale soit munie de vannes de sorte qu'une interruption puisse être isolée afin que l'alimentation en eau se poursuive sans interruption par au moins l'un des raccordements.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T052803Z">
+        <seg>Deux raccordements à la même conduite principale sont autorisés à condition que celle-ci soit munie de vannes permettant d’isoler une interruption de manière à ce que l’alimentation en eau puisse se poursuivre sans interruption par au moins l’un des raccordements.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5629,12 +5604,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Windows shall be permitted to be fixed provided that glazing can be cleared by fire fighters.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les fenêtres peuvent être fixes à condition que le vitrage puisse être retiré par les pompiers.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053445Z">
+        <seg>Les fenêtres peuvent être fixes à condition que le vitrage puisse être dégagé par les pompiers.</seg>
       </tuv>
     </tu>
     <tu>
