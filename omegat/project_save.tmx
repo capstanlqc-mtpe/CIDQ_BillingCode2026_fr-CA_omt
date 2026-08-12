@@ -2976,12 +2976,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A permit shall not be valid until the fees prescribed by law have been paid, nor shall an amendment to a permit be released until the additional fee, if any, has been paid.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un permis n'est valide qu'après le paiement des frais prescrits par la loi, et une modification d'un permis n'est délivrée qu'après le paiement des frais supplémentaires, le cas échéant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T034253Z">
+        <seg>Un permis n’est valide qu’après le paiement des frais prescrits par la loi, et aucune modification à un permis ne doit être délivrée tant que les frais supplémentaires, le cas échéant, n’ont pas été payés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3181,12 +3180,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Any person who commences any work before obtaining the necessary permits shall be subject to a fee established by the building official that shall be in addition to the required permit fees.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Toute personne qui commence des travaux avant d'obtenir les permis nécessaires sera assujettie à des frais établis par le responsable de la construction qui s'ajouteront aux frais de permis requis.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T034511Z">
+        <seg>Toute personne qui entreprend des travaux avant d’avoir obtenu les permis nécessaires est assujettie à des frais établis par le responsable de la construction, lesquels s’ajoutent aux frais de permis exigés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3728,12 +3726,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Final building permit valuation shall be set by the building official.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'évaluation finale du permis de construction doit être fixée par le responsable de la construction.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T034445Z">
+        <seg>L’évaluation finale du permis de construction doit être établie par le responsable de la construction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3985,12 +3982,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If, in the opinion of the building official, the valuation is underestimated on the application, the permit shall be denied, unless the applicant can show detailed estimates to meet the approval of the building official.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Si, de l'avis du responsable de la construction, l'évaluation est sous-estimée sur la demande, le permis sera refusé, à moins que le demandeur puisse présenter des estimations détaillées qui satisferont le responsable de la construction.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T034420Z">
+        <seg>Si, de l’avis du responsable de la construction, la valeur indiquée dans la demande est sous-estimée, le permis doit être refusé, à moins que le demandeur puisse présenter des estimations détaillées jugées acceptables par le responsable de la construction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4320,12 +4316,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>One set of approved construction documents shall be retained by the building official for a period of not less than 180 days from date of completion of the permitted work, or as required by state or local laws.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un jeu de documents de construction approuvés doit être conservé par le responsable de la construction pendant une période d'au moins 180 jours à compter de la date d'achèvement des travaux autorisés, ou comme l'exigent les lois de l'État ou les lois locales.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T034208Z">
+        <seg>Un exemplaire des documents de construction approuvés doit être conservé par le responsable de la construction pendant au moins 180 jours à compter de la date d’achèvement des travaux visés par le permis, ou pendant la période prescrite par les lois de l’État ou les lois locales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4390,12 +4385,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Permit valuations shall reflect the total value of work, including materials and labor, for which the permit is being issued, such as electrical, gas, mechanical, plumbing equipment and permanent systems.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les évaluations du permis doivent refléter la valeur totale des travaux, y compris les matériaux et la main-d'œuvre, pour lesquels le permis est délivré, tels que l'équipement électrique, de gaz, mécanique, de plomberie et les systèmes permanents.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T034357Z">
+        <seg>L’évaluation du permis doit refléter la valeur totale des travaux, y compris les matériaux et la main-d’œuvre, pour lesquels le permis est délivré, notamment les équipements électriques, de gaz, mécaniques et de plomberie ainsi que les systèmes permanents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4777,12 +4771,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The applicant for a permit shall provide an estimated permit value at time of application.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le demandeur d'un permis doit fournir une valeur estimée du permis au moment de la demande.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T034343Z">
+        <seg>Le demandeur d’un permis doit fournir une estimation de la valeur des travaux visés par le permis au moment de présenter sa demande.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5303,12 +5296,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The payment of the fee for the construction, alteration, removal or demolition for work done in connection to or concurrently with the work authorized by a building permit shall not relieve the applicant or holder of the permit from the payment of other fees that are prescribed by law.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le paiement des frais de construction, de modification, d'enlèvement ou de démolition pour des travaux effectués en relation avec les travaux autorisés par un permis de construction ou en même temps que ceux-ci ne dispense pas le demandeur ou le titulaire du permis du paiement d'autres frais prescrits par la loi.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T034837Z">
+        <seg>Le paiement des frais liés aux travaux de construction, de modification, d’enlèvement ou de démolition effectués dans le cadre des travaux autorisés par un permis de construire ou concurremment avec ceux-ci ne dispense pas le demandeur ou le titulaire du permis du paiement des autres frais prescrits par la loi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5610,12 +5602,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Where a permit is required, a fee for each permit shall be paid as required, in accordance with the schedule as established by the applicable governing authority.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un permis est exigé, des frais pour chaque permis doivent être payés selon les exigences, conformément au barème établi par l'autorité compétente applicable.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T034330Z">
+        <seg>Lorsqu’un permis est exigé, des frais doivent être payés pour chaque permis, conformément au barème établi par l’autorité compétente concernée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5767,12 +5758,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Work shall be installed in accordance with the approved construction documents, and any changes made during construction that are not in compliance with the approved construction documents shall be resubmitted for approval as an amended set of construction documents.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les travaux doivent être installés conformément aux documents de construction approuvés, et toute modification apportée pendant la construction qui n'est pas conforme aux documents de construction approuvés doit être soumise à nouveau pour approbation sous la forme d'un ensemble modifié de documents de construction.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T034130Z">
+        <seg>Les travaux doivent être exécutés conformément aux documents de construction approuvés, et toute modification apportée pendant les travaux qui n’est pas conforme aux documents de construction approuvés doit être soumise de nouveau pour approbation sous la forme d’un jeu de documents de construction modifiés.</seg>
       </tuv>
     </tu>
     <tu>
