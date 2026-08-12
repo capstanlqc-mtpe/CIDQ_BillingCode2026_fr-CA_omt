@@ -2198,20 +2198,18 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;[A] 107.2.6 Site plan.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[A] 107.2.6 Vue en plan du site.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T031924Z">
+        <seg>&lt;g1&gt;[A] 107.2.6 Plan de situation.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;[A] 107.2.6.1 Design flood elevations.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T032211Z">
         <seg>&lt;g1&gt;[A] 107.2.6.1 Élévations de crue de conception.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
@@ -3453,21 +3451,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Construction documents for all buildings shall describe the exterior wall envelope in sufficient detail to determine compliance with this code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les documents de construction de tous les bâtiments doivent décrire l'enveloppe des murs extérieurs de manière suffisamment détaillée pour déterminer la conformité au présent code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T031741Z">
+        <seg>Les documents de construction de tous les bâtiments doivent décrire l’enveloppe des murs extérieurs avec suffisamment de détails pour permettre de déterminer leur conformité au présent code.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Construction documents for relocatable buildings shall comply with Section 3112.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les documents de construction pour les bâtiments relocalisables doivent se conformer à la section 3112.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T032329Z">
+        <seg>Les documents de construction relatifs aux bâtiments relocalisables doivent être conformes à l’article 3112.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4098,12 +4094,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>In the case of demolition, the site plan shall show construction to be demolished and the location and size of existing structures and construction that are to remain on the site or plot.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans le cas d'une démolition, la vue en plan du site doit montrer la construction à démolir ainsi que l'emplacement et la taille des structures existantes et de la construction qui doivent rester sur le site ou la parcelle.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T032023Z">
+        <seg>Dans le cas d’une démolition, le plan de situation doit indiquer les constructions à démolir ainsi que l’emplacement et les dimensions des structures et constructions existantes qui doivent rester sur le terrain ou la parcelle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4847,12 +4842,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The building official is authorized to issue a permit for the construction of foundations or any other part of a building or structure before the construction documents for the whole building or structure have been submitted, provided that adequate information and detailed statements have been filed complying with pertinent requirements of this code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le responsable de la construction est autorisé à délivrer un permis pour la construction de fondations ou de toute autre partie d'un bâtiment ou d'une structure avant que les documents de construction pour l'ensemble du bâtiment ou de la structure n'aient été soumis, à condition que des informations adéquates et des déclarations détaillées aient été déposées conformément aux exigences pertinentes du présent code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T032613Z">
+        <seg>Le responsable de la construction est autorisé à délivrer un permis pour la construction des fondations ou de toute autre partie d’un bâtiment ou d’une construction avant que les documents de construction relatifs à l’ensemble du bâtiment ou de la construction aient été soumis, à condition que des renseignements suffisants et des énoncés détaillés aient été déposés conformément aux exigences pertinentes du présent code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4890,12 +4884,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The building official is authorized to waive or modify the requirement for a site plan where the application for permit is for alteration or repair or where otherwise warranted.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le responsable de la construction est autorisé à renoncer à l'exigence d'une vue en plan du site ou à la modifier lorsque la demande de permis concerne une modification ou une réparation ou lorsque cela est autrement justifié.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T032043Z">
+        <seg>Le responsable de la construction est autorisé à dispenser de l’exigence d’un plan de situation ou à la modifier lorsque la demande de permis concerne une modification ou une réparation, ou lorsque cela est autrement justifié.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4924,12 +4917,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The building official shall examine or cause to be examined the accompanying submittal documents and shall ascertain by such examinations whether the construction indicated and described is in accordance with the requirements of this code and other pertinent laws or ordinances.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le responsable de la construction doit examiner ou faire examiner les documents de soumission qui l'accompagnent et doit vérifier, par ces examens, si la construction indiquée et décrite est conforme aux exigences du présent code et des autres lois ou ordonnances pertinentes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T032358Z">
+        <seg>Le responsable de la construction doit examiner ou faire examiner les documents à soumettre qui accompagnent la demande et déterminer, au moyen de ces examens, si la construction indiquée et décrite est conforme aux exigences du présent code et aux autres lois ou ordonnances pertinentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5019,12 +5011,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The construction documents shall include manufacturer's installation instructions that provide supporting documentation that the proposed penetration and opening details described in the construction documents maintain the weather resistance of the exterior wall envelope.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les documents de construction doivent inclure les instructions d'installation du fabricant qui fournissent des documents justificatifs indiquant que les détails proposés pour les pénétrations et les ouvertures décrites dans les documents de construction maintiennent la résistance aux intempéries de l'enveloppe des murs extérieurs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T031815Z">
+        <seg>Les documents de construction doivent inclure les instructions d’installation du fabricant ainsi que les documents justificatifs démontrant que les détails proposés pour les pénétrations et les ouvertures, décrits dans les documents de construction, permettent de maintenir la résistance aux intempéries de l’enveloppe des murs extérieurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5037,12 +5028,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The construction documents shall provide details of the exterior wall envelope as required, including flashing, intersections with dissimilar materials, corners, end details, control joints, intersections at roof, eaves or parapets, means of drainage, water-resistive barrier and details around openings.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les documents de construction doivent fournir les détails de l'enveloppe des murs extérieurs, au besoin, y compris le solin, les intersections avec des matériaux différents, les coins, les détails des extrémités, les joints de contrôle, les intersections au niveau du toit, des avant-toits ou des parapets, les moyens de drainage, la barrière résistante à l'eau et les détails autour des ouvertures.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T031757Z">
+        <seg>Les documents de construction doivent fournir les détails requis de l’enveloppe des murs extérieurs, notamment les solins, les raccordements avec des matériaux dissemblables, les angles, les détails d’extrémité, les joints de contrôle, les raccordements au toit, aux avant-toits ou aux parapets, les dispositifs de drainage, la membrane pare-eau et les détails autour des ouvertures.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5063,12 +5053,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The construction documents submitted with the application for permit shall be accompanied by a site plan showing to scale the size and location of new construction and existing structures on the site, distances from lot lines, the established street grades and the proposed finished grades and, as applicable, flood hazard areas, floodways, and design flood elevations; and it shall be drawn in accordance with an accurate boundary line survey.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les documents de construction soumis avec la demande de permis doivent être accompagnés d'une vue en plan du site montrant à l'échelle la taille et l'emplacement de la nouvelle construction et des structures existantes sur le site, les distances par rapport aux limites du lot, les niveaux de la rue établis et les niveaux finis proposés et, selon ce qui s'applique, les zones à risque d'inondation, les canaux de dérivation et les élévations de crue de référence; et elle doit être dessinée conformément à un relevé précis des limites.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T031939Z">
+        <seg>Les documents de construction soumis avec la demande de permis doivent être accompagnés d’un plan de situation indiquant, à l’échelle, les dimensions et l’emplacement des nouvelles constructions et des structures existantes sur le terrain, les distances par rapport aux limites du lot, les niveaux de voirie établis et les niveaux finis projetés et, s’il y a lieu, les zones à risque d’inondation, les voies d’écoulement des crues et les cotes de crue de calcul; le plan doit être établi conformément à un levé précis des limites de propriété.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5233,12 +5222,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The holder of such permit for the foundation or other parts of a building or structure shall proceed at the holder's own risk with the building operation and without assurance that a permit for the entire structure will be granted.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le titulaire d'un tel permis pour la fondation ou d'autres parties d'un bâtiment ou d'une structure doit procéder aux travaux de construction à ses propres risques et sans garantie qu'un permis pour l'ensemble de la structure sera accordé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T033304Z">
+        <seg>Le titulaire d’un tel permis pour les fondations ou toute autre partie d’un bâtiment ou d’une construction doit poursuivre les travaux de construction à ses propres risques et sans garantie qu’un permis pour l’ensemble de la construction sera délivré.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5294,12 +5282,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The other set shall be returned to the applicant, shall be kept at the site of work and shall be open to inspection by the building official or a duly authorized representative.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'autre exemplaire doit être retourné au demandeur, conservé sur le chantier et être disponible pour inspection par le responsable de la construction ou un représentant dûment autorisé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T032535Z">
+        <seg>L’autre exemplaire doit être retourné au demandeur, conservé sur le chantier et mis à la disposition du responsable de la construction ou d’un représentant dûment autorisé aux fins d’inspection.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5445,12 +5432,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The supporting documentation shall fully describe the exterior wall system that was tested, where applicable, as well as the test procedure used.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La documentation à l'appui doit décrire en détail le système de murs extérieurs qui a été testé, le cas échéant, ainsi que la procédure d'essai utilisée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T031844Z">
+        <seg>Les documents justificatifs doivent décrire en détail le système de murs extérieurs qui a fait l’objet de l’essai, le cas échéant, ainsi que la procédure d’essai utilisée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5517,12 +5503,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This code shall not require changes in the construction documents, construction or designated occupancy of a structure for which a lawful permit has been heretofore issued or otherwise lawfully authorized, and the construction of which has been pursued in good faith within 180 days after the effective date of this code and has not been abandoned.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le présent code n'exige pas de modifications des documents de construction, de la construction ou de l'occupation désignée d'une structure pour laquelle un permis légal a été délivré jusqu'à présent ou autrement légalement autorisé, et dont la construction a été poursuivie de bonne foi dans les 180 jours suivant la date d'entrée en vigueur du présent code et n'a pas été abandonnée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T032601Z">
+        <seg>Le présent code n’exige aucune modification des documents de construction, de la construction ou de l’usage désigné d’une construction pour laquelle un permis légal a été délivré antérieurement ou qui a autrement été autorisée légalement, et dont la construction a été poursuivie de bonne foi dans les 180 jours suivant la date d’entrée en vigueur du présent code et n’a pas été abandonnée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5624,12 +5609,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>When the building official issues a permit, the construction documents shall be approved, in writing or by stamp, as “Reviewed for Code Compliance.”</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque le responsable de la construction délivre un permis, les documents de construction doivent être approuvés, par écrit ou par cachet, comme « Examinés pour la conformité au code ».</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T032455Z">
+        <seg>Lorsque le responsable de la construction délivre un permis, les documents de construction doivent être approuvés, par écrit ou au moyen d’un cachet, avec la mention « Examinés pour conformité au code ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -5678,21 +5662,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Where balconies or other elevated walking surfaces have weather-exposed surfaces, and the structural framing is protected by an impervious moisture barrier, the construction documents shall include details for all elements of the impervious moisture barrier system.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les balcons ou d'autres surfaces de circulation surélevées ont des surfaces exposées aux intempéries et que l'ossature de la structure est protégée par une barrière imperméable à l'humidité, les documents de construction doivent inclure les détails de tous les éléments du système de barrière imperméable à l'humidité.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T031912Z">
+        <seg>Lorsque les balcons ou autres surfaces de circulation surélevées comportent des surfaces exposées aux intempéries et que l’ossature structurale est protégée par une membrane pare-humidité imperméable, les documents de construction doivent inclure les détails de tous les éléments du système de membrane pare-humidité imperméable.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Where design flood elevations are not specified, they shall be established in accordance with Section 1612.3.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les élévations de crue de calcul ne sont pas spécifiées, elles doivent être établies selon la section 1612.3.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T032302Z">
+        <seg>Lorsque les élévationslévations de crue de calcul ne sont pas précisées, elles doivent être établies conformément à l’article 1612.3.1.</seg>
       </tuv>
     </tu>
     <tu>
