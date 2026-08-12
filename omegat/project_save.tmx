@@ -13,93 +13,83 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Airport traffic control towers in accordance with Section 412.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1. Tours de contrôle du trafic&lt;x1/&gt; aéroportuaire selon la section 412.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043913Z">
+        <seg>1. Tours de contrôle de la circulation&lt;x1/&gt; aérienne conformément à l’article 412.2.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;In other than Group F-1, H-2, H-3, H-5, M and S-1 occupancies, the fire-resistance rating of the building elements in Type IB construction shall be permitted to be reduced to the fire-resistance ratings in Type IIA.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Dans les usages autres que ceux des groupes F-1, H-2, H-3, H-5, M et S-1, le degré de résistance au feu des éléments de construction dans une construction de type IB peut être réduit aux degrés de résistance au feu du type IIA.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T044444Z">
+        <seg>2.&lt;x1/&gt; Dans les occupations autres que celles des groupes F-1, H-2, H-3, H-5, M et S-1, le degré de résistance au feu des éléments du bâtiment de construction de type IB peut être réduit aux degrés de résistance au feu applicables au type IIA.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Open parking garages in accordance with Section 406.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2. Parcs de stationnement&lt;x1/&gt; ouverts selon la section 406.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043941Z">
+        <seg>2. Garages de stationnement&lt;x1/&gt; ouverts conformément à l’article 406.5.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;The building height and building area limitations of a building containing building elements with reduced fire-resistance ratings shall be permitted to be the same as the building without such reductions.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Les limites de hauteur et de superficie d'un bâtiment contenant des éléments de bâtiment ayant un degré de résistance au feu réduit peuvent être les mêmes que celles d'un bâtiment sans ces réductions.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T045517Z">
+        <seg>3.&lt;x1/&gt; Les limites de hauteur et de superficie du bâtiment contenant des éléments du bâtiment dont le degré de résistance au feu a été réduit peuvent être les mêmes que celles d’un bâtiment sans ces réductions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;The portion of a building containing a Group A-5 occupancy in accordance with Section 303.6.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; La partie d'un bâtiment contenant un usage du groupe A-5 selon la section 303.6.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043954Z">
+        <seg>3.&lt;x1/&gt; La partie d’un bâtiment abritant une occupation du groupe A-5 conformément à l’article 303.6.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>4.&lt;x1/&gt;Special industrial occupancies in accordance with Section 503.1.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>4. Usages industriels&lt;x1/&gt; spéciaux selon la section 503.1.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T044027Z">
+        <seg>4. Occupations industrielles &lt;x1/&gt; spéciales conformément à l’article 503.1.1.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>5.1.&lt;x1/&gt;&lt;x2/&gt;A Group H-1 occupancy.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>5.1.&lt;x1/&gt;&lt;x2/&gt; Un usage du Groupe H-1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T044051Z">
+        <seg>5.1.&lt;x1/&gt;&lt;x2/&gt; Une occupation du groupe H-1.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>5.2.&lt;x1/&gt;A Group H-2 occupancy in accordance with Section 415.8, 415.9.2, 415.9.3 or 426.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>5.2.&lt;x1/&gt; Un usage du groupe H-2 selon la section 415.8, 415.9.2, 415.9.3 ou 426.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T044103Z">
+        <seg>5.2.&lt;x1/&gt; Une occupation du groupe H-2 conformément à l’article 415.8, 415.9.2, 415.9.3 ou 426.1.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>5.3.&lt;x1/&gt;&lt;x2/&gt;A Group H-3 occupancy in accordance with Section 415.8.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>5.3.&lt;x1/&gt;&lt;x2/&gt; Un usage du groupe H-3 selon la section 415.8.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T044125Z">
+        <seg>5.3.&lt;x1/&gt;&lt;x2/&gt; Une occupation du groupe H-3 conformément à l’article 415.8.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>5.&lt;x1/&gt;Buildings containing any one of the following:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>5.&lt;x1/&gt; Bâtiments contenant l'un des éléments suivants :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T044040Z">
+        <seg>5.&lt;x1/&gt; Bâtiments contenant l’une des occupations suivantes :</seg>
       </tuv>
     </tu>
     <tu>
@@ -1231,12 +1221,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;403.2.1 Reduction in fire-resistance rating.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;403.2.1 Réduction du degré de résistance au feu.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T044223Z">
+        <seg>&lt;g1&gt;403.2.1 Réduction du degré de la résistance au feu.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1956,12 +1945,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;SPECIAL DETAILED REQUIREMENTS BASED ON OCCUPANCY AND USE&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;EXIGENCES DÉTAILLÉES SPÉCIALES BASÉES SUR L'USAGE ET L'UTILISATION&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043751Z">
+        <seg>&lt;g1&gt;EXIGENCES DÉTAILLÉES SPÉCIALES BASÉES SUR L'OCCUPATION ET L'UTILISATION&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3731,12 +3719,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>For buildings not greater than 420 feet (128 m) in building height, the fire-resistance rating of the building elements in Type IA construction shall be permitted to be reduced to the minimum fire-resistance ratings for the building elements in Type IB.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les bâtiments dont la hauteur n'excède pas 420 pieds [128 m], le degré de résistance au feu des éléments de construction dans une construction de type IA peut être réduit aux degrés minimaux de résistance au feu des éléments de construction de type IB.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T044420Z">
+        <seg>Pour les bâtiments dont la hauteur ne dépasse pas 420 pieds (128 m), le degré de résistance au feu des éléments du bâtiment de construction de type IA peut être réduit aux degrés de résistance au feu minimaux applicables aux éléments du bâtiment de construction de type IB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3852,12 +3839,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>High-rise buildings shall comply with Sections 403.2 through 403.6.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les immeubles de grande hauteur doivent se conformer aux sections 403.2 à 403.6.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043808Z">
+        <seg>Les bâtiments de grande hauteur doivent être conformes aux articles 403.2 à 403.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4982,12 +4968,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The construction of high-rise buildings shall comply with the provisions of Sections 403.2.1 through 403.2.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La construction de bâtiments de grande hauteur doit se conformer aux dispositions des articles 403.2.1 à 403.2.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T044142Z">
+        <seg>La construction des bâtiments de grande hauteur doit être conforme aux dispositions des articles 403.2.1 à 403.2.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5077,12 +5062,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The fire-resistance rating reductions specified in Sections 403.2.1.1 and 403.2.1.2 shall be allowed in buildings that have sprinkler control valves equipped with supervisory initiating devices and water-flow initiating devices for each floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les réductions du degré de résistance au feu spécifiées aux articles 403.2.1.1 et 403.2.1.2 sont autorisées dans les bâtiments dotés de vannes de commande de gicleurs équipées de dispositifs de déclenchement de surveillance et de dispositifs de déclenchement par débit d'eau pour chaque étage.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T044335Z">
+        <seg>Les réductions du degré de résistance au feu spécifiées aux articles 403.2.1.1 et 403.2.1.2 sont autorisées dans les bâtiments dont les vannes de commande des systèmes de gicleurs sont équipées de dispositifs de déclenchement de supervision et de dispositifs de déclenchement de débit d’eau pour chaque étage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5113,12 +5097,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The following reductions in the minimum fire-resistance rating of the building elements in TABLE 601 shall be permitted as follows:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les réductions suivantes du degré de résistance au feu minimal des éléments de bâtiment du TABLEAU 601 sont autorisées comme suit :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T044347Z">
+        <seg>Les réductions suivantes du degré de résistance au feu minimal des éléments du bâtiment du TABLEAU 601 sont autorisées comme suit :</seg>
       </tuv>
     </tu>
     <tu>
@@ -5251,12 +5234,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The provisions of Sections 403.2 through 403.6 shall not apply to the following buildings and structures:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les dispositions des articles 403.2 à 403.6 ne s'appliquent pas aux bâtiments et structures suivants :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T043840Z">
+        <seg>Les dispositions des articles 403.2 à 403.6 ne s’appliquent pas aux bâtiments et constructions suivants :</seg>
       </tuv>
     </tu>
     <tu>
