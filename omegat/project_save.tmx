@@ -3472,12 +3472,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Construction documents shall be dimensioned and drawn on suitable material.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les documents de construction doivent être dimensionnés et dessinés sur un matériau approprié.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T030728Z">
+        <seg>Les documents de construction doivent être cotés et tracés sur un support approprié.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4906,12 +4905,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The building official is authorized to waive the submission of construction documents and other data not required to be prepared by a registered design professional if it is found that the nature of the work applied for is such that review of construction documents is not necessary to obtain compliance with this code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le responsable de la construction est autorisé à renoncer à la présentation des documents de construction et d'autres données qui ne doivent pas être préparées par un professionnel de la conception enregistré s'il est constaté que la nature de l'ouvrage faisant l'objet de la demande est telle que l'examen des documents de construction n'est pas nécessaire pour obtenir la conformité au présent code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T030247Z">
+        <seg>Le responsable de la construction est autorisé à dispenser de la soumission des documents de construction et des autres données qui ne sont pas obligatoirement préparés par un professionnel de la conception agréé, s’il est établi que la nature des travaux faisant l’objet de la demande est telle que l’examen des documents de construction n’est pas nécessaire pour assurer la conformité au présent code.</seg>
       </tuv>
     </tu>
     <tu>
