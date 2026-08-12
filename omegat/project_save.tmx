@@ -1350,21 +1350,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;404.10 Exit stairways in an atrium.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;404.10 Escaliers d'issue dans un ATRIUM.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055930Z">
+        <seg>&lt;g1&gt;404.10 Escaliers d'issue dans un atrium.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;404.11 Interior exit stairway discharge.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;404.11 Issue d'évacuation d'un escalier d'issue intérieur.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T060108Z">
+        <seg>&lt;g1&gt;404.11 Issue d’évacuation des escaliers d’issue intérieurs.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1404,12 +1402,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;404.9 Exit access travel distance.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;404.9 Distance de parcours.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055856Z">
+        <seg>&lt;g1&gt;404.9 Distance de parcours jusqu’à l’issue.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1553,12 +1550,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;Please be reminded that images, other than tables, are not included in this code document.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;Veuillez prendre note que les figures et illustrations, autres que les tableaux, ne sont pas reproduites dans ce document.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T060236Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;Veuillez noter que les images, à l’exception des tableaux, ne sont pas reproduites dans le présent document.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1596,21 +1592,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;Building Codes and Regulations - Residential Case study – Old Mill District&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;Codes et règlements du bâtiment - Étude de cas résidentiel – Old Mill District&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T060318Z">
+        <seg>&lt;g1&gt;Codes et règlements du bâtiment – Étude de cas résidentielle – Old Mill District&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;Building Codes and Regulations&lt;x2/&gt;&lt;x3/&gt; Latest Revision Date May 2025&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;Codes et règlements du bâtiment&lt;x2/&gt;&lt;x3/&gt; Dernière révision : mai 2025&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T060153Z">
+        <seg>&lt;g1&gt;Codes et règlements du bâtiment&lt;x2/&gt;&lt;x3/&gt; Date de la dernière révision : mai 2025&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1785,8 +1779,8 @@
       <tuv lang="en">
         <seg>&lt;g1&gt;Please be reminded that images, other than tables, are not included in this code   document.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T044640Z">
-        <seg>ASD&lt;g1&gt;Veuillez prendre note que les figures et les illustrations, autres que les tableaux, ne sont pas reproduites dans ce document.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T060343Z">
+        <seg>ASD&lt;g1&gt;Veuillez noter que les images, à l’exception des tableaux, ne sont pas incluses dans le présent document du code.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2908,21 +2902,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A horizontal assembly is not required between the atrium and openings for escalators complying with Section 712.1.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une séparation horizontale n'est pas exigée entre l'atrium et les ouvertures pour les escaliers mécaniques conformes à l'article 712.1.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055757Z">
+        <seg>Un ensemble horizontal n’est pas exigé entre l’atrium et les ouvertures pour les escaliers mécaniques conformes à l’article 712.1.3.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A horizontal assembly is not required between the atrium and openings for exit access stairways and ramps complying with Item 4 of Section 1019.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un assemblage horizontal n'est pas requis entre l'ATRIUM et les ouvertures pour les escaliers et les rampes d'accès à l'issue conformes au point 4 de l'article 1019.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055825Z">
+        <seg>Un ensemble horizontal n’est pas exigé entre l’atrium et les ouvertures pour les escaliers et les rampes d’accès à l’issue conformes au point 4 de l’article 1019.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3446,12 +3438,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Discharge of interior exit stairways through an atrium shall be in accordance with Section 1028.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le débouché des escaliers intérieurs d'évacuation dans un atrium doit être conforme à la section 1028.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T060140Z">
+        <seg>L’issue d’évacuation des escaliers d’issue intérieurs à travers un atrium doit être conforme à l’article 1028.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3606,21 +3597,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Exit access travel distance for areas open to an atrium shall comply with the requirements of Section 1017.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La distance de parcours pour les zones ouvertes sur un atrium doit être conforme aux exigences de l'article 1017.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055907Z">
+        <seg>La distance de parcours jusqu’à l’issue pour les zones ouvertes sur un atrium doit être conforme aux exigences de l’article 1017.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Exit access travel distance shall be measured to the closest riser of the exit stairway.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La distance de parcours de l'accès à l'issue doit être mesurée jusqu'à la contremarche la plus proche de l'escalier d'issue.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T060038Z">
+        <seg>La distance de parcours de l’accès à l’issue doit être mesurée jusqu’à la contremarche la plus proche de l’escalier d’issue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4171,12 +4160,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Not more than 50 percent of the exit stairways shall be located in the same atrium.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Au plus 50 pour cent des escaliers de sortie doivent être situés dans le même ATRIUM.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T060102Z">
+        <seg>Au plus 50 % des escaliers d’issue doivent être situés dans le même atrium.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4923,12 +4911,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The distance between the entry to an exit stairway in an atrium and the entrance to a minimum of one exit stairway enclosed in accordance with Section 1023.2 shall comply with the separation required by Section 1007.1.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La distance entre l'entrée d'un escalier d'issue dans un atrium et l'entrée d'au moins un escalier d'issue encloisonné selon la section 1023.2 doit être conforme à la séparation exigée par l'article 1007.1.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T060024Z">
+        <seg>La distance entre l’entrée d’un escalier d’issue dans un atrium et l’entrée d’au moins un escalier d’issue encloisonné conformément à l’article 1023.2 doit être conforme à la distance de séparation exigée par l’article 1007.1.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4949,21 +4936,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The entry of the exit stairway shall have access from a minimum of two directions.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'entrée de l'escalier d'issue doit être accessible depuis au moins deux directions.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T060004Z">
+        <seg>L’entrée de l’escalier d’issue doit être accessible depuis au moins deux directions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The entry to the exit stairway is the edge of the closest riser of the exit stairway.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'entrée de l'escalier d'issue est le bord de la contremarche la plus proche de l'escalier d'issue.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055953Z">
+        <seg>L’entrée de l’escalier d’issue correspond au bord de la contremarche la plus proche de l’escalier d’issue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5050,12 +5035,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The interior finish of walls and ceilings of the atrium shall be not less than Class B. Sprinkler protection shall not result in a reduction in class.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La finition intérieure des murs et des plafonds de l'ATRIUM ne doit pas être inférieure à la Classe B. La protection par gicleurs ne doit pas entraîner de réduction de classe.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055845Z">
+        <seg>La finition intérieure des murs et des plafonds de l’atrium doit être au moins de classe B. La protection par gicleurs ne doit pas entraîner une réduction de la classe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5419,12 +5403,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Where an atrium contains an interior exit stairway all the following shall be met:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un atrium contient un escalier d'issue intérieur, toutes les conditions suivantes doivent être remplies :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055942Z">
+        <seg>Lorsqu’un atrium contient un escalier d’issue intérieur, toutes les conditions suivantes doivent être respectées :</seg>
       </tuv>
     </tu>
     <tu>
