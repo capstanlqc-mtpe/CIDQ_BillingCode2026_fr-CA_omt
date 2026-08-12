@@ -3727,12 +3727,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>For buildings not greater than 420 feet (128 m) in building height, the required fire-resistance rating of the fire barriers enclosing vertical shafts, other than interior exit stairway and elevator hoistway enclosures, is permitted to be reduced to 1 hour where automatic sprinklers are installed within the shafts at the top and at alternate floor levels.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les bâtiments dont la hauteur ne dépasse pas 420 pi (128 m), le degré de résistance au feu requis des barrières coupe-feu entourant les puits verticaux, autres que les cages d'escaliers d'issue intérieurs et les cages d'ascenseurs, peut être réduit à 1 heure lorsque des gicleurs automatiques sont installés dans les puits au sommet et à des niveaux de sol alternés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T050805Z">
+        <seg>Pour les bâtiments dont la hauteur ne dépasse pas 420 pieds (128 m), le degré de résistance au feu requis des barrières coupe-feu qui entourent les puits verticaux, à l’exception des cages d’escaliers d’issue intérieurs et des gaines d’ascenseur, peut être réduit à 1 heure lorsque des gicleurs automatiques sont installés à l’intérieur des puits, au sommet de ceux-ci et à des niveaux d’étage alternés.</seg>
       </tuv>
     </tu>
     <tu>
