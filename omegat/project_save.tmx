@@ -3673,12 +3673,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Every permit issued shall become invalid unless the work on the site authorized by such permit is commenced within 180 days after its issuance, or if the work authorized on the site by such permit is suspended or abandoned for a period of 180 days after the time the work is commenced.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Tout permis délivré devient invalide à moins que les travaux sur le site autorisés par ce permis ne soient commencés dans les 180 jours suivant sa délivrance, ou si les travaux autorisés sur le site par ce permis sont suspendus ou abandonnés pendant une période de 180 jours après le début des travaux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T024132Z">
+        <seg>Tout permis délivré devient invalide si les travaux sur le chantier autorisés par ce permis ne sont pas commencés dans les 180 jours suivant sa délivrance ou si les travaux autorisés par ce permis sur le chantier sont suspendus ou abandonnés pendant une période de 180 jours après leur commencement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4420,12 +4419,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Permits presuming to give authority to violate or cancel the provisions of this code or other ordinances of the jurisdiction shall not be valid.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les permis qui prétendent donner le pouvoir de violer ou d'annuler les dispositions du présent code ou d'autres ordonnances de la juridiction ne sont pas valides.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T024028Z">
+        <seg>Les permis qui prétendent autoriser la violation ou l’annulation des dispositions du présent code ou d’autres ordonnances de la juridiction ne sont pas valides.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4856,12 +4854,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The building official is authorized to grant, in writing, one or more extensions of time, for periods not more than 180 days each.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le responsable de la construction est autorisé à accorder, par écrit, une ou plusieurs prolongations pour des périodes n'excédant pas 180 jours chacune.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T024943Z">
+        <seg>Le responsable de la construction est autorisé à accorder, par écrit, une ou plusieurs prolongations, pour des périodes ne dépassant pas 180 jours chacune.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4883,12 +4880,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The building official is authorized to prevent occupancy or use of a structure where in violation of this code or of any other ordinances of this jurisdiction.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le responsable de la construction est autorisé à empêcher l'occupation ou l'utilisation d'une structure en cas de violation du présent code ou de toute autre ordonnance de cette juridiction.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T024055Z">
+        <seg>Le responsable de la construction est autorisé à empêcher l’occupation ou l’utilisation d’une construction lorsqu’elle contrevient au présent code ou à toute autre ordonnance de la juridiction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5275,21 +5271,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The issuance of a permit based on construction documents and other data shall not prevent the building official from requiring the correction of errors in the construction documents and other data.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La délivrance d'un permis sur la base de documents de construction et d'autres données n'empêche pas le responsable de la construction d'exiger la correction d'erreurs dans les documents de construction et d'autres données.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T024040Z">
+        <seg>La délivrance d’un permis fondé sur des documents de construction et d’autres données n’empêche pas le responsable de la construction d’exiger la correction des erreurs relevées dans les documents de construction et autres données.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The issuance or granting of a permit shall not be construed to be a permit for, or an approval of, any violation of any of the provisions of this code or of any other ordinance of the jurisdiction.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La délivrance ou l'octroi d'un permis ne doit pas être interprété comme un permis ou une approbation de toute violation de l'une des dispositions du présent code ou de toute autre ordonnance de la juridiction.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T024016Z">
+        <seg>La délivrance ou l’octroi d’un permis ne doit pas être interprété comme autorisant ou approuvant une violation de l’une quelconque des dispositions du présent code ou de toute autre ordonnance de la juridiction.</seg>
       </tuv>
     </tu>
     <tu>
