@@ -1747,12 +1747,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;Gypsum board and gypsum panel products that are not part of a fire-resistance-rated assembly or a shear assembly.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;Les produits en plaques de plâtre et en panneaux de plâtre qui ne font pas partie d'un ensemble résistant au feu ou d'un ensemble de cisaillement.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T040326Z">
+        <seg>&lt;g1&gt;Produits en plaques de plâtre et en panneaux de gypse qui ne font pas partie d’un ensemble avec résistance au feu ni d’un ensemble de cisaillement.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2419,12 +2418,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;[A] 110.3.3 Lowest floor elevation.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[A] 110.3.3 Élévations du plancher le plus bas.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T035917Z">
+        <seg>&lt;g1&gt;[A] 110.3.3 Élévation du plancher le plus bas.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2437,21 +2435,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;[A] 110.3.6 Lath, gypsum board and gypsum panel product inspection.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[A] 110.3.6 Inspection des lattes, des panneaux de gypse et des panneaux de plâtre.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T040204Z">
+        <seg>&lt;g1&gt;[A] 110.3.6 Inspection des lattis, des panneaux de gypse et des produits en panneaux de gypse.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;[A] 110.3.7 Weather-exposed balcony and walking surface waterproofing.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[A] 110.3.7 Imperméabilisation des balcons et des surfaces piétonnières exposés aux intempéries.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T040259Z">
+        <seg>&lt;g1&gt;[A] 110.3.7 Imperméabilisation des balcons et des surfaces de circulation exposés aux intempéries.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3809,12 +3805,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Framing inspections shall be made after the roof deck or sheathing, all framing, fire-blocking and bracing are in place and pipes, chimneys and vents to be concealed are complete and the rough electrical, plumbing, heating wires, pipes and ducts are approved.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les inspections de la charpente doivent être effectuées après la mise en place du platelage ou du revêtement du toit, de toute la charpente, des pare-feu et des contreventements, et après l'achèvement des tuyaux, des cheminées et des évents à dissimuler, et après l'approbation de l'électricité brute, de la plomberie, des fils de chauffage, des tuyaux et des conduits.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T040043Z">
+        <seg>Les inspections de l’ossature doivent être effectuées après la mise en place de la couverture ou du revêtement de toiture, de toute l’ossature, des dispositifs coupe-feu et des contreventements, et après l’achèvement des tuyaux, cheminées et conduits d’évacuation devant être dissimulés, ainsi qu’après l’approbation des câbles, tuyaux et conduits bruts des installations électriques, de plomberie et de chauffage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4002,12 +3997,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>In addition to the inspections specified in Sections 110.3.1 through 110.3.9, the building official is authorized to make or require other inspections of any construction work to ascertain compliance with the provisions of this code and other laws that are enforced by the department of building safety.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>En plus des inspections spécifiées aux articles 110.3.1 à 110.3.9, le responsable de la construction est autorisé à effectuer ou à exiger d'autres inspections de tout ouvrage de construction pour vérifier la conformité aux dispositions du présent code et à d'autres lois appliquées par le service de la sécurité des bâtiments.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T040651Z">
+        <seg>En plus des inspections prévues aux articles 110.3.1 à 110.3.9, le responsable de la construction est autorisé à effectuer ou à exiger d’autres inspections de tous travaux de construction afin de vérifier leur conformité aux dispositions du présent code et aux autres lois appliquées par le service de la sécurité des bâtiments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4020,12 +4014,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>In buildings of Types IV-A, IV-B and IV-C construction, where connection fire-resistance ratings are provided by wood cover calculated to meet the requirements of Section 2304.10.1, inspection of the wood cover shall be made after the cover is installed, but before any other coverings or finishes are installed.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les bâtiments de types IV-A, IV-B et IV-C, lorsque les degrés de résistance au feu des raccordements sont assurés par un revêtement en bois calculé pour satisfaire aux exigences de l'article 2304.10.1, l'inspection du revêtement en bois doit être effectuée après l'installation du revêtement, mais avant l'installation de tout autre revêtement ou finition.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T040109Z">
+        <seg>Dans les bâtiments de construction de types IV-A, IV-B et IV-C, lorsque la résistance au feu des connexions est assurée par un revêtement en bois calculé pour satisfaire aux exigences de l’article 2304.10.1, une inspection du revêtement en bois doit être effectuée après son installation, mais avant l’installation de tout autre revêtement ou fini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4055,12 +4048,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>In flood hazard areas, upon placement of the lowest floor, including the basement, and prior to further vertical construction, the elevation certification required in Section 1612.4 or the International Residential Code, as applicable, shall be submitted to the building official.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les zones à risque d'inondation, lors de la mise en place du plancher le plus bas, y compris le sous-sol, et avant la poursuite de la construction verticale, la certification des élévations exigée à l'article 1612.4 ou dans l'International Residential Code, selon ce qui s'applique, doit être soumise au responsable de la construction.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T035923Z">
+        <seg>Dans les zones à risque d’inondation, une fois le plancher le plus bas, y compris le sous-sol, mis en place et avant la poursuite de la construction verticale, la certification de l’élévation exigée à l’article 1612.4 ou par l’International Residential Code, selon le cas, doit être soumise au responsable de la construction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4115,12 +4107,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Inspections shall be made to determine compliance with Chapter 13 and shall include, but not be limited to, inspections for: envelope insulation R- and U-values, fenestration U-value, duct system R-value, and HVAC and water-heating equipment efficiency.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des inspections doivent être effectuées pour déterminer la conformité au chapitre 13 et doivent inclure, sans s'y limiter, des inspections pour : les valeurs R et U de l'isolation de l'enveloppe, la valeur U de la fenestration, la valeur R du système de conduits et l'efficacité de l'équipement de CVC et de chauffage de l'eau.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T040618Z">
+        <seg>Des inspections doivent être effectuées afin de vérifier la conformité au chapitre 13 et doivent notamment porter sur les éléments suivants : les valeurs R et U de l’isolation de l’enveloppe, la valeur U des vitrages, la valeur R du système de conduits, ainsi que le rendement des équipements de CVC et de chauffage de l’eau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4192,12 +4183,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Lath, gypsum board and gypsum panel product inspections shall be made after lathing, gypsum board and gypsum panel products, interior and exterior, are in place, but before any plastering is applied or gypsum board and gypsum panel product joints and fasteners are taped and finished.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les inspections des lattes, des panneaux de gypse et des panneaux de plâtre doivent être effectuées après la mise en place des lattes, des panneaux de gypse et des panneaux de plâtre, à l'intérieur et à l'extérieur, mais avant l'application de tout plâtrage ou le recouvrement et la finition des joints et des fixations des panneaux de gypse et des panneaux de plâtre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T040126Z">
+        <seg>Les inspections des lattis, des panneaux de gypse et des produits en panneaux de gypse doivent être effectuées après la mise en place des lattis, des panneaux de gypse et des produits en panneaux de gypse, à l’intérieur et à l’extérieur, mais avant l’application de tout enduit de plâtre ou le traitement et la finition des joints et des fixations des panneaux de gypse et des produits en panneaux de gypse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4452,12 +4442,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Protection of joints and penetrations in fire-resistance-rated assemblies, smoke barriers and smoke partitions shall not be concealed from view until inspected and approved.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La protection des joints et des pénétrations dans les ensembles résistants au feu, les barrières anti-fumée et les cloisons coupe-fumée ne doit pas être dissimulée jusqu'à ce qu'elle soit inspectée et approuvée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T040553Z">
+        <seg>La protection des joints et des pénétrations dans les ensembles ayant une résistance au feu, les barrières coupe-fumée et les cloisons coupe-fumée ne doit pas être dissimulée avant d’avoir été inspectée et approuvée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5127,12 +5116,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The final inspection shall be made after all work required by the building permit is completed.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'inspection finale doit être effectuée une fois que tous les travaux requis par le permis de construire sont terminés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T040712Z">
+        <seg>L’inspection finale doit être effectuée après l’achèvement de tous les travaux exigés par le permis de construire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5626,12 +5614,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Where balconies or other elevated walking surfaces have weather-exposed surfaces, and the structural framing is protected by an impervious moisture barrier, all elements of the impervious moisture barrier system shall not be concealed until inspected and approved.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les balcons ou d'autres surfaces de circulation surélevées ont des surfaces exposées aux intempéries et que l'ossature structurelle est protégée par une barrière imperméable à l'humidité, tous les éléments du système de barrière imperméable à l'humidité ne doivent pas être dissimulés tant qu'ils n'ont pas été inspectés et approuvés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T040542Z">
+        <seg>Lorsque les balcons ou autres surfaces de circulation surélevées comportent des surfaces exposées aux intempéries et que l’ossature structurale est protégée par une membrane pare-humidité imperméable, aucun élément du système de membrane pare-humidité imperméable ne doit être dissimulé avant d’avoir été inspecté et approuvé.</seg>
       </tuv>
     </tu>
     <tu>
