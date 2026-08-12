@@ -21,10 +21,10 @@
     "segments": 657
   },
   "project": {
-    "root": "/tmp/offline/CIDQ_BillingCode2026_fr-CA_OMT/",
+    "root": "C:/Users/dulan/CIDQ_BillingCode2026_fr-CA_omt/",
     "source-language": "en",
     "target-language": "fr-CA",
-    "name": "CIDQ_BillingCode2026_fr-CA_OMT"
+    "name": "CIDQ_BillingCode2026_fr-CA_omt"
   },
   "files": [{
     "total": {
