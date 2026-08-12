@@ -2411,12 +2411,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;[A] 110.3.2 Concrete slab and under-floor inspection.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[A] 110.3.2 Inspection de la dalle de béton et du sous-plancher.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T035620Z">
+        <seg>&lt;g1&gt;[A] 110.3.2 Inspection de la dalle de béton et des éléments sous plancher.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3224,12 +3223,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Approval as a result of an inspection shall not be construed to be an approval of a violation of the provisions of this code or of other ordinances of the jurisdiction.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'approbation à la suite d'une inspection ne doit pas être interprétée comme une approbation d'une violation des dispositions du présent code ou d'autres ordonnances de la juridiction.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T034926Z">
+        <seg>L’approbation accordée à la suite d’une inspection ne doit pas être interprétée comme une approbation d’une violation des dispositions du présent code ou d’autres ordonnances de la juridiction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3394,12 +3392,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Concrete slab and under-floor inspections shall be made after in-slab or under-floor reinforcing steel and building service equipment, conduit, piping accessories and other ancillary equipment items are in place, but before any concrete is placed or floor sheathing installed, including the subfloor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les inspections de la dalle de béton et du sous-plancher doivent être effectuées après la mise en place de l'acier d'armature dans la dalle ou sous le plancher et de l'équipement de service du bâtiment, des conduits, des accessoires de tuyauterie et des autres équipements auxiliaires, mais avant la mise en place de tout béton ou l'installation du revêtement du plancher, y compris le sous-plancher.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T035612Z">
+        <seg>Les inspections des dalles de béton et des éléments sous plancher doivent être effectuées après la mise en place de l’acier d’armature intégré à la dalle ou situé sous le plancher, des équipements techniques du bâtiment, des conduits, des accessoires de tuyauterie et des autres équipements auxiliaires, mais avant la mise en place du béton ou l’installation du revêtement de sol, y compris le sous-plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3489,12 +3486,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Construction or work for which a permit is required shall be subject to inspection by the building official and such construction or work shall remain visible and able to be accessed for inspection purposes until approved.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La construction ou l'ouvrage pour lequel un permis est requis est soumis à une inspection par le responsable de la construction et cette construction ou cet ouvrage doit rester visible et accessible à des fins d'inspection jusqu'à son approbation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T034914Z">
+        <seg>La construction ou les travaux pour lesquels un permis est requis sont soumis à une inspection par le responsable de la construction, et la construction ou les travaux doivent rester visibles et accessibles à des fins d’inspection jusqu’à leur approbation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3752,12 +3748,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Footing and foundation inspections shall be made after excavations for footings are complete and any required reinforcing steel is in place.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les inspections des semelles et des fondations doivent être effectuées une fois que les excavations pour les semelles sont terminées et que tout l'acier d'armature requis est en place.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T035522Z">
+        <seg>Les inspections des semelles et des fondations doivent être effectuées après l’achèvement des excavations pour les semelles et la mise en place de tout l’acier d’armature requis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3788,12 +3783,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>For concrete foundations, any required forms shall be in place prior to inspection.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les fondations en béton, tous les coffrages requis doivent être en place avant l'inspection.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T035532Z">
+        <seg>Pour les fondations en béton, tous les coffrages requis doivent être en place avant l’inspection.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4113,12 +4107,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Inspections presuming to give authority to violate or cancel the provisions of this code or of other ordinances of the jurisdiction shall not be valid.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les inspections supposées donner le pouvoir de violer ou d'annuler les dispositions du présent code ou d'autres ordonnances de la juridiction ne sont pas valides.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T034938Z">
+        <seg>Les inspections qui prétendent autoriser la violation ou l’annulation des dispositions du présent code ou d’autres ordonnances de la juridiction ne sont pas valides.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4166,12 +4159,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>It shall be the duty of the owner or the owner's authorized agent to cause the work to remain visible and able to be accessed for inspection purposes.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il incombe au propriétaire ou à son agent autorisé de faire en sorte que les travaux restent visibles et accessibles à des fins d'inspection.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T034954Z">
+        <seg>Il incombe au propriétaire ou à son mandataire autorisé de faire en sorte que les travaux restent visibles et accessibles à des fins d’inspection.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4236,12 +4228,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Materials for the foundation shall be on the job, except where concrete is ready mixed in accordance with ASTM C94, the concrete need not be on the job.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les matériaux pour la fondation doivent être sur le chantier, sauf lorsque le béton est prêt à l'emploi conformément à la norme ASTM C94, auquel cas le béton n'a pas besoin d'être sur le chantier.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T035557Z">
+        <seg>Les matériaux destinés aux fondations doivent être présents sur le chantier, sauf lorsque le béton est prêt à l’emploi conformément à la norme ASTM C94; dans ce cas, le béton n’a pas besoin d’être présent sur le chantier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4281,12 +4272,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Neither the building official nor the jurisdiction shall be liable for expense entailed in the removal or replacement of any material required to allow inspection.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ni le responsable de la construction ni la juridiction ne seront responsables des dépenses liées au retrait ou au remplacement de tout matériel nécessaire pour permettre l'inspection.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T035342Z">
+        <seg>Ni le responsable de la construction ni la juridiction ne sont responsables des frais engagés pour retirer ou remplacer tout matériau nécessaire pour permettre l’inspection.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4958,12 +4948,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The building official, upon notification, shall make the inspections set forth in Sections 110.3.1 through 110.3.12.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le responsable de la construction, sur notification, doit effectuer les inspections prévues aux articles 110.3.1 à 110.3.12.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T035512Z">
+        <seg>Sur notification, le responsable de la construction doit effectuer les inspections prévues aux articles 110.3.1 à 110.3.12.</seg>
       </tuv>
     </tu>
     <tu>
