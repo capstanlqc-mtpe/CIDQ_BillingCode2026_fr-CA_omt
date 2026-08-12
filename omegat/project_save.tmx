@@ -2163,12 +2163,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;[A] 107.2.2 Fire protection system shop drawings.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[A] 107.2.2 Plans d'atelier du système de protection contre les incendies.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T031508Z">
+        <seg>&lt;g1&gt;[A] 107.2.2 Plans d’atelier des systèmes de protection contre l’incendie.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3489,12 +3488,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Construction documents shall be of sufficient clarity to indicate the location, nature and extent of the work proposed and show in detail that it will conform to the provisions of this code and relevant laws, ordinances, rules and regulations, as determined by the building official.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les documents de construction doivent être suffisamment clairs pour indiquer l'emplacement, la nature et l'étendue des travaux proposés et montrer en détail qu'ils seront conformes aux dispositions du présent code et aux lois, ordonnances, règles et règlements pertinents, tels que déterminés par le responsable de la construction.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T030740Z">
+        <seg>Les documents de construction doivent être suffisamment clairs pour indiquer l’emplacement, la nature et l’étendue des travaux proposés et démontrer en détail que ceux-ci seront conformes aux dispositions du présent code ainsi qu’aux lois, ordonnances, règles et règlements pertinents, selon ce qu’établit le responsable de la construction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3614,12 +3612,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Electronic media documents are permitted to be submitted where approved by the building official.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les documents sur support électronique peuvent être soumis lorsque le responsable de la construction l'approuve.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T031335Z">
+        <seg>Les documents sur support électronique peuvent être soumis lorsque le responsable de la construction les approuve.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4093,12 +4090,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>In other than occupancies in Groups R-2, R-3, and I-1, the construction documents shall designate the number of occupants to be accommodated on every floor, and in all rooms and spaces.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les occupations autres que celles des groupes R-2, R-3 et I-1, les documents de construction doivent indiquer le nombre d'occupants à accueillir à chaque étage et dans toutes les pièces et tous les espaces.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T031615Z">
+        <seg>Pour les usages autres que ceux des groupes R-2, R-3 et I-1, les documents de construction doivent indiquer le nombre d’occupants pouvant être accueillis à chaque étage ainsi que dans toutes les pièces et tous les espaces.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4635,21 +4631,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Shop drawings for the fire protection systems shall be submitted to indicate conformance to this code and the construction documents and shall be approved prior to the start of system installation.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les dessins d'atelier des systèmes de protection contre le feu doivent être soumis pour indiquer la conformité au présent code et aux documents de construction et doivent être approuvés avant le début de l'installation du système.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T031519Z">
+        <seg>Les plans d’atelier des systèmes de protection contre l’incendie doivent être soumis afin d’attester leur conformité au présent code et aux documents de construction et doivent être approuvés avant le début de l’installation du système.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Shop drawings shall contain all information as required by the referenced installation standards in Chapter 9.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les dessins d'atelier doivent contenir toutes les informations requises par les normes d'installation référencées au chapitre 9.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T031548Z">
+        <seg>Les plans d’atelier doivent contenir tous les renseignements exigés par les normes d’installation citées au chapitre 9.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5061,12 +5055,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The construction documents shall show in sufficient detail the location, construction, size and character of all portions of the means of egress including the path of the exit discharge to the public way in compliance with the provisions of this code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les documents de construction doivent indiquer de manière suffisamment détaillée l'emplacement, la construction, la taille et la nature de toutes les parties des moyens d'évacuation, y compris le chemin de l'issue d'évacuation vers la voie publique, conformément aux dispositions du présent code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T031603Z">
+        <seg>Les documents de construction doivent indiquer avec suffisamment de détails l’emplacement, la construction, les dimensions et la nature de toutes les parties des moyens d’évacuation, y compris le parcours menant de la sortie à la voie publique, conformément aux dispositions du présent code.</seg>
       </tuv>
     </tu>
     <tu>
