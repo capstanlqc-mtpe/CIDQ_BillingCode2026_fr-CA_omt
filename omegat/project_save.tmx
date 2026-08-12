@@ -8,8 +8,8 @@
       <tuv lang="en">
         <seg>.Window awnings in Group R-3 and U occupancies, supported by an exterior wall that do not project more than 54 inches (1372 mm) from the exterior wall and do not require additional support.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T153527Z">
-        <seg>.Auvents de fenêtre dans les bâtiments des groupes d’usage R-3 et U, supportés par un mur extérieur, qui ne font pas saillie de plus de 54 po (1 372 mm) par rapport au mur extérieur et qui ne nécessitent pas de support supplémentaire.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T052019Z">
+        <seg>.Auvents de fenêtre dans les bâtiments des groupes d’usage R-3 et U, supportés par un mur extérieur, qui ne font pas saillie de plus de 54 po (1 372 mm) par rapport au mur extérieur et qui ne nécessitent pas de support supplémentaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2621,12 +2621,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 403.3.1 Number of sprinkler risers and system design.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 403.3.1 Nombre de colonnes montantes de gicleurs et conception du système.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T051747Z">
+        <seg>&lt;g1&gt;[F] 403.3.1 Nombre de colonnes montantes d'extincteurs et conception du système.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3066,8 +3065,8 @@
       <tuv lang="en">
         <seg>An application for a permit for any proposed work shall be deemed to have been abandoned 180 days after the date of filing, unless such application has been pursued in good faith or a permit has been issued; except that the building official is authorized to grant one or more extensions of time for additional periods not exceeding 90 days each.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T235949Z">
-        <seg>Une demande de permis visant des travaux proposés est réputée abandonnée 180 jours après sa date de dépôt, à moins que la demande n’ait fait l’objet de démarches de bonne foi ou qu’un permis n’ait été délivré; toutefois, le responsable de la construction est autorisé à accorder une ou plusieurs prolongations, pour des périodes supplémentaires ne dépassant pas 90 jours chacune.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T052223Z">
+        <seg>Une demande de permis visant des travaux proposés est réputée abandonnée 180 jours après sa date de dépôt, à moins que la demande n’ait fait l’objet de démarches de bonne foi ou qu’un permis n’ait été délivré; toutefois, le responsable de la construction est autorisé à accorder une ou plusieurs prolongations, pour des périodes supplémentaires ne dépassant pas 90 jours chacune.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3520,21 +3519,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Each riser shall supply sprinklers on alternate floors.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Chaque colonne montante doit alimenter les gicleurs d'un étage sur deux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T052519Z">
+        <seg>Chaque colonne montante doit alimenter les extincteurs d’un étage sur deux.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Each sprinkler system zone in buildings that are more than 420 feet (128 m) in building height shall be supplied by not fewer than two risers.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Chaque zone de système de gicleurs dans les bâtiments de plus de 420 pieds (128 m) de hauteur doit être alimentée par au moins deux colonnes montantes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T051852Z">
+        <seg>Chaque zone de système d'extincteurs dans les bâtiments de plus de 420 pieds (128 m) de hauteur doit être alimentée par au moins deux colonnes montantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3673,8 +3670,8 @@
       <tuv lang="en">
         <seg>Fences not over 7 feet (2134 mm) high.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T035420Z">
-        <seg>Clôtures d’une hauteur maximale de 7 pi (2 134 mm).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T051919Z">
+        <seg>Clôtures d’une hauteur maximale de 7 pi (2 134 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3872,12 +3869,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If more than two risers are provided for a zone, sprinklers on adjacent floors shall not be supplied from the same riser.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Si plus de deux colonnes montantes sont prévues pour une zone, les gicleurs des étages adjacents ne doivent pas être alimentés par la même colonne montante.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T052540Z">
+        <seg>Si plus de deux colonnes montantes sont prévues pour une zone, les extincteurs des étages adjacents ne doivent pas être alimentés par la même colonne montante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3908,8 +3904,8 @@
       <tuv lang="en">
         <seg>If the circumstances require, the owner or the owner's authorized agent shall designate a substitute registered design professional in responsible charge who shall perform the duties required of the original registered design professional in responsible charge.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T033506Z">
-        <seg>Si les circonstances l’exigent, le propriétaire ou son mandataire autorisé doit désigner un professionnel de la conception enregistré remplaçant responsable qui s’acquittera des fonctions du professionnel de la conception agréé responsable initial.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T052329Z">
+        <seg>Si les circonstances l’exigent, le propriétaire ou son mandataire autorisé doit désigner un professionnel de la conception enregistré remplaçant responsable qui s’acquittera des fonctions du professionnel de la conception enregistré responsable initial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3956,12 +3952,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>In all buildings that are more than 420 feet (128 m) in building height and buildings of Type IV-A and IV-B construction that are more than 120 feet (36 576 mm) in building height, required fire pumps shall be supplied by connections to not fewer than two water mains located in different streets.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans tous les bâtiments d'une hauteur de plus de 420 pieds (128 m) et dans les bâtiments de type IV-A et IV-B d'une hauteur de plus de 120 pieds (36 576 mm), les pompes à incendie requises doivent être alimentées par des raccordements à au moins deux conduites d'eau situées dans des rues différentes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T052714Z">
+        <seg>Dans tous les bâtiments dont la hauteur dépasse 420 pieds (128 m) et dans les bâtiments de construction de types IV-A et IV-B dont la hauteur dépasse 120 pieds (36 576 mm), les pompes à incendie requises doivent être alimentées par des raccordements à au moins deux conduites d’eau principales situées dans des rues différentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4219,8 +4214,8 @@
       <tuv lang="en">
         <seg>Nonfixed and movable fixtures, cases, racks, counters and partitions not over 5 feet 9 inches (1753 mm) in height.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T162608Z">
-        <seg>Éléments fixes et mobiles, présentoirs, étagères, comptoirs et cloisons d’une hauteur maximale de 5 pi 9 po (1 753 mm).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T052031Z">
+        <seg>Éléments fixes et mobiles, présentoirs, étagères, comptoirs et cloisons d’une hauteur maximale de 5 pi 9 po (1 753 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4262,8 +4257,8 @@
       <tuv lang="en">
         <seg>One-story detached accessory structures used as tool and storage sheds, playhouses and similar uses, provided that the floor area is not greater than 120 square feet (11 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T035408Z">
-        <seg>Structures accessoires détachées d’un seul étage utilisées comme remises à outils et de rangement, maisons de jeu ou à des fins similaires, à condition que leur superficie de plancher ne dépasse pas 120 pi² (11 m²).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T051924Z">
+        <seg>Structures accessoires détachées d’un seul étage utilisées comme remises à outils et de rangement, maisons de jeu ou à des fins similaires, à condition que leur superficie de plancher ne dépasse pas 120 pi² (11 m²).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4382,8 +4377,8 @@
       <tuv lang="en">
         <seg>Prefabricated swimming pools accessory to a Group R-3 occupancy that are less than 24 inches (610 mm) deep, are not greater than 5,000 gallons (18 925 L) and are installed entirely above ground.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T145815Z">
-        <seg>Piscines préfabriquées accessoires à un usage du groupe R-3, d’une profondeur inférieure à 24 po (610 mm), d’une capacité maximale de 5 000 gallons (18 925 L) et installées entièrement hors sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T052007Z">
+        <seg>Piscines préfabriquées accessoires à un usage du groupe R-3, d’une profondeur inférieure à 24 po (610 mm), d’une capacité maximale de 5 000 gallons (18 925 L) et installées entièrement hors sol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4487,8 +4482,8 @@
       <tuv lang="en">
         <seg>Retaining walls that are not over 4 feet (1219 mm) in height measured from the bottom of the footing to the top of the wall, unless supporting a surcharge or impounding Class I, II or IIIA liquids.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T035445Z">
-        <seg>Murs de soutènement d’une hauteur maximale de 4 pi (1 219 mm), mesurée du dessous de la semelle jusqu’au sommet du mur, à moins qu’ils ne supportent une surcharge ou ne retiennent des liquides de classe I, II ou IIIA.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T051934Z">
+        <seg>Murs de soutènement d’une hauteur maximale de 4 pi (1 219 mm), mesurée du dessous de la semelle jusqu’au sommet du mur, à moins qu’ils ne supportent une surcharge ou ne retiennent des liquides de classe I, II ou IIIA.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4513,8 +4508,8 @@
       <tuv lang="en">
         <seg>Self-contained refrigeration system containing 10 pounds (4.54 kg) or less of refrigerant and actuated by motors of 1 horsepower (0.75 kW) or less.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T164552Z">
-        <seg>Système de réfrigération autonome contenant 10 livres (4,54 kg) ou moins de fluide frigorigène et actionné par des moteurs d’une puissance maximale de 1 cheval-vapeur (0,75 kW).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T052119Z">
+        <seg>Système de réfrigération autonome contenant 10 livres (4,54 kg) ou moins de fluide frigorigène et actionné par des moteurs d’une puissance maximale de 1 cheval-vapeur (0,75 kW).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4554,8 +4549,8 @@
       <tuv lang="en">
         <seg>Sidewalks and driveways not more than 30 inches (762 mm) above adjacent grade, and not over any basement or story below and are not part of an accessible route.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T050051Z">
-        <seg>Trottoirs et allées qui ne sont pas situés à plus de 30 po (762 mm) au-dessus du niveau du sol adjacent, qui ne sont pas au-dessus d’un sous-sol ou d’un étage inférieur et qui ne font pas partie d’un itinéraire accessible.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T051953Z">
+        <seg>Trottoirs et allées qui ne sont pas situés à plus de 30 po (762 mm) au-dessus du niveau du sol adjacent, qui ne sont pas au-dessus d’un sous-sol ou d’un étage inférieur et qui ne font pas partie d’un itinéraire accessible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4577,12 +4572,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Sprinkler risers shall be placed in interior exit stairways and ramps that are remotely located in accordance with Section 1007.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les colonnes montantes de gicleurs doivent être placées dans les escaliers et rampes d'issue intérieurs qui sont situés à distance selon la section 1007.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T052623Z">
+        <seg>Les colonnes montantes de gicleurs doivent être placées dans les escaliers et les rampes d’issue intérieurs situés à distance les uns des autres conformément à l’article 1007.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4799,8 +4793,8 @@
       <tuv lang="en">
         <seg>The building official is authorized to waive the submission of construction documents and other data not required to be prepared by a registered design professional if it is found that the nature of the work applied for is such that review of construction documents is not necessary to obtain compliance with this code.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T030247Z">
-        <seg>Le responsable de la construction est autorisé à dispenser de la soumission des documents de construction et des autres données qui ne sont pas obligatoirement préparés par un professionnel de la conception agréé, s’il est établi que la nature des travaux faisant l’objet de la demande est telle que l’examen des documents de construction n’est pas nécessaire pour assurer la conformité au présent code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T052329Z">
+        <seg>Le responsable de la construction est autorisé à dispenser de la soumission des documents de construction et des autres données qui ne sont pas obligatoirement préparés par un professionnel de la conception enregistré, s’il est établi que la nature des travaux faisant l’objet de la demande est telle que l’examen des documents de construction n’est pas nécessaire pour assurer la conformité au présent code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4903,8 +4897,8 @@
       <tuv lang="en">
         <seg>The construction documents shall be prepared by a registered design professional where required by the statutes of the jurisdiction in which the project is to be constructed.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T025523Z">
-        <seg>Les documents de construction doivent être préparés par un professionnel de la conception agréé lorsque les lois de la juridiction dans laquelle le projet doit être réalisé l’exigent.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T052327Z">
+        <seg>Les documents de construction doivent être préparés par un professionnel de la conception enregistré lorsque les lois de la juridiction dans laquelle le projet doit être réalisé l’exigent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5478,8 +5472,8 @@
       <tuv lang="en">
         <seg>Water tanks supported directly on grade if the capacity is not greater than 5,000 gallons (18 925 L) and the ratio of height to diameter or width is not greater than 2:1.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260811T050023Z">
-        <seg>Réservoirs d’eau reposant directement sur le sol, si leur capacité ne dépasse pas 5 000 gallons (18 925 L) et si le rapport entre la hauteur et le diamètre ou la largeur ne dépasse pas 2:1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T051946Z">
+        <seg>Réservoirs d’eau reposant directement sur le sol, si leur capacité ne dépasse pas 5 000 gallons (18 925 L) et si le rapport entre la hauteur et le diamètre ou la largeur ne dépasse pas 2:1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5587,16 +5581,16 @@
       <tuv lang="en">
         <seg>Where it is required that documents be prepared by a registered design professional, the building official shall be authorized to require the owner or the owner's authorized agent to engage and designate on the building permit application a registered design professional who shall act as the registered design professional in responsible charge.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T033511Z">
-        <seg>Lorsqu’il est exigé que les documents soient préparés par un professionnel de la conception agréé, le responsable de la construction est autorisé à exiger du propriétaire ou de son mandataire autorisé qu’il engage et désigne, dans la demande de permis de construire, un professionnel de la conception enregistré qui agira à titre de professionnel de la conception agréé responsable.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T052329Z">
+        <seg>Lorsqu’il est exigé que les documents soient préparés par un professionnel de la conception enregistré, le responsable de la construction est autorisé à exiger du propriétaire ou de son mandataire autorisé qu’il engage et désigne, dans la demande de permis de construire, un professionnel de la conception enregistré qui agira à titre de professionnel de la conception enregistré responsable.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Where special conditions exist, the building official is authorized to require additional construction documents to be prepared by a registered design professional.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T030240Z">
-        <seg>Lorsque des conditions particulières existent, le responsable de la construction est autorisé à exiger que des documents de construction supplémentaires soient préparés par un professionnel de la conception agréé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T052329Z">
+        <seg>Lorsque des conditions particulières existent, le responsable de la construction est autorisé à exiger que des documents de construction supplémentaires soient préparés par un professionnel de la conception enregistré.</seg>
       </tuv>
     </tu>
     <tu>
