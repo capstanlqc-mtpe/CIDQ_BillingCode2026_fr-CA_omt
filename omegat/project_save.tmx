@@ -2259,12 +2259,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;[A] 107.3.4 Design professional in responsible charge.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[A] 107.3.4 Professionnel de la conception responsable.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T033557Z">
+        <seg>&lt;g1&gt;[A] 107.3.4 Professionnel de la conception enregistré responsable.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3536,12 +3535,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Documents for deferred submittal items shall be submitted to the registered design professional in responsible charge who shall review them and forward them to the building official with a notation indicating that the deferred submittal documents have been reviewed and found to be in general conformance to the design of the building.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les documents relatifs aux éléments de soumission différée doivent être soumis au professionnel de la conception enregistré responsable qui doit les examiner et les transmettre au responsable de la construction avec une mention indiquant que les documents de soumission différée ont été examinés et jugés généralement conformes à la conception du bâtiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T033700Z">
+        <seg>LLes documents relatifs aux éléments à soumettre ultérieurement doivent être remis au professionnel de la conception enregistré responsable, qui doit les examiner et les transmettre au responsable de la construction, accompagnés d’une mention indiquant que les documents relatifs aux éléments à soumettre ultérieurement ont été examinés et jugés généralement conformes à la conception du bâtiment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3970,12 +3968,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If the circumstances require, the owner or the owner's authorized agent shall designate a substitute registered design professional in responsible charge who shall perform the duties required of the original registered design professional in responsible charge.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Si les circonstances l'exigent, le propriétaire ou son agent autorisé doit désigner un professionnel de la conception enregistré remplaçant en charge responsable qui doit exécuter les tâches requises du professionnel de la conception enregistré en charge responsable initial.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T033506Z">
+        <seg>Si les circonstances l’exigent, le propriétaire ou son mandataire autorisé doit désigner un professionnel de la conception enregistré remplaçant responsable qui s’acquittera des fonctions du professionnel de la conception agréé responsable initial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4900,12 +4897,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The building official shall be notified in writing by the owner or the owner's authorized agent if the registered design professional in responsible charge is changed or is unable to continue to perform the duties.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le responsable de la construction doit être avisé par écrit par le propriétaire ou son agent autorisé si le professionnel de la conception enregistré responsable est remplacé ou s'il n'est pas en mesure de continuer à exercer ses fonctions.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T033501Z">
+        <seg>Le propriétaire ou son mandataire autorisé doit aviser par écrit le responsable de la construction si le professionnel de la conception enregistré responsable est remplacé ou n’est plus en mesure de s’acquitter de ses fonctions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5070,12 +5066,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The deferred submittal items shall not be installed until the deferred submittal documents have been approved by the building official.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les éléments de soumission différée ne doivent pas être installés tant que les documents de soumission différée n'ont pas été approuvés par le responsable de la construction.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T034105Z">
+        <seg>Les éléments à soumettre ultérieurement ne doivent pas être installés tant que les documents relatifs à ces éléments n’ont pas été approuvés par le responsable de la construction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5352,21 +5347,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The registered design professional in responsible charge shall be responsible for reviewing and coordinating submittal documents prepared by others, including phased and deferred submittal items, for compatibility with the design of the building.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le professionnel de la conception enregistré responsable doit être chargé d'examiner et de coordonner les documents de soumission préparés par d'autres, y compris les éléments de soumission échelonnés et différés, pour en vérifier la compatibilité avec la conception du bâtiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T033609Z">
+        <seg>Le professionnel de la conception enregistré responsable doit examiner et coordonner les documents à soumettre préparés par d’autres personnes, y compris les éléments à soumettre par étapes et les éléments à soumettre ultérieurement, afin d’en vérifier la compatibilité avec la conception du bâtiment.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The registered design professional in responsible charge shall list the deferred submittals on the construction documents for review by the building official.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le professionnel de la conception enregistré responsable doit énumérer les soumissions différées sur les documents de construction pour examen par le responsable de la construction.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T033652Z">
+        <seg>Le professionnel de la conception enregistré responsable doit énumérer les éléments à soumettre ultérieurement dans les documents de construction afin qu’ils soient examinés par le responsable de la construction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5713,12 +5706,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Where it is required that documents be prepared by a registered design professional, the building official shall be authorized to require the owner or the owner's authorized agent to engage and designate on the building permit application a registered design professional who shall act as the registered design professional in responsible charge.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'il est exigé que les documents soient préparés par un professionnel de la conception enregistré, le responsable de la construction est autorisé à exiger du propriétaire ou de son agent autorisé qu'il engage et désigne sur la demande de permis de construction un professionnel de la conception enregistré qui agira en tant que professionnel de la conception enregistré responsable.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T033511Z">
+        <seg>Lorsqu’il est exigé que les documents soient préparés par un professionnel de la conception agréé, le responsable de la construction est autorisé à exiger du propriétaire ou de son mandataire autorisé qu’il engage et désigne, dans la demande de permis de construire, un professionnel de la conception enregistré qui agira à titre de professionnel de la conception agréé responsable.</seg>
       </tuv>
     </tu>
     <tu>
