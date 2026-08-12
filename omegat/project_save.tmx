@@ -1247,12 +1247,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;403.2.3 Sprayed fire-resistant materials (SFRM).&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;403.2.3 Matériaux ignifugés pulvérisés (SFRM).&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T051554Z">
+        <seg>&lt;g1&gt;403.2.3 Matériaux résistants au feu projetés (SFRM).&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2571,30 +2570,27 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;[BS] 403.2.2 Structural integrity of interior exit stairways and elevator hoistway enclosures.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[BS] 403.2.2 Intégrité structurelle des enceintes d'escaliers d'issue intérieurs et de cages d'ascenseur.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T050819Z">
+        <seg>&lt;g1&gt;[BS] 403.2.2 Intégrité structurelle des enceintes d’escaliers d’issue intérieurs et des cages d’ascenseur.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;[BS] 403.2.2.1 Wall assembly materials—soft body impact.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[BS] 403.2.2.1 Matériaux d'assemblage des murs — impact de corps mou.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T050847Z">
+        <seg>&lt;g1&gt;[BS] 403.2.2.1 Matériaux des assemblages de murs — impact de corps mou.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;[BS] 403.2.2.2 Wall assembly materials—hard body impact.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[BS] 403.2.2.2 Matériaux d'assemblage mural : impact de corps dur.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T051320Z">
+        <seg>&lt;g1&gt;[BS] 403.2.2.2 Matériaux d'assemblage de murs — impact de corps dur.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3102,12 +3098,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>An automatic sprinkler system shall not be required in spaces or areas of telecommunications equipment buildings used exclusively for telecommunications equipment, associated electrical power distribution equipment, batteries and standby engines, provided that those spaces or areas are equipped throughout with an automatic fire detection system in accordance with Section 907.2 and are separated from the remainder of the building by not less than 1-hour fire barriers constructed in accordance with Section 707 or not less than 2-hour horizontal assemblies constructed in accordance with Section 711, or both.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'extincteurs automatiques n'est pas requis dans les espaces ou les zones des bâtiments d'équipement de télécommunications utilisés exclusivement pour l'équipement de télécommunications, l'équipement de distribution d'énergie électrique associé, les batteries et les moteurs de secours, à condition que ces espaces ou zones soient entièrement équipés d'un système de détection automatique d'incendie selon la section 907.2 et soient séparés du reste du bâtiment par des barrières coupe-feu d'au moins 1 heure construites selon la section 707 ou par des ensembles horizontaux d'au moins 2 heures construits selon la section 711, ou les deux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T051740Z">
+        <seg>Un système d'extincteurs automatiques n’est pas exigé dans les espaces ou zones des bâtiments abritant des équipements de télécommunications qui sont utilisés exclusivement pour les équipements de télécommunications, les équipements associés de distribution d’énergie électrique, les batteries et les moteurs de secours, à condition que ces espaces ou zones soient entièrement équipés d’un système automatique de détection d’incendie conforme à l’article 907.2 et soient séparés du reste du bâtiment par des barrières coupe-feu d’au moins 1 heure construites conformément à l’article 707 ou par des ensembles horizontaux d’au moins 2 heures construits conformément à l’article 711, ou par les deux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3138,12 +3133,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Any other wall materials that provide impact resistance equivalent to that required by Sections 403.2.2.1 for Soft Body Impact Classification Level 2 and 403.2.2.2 for Hard Body Impact Classification Level 3, as measured by the test method described in ASTM C1629/C1629M, shall be permitted.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Tout autre matériau de mur offrant une résistance aux chocs équivalente à celle exigée par les articles 403.2.2.1 pour le niveau 2 de la classification de résistance aux chocs de corps mous et 403.2.2.2 pour le niveau 3 de la classification de résistance aux chocs de corps durs, telle que mesurée par la méthode d'essai décrite dans la norme ASTM C1629/C1629M, peut être autorisé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T051527Z">
+        <seg>Tout autre matériau de mur offrant une résistance aux impacts équivalente à celle exigée à l’article 403.2.2.1 pour le niveau 2 de la classification de résistance aux impacts de corps mous et à l’article 403.2.2.2 pour le niveau 3 de la classification de résistance aux impacts de corps durs, selon la méthode d’essai décrite dans la norme ASTM C1629/C1629M, est autorisé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3300,12 +3294,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Buildings and structures shall be equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1 and a secondary water supply where required by Section 403.3.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les bâtiments et les structures doivent être entièrement équipés d'un système d'extincteurs automatiques selon la section 903.3.1.1 et d'une alimentation en eau secondaire lorsque la section 403.3.3 l'exige.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T051704Z">
+        <seg>Les bâtiments et constructions doivent être équipés dans leur ensemble d’un système d'extincteurs automatiques conforme à l’article 903.3.1.1 ainsi que d’une alimentation en eau secondaire lorsque celle-ci est exigée par l’article 403.3.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3752,12 +3745,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>For high-rise buildings of Risk Category III or IV in accordance with Section 1604.5, and for all buildings that are more than 420 feet (128 m) in building height, enclosures for interior exit stairways and elevator hoistway enclosures shall comply with Sections 403.2.2.1 through 403.2.2.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les bâtiments de grande hauteur de catégorie de risque III ou IV selon la section 1604.5, et pour tous les bâtiments de plus de 420 pi (128 m) de hauteur, les enceintes d'escaliers d'issue intérieurs et les enceintes de cages d'ascenseur doivent être conformes aux sections 403.2.2.1 à 403.2.2.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T050834Z">
+        <seg>Pour les bâtiments de grande hauteur des catégories de risque III ou IV conformément à l’article 1604.5, ainsi que pour tous les bâtiments dont la hauteur dépasse 420 pi (128 m), les enceintes des escaliers d’issue intérieurs et les cages d’ascenseur doivent être conformes aux articles 403.2.2.1 à 403.2.2.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4723,12 +4715,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The bond strength of the SFRM installed throughout the building shall be in accordance with Table 403.2.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La force d'adhérence du SFRM installé dans l'ensemble du bâtiment doit être conforme au tableau 403.2.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T051626Z">
+        <seg>La résistance d’adhérence des SFRM installés dans l’ensemble du bâtiment doit être conforme au Tableau 403.2.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5190,21 +5181,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The panels making up the enclosures for interior exit stairways and elevator hoistway enclosures shall meet or exceed Soft Body Impact Classification Level 2 as measured by the test method described in ASTM C1629/C1629M when tested from the exterior side of the enclosure.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les panneaux constituant les enceintes d'escaliers d'issue intérieurs et les enceintes de cages d'ascenseur doivent satisfaire ou dépasser le niveau 2 de la classification d'impact de corps mou, tel que mesuré par la méthode d'essai décrite dans la norme ASTM C1629/C1629M, lorsqu'ils sont testés depuis le côté extérieur de l'enceinte.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T050916Z">
+        <seg>Les panneaux constituant les enceintes des escaliers d’issue intérieurs et des cages d’ascenseur doivent satisfaire au niveau 2 ou à un niveau supérieur de la classification de résistance aux impacts de corps mous, selon la méthode d’essai décrite dans la norme ASTM C1629/C1629M, lorsqu’ils sont soumis à l’essai à partir du côté extérieur de l’enceinte.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The panels making up the enclosures for interior exit stairways and elevator hoistway enclosures that are not exposed to the interior of the enclosure shall be in accordance with one of the following:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les panneaux constituant les enceintes d'escaliers d'issue intérieurs et les enceintes de cages d'ascenseur qui ne sont pas exposés à l'intérieur de l'enceinte doivent être conformes à l'une des conditions suivantes :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T051334Z">
+        <seg>Les panneaux constituant les enceintes des escaliers d’issue intérieurs et des cages d’ascenseur qui ne sont pas exposés à l’intérieur de l’enceinte doivent satisfaire à l’une des exigences suivantes :</seg>
       </tuv>
     </tu>
     <tu>
@@ -5369,30 +5358,27 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The wall assembly incorporates multiple layers of any material, tested in tandem, that meets or exceeds Hard Body Impact Classification Level 3 as measured by the test method described in ASTM C1629/C1629M.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'assemblage mural comprend plusieurs couches de tout matériau, testées en tandem, qui satisfont ou dépassent le niveau 3 de la classification d'impact de corps dur, tel que mesuré par la méthode d'essai décrite dans la norme ASTM C1629/C1629M.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T051456Z">
+        <seg>L’assemblage de murs comporte plusieurs couches de tout matériau, soumises à l’essai ensemble, qui satisfont au niveau 3 ou à un niveau supérieur de la classification de résistance aux impacts de corps durs, selon la méthode d’essai décrite dans la norme ASTM C1629/C1629M.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The wall assembly shall incorporate no fewer than one layer of impact-resistant panels that meet or exceed Hard Body Impact Classification Level 3 as measured by the test method described in ASTM C1629/C1629M.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'assemblage mural doit comporter au moins une couche de panneaux résistants aux chocs qui satisfont ou dépassent le niveau 3 de la classification de résistance aux chocs de corps dur, tel que mesuré par la méthode d'essai décrite dans la norme ASTM C1629/C1629M.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T051406Z">
+        <seg>L’assemblage de murs doit comporter au moins une couche de panneaux résistants aux chocs satisfaisant au niveau 3 ou à un niveau supérieur de la classification de résistance aux impacts de corps durs, selon la méthode d’essai décrite dans la norme ASTM C1629/C1629M.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The wall assembly shall incorporate no fewer than two layers of impact-resistant panels, each of which meets or exceeds Hard Body Impact Classification Level 2 as measured by the test method described in ASTM C1629/C1629M.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'assemblage mural doit comporter au moins deux couches de panneaux résistants aux chocs, dont chacune satisfait ou dépasse le niveau 2 de la classification de résistance aux chocs de corps dur, tel que mesuré par la méthode d'essai décrite dans la norme ASTM C1629/C1629M.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T051351Z">
+        <seg>L’assemblage de murs doit comporter au moins deux couches de panneaux résistants aux chocs, chacune satisfaisant au niveau 2 ou à un niveau supérieur de la classification de résistance aux impacts de corps durs, selon la méthode d’essai décrite dans la norme ASTM C1629/C1629M.</seg>
       </tuv>
     </tu>
     <tu>
