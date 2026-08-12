@@ -2503,12 +2503,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;[A] 111.3 Temporary occupancy.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[A] 111.3 Usage temporaire.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041924Z">
+        <seg>&lt;g1&gt;[A] 111.3 Occupation temporaire.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2976,12 +2975,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A person shall not make connections from a utility, a source of energy, fuel, or power, or a water system or sewer system to any building or system that is regulated by this code for which a permit is required, until approved by the building official.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une personne ne doit pas effectuer de raccordements à partir d'un service public, d'une source d'énergie, de combustible ou d'électricité, ou d'un système d'eau ou d'égout à un bâtiment ou à un système réglementé par le présent code pour lequel un permis est requis, jusqu'à ce que le responsable de la construction l'approuve.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042108Z">
+        <seg>Une personne ne doit pas effectuer de raccordement à un service public, à une source d’énergie, de combustible ou de puissance, ou à un réseau d’eau ou d’égout, vers un bâtiment ou un système régi par le présent code pour lequel un permis est exigé, avant d’avoir obtenu l’approbation du responsable de la construction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3178,12 +3176,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Any person who shall continue any work after having been served with a stop work order, except such work as that person is directed to perform to remove a violation or unsafe condition, shall be subject to fines established by the authority having jurisdiction</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Toute personne qui poursuit des travaux après avoir reçu un ordre d'arrêt des travaux, à l'exception des travaux qu'elle est tenue d'effectuer pour remédier à une infraction ou à une situation dangereuse, est passible d'amendes fixées par l'autorité compétente.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042704Z">
+        <seg>Toute personne qui poursuit des travaux après avoir reçu un ordre d’arrêt des travaux, à l’exception des travaux qu’elle est tenue d’effectuer pour corriger une violation ou une situation non sécuritaire, est passible des amendes établies par l’autorité compétente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3195,12 +3192,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Any special stipulations and conditions of the building permit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Toutes les stipulations et conditions particulières du permis de construire.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041912Z">
+        <seg>Toute stipulation et condition particulière du permis de construire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3921,12 +3917,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If not notified prior to disconnecting, the owner or the owner's authorized agent or occupant of the building, structure or service system shall be notified in writing, as soon as practical thereafter.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>S'il n'est pas avisé avant la déconnexion, le propriétaire ou son agent autorisé ou l'occupant du bâtiment, de la structure ou du système de service doit être avisé par écrit, dès que possible par la suite.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042226Z">
+        <seg>Si l’avis n’a pas été donné avant le débranchement, le propriétaire ou son mandataire autorisé, ou l’occupant du bâtiment, de la construction ou du système de service doit en être avisé par écrit dès que possible par la suite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4480,12 +4475,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Residential Group R includes, among others, the use of a building or structure, or a portion thereof, for sleeping purposes when not classified as an Institutional Group I or when not regulated by the International Residential Code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le groupe d'usage Résidentiel, Groupe R comprend, entre autres, l'utilisation d'un bâtiment ou d'une structure, ou d'une partie de celui-ci, à des fins de couchage lorsqu'il n'est pas classé comme Institutionnel, Groupe I ou lorsqu'il n'est pas réglementé par l'International Residential Code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042719Z">
+        <seg>Le groupe d’usage Résidentiel, Groupe R, comprend notamment l’utilisation d’un bâtiment ou d’une construction, ou d’une partie de ceux-ci, à des fins de couchage lorsqu’il n’est pas classé dans le groupe d’usage Institutionnel, Groupe I, ou lorsqu’il n’est pas régi par l’International Residential Code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4807,12 +4801,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The building official is authorized to issue a temporary certificate of occupancy before the completion of the entire work covered by the permit, provided that such portion or portions shall be occupied safely.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le responsable de la construction est autorisé à délivrer un certificat d'occupation temporaire avant l'achèvement de l'ensemble des travaux couverts par le permis, à condition que cette ou ces parties soient occupées en toute sécurité.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041934Z">
+        <seg>Le responsable de la construction est autorisé à délivrer un certificat d’occupation temporaire avant l’achèvement de l’ensemble des travaux visés par le permis, à condition que la ou les parties concernées puissent être occupées en toute sécurité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4824,12 +4817,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The building official is authorized to suspend or revoke a certificate of occupancy or completion issued under the provisions of this code, in writing, wherever the certificate is issued in error, or on the basis of incorrect information supplied, or where it is determined that the building or structure or portion thereof is in violation of the provisions of this code or other ordinance of the jurisdiction.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le responsable de la construction est autorisé à suspendre ou à révoquer un certificat d'usage ou d'achèvement délivré en vertu des dispositions du présent code, par écrit, chaque fois que le certificat est délivré par erreur, ou sur la base d'informations incorrectes fournies, ou lorsqu'il est déterminé que le bâtiment ou la structure ou une partie de celui-ci est en violation des dispositions du présent code ou d'une autre ordonnance de la juridiction.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042041Z">
+        <seg>Le responsable de la construction est autorisé à suspendre ou à révoquer par écrit un certificat d’occupation ou d’achèvement délivré en vertu des dispositions du présent code lorsque le certificat a été délivré par erreur ou sur la base de renseignements inexacts fournis, ou lorsqu’il est établi que le bâtiment ou la construction, ou une partie de ceux-ci, contrevient aux dispositions du présent code ou à toute autre ordonnance de la juridiction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4889,39 +4881,35 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The building official shall have the authority to authorize disconnection of utility service to the building, structure or system regulated by this code and the referenced codes and standards in case of emergency where necessary to eliminate an immediate hazard to life or property or where such utility connection has been made without the approval required by Section 112.1 or 112.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le responsable de la construction a le pouvoir d'autoriser la déconnexion du service public au bâtiment, à la structure ou au système réglementé par le présent code et par les codes et normes référencés en cas d'urgence, lorsque cela est nécessaire pour éliminer un danger immédiat pour la vie ou les biens, ou lorsque ce raccordement au service public a été effectué sans l'approbation exigée par l'article 112.1 ou 112.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042151Z">
+        <seg>Le responsable de la construction est autorisé à ordonner le débranchement du service public desservant le bâtiment, la construction ou le système réglementé par le présent code ainsi que par les codes et normes cités, en cas d’urgence lorsque cela est nécessaire pour éliminer un danger immédiat pour la vie ou les biens, ou lorsque le raccordement au service public a été effectué sans l’approbation exigée par l’article 112.1 ou 112.2.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The building official shall have the authority to authorize the temporary connection of the building or system to the utility, the source of energy, fuel, or power, or the water system or sewer system for the purpose of testing systems or for use under a temporary approval.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le responsable de la construction a le pouvoir d'autoriser le raccordement temporaire du bâtiment ou du système au service public, à la source d'énergie, de combustible ou d'électricité, ou au système d'eau ou d'égout aux fins de l'essai des systèmes ou pour une utilisation en vertu d'une approbation temporaire.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042136Z">
+        <seg>Le responsable de la construction est autorisé à permettre le raccordement temporaire du bâtiment ou du système au service public, à la source d’énergie, de combustible ou de puissance, ou au réseau d’eau ou d’égout, aux fins d’essai des systèmes ou d’utilisation dans le cadre d’une approbation temporaire.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The building official shall notify the serving utility, and wherever possible the owner or the owner's authorized agent and occupant of the building, structure or service system of the decision to disconnect prior to taking such action.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le responsable de la construction doit aviser le service public concerné et, dans la mesure du possible, le propriétaire ou son agent autorisé et l'occupant du bâtiment, de la structure ou du système de service de la décision de débrancher avant de prendre une telle mesure.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042202Z">
+        <seg>Le responsable de la construction doit aviser le service public concerné et, dans la mesure du possible, le propriétaire ou son mandataire autorisé ainsi que l’occupant du bâtiment, de la construction ou du système de service de la décision de procéder au débranchement avant de prendre une telle mesure.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The building official shall set a time period during which the temporary certificate of occupancy is valid.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le responsable de la construction doit fixer une période pendant laquelle le certificat d'usage temporaire est valide.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042008Z">
+        <seg>Le responsable de la construction doit fixer la période pendant laquelle le certificat d’occupation temporaire est valide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5035,8 +5023,8 @@
       <tuv lang="en">
         <seg>The design occupant load.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041727Z">
-        <seg>La charge d’occupation de calcul.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041737Z">
+        <seg>LLa charge d’occupants aux fins de conception.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5354,21 +5342,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The stop work order shall be in writing and shall be given to the owner of the property, the owner's authorized agent or the person performing the work.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'ordre d'arrêt des travaux doit être donné par écrit au propriétaire du bien, à son agent autorisé ou à la personne qui exécute les travaux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042554Z">
+        <seg>L’ordre d’arrêt des travaux doit être donné par écrit au propriétaire du bien, à son mandataire autorisé ou à la personne qui exécute les travaux.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The stop work order shall state the reason for the order and the conditions under which the cited work is authorized to resume.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'ordre d'arrêt des travaux doit indiquer le motif de l'ordre et les conditions dans lesquelles les travaux cités sont autorisés à reprendre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042633Z">
+        <seg>L’ordre d’arrêt des travaux doit indiquer le motif de l’ordre et les conditions dans lesquelles les travaux visés sont autorisés à reprendre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5512,12 +5498,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Upon issuance of a stop work order, the cited work shall immediately cease.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dès l'émission d'un ordre d'arrêt des travaux, les travaux cités doivent cesser immédiatement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042606Z">
+        <seg>Dès l’émission d’un ordre d’arrêt des travaux, les travaux visés doivent cesser immédiatement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5581,12 +5566,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Where an automatic sprinkler system is provided, whether the sprinkler system is required.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un système d'extincteurs automatiques est prévu, si le système d'extincteurs automatiques est requis.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041835Z">
+        <seg>Lorsqu’un système d'extincteurs automatiques est installé, si ce système est exigé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5692,12 +5676,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Where the building official finds any work regulated by this code being performed in a manner contrary to the provisions of this code or in a dangerous or unsafe manner, the building official is authorized to issue a stop work order.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque le responsable de la construction constate que des travaux réglementés par le présent code sont exécutés d'une manière contraire aux dispositions du présent code ou d'une manière dangereuse ou non sécuritaire, le responsable de la construction est autorisé à émettre un ordre d'arrêt des travaux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042542Z">
+        <seg>Lorsque le responsable de la construction constate que des travaux régis par le présent code sont exécutés d’une manière contraire aux dispositions du présent code ou d’une manière dangereuse ou non sécuritaire, il est autorisé à délivrer un ordre d’arrêt des travaux.</seg>
       </tuv>
     </tu>
     <tu>
