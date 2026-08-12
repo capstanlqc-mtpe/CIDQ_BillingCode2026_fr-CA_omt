@@ -2776,21 +2776,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 404.3 Automatic sprinkler protection.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 404.3 Protection par gicleurs automatiques.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055249Z">
+        <seg>&lt;g1&gt;[F] 404.3 Protection par extincteurs automatiques.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 404.4 Fire alarm system.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 404.4 Système d'alarme incendie.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055320Z">
+        <seg>&lt;g1&gt;[F] 404.4 Système d'alarme d'incendie.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2845,30 +2843,27 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A fire alarm system shall be provided in accordance with Section 907.2.14.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'alarme incendie doit être prévu selon la section 907.2.14.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055348Z">
+        <seg>Un système d'alarme d'incendie doit être prévu selon la section 907.2.14.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A fire barrier is not required between the atrium and the adjoining spaces of up to three floors of the atrium provided that such spaces are accounted for in the design of the smoke control system.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une barrière coupe-feu n'est pas requise entre l'atrium et les aires adjacentes jusqu'à trois étages de l'atrium, à condition que ces aires soient prises en compte dans la conception du système de contrôle des fumées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055713Z">
+        <seg>Une barrière coupe-feu n’est pas requise entre l’atrium et les espaces adjacents pouvant s’étendre sur au plus trois étages de l’atrium, à condition que ces espaces soient pris en compte dans la conception du système de contrôle de la fumée.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A fire barrier is not required between the atrium and the adjoining spaces where the atrium is not required to be provided with a smoke control system.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une barrière coupe-feu n'est pas requise entre l'atrium et les aires adjacentes lorsque l'atrium n'a pas besoin d'être équipé d'un système de contrôle des fumées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055743Z">
+        <seg>Une barrière coupe-feu n’est pas requise entre l’atrium et les espaces adjacents lorsque l’atrium n’est pas tenu d’être équipé d’un système de contrôle de la fumée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2881,12 +2876,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A fire barrier is not required where a glass-block wall assembly complying with Section 2110 and having a 3/4-hour fire protection rating is provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une barrière coupe-feu n'est pas requise lorsqu'un ensemble de mur en blocs de verre conforme à la section 2110 et ayant un degré de protection contre le feu de 3/4 heure est prévu.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055700Z">
+        <seg>Une barrière coupe-feu n’est pas requise lorsqu’un ensemble de mur en blocs de verre conforme à l’article 2110 et ayant un degré de protection contre l’incendie de 3/4 heure est prévu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2956,12 +2950,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A smoke control system is not required for atriums connecting more than two stories when all of the following are met:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système de contrôle de la fumée n'est pas exigé pour les ATRIUMS reliant plus de deux étages lorsque toutes les conditions suivantes sont respectées :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055410Z">
+        <seg>Un système de contrôle de la fumée n’est pas exigé pour les atriums reliant plus de deux étages lorsque toutes les conditions suivantes sont respectées :</seg>
       </tuv>
     </tu>
     <tu>
@@ -3014,12 +3007,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>All stories above the lowest two stories shall be separated from the atrium in accordance with the provisions for a shaft in Section 713.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Tous les étages au-dessus des deux étages les plus bas doivent être séparés de l'ATRIUM conformément aux dispositions relatives à un puits de la section 713.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055452Z">
+        <seg>Tous les étages situés au-dessus des deux étages les plus bas doivent être séparés de l’atrium conformément aux dispositions applicables aux puits de l’article 713.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3187,21 +3179,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Atrium spaces shall be separated from adjacent spaces by a 1-hour fire barrier constructed in accordance with Section 707 or a horizontal assembly constructed in accordance with Section 711, or both.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les espaces d'atrium doivent être séparés des espaces adjacents par une barrière coupe-feu offrant un degré de résistance au feu d'une (1) heure construite selon la section 707 ou une séparation horizontale construite selon la section 711, ou les deux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055501Z">
+        <seg>Les espaces d’atrium doivent être séparés des espaces adjacents par une barrière coupe-feu d’un degré de résistance au feu de 1 heure construite conformément à l’article 707, par un ensemble horizontal construit conformément à l’article 711, ou par les deux.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Atriums are not permitted in buildings or structures classified as Group H.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ATRIUMS ne sont pas autorisés dans les bâtiments ou les structures classés dans le groupe H.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055032Z">
+        <seg>Les atriums ne sont pas autorisés dans les bâtiments ou les structures classés dans le groupe H.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3214,12 +3204,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Automatic sprinklers are provided along both sides of the separation wall and doors, or on the room side only if there is not a walkway on the atrium side.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des gicleurs automatiques sont prévus le long des deux côtés du mur de séparation et des portes, ou du côté de la pièce uniquement s'il n'y a pas de passerelle du côté de l'ATRIUM.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055552Z">
+        <seg>Des gicleurs automatiques sont prévus des deux côtés du mur de séparation et des portes, ou du côté de la pièce seulement s’il n’y a pas de passerelle du côté de l’atrium.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3491,12 +3480,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Each fire service access elevator shall have a capacity of not less than 3,500 pounds (1588 kg) and shall comply with Section 3002.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Chaque ascenseur d'accès pour les services d'incendie doit avoir une capacité d'au moins 3 500 livres (1 588 kg) et doit être conforme à la section 3002.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054913Z">
+        <seg>Chaque ascenseur d’accès pour les services d’incendie doit avoir une capacité d’au moins 3 500 lb (1 588 kg) et doit être conforme à l’article 3002.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3550,12 +3538,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Elevator installation and operation in high-rise buildings shall comply with Chapter 30 and Sections 403.6.1 and 403.6.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'installation et le fonctionnement des ascenseurs dans les immeubles de grande hauteur doivent être conformes au chapitre 30 et aux sections 403.6.1 et 403.6.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054815Z">
+        <seg>L'installation et le fonctionnement des ascenseurs dans les bâtiments de grande hauteur doivent être conformes au chapitre 30 et aux sections 403.6.1 et 403.6.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3940,12 +3927,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>In buildings with an occupied floor more than 120 feet (36 576 mm) above the lowest level of fire department vehicle access, not fewer than two fire service access elevators, or all elevators, whichever is less, shall be provided in accordance with Section 3007.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les bâtiments dont un étage occupé se trouve à plus de 120 pieds [36 576 mm] au-dessus du niveau le plus bas d'accès des véhicules des services d'incendie, au moins deux ascenseurs d'accès pour les services d'incendie, ou tous les ascenseurs, selon le nombre le plus faible, doivent être prévus selon la section 3007.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054840Z">
+        <seg>Dans les bâtiments dont un étage occupé est situé à plus de 120 pi (36 576 mm) au-dessus du niveau le plus bas d’accès des véhicules du service d’incendie, au moins deux ascenseurs d’accès pour les services d’incendie, ou tous les ascenseurs, selon le nombre le moins élevé, doivent être prévus conformément à l’article 3007.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3973,12 +3959,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>In other than Group I-2, and Group I-1, Condition 2, smoke control is not required for atriums that connect only two stories.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les usages autres que ceux du groupe I-2 et du groupe I-1, condition 2, le contrôle de la fumée n'est pas exigé pour les ATRIUMS qui relient seulement deux étages.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055359Z">
+        <seg>Dans les occupations autres que celles du groupe I-2 et du groupe I-1, condition 2, un système de contrôle de la fumée n’est pas exigé pour les atriums qui relient seulement deux étages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4120,12 +4105,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Luminous egress path markings shall be provided in accordance with Section 1025.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des marquages lumineux des voies d'évacuation doivent être prévus selon la section 1025.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054801Z">
+        <seg>Un marquage lumineux des parcours d’évacuation doit être prévu conformément à l’article 1025.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4230,12 +4214,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Only the two lowest stories shall be permitted to be open to the atrium.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Seuls les deux étages les plus bas peuvent être ouverts sur l'ATRIUM.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055419Z">
+        <seg>Seuls les deux étages les plus bas peuvent être ouverts sur l’atrium.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4624,12 +4607,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>That area of a building adjacent to or above the atrium need not be sprinklered provided that portion of the building is separated from the atrium portion by not less than 2-hour fire barriers constructed in accordance with Section 707 or horizontal assemblies constructed in accordance with Section 711, or both.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La zone d'un bâtiment adjacente à l'atrium ou au-dessus de celui-ci n'a pas besoin d'être équipée de gicleurs à condition que cette partie du bâtiment soit séparée de la partie de l'atrium par des barrières coupe-feu d'au moins 2 heures construites selon la section 707 ou par des ensembles horizontaux construits selon la section 711, ou les deux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055306Z">
+        <seg>La zone d’un bâtiment adjacente à l’atrium ou située au-dessus de celui-ci n’a pas besoin d’être équipée de gicleurs à condition que cette partie du bâtiment soit séparée de la partie du bâtiment constituant l’atrium par des barrières coupe-feu d’au moins 2 heures construites conformément à l’article 707 ou par des ensembles horizontaux construits conformément à l’article 711, ou par les deux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4658,12 +4640,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The atrium floor area is permitted to be used for any approved use where the individual space is provided with an automatic sprinkler system in accordance with Section 903.3.1.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La surface de plancher de l'atrium peut être utilisée pour tout usage approuvé lorsque l'espace individuel est pourvu d'un système d'extincteurs automatiques selon la section 903.3.1.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055107Z">
+        <seg>La superficie de plancher de l’atrium peut être utilisée pour tout usage approuvé lorsque l’espace concerné est équipé d’un système de gicleurs automatiques conformément à l’article 903.3.1.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5010,12 +4991,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The floor of the atrium shall not be used for other than low fire hazard uses and only approved materials and decorations in accordance with the International Fire Code shall be used in the atrium space.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le plancher de l'atrium ne doit pas être utilisé à d'autres fins que des usages à faible risque d'incendie et seuls les matériaux et les décorations approuvés conformément à l'International Fire Code doivent être utilisés dans l'atrium.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055051Z">
+        <seg>Le plancher de l’atrium ne doit être utilisé que pour des usages présentant un faible risque d’incendie, et seuls les matériaux et décorations approuvés conformément à l’International Fire Code doivent être utilisés dans l’espace de l’atrium.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5045,12 +5025,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The glass wall shall be installed in a gasketed frame in a manner that the framing system deflects without breaking (loading) the glass before the sprinkler system operates; and</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le mur de verre doit être installé dans un cadre muni de joints d'étanchéité de manière à ce que le système d'encadrement se déforme sans briser (charger) le verre avant que le système de gicleurs ne se mette en marche; et</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055640Z">
+        <seg>Le mur vitré doit être installé dans un cadre muni de joints d’étanchéité, de manière que le système d’ossature puisse fléchir sans briser le verre (sous l’effet de la charge) avant le déclenchement du système de gicleurs; et</seg>
       </tuv>
     </tu>
     <tu>
@@ -5179,12 +5158,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The provisions of Sections 404.1 through 404.11 shall apply to buildings containing atriums.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les dispositions des articles 404.1 à 404.11 s'appliquent aux bâtiments contenant des ATRIUMS.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055000Z">
+        <seg>Les dispositions des articles 404.1 à 404.11 s’appliquent aux bâtiments contenant des atriums.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5221,21 +5199,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The sprinkler system shall be designed so that the entire surface of the glass is wet upon activation of the sprinkler system without obstruction;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le système de gicleurs doit être conçu de manière à ce que toute la surface du verre soit mouillée lors de l'activation du système de gicleurs sans obstruction;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055616Z">
+        <seg>Le système de gicleurs doit être conçu de manière que toute la surface du verre soit mouillée lors du déclenchement du système de gicleurs, sans obstruction;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The sprinklers shall be located between 4 inches and 12 inches (102 mm and 305 mm) away from the glass and at intervals along the glass not greater than 6 feet (1829 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les gicleurs doivent être situés entre 4 po et 12 po [102 mm et 305 mm] du verre et à des intervalles d'au plus 6 pieds [1829 mm] le long du verre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055603Z">
+        <seg>Les gicleurs doivent être situés à une distance de 4 po à 12 po (102 mm à 305 mm) du verre et espacés d’au plus 6 pi (1 829 mm) le long du verre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5509,21 +5485,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Where glass doors are provided in the glass wall, they shall be either self-closing or automatic-closing.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des portes en verre sont prévues dans le mur de verre, elles doivent être soit à fermeture automatique, soit à fermeture automatique.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055647Z">
+        <seg>Lorsque des portes en verre sont prévues dans le mur vitré, elles doivent être soit à fermeture automatique, soit à fermeture commandée automatiquement.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Where installed in accordance with Section 3008, passenger elevators for general public use shall be permitted to be used for occupant self-evacuation.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'ils sont installés selon la section 3008, les ascenseurs de passagers à usage public général peuvent être utilisés pour l'auto-évacuation des occupants.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054943Z">
+        <seg>Lorsqu’ils sont installés conformément à l’article 3008, les ascenseurs pour passagers destinés à l’usage général du public peuvent être utilisés pour l’auto-évacuation des occupants.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5567,12 +5541,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Where the ceiling of the atrium is more than 55 feet (16 764 mm) above the floor, sprinkler protection at the ceiling of the atrium is not required.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque le plafond de l'atrium est à plus de 55 pi [16 764 mm] au-dessus du sol, la protection par gicleurs au plafond de l'atrium n'est pas exigée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T055314Z">
+        <seg>Lorsque le plafond de l’atrium se trouve à plus de 55 pi (16 764 mm) au-dessus du plancher, une protection par gicleurs au plafond de l’atrium n’est pas exigée.</seg>
       </tuv>
     </tu>
     <tu>
