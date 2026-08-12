@@ -1106,12 +1106,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;[A] 111.1 Change of occupancy&lt;e1/&gt;&lt;e2/&gt;&lt;g4&gt;.&lt;/g4&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;[A] 111.1 Changement d'usage&lt;e1/&gt;&lt;e2/&gt;&lt;g4&gt;.&lt;/g4&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041408Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;[A] 111.1 Changement d’occupation&lt;e1/&gt;&lt;e2/&gt;&lt;g4&gt;.&lt;/g4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1676,12 +1675,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;Certificates of occupancy are not required for work exempt from permits in accordance with Section 105.2.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;Les certificats d'usage ne sont pas exigés pour les travaux exemptés de permis selon la section 105.2.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041521Z">
+        <seg>&lt;g1&gt;Les certificats d’occupation ne sont pas exigés pour les travaux exemptés de permis selon la section 105.2.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2838,12 +2836,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A building or structure shall not be used or occupied in whole or in part, and a change of occupancy of a building or structure or portion thereof shall not be made, until the building official has issued a certificate of occupancy therefor as provided herein.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un bâtiment ou une structure ne doit pas être utilisé ou occupé en tout ou en partie, et un changement d'usage d'un bâtiment ou d'une structure ou d'une partie de celui-ci ne doit pas être effectué, tant que le responsable de la construction n'a pas délivré un certificat d'usage à cet effet, comme prévu aux présentes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041413Z">
+        <seg>Un bâtiment ou une construction ne doit être utilisé ou occupé, en tout ou en partie, et aucun changement d’occupation d’un bâtiment ou d’une construction, ou d’une partie de ceux-ci, ne doit être effectué tant que le responsable de la construction n’a pas délivré un certificat d’occupation à cet effet, conformément aux présentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3015,12 +3012,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A statement that the described portion of the structure has been inspected for compliance with the requirements of this code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une déclaration indiquant que la partie décrite de la structure a été inspectée pour vérifier sa conformité aux exigences du présent code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041643Z">
+        <seg>Une mention indiquant que la partie de la construction décrite a été inspectée afin de vérifier sa conformité aux exigences du présent code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3033,12 +3029,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>After the building official inspects the building or structure and does not find violations of the provisions of this code or other laws that are enforced by the department, the building official shall issue a certificate of occupancy that contains the following:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Après que le responsable de la construction a inspecté le bâtiment ou la structure et n'a pas constaté de violations des dispositions du présent code ou d'autres lois appliquées par le département, le responsable de la construction doit délivrer un certificat d'occupation qui contient ce qui suit :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041556Z">
+        <seg>Après avoir inspecté le bâtiment ou la construction et constaté l’absence de violations des dispositions du présent code ou d’autres lois appliquées par le service, le responsable de la construction doit délivrer un certificat d’occupation contenant les éléments suivants :</seg>
       </tuv>
     </tu>
     <tu>
@@ -3192,12 +3187,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Any portions that do not comply shall be corrected and such portion shall not be covered or concealed until authorized by the building official.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Toute partie non conforme doit être corrigée et cette partie ne doit pas être recouverte ou dissimulée tant que le responsable de la construction ne l'a pas autorisé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041351Z">
+        <seg>Toute partie non conforme doit être corrigée et ne doit pas être recouverte ou dissimulée avant d’avoir été autorisée par le responsable de la construction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3370,12 +3364,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Certificates presuming to give authority to violate or cancel the provisions of this code or other ordinances of the jurisdiction shall not be valid.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les certificats supposés donner le pouvoir de violer ou d'annuler les dispositions du présent code ou d'autres ordonnances de la juridiction ne sont pas valides.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041449Z">
+        <seg>Les certificats qui prétendent autoriser la violation ou l’annulation des dispositions du présent code ou d’autres ordonnances de la juridiction ne sont pas valides.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3911,12 +3904,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>If located in a flood hazard area, documentation of the elevation of the lowest floor as required in Section 1612.4 shall be submitted to the building official prior to the final inspection.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Si le bâtiment est situé dans une zone à risque d'inondation, la documentation relative aux élévations du plancher le plus bas, telle qu'exigée à la section 1612.4, doit être présentée au responsable de la construction avant l'inspection finale.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T040737Z">
+        <seg>Si le bâtiment est situé dans une zone à risque d’inondation, les documents attestant de l’élévation du plancher le plus bas, conformément à l’article 1612.4, doivent être soumis au responsable de la construction avant l’inspection finale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4132,21 +4124,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Issuance of a certificate of occupancy shall not be construed as an approval of a violation of the provisions of this code or of other ordinances of the jurisdiction.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La délivrance d'un certificat d'occupation ne doit pas être interprétée comme une approbation d'une violation des dispositions du présent code ou d'autres ordonnances de la juridiction.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041431Z">
+        <seg>La délivrance d’un certificat d’occupation ne doit pas être interprétée comme une approbation d’une violation des dispositions du présent code ou d’autres ordonnances de la juridiction.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>It shall be the duty of the holder of the building permit or their duly authorized agent to notify the building official when work is ready for inspection.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il incombe au titulaire du permis de construction ou à son agent dûment autorisé d'aviser le responsable de la construction lorsque les travaux sont prêts pour l'inspection.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T040838Z">
+        <seg>Il incombe au titulaire du permis de construire ou à son mandataire dûment autorisé d’aviser le responsable de la construction lorsque les travaux sont prêts pour l’inspection.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4158,12 +4148,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>It shall be the duty of the permit holder to provide access to and means for inspections of such work that are required by this code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il incombe au titulaire du permis de fournir l'accès et les moyens nécessaires aux inspections de ces travaux exigées par le présent code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T040846Z">
+        <seg>Il incombe au titulaire du permis de fournir l’accès aux travaux visés par le présent code et les moyens nécessaires pour permettre les inspections exigées par celui-ci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4785,12 +4774,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The building official is authorized to accept reports of approved inspection agencies, provided that such agencies satisfy the requirements as to qualifications and reliability.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le responsable de la construction est autorisé à accepter les rapports des organismes d'inspection agréés, à condition que ces organismes satisfassent aux exigences en matière de qualifications et de fiabilité.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T040813Z">
+        <seg>Le responsable de la construction est autorisé à accepter les rapports des organismes d’inspection approuvés, à condition que ces organismes satisfassent aux exigences en matière de qualifications et de fiabilité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4945,12 +4933,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The building official, upon notification, shall make the requested inspections and shall either indicate the portion of the construction that is satisfactory as completed, or notify the permit holder or the permit holder's agent wherein the same fails to comply with this code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le responsable de la construction, sur notification, doit effectuer les inspections demandées et doit soit indiquer la partie de la construction qui est satisfaisante telle qu'elle a été achevée, soit informer le titulaire du permis ou son mandataire des points où celle-ci n'est pas conforme au présent code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041305Z">
+        <seg>Sur notification, le responsable de la construction doit effectuer les inspections demandées et doit soit indiquer la partie de la construction qui est satisfaisante une fois achevée, soit aviser le titulaire du permis ou son mandataire des éléments qui ne sont pas conformes au présent code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5045,12 +5032,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The design occupant load.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La charge d'occupants aux fins de conception.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041727Z">
+        <seg>La charge d’occupation de calcul.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5429,12 +5415,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The use and occupancy, in accordance with the provisions of Chapter 3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'utilisation et l'usage, conformément aux dispositions du chapitre 3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041658Z">
+        <seg>L’usage et l’occupation, conformément aux dispositions du chapitre 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5742,12 +5727,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Work shall not be done beyond the point indicated in each successive inspection without first obtaining the approval of the building official.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les travaux ne doivent pas être effectués au-delà du point indiqué lors de chaque inspection successive sans avoir obtenu au préalable l'approbation du responsable de la construction.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041248Z">
+        <seg>Les travaux ne doivent pas être poursuivis au-delà du stade indiqué lors de chaque inspection successive sans avoir obtenu au préalable l’approbation du responsable de la construction.</seg>
       </tuv>
     </tu>
     <tu>
