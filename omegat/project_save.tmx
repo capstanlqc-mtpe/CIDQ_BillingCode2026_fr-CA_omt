@@ -1264,21 +1264,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;403.5.1 Remoteness of interior exit stairways.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;403.5.1 Éloignement des escaliers d'issue intérieurs.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054216Z">
+        <seg>&lt;g1&gt;403.5.1 Éloignement des escaliers d’issue intérieurs.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;403.5.2 Additional interior exit stairway.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;403.5.2 Escalier d'issue intérieur supplémentaire.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054349Z">
+        <seg>&lt;g1&gt;403.5.2 Escalier d’issue intérieur supplémentaire.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1291,12 +1289,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;403.5.3.1 Stairway communication system.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;403.5.3.1 Système de communication de l'escalier.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054627Z">
+        <seg>&lt;g1&gt;403.5.3.1 Système de communication de la cage d’escalier.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1309,12 +1306,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;403.5.5 Luminous egress path markings.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;403.5.5 Marquages lumineux des voies d'évacuation.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054729Z">
+        <seg>&lt;g1&gt;403.5.5 Marquages lumineux des issues d'évacuation.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2754,12 +2750,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 403.4.8.2 Fuel line piping protection.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 403.4.8.2 Protection de la tuyauterie de la conduite de carburant.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053725Z">
+        <seg>&lt;g1&gt;[F] 403.4.8.2 Protection de la tuyauterie des conduites de carburant.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2903,12 +2898,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A fire-resistant pipe-protection system that has been tested in accordance with UL 1489.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système de protection de tuyauterie résistant au feu qui a été testé conformément à la norme UL 1489.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053801Z">
+        <seg>Un système de protection des tuyaux contre le feu ayant fait l’objet d’un essai conformément à la norme UL 1489.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2996,12 +2990,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>A telephone or other two-way communications system connected to an approved constantly attended station shall be provided at not less than every fifth floor in each stairway where the doors to the stairway are locked.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un téléphone ou un autre système de communication bidirectionnel relié à un poste approuvé constamment occupé doit être prévu au moins tous les cinq étages dans chaque escalier où les portes de l'escalier sont verrouillées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054652Z">
+        <seg>Un téléphone ou un autre système de communication bidirectionnelle relié à un poste approuvé occupé en permanence doit être installé au moins à chaque cinquième étage dans chaque cage d’escalier où les portes de la cage d’escalier sont verrouillées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3038,21 +3031,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>An additional interior exit stairway shall not be required for other portions of the building where the highest occupiable floor level in those areas is less than 420 feet (128 m) in building height.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un escalier d'issue intérieur supplémentaire n'est pas exigé pour les autres parties du bâtiment lorsque le niveau du sol le plus élevé de l'aire habitable dans ces aires est inférieur à 420 pi [128 m] de hauteur de bâtiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054527Z">
+        <seg>Un escalier d’issue intérieur supplémentaire n’est pas exigé pour les autres parties du bâtiment lorsque le niveau du plancher occupable le plus élevé dans ces parties est situé à une hauteur inférieure à 420 pi (128 m).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>An additional interior exit stairway shall not be required to be installed in buildings having elevators used for occupant self-evacuation in accordance with Section 3008.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il n'est pas exigé d'installer un escalier d'issue intérieur supplémentaire dans les bâtiments dotés d'ascenseurs utilisés pour l'auto-évacuation des occupants selon la section 3008.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054452Z">
+        <seg>Il n’est pas exigé d’installer un escalier d’issue intérieur supplémentaire dans les bâtiments dotés d’ascenseurs utilisés pour l’auto-évacuation des occupants conformément à l’article 3008.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3073,12 +3064,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>An assembly that has a fire-resistance rating of not less than 2 hours.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un assemblage qui offre un degré de résistance au feu d'au moins deux heures (2 h).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053856Z">
+        <seg>Un assemblage ayant un degré de résistance au feu d’au moins 2 heures.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3604,12 +3594,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Every required interior exit stairway serving floors more than 75 feet (22 860 mm) above the lowest level of fire department vehicle access shall be a smokeproof enclosure in accordance with Sections 909.20 and 1023.12.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Chaque escalier d'issue intérieur exigé desservant des planchers situés à plus de 75 pi [22 860 mm] au-dessus du niveau le plus bas d'accès des véhicules des services d'incendie doit être un escalier étanche à la fumée selon les sections 909.20 et 1023.12.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054711Z">
+        <seg>Chaque escalier d’issue intérieur exigé desservant des étages situés à plus de 75 pi (22 860 mm) au-dessus du niveau le plus bas d’accès des véhicules du service d’incendie doit être une enceinte à l’épreuve de la fumée conforme aux articles 909.20 et 1023.12.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3673,12 +3662,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Fire alarm systems.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Systèmes d'alarme incendie.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054108Z">
+        <seg>Systèmes d'alarme d'incendie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3714,12 +3702,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>For buildings other than Group R-2 and their ancillary spaces that are more than 420 feet (128 m) in building height, one additional interior exit stairway meeting the requirements of Sections 1011 and 1023 shall be provided in addition to the minimum number of exits required by Section 1006.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les bâtiments autres que ceux du groupe R-2 et leurs espaces auxiliaires dont la hauteur du bâtiment est supérieure à 420 pieds (128 m), un escalier d'issue intérieur supplémentaire satisfaisant aux exigences des articles 1011 et 1023 doit être prévu en plus du nombre minimal d'issues requis par l'article 1006.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054412Z">
+        <seg>Pour les bâtiments autres que ceux du groupe R-2 et leurs espaces accessoires dont la hauteur dépasse 420 pi (128 m), un escalier d’issue intérieur supplémentaire conforme aux exigences des articles 1011 et 1023 doit être prévu en plus du nombre minimal d’issues exigé par l’article 1006.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3765,12 +3752,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Fuel lines supplying a generator set inside a building shall be separated from areas of the building other than the room the generator is located in by one of the following methods:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les conduites de carburant alimentant un groupe électrogène à l'intérieur d'un bâtiment doivent être séparées des zones du bâtiment autres que la pièce dans laquelle se trouve le générateur par l'une des méthodes suivantes :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053736Z">
+        <seg>Les conduites de carburant alimentant un groupe électrogène situé à l’intérieur d’un bâtiment doivent être séparées des parties du bâtiment autres que le local où se trouve le groupe électrogène par l’une des méthodes suivantes :</seg>
       </tuv>
     </tu>
     <tu>
@@ -3963,12 +3949,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>In buildings with three or more interior exit stairways, not fewer than two of the interior exit stairways shall comply with this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les bâtiments comportant trois escaliers d'issue intérieurs ou plus, au moins deux des escaliers d'issue intérieurs doivent être conformes à la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054316Z">
+        <seg>Dans les bâtiments comportant trois escaliers d’issue intérieurs ou plus, au moins deux de ces escaliers doivent être conformes au présent article.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4054,12 +4039,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Interlocking or scissor stairways shall be counted as one interior exit stairway.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les escaliers imbriqués ou à ciseaux doivent être considérés comme un escalier d'issue intérieur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054338Z">
+        <seg>Les escaliers imbriqués ou en ciseaux doivent être comptés comme un seul escalier d’issue intérieur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4349,12 +4333,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Power and lighting for the fire command center required by Section 403.4.6.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Alimentation électrique et éclairage du centre de commandement des incendies, comme l'exige l'article 403.4.6.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054134Z">
+        <seg>Alimentation électrique et éclairage du centre de commandement en cas d’incendie exigés par l’article 403.4.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4406,12 +4389,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Required interior exit stairways shall be separated by a distance not less than 30 feet (9144 mm) or not less than one-fourth of the length of the maximum overall diagonal dimension of the building or area to be served, whichever is less.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les escaliers d'issue intérieurs exigés doivent être séparés par une distance d'au moins 30 pi (9 144 mm) ou d'au moins le quart de la longueur de la diagonale totale maximale du bâtiment ou de la zone à desservir, selon la valeur la plus faible.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054229Z">
+        <seg>Les escaliers d’issue intérieurs exigés doivent être séparés par une distance d’au moins 30 pi (9 144 mm) ou d’au moins le quart de la longueur de la diagonale hors tout maximale du bâtiment ou de la zone à desservir, selon la plus petite de ces distances.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4479,12 +4461,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Scissor stairways shall not be considered the additional interior exit stairway required by this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les escaliers en ciseaux ne doivent pas être considérés comme l'escalier d'issue intérieur supplémentaire exigé par la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054447Z">
+        <seg>Les escaliers en ciseaux ne doivent pas être considérés comme l’escalier d’issue intérieur supplémentaire exigé par le présent article.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4561,21 +4542,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Stairway doors other than the exit discharge doors shall be permitted to be locked from the stairway side.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes d'escalier autres que les portes d'issue d'évacuation peuvent être verrouillées du côté de l'escalier.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054538Z">
+        <seg>Les portes de cage d’escalier autres que les portes d’issue d’évacuation peuvent être verrouillées du côté de la cage d’escalier.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Stairway doors that are locked from the stairway side shall be capable of being unlocked simultaneously without unlatching upon a signal from the fire command center.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes d'escalier verrouillées du côté de l'escalier doivent pouvoir être déverrouillées simultanément sans déverrouillage sur un signal du centre de commandement des incendies.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054621Z">
+        <seg>Les portes de cage d’escalier qui sont verrouillées du côté de la cage d’escalier doivent pouvoir être déverrouillées simultanément sans être déverrouillées du pêne sur réception d’un signal provenant du centre de commandement en cas d’incendie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4972,12 +4951,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The distance shall be measured in a straight line between the nearest points of the enclosure surrounding the interior exit stairways.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La distance doit être mesurée en ligne droite entre les points les plus proches de l'enceinte entourant les escaliers d'issue intérieurs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054242Z">
+        <seg>La distance doit être mesurée en ligne droite entre les points les plus proches de l’enceinte entourant les escaliers d’issue intérieurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5118,12 +5096,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The means of egress in high-rise buildings shall comply with Sections 403.5.1 through 403.5.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les moyens d'évacuation dans les immeubles de grande hauteur doivent être conformes aux sections 403.5.1 à 403.5.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054204Z">
+        <seg>Les moyens d’évacuation des bâtiments de grande hauteur doivent être conformes aux articles 403.5.1 à 403.5.5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5294,21 +5271,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The system shall be installed as tested and in accordance with the manufacturer's installation instructions, and shall have a rating of not less than 2 hours.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le système doit être installé tel qu'il a été testé et conformément aux directives d'installation du fabricant, et il doit avoir un degré de résistance d'au moins 2 heures.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053811Z">
+        <seg>Le système doit être installé conformément aux résultats de l’essai et aux instructions d’installation du fabricant, et son degré de résistance au feu doit être d’au moins 2 heures.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>The total capacity of any combination of remaining interior exit stairways with one interior exit stairway removed shall be not less than the total capacity required by Section 1005.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La capacité totale de toute combinaison d'escaliers d'issue intérieurs restants avec un escalier d'issue intérieur supprimé ne doit pas être inférieure à la capacité totale exigée par l'article 1005.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054422Z">
+        <seg>La capacité totale de toute combinaison d’escaliers d’issue intérieurs restants après le retrait d’un escalier d’issue intérieur ne doit pas être inférieure à la capacité totale exigée par l’article 1005.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5518,12 +5493,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Where elevators are provided in a high-rise building for accessible means of egress, fire service access or occupant self-evacuation, the standby power system shall also comply with Sections 1009.4, 3007 or 3008, as applicable.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des ascenseurs sont prévus dans un immeuble de grande hauteur pour les moyens d'évacuation accessibles, l'accès des services d'incendie ou l'auto-évacuation des occupants, le système d'alimentation de secours doit également être conforme aux sections 1009.4, 3007 ou 3008, selon ce qui s'applique.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054052Z">
+        <seg>Lorsque des ascenseurs sont prévus dans un bâtiment de grande hauteur pour servir de moyen d’évacuation accessible, pour l’accès des services d’incendie ou pour l’auto-évacuation des occupants, le système d’alimentation électrique de secours doit également être conforme aux articles 1009.4, 3007 ou 3008, selon le cas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5569,21 +5543,19 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Where the building is protected throughout with an automatic sprinkler system installed in accordance with Section 903.3.1.1 or 903.3.1.2, the required fire-resistance rating shall be reduced to 1 hour.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque le bâtiment est entièrement protégé par un système d'extincteurs automatiques installé selon la section 903.3.1.1 ou 903.3.1.2, le degré de résistance au feu requis doit être réduit à 1 heure.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053944Z">
+        <seg>Lorsque le bâtiment est entièrement protégé par un système d'extincteurs automatiques installé conformément à l’article 903.3.1.1 ou 903.3.1.2, le degré de résistance au feu requis doit être réduit à 1 heure.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Where the building is protected throughout with an automatic sprinkler system installed in accordance with Section 903.3.1.1, the required rating shall be reduced to 1 hour.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque le bâtiment est entièrement protégé par un système d'extincteurs automatiques installé selon la section 903.3.1.1, le degré requis doit être réduit à une (1) heure.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T053841Z">
+        <seg>Lorsque le bâtiment est entièrement protégé par un système d'extincteurs automatiques installé conformément à l’article 903.3.1.1, le degré de résistance au feu requis doit être réduit à 1 heure.</seg>
       </tuv>
     </tu>
     <tu>
