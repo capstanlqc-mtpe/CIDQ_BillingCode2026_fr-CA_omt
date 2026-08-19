@@ -19417,15 +19417,6 @@
     <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
-        <seg>&lt;g1&gt;Table of Contents&lt;/g1&gt;</seg>
-      </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;Table des matières&lt;/g1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="x-auto">auto</prop>
-      <tuv lang="en">
         <seg>&lt;g1&gt;The clearance between the platform sill and the edge of any runway landing shall be 11/4 inch (32 mm) maximum&lt;/g1&gt;&lt;g3&gt;.&lt;/g3&gt;</seg>
       </tuv>
       <tuv lang="fr-CA">
