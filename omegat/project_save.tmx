@@ -16400,8 +16400,8 @@
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;“This is reproduced from 2018 International Building Code, the 2021 International Plumbing Code and ICC A117.1-2017 Standard and Commentary:&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T215453Z">
-        <seg>&lt;g1&gt;&lt;x2/&gt;« Ce document est reproduit à partir de l’International Building Code de 2018, de l’International Plumbing Code de 2021 et de la norme et du commentaire ICC A117.1-2017 :&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260821T030354Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;« Le présent document est reproduit à partir de l’International Building Code de 2018, de l’International Plumbing Code de 2021 et de la norme et du commentaire ICC A117.1-2017 :&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16538,8 +16538,8 @@
       <tuv lang="en">
         <seg>&lt;g1&gt;Accessible and Usable Buildings and Facilities International Code Council, Inc., Washington, D.C. Reproduced with permission.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T215545Z">
-        <seg>&lt;g1&gt;Bâtiments et installations accessibles et utilisables. International Code Council, Inc., Washington, D.C. Reproduit avec autorisation.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260821T030535Z">
+        <seg>&lt;g1&gt;Bâtiments et installations accessibles et utilisables, International Code Council, Inc., Washington, D.C. Reproduit avec permission.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17804,8 +17804,8 @@
       <tuv lang="en">
         <seg>&lt;g1&gt;Please be reminded that images, other than tables, are not included in this code document.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260810T215639Z">
-        <seg>&lt;g1&gt;Veuillez noter que les images, à l’exception des tableaux, ne sont pas incluses dans le présent document de code.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260821T031302Z">
+        <seg>&lt;g1&gt;Veuillez noter que les figures et les illustrations, autres que les tableaux, ne sont pas reproduites dans le présent document de code.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20999,13 +20999,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.901</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[A] 109.4 Work commencing before permit issuance.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[A] 109.4 Début des travaux avant la délivrance du permis.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260821T030137Z">
+        <seg>&lt;g1&gt;[A] 109.4 Travaux commencés avant la délivrance du permis.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
