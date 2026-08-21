@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.3_0_e363cb094" segtype="paragraph" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.3_0_57b1bb571" segtype="paragraph" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -29961,8 +29961,8 @@
       <tuv lang="en">
         <seg>Construction or work for which a permit is required shall be subject to inspection by the building official and such construction or work shall remain visible and able to be accessed for inspection purposes until approved.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T034914Z">
-        <seg>La construction ou les travaux pour lesquels un permis est requis sont soumis à une inspection par le responsable de la construction, et la construction ou les travaux doivent rester visibles et accessibles à des fins d’inspection jusqu’à leur approbation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260821T025850Z">
+        <seg>Toute construction ou tous travaux nécessitant un permis doivent faire l’objet d’une inspection par l’autorité compétente en matière de bâtiment, et cette construction ou ces travaux doivent demeurer visibles et accessibles à des fins d’inspection jusqu’à leur approbation.</seg>
       </tuv>
     </tu>
     <tu>
