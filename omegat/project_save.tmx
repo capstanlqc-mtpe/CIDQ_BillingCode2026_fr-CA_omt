@@ -9834,13 +9834,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.874: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1106.3 Building fire alarm system.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1106.3 Système d'alarme incendie du bâtiment.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T164058Z">
+        <seg>&lt;g1&gt;1106.3 Système d'alarme d'incendie du bâtiment.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48056,13 +48055,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.882: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Units required to have communication features shall comply with Section 1106.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les unités devant être dotées de fonctions de communication doivent se conformer à la section 1106.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T170247Z">
+        <seg>Les logements qui doivent être dotés de dispositifs de communication doivent être conformes à la section 1106.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48390,13 +48388,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Visible notification appliances, where provided within the unit as part of the unit smoke detection system or the building fire alarm system, shall comply with Section 1106.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les dispositifs de signalisation visible, lorsqu'ils sont prévus dans le logement dans le cadre du système de détection de fumée du logement ou du système d'alarme incendie du bâtiment, doivent se conformer à la section 1106.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T164017Z">
+        <seg>Les dispositifs de signalisation visible, lorsqu'ils sont installés dans le logement dans le cadre du système de détection de fumée du logement ou du système d'alarme d'incendie du bâtiment, doivent être conformes à la section 1106.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48785,13 +48782,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a building fire alarm system is provided, the system wiring shall be extended to a point within the unit in the vicinity of the unit smoke detection system.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un système d'alarme incendie du bâtiment est prévu, le câblage du système doit être prolongé jusqu'à un point à l'intérieur du logement à proximité du système de détection de fumée du logement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T164052Z">
+        <seg>Lorsqu’un système d’alarme d'incendie du bâtiment est installé, le câblage du système doit être prolongé jusqu’à un point situé dans le logement, à proximité du système de détection de fumée du logement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50250,13 +50246,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where provided, unit smoke detection shall include audible notification complying with NFPA 72 listed in Section 106.2.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'elle est prévue, la détection de fumée de l'unité doit comprendre une notification sonore conforme à la norme NFPA 72 énumérée à l'article 106.2.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T164114Z">
+        <seg>Lorsqu'elle est prévue, la détection de fumée de l'unité doit comprendre une notification sonore conforme à la norme NFPA 72 énumérée à la section 106.2.4.</seg>
       </tuv>
     </tu>
     <tu>
