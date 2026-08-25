@@ -18589,13 +18589,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;R311.7.5.3 Nosings.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;R311.7.5.3 Nez de marche.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T001951Z">
+        <seg>&lt;g1&gt;R311.7.5.3 Nez de marches.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27253,8 +27252,8 @@
       <tuv lang="en">
         <seg>Any owner or owner's authorized agent who intends to construct, enlarge, alter, repair, move, demolish or change the occupancy of a building or structure, or to erect, install, enlarge, alter, repair, remove, convert or replace any electrical, gas, mechanical or plumbing system, the installation of which is regulated by this code, or to cause any such work to be performed, shall first make application to the building official and obtain the required permit.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260821T032729Z">
-        <seg>Tout propriétaire ou mandataire autorisé du propriétaire qui a l’intention de construire, d’agrandir, de modifier, de réparer, de déplacer ou de démolir un bâtiment ou une structure, ou d’en modifier l’usage, ou d’ériger, d’installer, d’agrandir, de modifier, de réparer, d’enlever, de convertir ou de remplacer un système électrique, de gaz, mécanique ou de plomberie dont l’installation est régie par le présent code, ou de faire exécuter de tels travaux, doit d’abord présenter une demande à l’autorité compétente en matière de bâtiment et obtenir le permis requis.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T001540Z">
+        <seg>Tout propriétaire ou mandataire autorisé du propriétaire qui prévoit construire, agrandir, modifier, réparer, déplacer ou démolir un bâtiment ou une structure, ou en changer l’usage, ou encore ériger, installer, agrandir, modifier, réparer, enlever, convertir ou remplacer toute installation électrique, de gaz, mécanique ou de plomberie dont l’installation est régie par le présent code, ou faire exécuter de tels travaux, doit d’abord présenter une demande au fonctionnaire responsable du bâtiment et obtenir le permis requis.</seg>
       </tuv>
     </tu>
     <tu>
