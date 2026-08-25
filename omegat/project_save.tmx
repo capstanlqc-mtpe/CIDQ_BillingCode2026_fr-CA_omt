@@ -24791,13 +24791,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.814: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A hard-wired electric doorbell shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une sonnette électrique câblée doit être prévue.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T160039Z">
+        <seg>Une sonnette électrique câblée doit être installée.</seg>
       </tuv>
     </tu>
     <tu>
