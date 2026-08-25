@@ -30047,13 +30047,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Controls mounted on ceiling fans and ceiling lights.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les commandes montées sur les ventilateurs de plafond et les plafonniers.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T171044Z">
+        <seg>Commandes montées sur les ventilateurs de plafond et les luminaires.</seg>
       </tuv>
     </tu>
     <tu>
