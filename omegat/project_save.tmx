@@ -26393,13 +26393,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>All visible notification appliances provided within the unit for building fire alarm notification shall be activated upon activation of the building fire alarm in the portion of the building containing the unit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Tous les dispositifs de signalisation visible prévus à l'intérieur du logement pour la signalisation d'alarme incendie du bâtiment doivent être activés lors de l'activation de l'alarme incendie du bâtiment dans la partie du bâtiment qui contient le logement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T160325Z">
+        <seg>Tous les dispositifs de notification visuelle installés dans le logement pour signaler l’alarme d'incendie du bâtiment doivent être activés dès le déclenchement de l’alarme d'incendie du bâtiment dans la partie du bâtiment où se trouve le logement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45891,13 +45890,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.786: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The same visible notification appliances shall be permitted to provide notification of unit smoke detection and building fire alarm activation.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les mêmes dispositifs de signalisation visible peuvent fournir une signalisation de la détection de fumée dans le logement et de l'activation de l'alarme incendie du bâtiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T160224Z">
+        <seg>Les mêmes dispositifs de notification visuelle peuvent servir à signaler la détection de fumée dans le logement et le déclenchement de l’alarme-incendie du bâtiment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48374,13 +48372,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.896: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Visible notification appliances shall comply with Section 702.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les dispositifs de signalisation visuelle doivent se conformer à la section 702.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T160403Z">
+        <seg>Les dispositifs de signalisation visuelle doivent être conformes à la section 702.</seg>
       </tuv>
     </tu>
     <tu>
