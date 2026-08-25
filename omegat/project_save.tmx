@@ -4823,13 +4823,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.888: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;1106.6.2 Unit interface&lt;e1/&gt;&lt;e2/&gt;&lt;g4&gt;.&lt;/g4&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;1106.6.2 Interface de l'unité&lt;e1/&gt;&lt;e2/&gt;&lt;g4&gt;.&lt;/g4&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T043429Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;1106.6.2 Interface du logement&lt;e1/&gt;&lt;e2/&gt;&lt;g4&gt;.&lt;/g4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -45574,8 +45573,8 @@
       <tuv lang="en">
         <seg>The public or common-use system interface shall include the capability of supporting voice and TTY communication with the unit interface.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T043414Z">
-        <seg>L’interface du système à l’usage du public ou d’usage commun doit permettre les communications vocales et TTY avec l’interface du système dans le logement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T043448Z">
+        <seg>L’interface du système à l’usage du public ou d’usage commun doit permettre les communications vocales et TTY avec l’interface du logement.</seg>
       </tuv>
     </tu>
     <tu>
