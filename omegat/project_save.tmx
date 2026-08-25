@@ -9894,13 +9894,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.872: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1106.5 Unit primary entrance.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1106.5 Entrée principale de l'unité.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T160114Z">
+        <seg>&lt;g1&gt;1106.5 Entrée principale du logement.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29791,13 +29790,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.857: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Communication features shall be provided at the unit primary entrance complying with Section 1106.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des dispositifs de communication doivent être prévus à l'entrée principale de l'unité conformément à la section 1106.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T160106Z">
+        <seg>Des dispositifs de communication doivent être installés à l’entrée principale du logement, conformément à l’article 1106.5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48386,13 +48384,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Visible notification appliances used to indicate unit smoke detection or building fire alarm activation shall not be used for any other purpose within the unit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les dispositifs de signalisation visibles utilisés pour indiquer la détection de fumée dans l'unité ou l'activation de l'alarme incendie du bâtiment ne doivent pas être utilisés à d'autres fins dans l'unité.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T160135Z">
+        <seg>Les dispositifs de notification visuelle utilisés pour indiquer la détection de fumée dans le logement ou le déclenchement de l’alarme-incendie du bâtiment ne doivent servir à aucune autre fin dans le logement.</seg>
       </tuv>
     </tu>
     <tu>
