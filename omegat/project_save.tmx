@@ -50447,13 +50447,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.879: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where specifically permitted by Section 1108.5 or 1108.6, the required number of Type A units and Type B units is permitted to be reduced in accordance with Sections 1108.7.1 through 1108.7.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque cela est expressément autorisé par la section 1108.5 ou 1108.6, le nombre requis d'unités de type A et d'unités de type B peut être réduit selon les sections 1108.7.1 à 1108.7.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260826T163452Z">
+        <seg>Lorsqu’il est expressément permis par la section 1108.5 ou 1108.6, le nombre requis de logements de type A et de type B peut être réduit conformément aux sections 1108.7.1 à 1108.7.5.</seg>
       </tuv>
     </tu>
     <tu>
