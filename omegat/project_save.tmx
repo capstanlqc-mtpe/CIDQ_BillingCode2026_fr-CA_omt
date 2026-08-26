@@ -27479,13 +27479,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.884: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>At a minimum, the toilet room or bathroom required by Section 1105.4 shall include a lavatory and a water closet.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Au minimum, la salle de toilettes ou de bain exigée par l'article 1105.4 doit comprendre un lavabo et une cabine de toilette.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260826T040139Z">
+        <seg>Au minimum, la salle de toilettes ou de bain exigée par la section 1105.4 doit comprendre un lavabo et une cabine de toilette.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29498,23 +29497,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Clearances at the water closet shall comply with Section 1104.11.3.1.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les dégagements de la cabine de toilette doivent être conformes à la section 1104.11.3.1.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260826T040006Z">
+        <seg>Les dégagements autour du cabinet d’aisances doivent être conformes à la section 1104.11.3.1.2.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.781: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Clearances between all opposing base cabinets, counter tops, appliances or walls within the food preparation area shall be 40 inches (1015 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les dégagements entre toutes les bases de mur opposées, les comptoirs, les appareils électroménagers ou les murs dans la zone de préparation des aliments doivent être d'au moins 40 po [1015 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260826T035846Z">
+        <seg>Les dégagements entre toutes les armoires de base, tous les comptoirs, tous les appareils électroménagers ou tous les murs opposés dans la zone de préparation des aliments doivent être d’au moins 40 po [1015 mm].</seg>
       </tuv>
     </tu>
     <tu>
@@ -34414,13 +34411,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.805: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Handrails, intermediate landings and edge protection shall not be required where the sides of ramp runs have a vertical drop off of 1/2 inch (13 mm) maximum within 10 inches (255 mm) horizontally of the ramp run.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes, les paliers intermédiaires et la protection des bords ne sont pas exigés lorsque les côtés des rampes ont une dénivellation verticale maximale de 1/2 po [13 mm] à moins de 10 po [255 mm] horizontalement de la rampe.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260826T040248Z">
+        <seg>Les mains courantes, les paliers intermédiaires et les dispositifs de protection des bords ne sont pas requis lorsque les côtés des volées de rampe présentent une dénivellation verticale d’au plus 1/2 pouce (13 mm) sur une distance horizontale d’au plus 10 pouces (255 mm) à partir de la volée de rampe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39826,13 +39822,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.871: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Receptacle outlets and operable parts of lighting controls shall be located 15 inches (380 mm) minimum and 48 inches (1220 mm) maximum above the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les prises de courant et les parties manœuvrables des commandes d'éclairage doivent être situées à une hauteur comprise entre 15 po [380 mm] et 48 po [1220 mm] au-dessus du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260826T035658Z">
+        <seg>Les prises de courant et les parties utilisables des commandes d’éclairage doivent être situées à au moins 15 pouces (380 mm) et à au plus 48 pouces (1 220 mm) au-dessus du plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40026,13 +40021,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Reinforcement shall be provided for the future installation of grab bars at water closets.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un renforcement doit être prévu pour l'installation future de barres d'appui dans les cabines de toilette.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260826T040105Z">
+        <seg>Des renforts doivent être prévus pour l’installation future de barres d’appui au niveau des toilettes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41406,13 +41400,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.787: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Spaces that do not provide a cooktop or conventional range shall be permitted to provide a clearance of 36 inches (915 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les pièces qui ne comportent pas de plan de cuisson ni de cuisinière classique peuvent avoir un dégagement minimal de 36 po [915 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260826T035728Z">
+        <seg>Les espaces qui ne comportent pas de table de cuisson ni de cuisinière conventionnelle peuvent avoir un dégagement d’au moins 36 pouces (915 mm).</seg>
       </tuv>
     </tu>
     <tu>
