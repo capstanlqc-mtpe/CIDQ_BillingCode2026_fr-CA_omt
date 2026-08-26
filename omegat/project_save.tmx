@@ -25458,13 +25458,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.8: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A toilet room or bathroom shall not be required on an entrance level with less than 120 square feet (11.2 m2) of habitable space.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une salle de toilette ou une salle de bain n'est pas exigée à un niveau d'entrée où l'espace habitable est de moins de 120 pi2 [11,2 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260826T161547Z">
+        <seg>Une salle de toilettes ou une salle de bains n’est pas requise à un niveau d’entrée comportant moins de 120 pi2 (11,2 m2) d’espace habitable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29248,13 +29247,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.885: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Circulation paths shall comply with Section 1105.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les voies de circulation doivent se conformer à la section 1105.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260826T161500Z">
+        <seg>Les voies de circulation doivent être conformes à la section 1105.5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43089,13 +43087,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.864: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The circulation path shall consist of one or more of the following elements: walking surfaces with a slope not steeper that 1:20, doors and doorways, ramps, elevators complying with Sections 407 through 409, and wheelchair (platform) lifts complying with Section 410.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La voie de circulation doit comporter un ou plusieurs des éléments suivants : surfaces de circulation de pente maximale de 1:20, portes et ouvertures de porte, rampes, ascenseurs conformes aux sections 407 à 409 et plateformes élévatrices pour fauteuils roulants conformes à la section 410.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260826T161442Z">
+        <seg>La voie de circulation doit comporter un ou plusieurs des éléments suivants : des surfaces de circulation dont la pente n’est pas supérieure à 1:20, des portes et des ouvertures de porte, des rampes, des ascenseurs conformes aux sections 407 à 409 et des plateformes élévatrices pour fauteuils roulants conformes à la section 410.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48908,13 +48905,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.861: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a food preparation area is provided on the entrance level, it shall comply with Section 1105.7.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'une zone de préparation des aliments est prévue au niveau de l'entrée, elle doit se conformer à la section 1105.7.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260826T161603Z">
+        <seg>Lorsqu'une zone de préparation des aliments est prévue au niveau de l'entrée, elle doit être conforme à la section 1105.7.</seg>
       </tuv>
     </tu>
     <tu>
