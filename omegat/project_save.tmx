@@ -39732,13 +39732,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.899: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Ramps shall comply with Section 405.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes doivent se conformer à la section 405.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260826T144409Z">
+        <seg>Les rampes doivent être conformes à la section 405.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47563,13 +47562,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Thresholds at exterior sliding doors shall be permitted to be 3/4 inch (19 mm) maximum in height, provided they are beveled with a slope not steeper than 1:2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les seuils des portes coulissantes extérieures peuvent avoir une hauteur maximale de 3/4 po [19 mm], à condition qu'ils soient biseautés avec une pente d'au plus 1:2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260826T160059Z">
+        <seg>Les seuils des portes coulissantes extérieures peuvent avoir une hauteur maximale de 3/4 pouce (19 mm), à condition d’être biseautés avec une pente d’au plus 1:2.</seg>
       </tuv>
     </tu>
     <tu>
