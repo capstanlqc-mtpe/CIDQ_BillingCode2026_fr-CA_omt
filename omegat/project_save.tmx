@@ -44179,13 +44179,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The following shall not be required to comply with Section 1105.8.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les éléments suivants ne sont pas tenus de se conformer à la section 1105.8.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260826T035631Z">
+        <seg>Les éléments suivants ne sont pas tenus d’être conformes à la section 1105.8.</seg>
       </tuv>
     </tu>
     <tu>
