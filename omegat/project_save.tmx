@@ -47571,13 +47571,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.891: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Thresholds shall comply with Section 303.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les seuils doivent se conformer à la section 303.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260826T160115Z">
+        <seg>Les seuils doivent être conformes à la section 303.</seg>
       </tuv>
     </tu>
     <tu>
