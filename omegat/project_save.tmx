@@ -21253,13 +21253,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.9</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[A] 115.2 Issuance.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[A] 115.2 Émission.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260827T214928Z">
+        <seg>&lt;g1&gt;[A] 115.2 Délivrance.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34792,8 +34791,8 @@
       <tuv lang="en">
         <seg>If not notified prior to disconnecting, the owner or the owner's authorized agent or occupant of the building, structure or service system shall be notified in writing, as soon as practical thereafter.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042226Z">
-        <seg>Si l’avis n’a pas été donné avant le débranchement, le propriétaire ou son mandataire autorisé, ou l’occupant du bâtiment, de la construction ou du système de service doit en être avisé par écrit dès que possible par la suite.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260827T215105Z">
+        <seg>S'il n'est pas avisé avant la déconnexion, le propriétaire ou son agent autorisé ou l'occupant du bâtiment, de la structure ou du système de service doit être avisé par écrit, dès que possible par la suite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42949,8 +42948,8 @@
       <tuv lang="en">
         <seg>The building official shall notify the serving utility, and wherever possible the owner or the owner's authorized agent and occupant of the building, structure or service system of the decision to disconnect prior to taking such action.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042202Z">
-        <seg>Le responsable de la construction doit aviser le service public concerné et, dans la mesure du possible, le propriétaire ou son mandataire autorisé ainsi que l’occupant du bâtiment, de la construction ou du système de service de la décision de procéder au débranchement avant de prendre une telle mesure.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260827T215121Z">
+        <seg>Le responsable de la construction doit aviser le service public concerné et, dans la mesure du possible, le propriétaire ou son agent autorisé et l'occupant du bâtiment, de la structure ou du système de service de la décision de débrancher avant de prendre une telle mesure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46270,8 +46269,8 @@
       <tuv lang="en">
         <seg>The stop work order shall be in writing and shall be given to the owner of the property, the owner's authorized agent or the person performing the work.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042554Z">
-        <seg>L’ordre d’arrêt des travaux doit être donné par écrit au propriétaire du bien, à son mandataire autorisé ou à la personne qui exécute les travaux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260827T215022Z">
+        <seg>L’ordre d’arrêt des travaux doit être donné par écrit au propriétaire du bien, au mandataire autorisé du propriétaire ou à la personne qui effectue les travaux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48130,8 +48129,8 @@
       <tuv lang="en">
         <seg>Upon issuance of a stop work order, the cited work shall immediately cease.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042606Z">
-        <seg>Dès l’émission d’un ordre d’arrêt des travaux, les travaux visés doivent cesser immédiatement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260827T215032Z">
+        <seg>Dès la délivrance d’un ordre d’arrêt des travaux, les travaux visés doivent immédiatement cesser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50622,8 +50621,8 @@
       <tuv lang="en">
         <seg>Where the building official finds any work regulated by this code being performed in a manner contrary to the provisions of this code or in a dangerous or unsafe manner, the building official is authorized to issue a stop work order.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042542Z">
-        <seg>Lorsque le responsable de la construction constate que des travaux régis par le présent code sont exécutés d’une manière contraire aux dispositions du présent code ou d’une manière dangereuse ou non sécuritaire, il est autorisé à délivrer un ordre d’arrêt des travaux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260827T214957Z">
+        <seg>Lorsque le responsable de la construction constate que des travaux réglementés par le présent code sont exécutés d'une manière contraire aux dispositions du présent code ou d'une manière dangereuse ou non sécuritaire, le responsable de la construction est autorisé à émettre un ordre d'arrêt des travaux.</seg>
       </tuv>
     </tu>
     <tu>
