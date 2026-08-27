@@ -49201,13 +49201,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.864: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a system permitting voice communication between a visitor and the occupant of the unit is provided at a location other than the unit entry door, the system shall comply with Section 1106.6.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un système permettant la communication vocale entre un visiteur et l'occupant de l'unité est prévu à un endroit autre que la porte d'entrée de l'unité, le système doit se conformer à la section 1106.6.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260827T151312Z">
+        <seg>Lorsqu’un système permettant une communication vocale entre un visiteur et l’occupant du logement est installé à un endroit autre que la porte d’entrée du logement, le système doit être conforme à la section 1106.6.</seg>
       </tuv>
     </tu>
     <tu>
