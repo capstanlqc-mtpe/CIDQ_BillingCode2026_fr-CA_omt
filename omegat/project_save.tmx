@@ -21273,13 +21273,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.915</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[A] 115.4 Failure to comply.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[A] 115.4 Non-respect.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260827T210115Z">
+        <seg>&lt;g1&gt;[A] 115.4 Non-respect des exigences.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34056,8 +34055,8 @@
       <tuv lang="en">
         <seg>Group R occupancies not constructed in accordance with the International Residential Code as permitted by Sections 310.4.1 and 310.4.2 shall comply with Section 420.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042747Z">
-        <seg>Les occupations du groupe R qui ne sont pas construites conformément à l’International Residential Code, comme le permettent les articles 310.4.1 et 310.4.2, doivent être conformes à l’article 420.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260827T205959Z">
+        <seg>Les usages du groupe R qui ne sont pas construits conformément à l’International Residential Code, comme le permettent les sections 310.4.1 et 310.4.2, doivent être conformes à la section 420.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40142,8 +40141,8 @@
       <tuv lang="en">
         <seg>Residential Group R includes, among others, the use of a building or structure, or a portion thereof, for sleeping purposes when not classified as an Institutional Group I or when not regulated by the International Residential Code.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042719Z">
-        <seg>Le groupe d’usage Résidentiel, Groupe R, comprend notamment l’utilisation d’un bâtiment ou d’une construction, ou d’une partie de ceux-ci, à des fins de couchage lorsqu’il n’est pas classé dans le groupe d’usage Institutionnel, Groupe I, ou lorsqu’il n’est pas régi par l’International Residential Code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260827T210031Z">
+        <seg>Le groupe résidentiel R comprend notamment l’utilisation d’un bâtiment ou d’une structure, ou d’une partie de ceux-ci, à des fins de couchage lorsqu’elle n’est pas classée dans le groupe institutionnel I ou lorsqu’elle n’est pas régie par l’International Residential Code.</seg>
       </tuv>
     </tu>
     <tu>
