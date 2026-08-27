@@ -42932,16 +42932,16 @@
       <tuv lang="en">
         <seg>The building official shall have the authority to authorize disconnection of utility service to the building, structure or system regulated by this code and the referenced codes and standards in case of emergency where necessary to eliminate an immediate hazard to life or property or where such utility connection has been made without the approval required by Section 112.1 or 112.2.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042151Z">
-        <seg>Le responsable de la construction est autorisé à ordonner le débranchement du service public desservant le bâtiment, la construction ou le système réglementé par le présent code ainsi que par les codes et normes cités, en cas d’urgence lorsque cela est nécessaire pour éliminer un danger immédiat pour la vie ou les biens, ou lorsque le raccordement au service public a été effectué sans l’approbation exigée par l’article 112.1 ou 112.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260827T215204Z">
+        <seg>Le responsable de la construction est autorisé à ordonner la déconnexion des services publics desservant le bâtiment, la structure ou le système régi par le présent code et les codes et normes cités en référence, en cas d’urgence, lorsque cela est nécessaire pour éliminer un danger immédiat pour la vie ou les biens, ou lorsque le raccordement à ces services a été effectué sans l’approbation requise par la section 112.1 ou 112.2.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The building official shall have the authority to authorize the temporary connection of the building or system to the utility, the source of energy, fuel, or power, or the water system or sewer system for the purpose of testing systems or for use under a temporary approval.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042136Z">
-        <seg>Le responsable de la construction est autorisé à permettre le raccordement temporaire du bâtiment ou du système au service public, à la source d’énergie, de combustible ou de puissance, ou au réseau d’eau ou d’égout, aux fins d’essai des systèmes ou d’utilisation dans le cadre d’une approbation temporaire.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260827T225101Z">
+        <seg>Le responsable de la construction a le pouvoir d'autoriser le raccordement temporaire du bâtiment ou du système au service public, à la source d'énergie, de combustible ou d'électricité, ou au système d'eau ou d'égout aux fins de l'essai des systèmes ou pour une utilisation en vertu d'une approbation temporaire.</seg>
       </tuv>
     </tu>
     <tu>
