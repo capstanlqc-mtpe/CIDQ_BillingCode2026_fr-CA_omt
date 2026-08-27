@@ -14880,8 +14880,8 @@
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;g2&gt;&lt;x3/&gt;&lt;/g2&gt;&lt;g5&gt;Please be reminded that images, other than tables, are not included in this code document.&lt;/g5&gt;&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T043039Z">
-        <seg>&lt;g1&gt;&lt;g2&gt;&lt;x3/&gt;&lt;/g2&gt;&lt;g5&gt;Veuillez noter que les images, à l’exception des tableaux, ne sont pas incluses dans le présent document du code.&lt;/g5&gt;&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260827T145036Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;&lt;x3/&gt;&lt;/g2&gt;&lt;g5&gt;Veuillez prendre note que les figures et illustrations, autres que les tableaux, ne sont pas reproduites dans ce document.&lt;/g5&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16378,8 +16378,8 @@
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;Please be reminded that images, other than tables, are not included in this code document.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T043210Z">
-        <seg>&lt;g1&gt;&lt;x2/&gt;Veuillez noter que les figures et les illustrations, autres que les tableaux, ne sont pas reproduites dans le présent document de code.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260827T145103Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;Veuillez prendre note que les figures et illustrations, autres que les tableaux, ne sont pas reproduites dans ce document.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17792,8 +17792,8 @@
       <tuv lang="en">
         <seg>&lt;g1&gt;Please be reminded that images, other than tables, are not included in this code   document.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T060343Z">
-        <seg>ASD&lt;g1&gt;Veuillez noter que les images, à l’exception des tableaux, ne sont pas incluses dans le présent document du code.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260827T145006Z">
+        <seg>ASD&lt;g1&gt;Veuillez prendre note que les figures et illustrations, autres que les tableaux, ne sont pas reproduites dans ce document.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -46710,8 +46710,8 @@
       <tuv lang="en">
         <seg>The unit system interface shall include a telephone jack capable of supporting voice and TTY communication with the public or common-use system interface.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T043316Z">
-        <seg>L’interface du système dans le logement doit comprendre une prise téléphonique permettant les communications vocales et TTY avec l’interface du système à l’usage du public ou d’usage commun.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260827T145152Z">
+        <seg>L'interface système de l'unité doit comprendre une prise téléphonique capable de prendre en charge la communication vocale et ATS avec l'interface système publique ou à usage commun.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48829,8 +48829,8 @@
       <tuv lang="en">
         <seg>Where a closed-circuit communication system is provided, the public or common-use system interface shall comply with Section 1106.6.1, and the unit system interface in units required to have communication features shall comply with Section 1106.6.2.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260825T043256Z">
-        <seg>Lorsqu’un système de communication en circuit fermé est fourni, l’interface du système à l’usage du public ou d’usage commun doit être conforme à l’article 1106.6.1, et l’interface du système dans les logements qui doivent être dotés de fonctions de communication doit être conforme à l’article 1106.6.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260827T145131Z">
+        <seg>Lorsqu'un système de communication en circuit fermé est prévu, l'interface du système public ou à usage commun doit se conformer à la section 1106.6.1, et l'interface du système de l'unité dans les unités devant être dotées de fonctions de communication doit se conformer à la section 1106.6.2.</seg>
       </tuv>
     </tu>
     <tu>
