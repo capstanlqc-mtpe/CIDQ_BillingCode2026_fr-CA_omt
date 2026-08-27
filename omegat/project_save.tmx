@@ -45155,13 +45155,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.868: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The number of Type B units is permitted to be reduced in accordance with Section 1108.7.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le nombre d'unités de type B peut être réduit selon la section 1108.7.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260826T170941Z">
+        <seg>Le nombre de logements de type B peut être réduit conformément à la section 1108.7.</seg>
       </tuv>
     </tu>
     <tu>
