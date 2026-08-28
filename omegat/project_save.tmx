@@ -23124,13 +23124,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.89: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Occupancies in Groups I-1, R-1, R-2, R-3 and R-4 shall comply with the provisions of Sections 420.1 through 420.10 and other applicable provisions of this code.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les usages des groupes I-1, R-1, R-2, R-3 et R-4 doivent se conformer aux dispositions des articles 420.1 à 420.10 et aux autres dispositions applicables du présent code.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T202913Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les usages des groupes I-1, R-1, R-2, R-3 et R-4 doivent être conformes aux dispositions des articles 420.1 à 420.10 et aux autres dispositions applicables du présent code.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26084,13 +26083,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Acoustical ceiling systems that are part of fire-resistance-rated construction shall be installed in the same manner used in the assembly tested and shall comply with the provisions of Chapter 7.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les systèmes de plafonds acoustiques qui font partie d'une construction offrant un degré de résistance au feu doivent être installés de la même manière que dans l'assemblage testé et doivent se conformer aux dispositions du chapitre 7.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T203243Z">
+        <seg>Les systèmes de plafond acoustique qui font partie d’une construction ayant un degré de résistance au feu doivent être installés de la même manière que dans l’assemblage soumis à l’essai et doivent être conformes aux dispositions du chapitre 7.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32901,13 +32899,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.879: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Foam plastics and materials containing foam plastics shall comply with Section 2603 and the International Fire Code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les plastiques en mousse et les matériaux contenant des plastiques en mousse doivent se conformer à la section 2603 et à l'International Fire Code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T202927Z">
+        <seg>Les plastiques en mousse et les matériaux contenant des plastiques en mousse doivent être conformes à la section 2603 et à l'International Fire Code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33585,13 +33582,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.903: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Gas detection systems required by this code shall comply with Sections 916.2 through 916.11.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les systèmes de détection de gaz exigés en vertu du présent code doivent se conformer aux sections 916.2 à 916.11.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T222919Z">
+        <seg>Les systèmes de détection de gaz exigés en vertu du présent code doivent être conformes aux sections 916.2 à 916.11.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34556,23 +34552,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.894: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Horizontal assemblies shall comply with Section 711.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ensembles horizontaux doivent se conformer à la section 711.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T203106Z">
+        <seg>Les ensembles horizontaux doivent être conformes à la section 711.2.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.899: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Horizontal assemblies shall comply with Sections 711.2.1 through 711.2.6.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ensembles horizontaux doivent se conformer aux sections 711.2.1 à 711.2.6.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T203119Z">
+        <seg>Les ensembles horizontaux doivent être conformes aux sections 711.2.1 à 711.2.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36500,13 +36494,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.857: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Interior floor finish and floor covering materials shall comply with Sections 804.2 through 804.4.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les matériaux de finition de plancher intérieur et les revêtements de plancher doivent se conformer aux sections 804.2 à 804.4.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T203216Z">
+        <seg>Les matériaux de finition de plancher intérieur et les revêtements de plancher doivent être conformes aux sections 804.2 à 804.4.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36706,13 +36699,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.884: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Joints made in or between smoke barriers shall comply with Section 715.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les joints réalisés dans ou entre les barrières anti-fumée doivent se conformer à la section 715.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T203058Z">
+        <seg>Les joints réalisés dans ou entre les barrières anti-fumée doivent être conformes à la section 715.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37892,23 +37884,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Nonfire-resistance-rated floor and roof assemblies shall comply with Section 711.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les assemblages de plancher et de toit n'offrant pas un degré de résistance au feu doivent se conformer à la section 711.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T203117Z">
+        <seg>Les assemblages de plancher et de toit n'offrant pas un degré de résistance au feu doivent être conformes à la section 711.3.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.795: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Nonfire-resistance-rated floor, floor/ceiling, roof and roof/ceiling assemblies shall comply with Sections 711.3.1 and 711.3.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ensembles plancher, plancher-plafond, toit et toit-plafond n'offrant pas de degré de résistance au feu doivent se conformer aux sections 711.3.1 et 711.3.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T203142Z">
+        <seg>Les assemblages de plancher, de plancher/plafond, de toiture et de toiture/plafond sans degré de résistance au feu doivent être conformes aux sections 711.3.1 et 711.3.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41281,13 +41271,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.86: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke-barrier walls used to enclose areas of refuge in accordance with Section 1009.6.4 or to enclose elevator lobbies in accordance with Section 405.4.3, 3007.6.2, or 3008.6.2 shall comply with Section 709.4.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les murs pare-fumée utilisés pour encloisonner les aires de refuge selon la section 1009.6.4 ou pour encloisonner les halls d'ascenseur selon la section 405.4.3, 3007.6.2 ou 3008.6.2 doivent se conformer à la section 709.4.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T203051Z">
+        <seg>Les parois pare-fumée utilisées pour délimiter les aires de refuge conformément à la section 1009.6.4 ou pour délimiter les halls d’ascenseur conformément à la section 405.4.3, 3007.6.2 ou 3008.6.2 doivent être conformes à la section 709.4.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41301,13 +41290,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.868: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke-barrier walls used to separate smoke compartments shall comply with Section 709.4.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les murs pare-fumée utilisés pour séparer les compartiments de fumée doivent se conformer à la section 709.4.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T202959Z">
+        <seg>Les parois pare-fumée utilisées pour séparer les compartiments coupe-fumée doivent être conformes à la section 709.4.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43403,13 +43391,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.901: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The cooking appliances shall comply with Section 420.9.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les appareils de cuisson doivent se conformer à la section 420.9.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T202936Z">
+        <seg>Les appareils de cuisson doivent être conformes à la section 420.9.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48273,13 +48260,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Vertical openings in parking garages for automobile ramps, elevators and duct systems shall comply with Section 712.1.10.1, 712.1.10.2 or 712.1.10.3, as applicable.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures verticales dans les parcs de stationnement pour les rampes d'accès pour automobiles, les ascenseurs et les systèmes de conduits doivent se conformer à la section 712.1.10.1, 712.1.10.2 ou 712.1.10.3, selon ce qui s'applique.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T203208Z">
+        <seg>Les ouvertures verticales dans les garages de stationnement pour les rampes d'accès pour automobiles, les ascenseurs et les systèmes de conduits doivent être conformes à la section 712.1.10.1, 712.1.10.2 ou 712.1.10.3, selon ce qui s'applique.</seg>
       </tuv>
     </tu>
     <tu>
