@@ -24148,8 +24148,8 @@
       <tuv lang="en">
         <seg>A building or structure shall not be used or occupied in whole or in part, and a change of occupancy of a building or structure or portion thereof shall not be made, until the building official has issued a certificate of occupancy therefor as provided herein.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041413Z">
-        <seg>Un bâtiment ou une construction ne doit être utilisé ou occupé, en tout ou en partie, et aucun changement d’occupation d’un bâtiment ou d’une construction, ou d’une partie de ceux-ci, ne doit être effectué tant que le responsable de la construction n’a pas délivré un certificat d’occupation à cet effet, conformément aux présentes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T025508Z">
+        <seg>Un bâtiment ou une structure ne doit pas être utilisé ou occupé, en tout ou en partie, et aucun changement d’usage d’un bâtiment ou d’une structure, ou d’une partie de ceux-ci, ne doit être effectué avant que le fonctionnaire responsable du bâtiment ait délivré à cet égard un certificat d’occupation conformément aux présentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29070,8 +29070,8 @@
       <tuv lang="en">
         <seg>Certificates presuming to give authority to violate or cancel the provisions of this code or other ordinances of the jurisdiction shall not be valid.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041449Z">
-        <seg>Les certificats qui prétendent autoriser la violation ou l’annulation des dispositions du présent code ou d’autres ordonnances de la juridiction ne sont pas valides.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T025416Z">
+        <seg>Les certificats qui prétendent autoriser une violation des dispositions du présent code ou d’autres règlements de la compétence territoriale, ou en annuler l’application, ne sont pas valides.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36655,8 +36655,8 @@
       <tuv lang="en">
         <seg>Issuance of a certificate of occupancy shall not be construed as an approval of a violation of the provisions of this code or of other ordinances of the jurisdiction.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041431Z">
-        <seg>La délivrance d’un certificat d’occupation ne doit pas être interprétée comme une approbation d’une violation des dispositions du présent code ou d’autres ordonnances de la juridiction.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T025438Z">
+        <seg>La délivrance d’un certificat d’occupation ne doit pas être interprétée comme une approbation d’une violation des dispositions du présent code ou d’autres règlements de la compétence territoriale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42972,8 +42972,8 @@
       <tuv lang="en">
         <seg>The building official, upon notification, shall make the requested inspections and shall either indicate the portion of the construction that is satisfactory as completed, or notify the permit holder or the permit holder's agent wherein the same fails to comply with this code.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041305Z">
-        <seg>Sur notification, le responsable de la construction doit effectuer les inspections demandées et doit soit indiquer la partie de la construction qui est satisfaisante une fois achevée, soit aviser le titulaire du permis ou son mandataire des éléments qui ne sont pas conformes au présent code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T025626Z">
+        <seg>Sur notification, le fonctionnaire responsable du bâtiment doit effectuer les inspections demandées et soit indiquer la partie des travaux de construction qui a été exécutée de façon satisfaisante, soit informer le titulaire du permis ou son mandataire de la partie qui n’est pas conforme au présent code.</seg>
       </tuv>
     </tu>
     <tu>
