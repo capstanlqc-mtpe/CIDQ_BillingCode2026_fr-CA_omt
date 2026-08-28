@@ -14444,13 +14444,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.907: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;804.4.2 Minimum critical radiant flux.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;804.4.2 Flux radiant critique minimum.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T194647Z">
+        <seg>&lt;g1&gt;804.4.2 Flux énergétique critique minimum.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35492,23 +35491,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In all occupancies, interior floor covering materials shall comply with the requirements of the DOC FF-1 “pill test” (CPSC 16 CFR Part 1630) or with ASTM D2859.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans tous les groupes d'usage, les matériaux de revêtement de plancher intérieur doivent être conformes aux exigences du « test de la pilule » DOC FF-1 (CPSC 16 CFR Partie 1630) ou à la norme ASTM D2859.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T194813Z">
+        <seg>Dans tous les groupes d'usage, les matériaux de revêtement de plancher intérieur doivent être conformes aux exigences de l'« essai de pastille » DOC FF-1 (CPSC 16 CFR Partie 1630) ou de la norme ASTM D2859.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In all occupancies, interior floor finish and floor covering materials in enclosures for stairways and ramps, exit passageways, corridors and rooms or spaces not separated from corridors by partitions extending from the floor to the underside of the ceiling shall withstand a minimum critical radiant flux.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans tous les groupes d'usage, les matériaux de finition de plancher intérieur et les revêtements de plancher dans les enceintes d'escaliers et de rampes, de passages d'issue, de corridors et de pièces ou d'aires non séparées des corridors par des cloisons se prolongeant du plancher à la face inférieure du plafond doivent résister à un flux radiant critique minimal.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T194713Z">
+        <seg>Dans tous les groupes d'usage, les revêtements de sol intérieurs et les matériaux de couverture de sol dans les cages d’escalier et de rampe, les passages d’issue, les corridors et les pièces ou espaces non séparés des corridors par des cloisons s’étendant du plancher jusqu’à la sous-face du plafond doivent présenter un flux énergétique critique minimal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44896,13 +44893,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.902: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The minimum critical radiant flux shall be not less than Class I in Groups I-1, I-2 and I-3 and not less than Class II in Groups A, B, E, H, I-4, M, R-1, R-2 and S.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le flux radiant critique minimal ne doit pas être inférieur à la classe I dans les groupes I-1, I-2 et I-3 et pas inférieur à la classe II dans les groupes A, B, E, H, I-4, M, R-1, R-2 et S.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T194019Z">
+        <seg>Le flux énergétique critique minimal ne doit pas être inférieur à celui de la classe I dans les groupes I-1, I-2 et I-3, ni à celui de la classe II dans les groupes A, B, E, H, I-4, M, R-1, R-2 et S.</seg>
       </tuv>
     </tu>
     <tu>
