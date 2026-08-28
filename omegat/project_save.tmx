@@ -42852,8 +42852,8 @@
       <tuv lang="en">
         <seg>The building official is authorized to issue a temporary certificate of occupancy before the completion of the entire work covered by the permit, provided that such portion or portions shall be occupied safely.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041934Z">
-        <seg>Le responsable de la construction est autorisé à délivrer un certificat d’occupation temporaire avant l’achèvement de l’ensemble des travaux visés par le permis, à condition que la ou les parties concernées puissent être occupées en toute sécurité.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T013919Z">
+        <seg>Le responsable de la construction est autorisé à délivrer un certificat d'occupation temporaire avant l'achèvement de l'ensemble des travaux couverts par le permis, à condition que cette ou ces parties soient occupées en toute sécurité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42868,8 +42868,8 @@
       <tuv lang="en">
         <seg>The building official is authorized to suspend or revoke a certificate of occupancy or completion issued under the provisions of this code, in writing, wherever the certificate is issued in error, or on the basis of incorrect information supplied, or where it is determined that the building or structure or portion thereof is in violation of the provisions of this code or other ordinance of the jurisdiction.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042041Z">
-        <seg>Le responsable de la construction est autorisé à suspendre ou à révoquer par écrit un certificat d’occupation ou d’achèvement délivré en vertu des dispositions du présent code lorsque le certificat a été délivré par erreur ou sur la base de renseignements inexacts fournis, ou lorsqu’il est établi que le bâtiment ou la construction, ou une partie de ceux-ci, contrevient aux dispositions du présent code ou à toute autre ordonnance de la juridiction.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T013838Z">
+        <seg>Le responsable de la construction est autorisé à suspendre ou à révoquer un certificat d'usage ou d'achèvement délivré en vertu des dispositions du présent code, par écrit, chaque fois que le certificat est délivré par erreur, ou sur la base d'informations incorrectes fournies, ou lorsqu'il est déterminé que le bâtiment ou la structure ou une partie de celui-ci est en violation des dispositions du présent code ou d'une autre ordonnance de la juridiction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42956,8 +42956,8 @@
       <tuv lang="en">
         <seg>The building official shall set a time period during which the temporary certificate of occupancy is valid.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T042008Z">
-        <seg>Le responsable de la construction doit fixer la période pendant laquelle le certificat d’occupation temporaire est valide.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T013901Z">
+        <seg>Le responsable de la construction doit fixer une période pendant laquelle le certificat d'usage temporaire est valide.</seg>
       </tuv>
     </tu>
     <tu>
