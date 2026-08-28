@@ -25403,8 +25403,8 @@
       <tuv lang="en">
         <seg>A statement that the described portion of the structure has been inspected for compliance with the requirements of this code.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041643Z">
-        <seg>Une mention indiquant que la partie de la construction décrite a été inspectée afin de vérifier sa conformité aux exigences du présent code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T014033Z">
+        <seg>Une déclaration indiquant que la partie décrite de la structure a été inspectée pour vérifier sa conformité aux exigences du présent code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43511,8 +43511,8 @@
       <tuv lang="en">
         <seg>The design occupant load.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041737Z">
-        <seg>LLa charge d’occupants aux fins de conception.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T013950Z">
+        <seg>La charge d'occupants aux fins de conception.</seg>
       </tuv>
     </tu>
     <tu>
