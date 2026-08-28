@@ -32770,8 +32770,8 @@
       <tuv lang="en">
         <seg>Floor sleepers, bucks and nailing blocks shall not be constructed of combustible materials, unless the space between the fire-resistance-rated floor assembly and the flooring is either solidly filled with noncombustible materials or fireblocked in accordance with Section 718, and provided that such open spaces shall not extend under or through permanent partitions or walls.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T170012Z">
-        <seg>Les lambourdes, les bâtis et les blocs de clouage du plancher ne doivent pas être faits de matériaux combustibles, à moins que l’espace entre l’assemblage de plancher coté pour sa résistance au feu et le revêtement de sol soit soit entièrement rempli de matériaux incombustibles, soit muni de dispositifs coupe-feu conformément à la section 718, et à condition que ces espaces ouverts ne se prolongent pas sous des cloisons ou des murs permanents ni à travers ceux-ci.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T170112Z">
+        <seg>Les lambourdes, les bâtis et les blocs de clouage du plancher ne doivent pas être faits de matériaux combustibles, à moins que l’espace entre l’assemblage de plancher coté pour son degré de résistance au feu et le revêtement de sol soit entièrement rempli de matériaux incombustibles ou muni de dispositifs coupe-feu conformément à la section 718, et à condition que ces espaces ouverts ne se prolongent pas sous des cloisons ou des murs permanents ni à travers ceux-ci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41597,12 +41597,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Stages and platforms constructed in accordance with Sections 410.2 and 410.3, respectively.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Scènes et plateformes construites conformément aux articles 410.2 et 410.3, respectivement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T171624Z">
+        <seg>Estrades et plateformes construites conformément aux sections 410.2 et 410.3, respectivement.</seg>
       </tuv>
     </tu>
     <tu>
