@@ -29641,13 +29641,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Combustible insulating boards not more than 1/2 inch (12.7 mm) thick and covered with finish flooring are permitted where attached directly to a noncombustible floor assembly or to wood subflooring attached to sleepers as provided for in Section 805.1.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les panneaux isolants combustibles d'une épaisseur maximale de 1/2 po (12,7 mm) et recouverts d'un revêtement de sol de finition sont autorisés lorsqu'ils sont fixés directement à un ensemble de plancher incombustible ou à un sous-plancher en bois fixé à des solives comme prévu à la section 805.1.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T165509Z">
+        <seg>Les panneaux isolants combustibles d’une épaisseur maximale de 1/2 pouce (12,7 mm) recouverts d’un revêtement de sol de finition sont autorisés lorsqu’ils sont fixés directement à un assemblage de plancher incombustible ou à un sous-plancher en bois fixé à des lambourdes, comme le prévoit la section 805.1.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32659,13 +32658,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Fire-retardant coatings in existing buildings shall be maintained so as to retain the effectiveness of the treatment under service conditions encountered in actual use.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les revêtements ignifuges dans les bâtiments existants doivent être entretenus de manière à conserver l'efficacité du traitement dans les conditions de service rencontrées lors de l'utilisation réelle.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T165434Z">
+        <seg>Les revêtements ignifuges des bâtiments existants doivent être entretenus de manière à conserver l’efficacité du traitement dans les conditions d’utilisation auxquelles ils sont réellement soumis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32699,13 +32697,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Fixed or movable walls and partitions, paneling, wall pads and crash pads applied structurally or for decoration, acoustical correction, surface insulation or other purposes shall be considered to be interior finish, shall comply with Section 803 and shall not be considered to be decorative materials or furnishings.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les murs et cloisons fixes ou mobiles, les panneaux, les coussinets muraux et les coussinets de protection appliqués de manière structurelle ou à des fins de décoration, de correction acoustique, d'isolation de surface ou à d'autres fins doivent être considérés comme des revêtements intérieurs, doivent être conformes à la section 803 et ne doivent pas être considérés comme des matériaux décoratifs ou des meubles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T165332Z">
+        <seg>Les murs et cloisons fixes ou mobiles, les panneaux muraux, les panneaux de protection murale et les coussins de protection fixés de façon structurale ou utilisés à des fins de décoration, de correction acoustique, d’isolation de surface ou à d’autres fins doivent être considérés comme des revêtements intérieurs, doivent être conformes à la section 803 et ne doivent pas être considérés comme des matériaux décoratifs ou des éléments d’ameublement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32769,13 +32766,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Floor sleepers, bucks and nailing blocks shall not be constructed of combustible materials, unless the space between the fire-resistance-rated floor assembly and the flooring is either solidly filled with noncombustible materials or fireblocked in accordance with Section 718, and provided that such open spaces shall not extend under or through permanent partitions or walls.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les solives de plancher, les chevrons et les blocs de clouage ne doivent pas être construits en matériaux combustibles, à moins que l'espace entre le plancher résistant au feu et le revêtement de plancher ne soit soit solidement rempli de matériaux non combustibles, soit protégé contre le feu conformément à la section 718, et à condition que ces espaces ouverts ne se prolongent pas sous ou à travers des cloisons ou des murs permanents.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T170012Z">
+        <seg>Les lambourdes, les bâtis et les blocs de clouage du plancher ne doivent pas être faits de matériaux combustibles, à moins que l’espace entre l’assemblage de plancher coté pour sa résistance au feu et le revêtement de sol soit soit entièrement rempli de matériaux incombustibles, soit muni de dispositifs coupe-feu conformément à la section 718, et à condition que ces espaces ouverts ne se prolongent pas sous des cloisons ou des murs permanents ni à travers ceux-ci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35282,13 +35278,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.851: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Groups A, B, E, I, M and R-1 and in dormitories in Group R-2, curtains, draperies, fabric hangings and similar combustible decorative materials suspended from walls or ceilings shall comply with Section 806.4 and shall not exceed 10 percent of the specific wall or ceiling area to which such materials are attached.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les groupes A, B, E, I, M et R-1 et dans les dortoirs du groupe R-2, les rideaux, tentures, tentures en tissu et matériaux décoratifs combustibles similaires suspendus aux murs ou aux plafonds doivent être conformes à la section 806.4 et ne doivent pas dépasser 10 pour cent de la superficie spécifique du mur ou du plafond auquel ces matériaux sont fixés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T165201Z">
+        <seg>Dans les groupes A, B, E, I, M et R-1, ainsi que dans les dortoirs du groupe R-2, les rideaux, les tentures, les étoffes suspendues et les matériaux décoratifs combustibles similaires suspendus aux murs ou aux plafonds doivent être conformes à la section 806.4 et ne doivent pas couvrir plus de 10 % de la surface du mur ou du plafond auquel ces matériaux sont fixés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45354,13 +45349,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.867: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The permissible amount of decorative vegetation and noncombustible decorative materials shall not be limited.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La quantité autorisée de végétation décorative et de matériaux décoratifs incombustibles n'est pas limitée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T165402Z">
+        <seg>La quantité admissible de végétation décorative et de matériaux décoratifs incombustibles n’est pas limitée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51402,13 +51396,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Wood finish flooring is permitted to be attached directly to the embedded or fireblocked wood sleepers and shall be permitted where cemented directly to the top surface of fire-resistance-rated floor assemblies or directly to a wood subfloor attached to sleepers as provided for in Section 805.1.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le plancher de finition en bois peut être fixé directement aux solives en bois encastrées ou traitées pare-feu (fireblocked) et est autorisé lorsqu'il est cimenté directement sur la surface supérieure des assemblages de plancher ayant un degré de résistance au feu ou directement sur un sous-plancher en bois fixé aux solives comme prévu à l'article 805.1.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T165557Z">
+        <seg>Les revêtements de sol de finition en bois peuvent être fixés directement aux lambourdes en bois encastrées ou munies de dispositifs coupe-feu et sont également autorisés lorsqu’ils sont collés directement sur la surface supérieure d’assemblages de plancher cotés pour leur degré de résistance au feu ou directement sur un sous-plancher en bois fixé à des lambourdes, comme le prévoit la section 805.1.1.</seg>
       </tuv>
     </tu>
     <tu>
