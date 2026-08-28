@@ -29680,13 +29680,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.872: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Combustible materials installed on or embedded in floors of buildings of Type I or II construction shall comply with Sections 805.1.1 through 805.1.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les matériaux combustibles installés sur les planchers ou encastrés dans les planchers des bâtiments de construction de type I ou II doivent se conformer aux sections 805.1.1 à 805.1.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T171640Z">
+        <seg>Les matériaux combustibles installés sur les planchers ou encastrés dans les planchers des bâtiments de construction de type I ou II doivent être conformes aux sections 805.1.1 à 805.1.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48766,13 +48765,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a building is equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1 or 903.3.1.2, Class II materials are permitted in any area where Class I materials are required, and materials complying with DOC FF-1 “pill test” (CPSC 16 CFR Part 1630) or with ASTM D2859 are permitted in any area where Class II materials are required.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un bâtiment est entièrement équipé d'un système d'extincteurs automatiques selon la section 903.3.1.1 ou 903.3.1.2, les matériaux de classe II sont autorisés dans toute zone où des matériaux de classe I sont exigés, et les matériaux conformes au « pill test » DOC FF-1 (CPSC 16 CFR Partie 1630) ou à la norme ASTM D2859 sont autorisés dans toute zone où des matériaux de classe II sont exigés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T171747Z">
+        <seg>Lorsqu’un bâtiment est entièrement équipé d’un système d’extincteurs automatique conformément à la section 903.3.1.1 ou 903.3.1.2, les matériaux de classe II sont autorisés dans toute zone où des matériaux de classe I sont requis, et les matériaux conformes à l’essai de pastille DOC FF-1 (CPSC 16 CFR, partie 1630) ou à la norme ASTM D2859 sont autorisés dans toute zone où des matériaux de classe II sont requis.</seg>
       </tuv>
     </tu>
     <tu>
