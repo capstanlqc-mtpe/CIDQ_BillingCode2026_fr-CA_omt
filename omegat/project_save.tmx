@@ -16818,8 +16818,8 @@
       <tuv lang="en">
         <seg>&lt;g1&gt;Certificates of occupancy are not required for work exempt from permits in accordance with Section 105.2.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041521Z">
-        <seg>&lt;g1&gt;Les certificats d’occupation ne sont pas exigés pour les travaux exemptés de permis selon la section 105.2.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T025335Z">
+        <seg>&lt;g1&gt;Les certificats d’occupation ne sont pas requis pour les travaux exemptés de permis conformément à la section 105.2.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26148,8 +26148,8 @@
       <tuv lang="en">
         <seg>After the building official inspects the building or structure and does not find violations of the provisions of this code or other laws that are enforced by the department, the building official shall issue a certificate of occupancy that contains the following:</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T041556Z">
-        <seg>Après avoir inspecté le bâtiment ou la construction et constaté l’absence de violations des dispositions du présent code ou d’autres lois appliquées par le service, le responsable de la construction doit délivrer un certificat d’occupation contenant les éléments suivants :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T023325Z">
+        <seg>Après que le responsable de la construction a inspecté le bâtiment ou la structure et n'a pas constaté de violations des dispositions du présent code ou d'autres lois appliquées par le département, le responsable de la construction doit délivrer un certificat d'occupation qui contient ce qui suit :</seg>
       </tuv>
     </tu>
     <tu>
