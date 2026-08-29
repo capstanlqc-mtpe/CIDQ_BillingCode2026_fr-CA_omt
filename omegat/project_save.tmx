@@ -38447,13 +38447,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.844: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Operable parts for locking or latching and unlocking or unlatching shall comply with Section 309.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les parties manœuvrables pour le verrouillage ou le blocage et le déverrouillage ou le déblocage doivent se conformer à la section 309.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T190846Z">
+        <seg>Les parties utilisables servant au verrouillage ou au loquetage et au déverrouillage ou au déloquetage doivent être conformes à la section 309.</seg>
       </tuv>
     </tu>
     <tu>
