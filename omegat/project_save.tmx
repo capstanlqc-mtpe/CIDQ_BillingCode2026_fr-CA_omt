@@ -50074,13 +50074,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where provided in buildings that are designated as emergency shelters, variable message signs conveying emergency-related information shall comply with Section 1112.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'ils sont prévus dans des bâtiments désignés comme abris d'urgence, les panneaux à message variable transmettant des informations relatives aux urgences doivent se conformer à la section 1112.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T045708Z">
+        <seg>Lorsqu’ils sont installés dans des bâtiments désignés comme refuges d’urgence, les panneaux à messages variables qui transmettent des renseignements liés aux situations d’urgence doivent être conformes à la section 1112.5.</seg>
       </tuv>
     </tu>
     <tu>
