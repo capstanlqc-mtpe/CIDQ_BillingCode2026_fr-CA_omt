@@ -23050,13 +23050,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Hall signals, including in-car signals, shall comply with Section 407.2.2.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les signaux de hall, y compris les signaux dans la cabine, doivent se conformer à la section 407.2.2.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T053107Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les signaux d’appel, y compris les signaux dans la cabine, doivent être conformes à la section 407.2.2.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31283,13 +31282,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.86: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Elevator call buttons and keypads shall comply with Section 407.2.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les boutons d'appel et les claviers d'ascenseur doivent se conformer à la section 407.2.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T053352Z">
+        <seg>Les boutons d’appel et les claviers d’ascenseur doivent être conformes à la section 407.2.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31431,13 +31429,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.86: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Elevator landings shall comply with Section 407.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les paliers d'ascenseur doivent se conformer à la section 407.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T052949Z">
+        <seg>Les paliers d'ascenseur doivent être conformes à la section 407.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31501,13 +31498,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.869: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Elevators shall comply with Section 407 and ASME A17.1/CSA B44 listed in Section 105.2.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ascenseurs doivent se conformer à la section 407 et à la norme ASME A17.1/CSA B44 mentionnée à la section 105.2.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T052943Z">
+        <seg>Les ascenseurs doivent être conformes à la section 407 et à la norme ASME A17.1/CSA B44 mentionnée à la section 105.2.5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32778,13 +32774,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.855: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Floor surfaces of ramp runs shall comply with Section 302.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les surfaces de plancher des rampes doivent se conformer à la section 302.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T052806Z">
+        <seg>Les surfaces de plancher des volées de rampe doivent être conformes à la section 302.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36885,23 +36880,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Landings serving limited-use/limited-application elevators shall comply with Section 408.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les paliers desservant les ascenseurs à usage limité ou à application limitée doivent se conformer à la section 408.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T053132Z">
+        <seg>Les paliers desservant les ascenseurs à usage limité ou à application limitée doivent être conformes à la section 408.2.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Landings shall comply with Section 405.7.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les paliers doivent se conformer à la section 405.7.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T052932Z">
+        <seg>Les paliers doivent être conformes à la section 405.7.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37173,13 +37166,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.847: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Limited-use/limited-application elevators shall comply with Section 408 and ASME A17.1/CSA B44 listed in Section 106.2.8.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ascenseurs à usage limité ou à application limitée doivent se conformer à la section 408 et à la norme ASME A17.1/CSA B44 mentionnée à la section 106.2.8.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T053127Z">
+        <seg>Les ascenseurs à usage limité ou à application limitée doivent être conformes à la section 408 et à la norme ASME A17.1/CSA B44 mentionnée à la section 106.2.8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39660,13 +39652,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.836: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Ramps along accessible routes shall comply with Section 405.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes le long des itinéraires accessibles doivent se conformer à la section 405.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T052744Z">
+        <seg>Les rampes le long des parcours accessibles doivent être conformes à la section 405.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40878,13 +40869,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.852: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Signs at elevator hoistways shall comply with Section 407.2.3.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les panneaux dans les cages d'ascenseur doivent se conformer à la section 407.2.3.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T053116Z">
+        <seg>Les panneaux dans les cages d'ascenseur doivent être conformes à la section 407.2.3.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
