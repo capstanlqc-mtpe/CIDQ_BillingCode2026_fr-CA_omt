@@ -25935,13 +25935,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.886: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Accessible stairs shall comply with Section 504.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les escaliers accessibles doivent se conformer à la section 504.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T055729Z">
+        <seg>Les escaliers accessibles doivent être conformes à la section 504.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41625,13 +41624,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Stair treads shall comply with Section 302 and shall have a slope not steeper than 1:48.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les marches d'escalier doivent se conformer à la section 302 et présenter une pente d'au plus 1:48.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T055751Z">
+        <seg>Les marches d'escalier doivent être conformes à la section 302 et présenter une pente maximale de 1:48.</seg>
       </tuv>
     </tu>
     <tu>
