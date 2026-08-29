@@ -971,13 +971,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Ramped aisles within assembly rooms or spaces shall comply with the provisions in Section 1030.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1. Les allées en&lt;x1/&gt; rampe dans les pièces ou les aires de réunion doivent se conformer aux dispositions de la section 1030.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T223053Z">
+        <seg>1.&lt;x1/&gt;Les allées en pente dans les salles ou espaces de rassemblement doivent être conformes aux dispositions de la section 1030.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26087,8 +26086,8 @@
       <tuv lang="en">
         <seg>Acoustical ceiling systems that are part of fire-resistance-rated construction shall be installed in the same manner used in the assembly tested and shall comply with the provisions of Chapter 7.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T203243Z">
-        <seg>Les systèmes de plafond acoustique qui font partie d’une construction ayant un degré de résistance au feu doivent être installés de la même manière que dans l’assemblage soumis à l’essai et doivent être conformes aux dispositions du chapitre 7.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T223150Z">
+        <seg>Les systèmes de plafond acoustique qui font partie d’une construction ayant un degré de résistance au feu doivent être installés de la même manière que dans l’assemblage soumis à l’essai et doivent être conformes aux dispositions du chapitre 7. </seg>
       </tuv>
     </tu>
     <tu>
@@ -26230,13 +26229,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Aisles and aisle accessways serving a room or space used for assembly purposes shall comply with Section 1030.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les allées et les voies d'accès aux allées desservant une pièce ou une aire utilisée à des fins de réunions doivent se conformer à la section 1030.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T223309Z">
+        <seg>Les allées et les voies d’accès aux allées desservant une salle ou un espace utilisé à des fins de rassemblement doivent être conformes à la section 1030.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34315,13 +34313,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.897: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Handrails shall comply with Section 1014.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes doivent se conformer à la section 1014.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T223230Z">
+        <seg>Les mains courantes doivent être conformes à la section 1014.</seg>
       </tuv>
     </tu>
     <tu>
