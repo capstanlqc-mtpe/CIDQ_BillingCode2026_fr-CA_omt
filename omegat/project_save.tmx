@@ -23003,13 +23003,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Glass-block walls shall comply with Section 2110.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les murs en briques de verre doivent se conformer à la section 2110.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T051619Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les murs en blocs de verre doivent être conformes à la section 2110.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23093,13 +23092,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.866: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Individual glazed areas, including glass mirrors, in hazardous locations as defined in Section 2406.4 shall comply with Sections 2406.1.1 through 2406.1.4.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les surfaces vitrées individuelles, y compris les miroirs en verre, dans les endroits dangereux tels que définis à la section 2406.4 doivent se conformer aux sections 2406.1.1 à 2406.1.4.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T050123Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les surfaces vitrées individuelles, y compris les miroirs en verre, situées dans les endroits dangereux définis à la section 2406.4 doivent être conformes aux sections 2406.1.1 à 2406.1.4.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48448,13 +48446,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.896: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Walls, floors and partitions in toilet and bathrooms shall comply with Sections 1210.2.1 through 1210.2.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les murs, les planchers et les cloisons des toilettes et des salles de bain doivent se conformer aux sections 1210.2.1 à 1210.2.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T045720Z">
+        <seg>Les murs, les planchers et les cloisons des toilettes et des salles de bain doivent être conformes aux sections 1210.2.1 à 1210.2.4.</seg>
       </tuv>
     </tu>
     <tu>
