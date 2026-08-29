@@ -17776,13 +17776,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;Platform &lt;x2/&gt;&lt;/g1&gt;lifts shall comply with Section 410 and ASME A18.1 listed in Section 105.2.6.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les plates-formes&lt;g1&gt; &lt;x2/&gt;élévatrices&lt;/g1&gt; doivent se conformer à la section 410 et à la norme ASME A18.1 mentionnée à la section 105.2.6.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T054248Z">
+        <seg>Les plates-formes&lt;g1&gt; &lt;x2/&gt;élévatrices&lt;/g1&gt; doivent être conformes à la section 410 et à la norme ASME A18.1 mentionnée à la section 105.2.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28509,13 +28508,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Buttons with floor designations shall comply with Section 309.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les boutons avec désignation d'étage doivent se conformer à la section 309.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T054239Z">
+        <seg>Les boutons avec désignations d'étage doivent être conformes à la section 309.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28619,13 +28617,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.891: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Car doors shall comply with Section 408.3.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes de cabine doivent se conformer à la section 408.3.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T053942Z">
+        <seg>Les portes de cabine doivent être conformes à la section 408.3.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30330,13 +30327,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.864: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Designations and indicators of car controls shall comply with Section 407.4.7.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les désignations et les indicateurs des commandes de la cabine doivent se conformer à la section 407.4.7.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T053948Z">
+        <seg>Les désignations et les indicateurs des commandes de la cabine doivent être conformes à la section 407.4.7.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31371,23 +31367,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.865: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Elevator cars shall comply with Section 408.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les cabines d'ascenseur doivent se conformer à la section 408.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T053943Z">
+        <seg>Les cabines d'ascenseur doivent être conformes à la section 408.4.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.873: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Elevator cars shall comply with Section 409.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les cabines d'ascenseur doivent se conformer à la section 409.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T054227Z">
+        <seg>Les cabines d'ascenseur doivent être conformes à la section 409.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31411,13 +31405,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.859: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Elevator hoistway doors shall comply with Section 408.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes de la cage d'ascenseur doivent se conformer à la section 408.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T053935Z">
+        <seg>Les portes de la cage d'ascenseur doivent être conformes à la section 408.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31587,13 +31580,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.901: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Emergency communications systems shall comply with Section 409.4.7.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les systèmes de communication d'urgence doivent se conformer à la section 409.4.7.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T054242Z">
+        <seg>Les systèmes de communication d'urgence doivent être conformes à la section 409.4.7.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32754,13 +32746,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.873: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Floor surfaces in elevator cars shall comply with Section 302.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les surfaces de plancher dans les cabines d'ascenseur doivent se conformer à la section 302.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T053947Z">
+        <seg>Les surfaces de plancher dans les cabines d'ascenseur doivent être conformes à la section 302.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34158,13 +34149,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.867: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Hall signals shall comply with Section 407.2.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les signaux de hall doivent se conformer à la section 407.2.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T053925Z">
+        <seg>Les signaux d’appel doivent être conformes à la section 407.2.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37056,13 +37046,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.895: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Lifts with doors or gates shall comply with Section 410.2.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les plates-formes élévatrices avec portes ou portillons doivent se conformer à la section 410.2.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T055712Z">
+        <seg>Les élévateurs munis de portes ou de barrières doivent être conformes à la section 410.2.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39416,13 +39405,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.851: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Private residence elevators shall comply with Section 409 and ASME A17.1/CSA B44 listed in Section 106.2.8.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ascenseurs de résidence privée doivent se conformer à la section 409 et à la norme ASME A17.1/CSA B44 mentionnée à la section 106.2.8.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T054218Z">
+        <seg>Les ascenseurs desservant une résidence privée doivent être conformes à la section 409 et à la norme ASME A17.1/CSA B44 mentionnée à la section 106.2.8.</seg>
       </tuv>
     </tu>
     <tu>
