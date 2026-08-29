@@ -26189,13 +26189,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.793: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Aisle accessways for seating in rows shall comply with Section 1030.13.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les voies d'accès aux allées pour les SIÈGES en rangées doivent se conformer à la section 1030.13.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T041724Z">
+        <seg>Les voies d’accès aux allées pour les sièges disposés en rangées doivent être conformes à la section 1030.13.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41835,23 +41834,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.872: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Stepped aisles shall comply with Sections 1030.14.2 through 1030.14.2.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les allées à marches doivent se conformer aux sections 1030.14.2 à 1030.14.2.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T041800Z">
+        <seg>Les allées en gradins doivent être conformes aux sections 1030.14.2 à 1030.14.2.4.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Stepped aisles that change direction at vomitories shall comply with Section 1030.11.1 Transitions between a stepped aisle above a vomitory and a stepped aisle to the side of a vomitory shall comply with Section 1030.11.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les allées en escalier qui changent de direction au niveau des vomitoires doivent se conformer à la section 1030.11.1 Les transitions entre une allée en escalier au-dessus d'un vomitoire et une allée en escalier sur le côté d'un vomitoire doivent se conformer à la section 1030.11.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T041659Z">
+        <seg>Les allées en gradins qui changent de direction au niveau des vomitoires doivent être conformes à la section 1030.11.1. Les transitions entre une allée en gradins située au-dessus d’un vomitoire et une allée en gradins située à côté d’un vomitoire doivent être conformes à la section 1030.11.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41875,13 +41872,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.753: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Stepped aisles, transitions and stairways that maintain the stepped aisle riser and tread dimensions shall comply with Section 1030.14 as one exit access component.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les allées à gradins, les transitions et les escaliers qui conservent les dimensions de la contremarche et de la marche de l'allée à gradins doivent se conformer à la section 1030.14 en tant qu'élément d'accès à l'issue.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T041630Z">
+        <seg>Les allées en gradins, les transitions et les escaliers qui conservent les dimensions de la contremarche et de la marche de l'allée en gradins doivent être conformes à la section 1030.14 en tant qu'élément d'accès à l'issue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50098,13 +50094,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where provided in transportation facilities, variable message signs conveying transportation-related information shall comply with Section 1112.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'ils sont prévus dans les installations de transport, les panneaux à message variable transmettant des informations relatives au transport doivent se conformer à la section 1112.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T041827Z">
+        <seg>Lorsqu’ils sont installés dans des installations de transport, les panneaux à messages variables qui transmettent des renseignements liés au transport doivent être conformes à la section 1112.5.</seg>
       </tuv>
     </tu>
     <tu>
