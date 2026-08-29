@@ -47704,13 +47704,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.867: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Transitions between stairways and stepped aisles shall comply with Section 1030.10.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les transitions entre les escaliers et les allées à gradins doivent se conformer à la section 1030.10.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T041606Z">
+        <seg>Les transitions entre les escaliers et les allées en gradins doivent être conformes à la section 1030.10.</seg>
       </tuv>
     </tu>
     <tu>
