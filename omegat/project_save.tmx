@@ -32755,13 +32755,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.866: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Floor surfaces of platform lifts shall comply with Section 302.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les surfaces de plancher des plates-formes élévatrices doivent se conformer à la section 302.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T055725Z">
+        <seg>Les surfaces de plancher des plates-formes élévatrices doivent être conformes à la section 302.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37055,13 +37054,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.895: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Lifts with ramps shall comply with Section 410.2.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les plates-formes élévatrices avec rampes doivent se conformer à la section 410.2.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T055720Z">
+        <seg>Les plates-formes élévatrices avec rampes doivent être conformes à la section 410.2.2.</seg>
       </tuv>
     </tu>
     <tu>
