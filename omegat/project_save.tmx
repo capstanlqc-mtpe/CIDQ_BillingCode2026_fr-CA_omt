@@ -24338,13 +24338,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.807: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A clear floor space, positioned for a parallel or forward approach to the trash compactor, shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir une surface de plancher dégagée, positionnée pour une approche parallèle ou par l'avant du compacteur de déchets.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T163505Z">
+        <seg>Un espace libre au sol, positionné de manière à permettre une approche parallèle ou de face du compacteur à déchets, doit être prévu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27926,13 +27925,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.905: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Automatic doors shall comply with Section 404.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes automatiques doivent se conformer à la section 404.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T163304Z">
+        <seg>Les portes automatiques doivent être conformes à la section 404.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29055,13 +29053,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.888: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Changes in level shall comply with Section 303.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les changements de niveau doivent se conformer à la section 303.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T163259Z">
+        <seg>Les changements de niveau doivent être conformes à la section 303.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30682,13 +30679,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.867: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Doorways intended for user passage shall comply with Section 1104.5.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures de porte destinées au passage des utilisateurs doivent se conformer à la section 1104.5.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T163302Z">
+        <seg>Les ouvertures de porte destinées au passage des utilisateurs doivent être conformes à la section 1104.5.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31210,13 +31206,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Either all toilet and bathing areas provided shall comply with Section 1104.11.3.1 (Option A), or one toilet and bathing area shall comply with Section 1104.11.3.2 (Option B).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Soit toutes les toilettes et salles de bain prévues doivent se conformer à la section 1104.11.3.1 (Option A), soit une toilette et une salle de bain doivent se conformer à la section 1104.11.3.2 (Option B).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T163419Z">
+        <seg>Toutes les salles de toilettes et salles de bains prévues doivent être conformes à la section 1104.11.3.1 (option A), ou une salle de toilettes et salle de bains doit être conforme à la section 1104.11.3.2 (option B).</seg>
       </tuv>
     </tu>
     <tu>
@@ -31441,13 +31436,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.876: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Elevators serving the unit shall comply with Sections 407, 408 or 409.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ascenseurs desservant l'unité doivent se conformer aux sections 407, 408 ou 409.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T163317Z">
+        <seg>Les ascenseurs desservant le logement doivent être conformes aux sections 407, 408 ou 409.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36723,13 +36717,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.875: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Kitchens shall comply with Section 1104.12.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les cuisines doivent se conformer à la section 1104.12.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T163424Z">
+        <seg>Les cuisines doivent être conformes à la section 1104.12.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47816,13 +47809,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.797: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Type C (Visitable) dwelling units shall comply with Section 1105.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les logements de type C (visitable) doivent se conformer à la section 1105.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T163429Z">
+        <seg>Les logements de type C (visitable) doivent être conformes à la section 1105.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48307,13 +48299,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Walking surfaces that are part of an accessible route shall comply with Section 1104.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les surfaces de circulation qui font partie d'un itinéraire accessible doivent se conformer à la section 1104.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T163257Z">
+        <seg>Les surfaces de circulation qui font partie d'un itinéraire accessible doivent être conformes à la section 1104.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48375,13 +48366,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.899: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Washing machines and clothes dryers shall comply with Section 1104.10.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les laveuses et les sécheuses à vêtements doivent se conformer à la section 1104.10.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T163345Z">
+        <seg>Les laveuses et les sécheuses doivent être conformes à la section 1104.10.</seg>
       </tuv>
     </tu>
     <tu>
