@@ -20500,13 +20500,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.849: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;Type A &lt;/g1&gt;&lt;x2/&gt;&lt;g3&gt;units shall comply with Section 1103.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x2/&gt;Les unités de&lt;g1&gt; type A &lt;/g1&gt;&lt;g3&gt;doivent se conformer à la section 1103.&lt;/g3&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044736Z">
+        <seg>&lt;x2/&gt;Les logements de&lt;g1&gt; type A &lt;/g1&gt;&lt;g3&gt;doivent être conformes à la section 1103.&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24064,13 +24063,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.878: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;Lavatories shall comply with Section 606.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;Les lavabos doivent se conformer à la section 606.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044746Z">
+        <seg>&lt;x1/&gt;Les lavabos doivent être conformes à la section 606.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25874,13 +25872,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Accessible routes within Accessible units shall comply with Section 1102.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les itinéraires accessibles dans les unités accessibles doivent se conformer à la section 1102.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044610Z">
+        <seg>Les itinéraires accessibles dans les logements accessibles doivent être conformes à la section 1102.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25894,13 +25891,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Accessible routes within Type B units shall comply with Section 1104.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les itinéraires accessibles dans les logements de type B doivent se conformer à la section 1104.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T163248Z">
+        <seg>Les itinéraires accessibles dans les logements de type B doivent être conformes à la section 1104.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26023,13 +26019,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Accessible units shall comply with Section 1102.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les logements accessibles doivent se conformer à la section 1102.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044553Z">
+        <seg>Les logements accessibles doivent être conformes à la section 1102.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26296,33 +26291,30 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>All appliance controls shall comply with Section 1103.9.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Toutes les commandes d'appareils doivent se conformer à la section 1103.9.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044837Z">
+        <seg>Toutes les commandes d'appareils doivent être conformes à la section 1103.9.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>All appliance controls shall comply with Section 309.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Toutes les commandes d'appareils doivent se conformer à la section 309.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044523Z">
+        <seg>Toutes les commandes d'appareils doivent être conformes à la section 309.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.885: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>All other toilet and bathing facilities shall comply with Section 1102.11.1</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Toutes les autres toilettes et salles de bain doivent se conformer à la section 1102.11.1</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044720Z">
+        <seg>Toutes les autres toilettes et salles de bain doivent être conformes à la section 1102.11.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -26354,13 +26346,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.87: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>All toilet and bathing facilities shall comply with Section 1103.11.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Toutes les toilettes et salles de bain doivent se conformer à la section 1103.11.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044743Z">
+        <seg>Toutes les toilettes et salles de bain doivent être conformes à la section 1103.11.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29273,13 +29264,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Classrooms not exceeding 20,000 cubic feet (565 m3) and required to provide enhanced acoustics shall comply with Section 808.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les salles de classe n'excédant pas 20 000 pieds cubes (565 m3) et devant offrir une acoustique améliorée doivent se conformer à la section 808.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044550Z">
+        <seg>Les salles de classe n'excédant pas 20 000 pieds cubes (565 m3) et devant offrir une acoustique améliorée doivent être conformes à la section 808.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29333,13 +29323,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.857: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Clear floor spaces required by Sections 1103.12.3 through 1103.12.5 shall comply with Section 305.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les surfaces de plancher dégagées exigées par les sections 1103.12.3 à 1103.12.5 doivent se conformer à la section 305.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044817Z">
+        <seg>Les surfaces de plancher dégagées exigées par les sections 1103.12.3 à 1103.12.5 doivent être conformes à la section 305.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30104,13 +30093,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.891: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Cooktops shall comply with Section 1103.12.5.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les tables de cuisson doivent se conformer à la section 1103.12.5.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044843Z">
+        <seg>Les tables de cuisson doivent être conformes à la section 1103.12.5.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30124,13 +30112,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.89: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Cooktops shall comply with Section 804.5.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les tables de cuisson doivent se conformer à la section 804.5.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044540Z">
+        <seg>Les tables de cuisson doivent être conformes à la section 804.5.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30775,13 +30762,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Dressing, fitting and locker rooms shall comply with Section 803.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les vestiaires, les cabines d'essayage et les vestiaires avec casiers doivent se conformer à la section 803.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044425Z">
+        <seg>Les vestiaires, les cabines d'essayage et les vestiaires avec casiers doivent être conformes à la section 803.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31514,13 +31500,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.875: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Elevators within the unit shall comply with Section 407, 408, or 409.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ascenseurs à l'intérieur du logement doivent se conformer à la section 407, 408 ou 409.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044629Z">
+        <seg>Les ascenseurs à l'intérieur du logement doivent être conformes à la section 407, 408 ou 409.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32513,13 +32498,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.883: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Faucets shall comply with Section 309.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les robinets doivent se conformer à la section 309.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044822Z">
+        <seg>Les robinets doivent être conformes à la section 309.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34140,13 +34124,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.861: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Hand operated flush controls shall comply with Section 309.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les mécanismes de chasse manuels doivent se conformer à la section 309.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044804Z">
+        <seg>Les mécanismes de chasse manuels doivent être conformes à la section 309.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36071,13 +36054,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In spaces utilized primarily for viewing motion picture projections, wheelchair space locations shall comply with Section 802.10.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les espaces utilisés principalement pour regarder des projections de films, les emplacements pour fauteuils roulants doivent se conformer à la section 802.10.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044355Z">
+        <seg>Dans les espaces utilisés principalement pour regarder des projections de films, les emplacements pour fauteuils roulants doivent être conformes à la section 802.10.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36732,13 +36714,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.883: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Kitchens shall comply with Section 1103.12.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les cuisines doivent se conformer à la section 1103.12.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044808Z">
+        <seg>Les cuisines doivent être conformes à la section 1103.12.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36752,13 +36733,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.871: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Kitchens shall comply with Section 804.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les cuisines doivent se conformer à la section 804.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044427Z">
+        <seg>Les cuisines doivent être conformes à la section 804.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36772,13 +36752,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Kitchens where a cook top or conventional range is not provided shall comply with Section 804.2.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les cuisines où il n'y a aucun plan de cuisson ni de cuisinière classique doivent se conformer à la section 804.2.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044508Z">
+        <seg>Les cuisines où aucune table de cuisson ni cuisinière conventionnelle n’est prévue doivent être conformes à la section 804.2.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37076,13 +37055,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Lighting controls, electrical panelboards, electrical switches and receptacle outlets, environmental controls, appliance controls, plumbing fixture controls and user controls for security or intercom systems shall comply with Section 309.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les commandes d'éclairage, les panneaux électriques, les interrupteurs électriques et les prises de courant, les commandes environnementales, les commandes d'appareils, les commandes d'appareils de plomberie et les commandes d'utilisateur pour les systèmes de sécurité ou d'interphone doivent se conformer à la section 309.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044703Z">
+        <seg>Les commandes d’éclairage, les panneaux électriques, les interrupteurs électriques et les prises de courant, les commandes environnementales, les commandes d’appareils, les commandes d’appareils sanitaires et les commandes utilisateur des systèmes de sécurité ou d’interphone doivent être conformes à la section 309.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38480,33 +38458,30 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.867: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Operable windows required to provide natural ventilation shall comply with Sections 309.2 and 309.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les fenêtres ouvrantes tenues d'assurer une ventilation naturelle doivent se conformer aux sections 309.2 et 309.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044850Z">
+        <seg>Les fenêtres ouvrantes tenues d'assurer une ventilation naturelle doivent être conformes aux sections 309.2 et 309.3.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.879: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Operable windows shall comply with Section 1103.13.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les fenêtres ouvrantes doivent se conformer à la section 1103.13.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044846Z">
+        <seg>Les fenêtres ouvrantes doivent être conformes à la section 1103.13.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.88: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Operable windows shall comply with Section 506.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les fenêtres ouvrantes doivent se conformer à la section 506.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044724Z">
+        <seg>Les fenêtres ouvrantes doivent être conformes à la section 506.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38650,23 +38625,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.901: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Ovens shall comply with Section 1103.12.5.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les fours doivent se conformer à la section 1103.12.5.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044844Z">
+        <seg>Les fours doivent être conformes à la section 1103.12.5.5.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.902: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Ovens shall comply with Section 804.5.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les fours doivent se conformer à la section 804.5.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044543Z">
+        <seg>Les fours doivent être conformes à la section 804.5.5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39129,13 +39102,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Platform lifts within the unit shall comply with Section 410.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les plates-formes élévatrices dans le logement doivent se conformer à la section 410.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044632Z">
+        <seg>Les plates-formes élévatrices dans le logement doivent être conformes à la section 410.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40676,13 +40648,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.874: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Showers shall comply with Section 608.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les douches doivent se conformer à la section 608.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044806Z">
+        <seg>Les douches doivent être conformes à la section 608.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40754,13 +40725,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Sign language interpreter stations shall comply with Section 802.11.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les postes d'interprètes en langue des signes doivent se conformer à la section 802.11.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044415Z">
+        <seg>Les postes d'interprètes en langue des signes doivent être conformes à la section 802.11.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40923,13 +40893,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.901: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Sinks shall comply with Section 1103.12.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les éviers doivent se conformer à la section 1103.12.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044820Z">
+        <seg>Les éviers doivent être conformes à la section 1103.12.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47838,13 +47807,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.898: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Type B units shall comply with Section 1104.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les unités de type B doivent se conformer à la section 1104.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044902Z">
+        <seg>Les logements de type B doivent être conformes à la section 1104.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48349,13 +48317,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.866: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Walking surfaces that are part of an accessible route shall comply with Section 403.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les surfaces de circulation qui font partie d'un itinéraire accessible doivent se conformer à la section 403.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044622Z">
+        <seg>Les surfaces de circulation qui font partie d'un itinéraire accessible doivent être conformes à la section 403.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48418,13 +48385,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.89: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Washing machines and clothes dryers shall comply with Section 611.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les laveuses et les sécheuses à vêtements doivent se conformer à la section 611.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044716Z">
+        <seg>Les laveuses et les sécheuses doivent être conformes à la section 611.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48467,13 +48433,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.888: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Water closets shall comply with Section 1103.11.2.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les cabines de toilette doivent se conformer à la section 1103.11.2.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044754Z">
+        <seg>Les cabines de toilette doivent être conformes à la section 1103.11.2.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49438,13 +49403,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.81: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where charging stations are provided at wheelchair space locations, they shall comply with Section 906.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des bornes de recharge sont prévues aux emplacements pour fauteuils roulants, elles doivent se conformer à la section 906.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044348Z">
+        <seg>Lorsque des bornes de recharge sont prévues aux emplacements pour fauteuils roulants, elles doivent être conformes à la section 906.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50092,23 +50056,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.794: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where provided, kitchen appliances shall comply with Section 1103.12.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'ils sont prévus, les appareils de cuisine doivent se conformer à la section 1103.12.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044829Z">
+        <seg>Lorsqu'ils sont prévus, les appareils de cuisine doivent être conformes à la section 1103.12.5.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.792: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where provided, kitchen appliances shall comply with Section 804.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'ils sont prévus, les appareils de cuisine doivent se conformer à la section 804.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044519Z">
+        <seg>Lorsqu'ils sont prévus, les appareils de cuisine doivent être conformes à la section 804.5.</seg>
       </tuv>
     </tu>
     <tu>
