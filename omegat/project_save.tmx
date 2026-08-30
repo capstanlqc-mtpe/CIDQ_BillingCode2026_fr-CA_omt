@@ -1220,13 +1220,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.799: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Visual characters that also serve as raised characters shall comply with Section 703.3, or</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1. Les caractères&lt;x1/&gt; visuels qui servent également de caractères en relief doivent se conformer à la section 703.3, ou</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044120Z">
+        <seg>1. Les caractères&lt;x1/&gt; visuels qui servent également de caractères en relief doivent être conformes à la section 703.3, ou</seg>
       </tuv>
     </tu>
     <tu>
@@ -2595,13 +2594,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.857: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Visual characters on VMS signage shall comply with Section 703.7, or</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Les caractères visuels sur la signalisation VMS doivent se conformer à la section 703.7, ou</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044125Z">
+        <seg>2.&lt;x1/&gt; Les caractères visuels sur la signalisation VMS doivent être conformes à la section 703.7, ou</seg>
       </tuv>
     </tu>
     <tu>
@@ -3501,13 +3499,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.878: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;Visual characters not covered in items 1 and 2 shall comply with Section 703.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Les caractères visuels non couverts aux points 1 et 2 doivent se conformer à la section 703.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044128Z">
+        <seg>3.&lt;x1/&gt; Les caractères visuels non couverts aux points 1 et 2 doivent être conformes à la section 703.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23143,13 +23140,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.89: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Pictograms shall comply with Section 703.5.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les pictogrammes doivent se conformer à la section 703.5.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044135Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les pictogrammes doivent être conformes à la section 703.5.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23213,13 +23209,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Raised characters shall comply with Section 703.3, and shall be duplicated in braille complying with Section 703.4.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les caractères en relief doivent se conformer à la section 703.3 et être reproduits en braille conformément à la section 703.4.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044133Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les caractères en relief doivent être conformes à la section 703.3 et être reproduits en braille conformément à la section 703.4.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23301,13 +23296,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.88: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Symbols of accessibility shall comply with Section 703.6.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les symboles d'accessibilité doivent se conformer à la section 703.6.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044140Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les symboles d'accessibilité doivent être conformes à la section 703.6.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30308,13 +30302,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Designated aisle seats shall comply with Section 802.8.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les sièges côté allée désignés doivent se conformer à la section 802.8.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044245Z">
+        <seg>Les sièges désignés situés dans les allées doivent être conformes à la section 802.8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50977,13 +50970,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.784: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where tiered seating includes dining surfaces or work surfaces, wheelchair spaces and wheelchair space locations shall comply with Section 802.6, 802.7, 802.9, 802.10 and 902.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les sièges en gradins comprennent des surfaces de restauration ou des surfaces de travail, les espaces pour fauteuils roulants et les emplacements des espaces pour fauteuils roulants doivent se conformer aux sections 802.6, 802.7, 802.9, 802.10 et 902.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044221Z">
+        <seg>Lorsque les sièges en gradins comprennent des surfaces de restauration ou des surfaces de travail, les espaces pour fauteuils roulants et les emplacements des espaces pour fauteuils roulants doivent être conformes aux sections 802.6, 802.7, 802.9, 802.10 et 902.</seg>
       </tuv>
     </tu>
     <tu>
