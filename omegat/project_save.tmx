@@ -22730,13 +22730,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.849: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Accessible washing machines and clothes dryers shall comply with Section 611.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les laveuses et sécheuses à linge accessibles doivent se conformer à la section 611.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T033108Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les laveuses et les sécheuses accessibles doivent être conformes à la section 611.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23244,13 +23243,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Seats in accessible bathtubs and shower compartments shall comply with Section 610.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les sièges dans les baignoires et les compartiments de douche accessibles doivent se conformer à la section 610.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T033006Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les sièges dans les baignoires et les compartiments de douche accessibles doivent être conformes à la section 610.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23274,13 +23272,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.86: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Signs that provide direction to or information about interior spaces and facilities of the site shall comply with Section 703.2.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les enseignes qui fournissent des indications ou des informations sur les espaces intérieurs et les installations du site doivent se conformer à la section 703.2.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044046Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les panneaux qui fournissent des indications ou des renseignements sur les espaces intérieurs et les installations du site doivent être conformes à la section 703.2.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23584,13 +23581,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.851: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Accessible signs shall comply with Section 703.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Les enseignes accessibles doivent se conformer à la section 703.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T033118Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Les enseignes accessibles doivent être conformes à la section 703.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26413,13 +26409,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.83: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Alternate roll-in-type shower compartments shall comply with Section 608.2.3.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les compartiments de douche de rechange de type à accès de plain-pied doivent se conformer à la section 608.2.3.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T032900Z">
+        <seg>Les cabines de douche de type fauteuil roulant de rechange doivent être conformes à la section 608.2.3.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40344,13 +40339,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.891: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Saunas and steam rooms shall comply with Section 612.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les saunas et les hammams doivent se conformer à la section 612.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T033102Z">
+        <seg>Les saunas et les bains de vapeur doivent être conformes à la section 612.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40371,13 +40365,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.898: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Seats shall comply with Section 610.3.1 or 610.3.2.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les sièges doivent se conformer à la section 610.3.1 ou 610.3.2.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T033010Z">
+        <seg>Les sièges doivent être conformes à la section 610.3.1 ou 610.3.2.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
