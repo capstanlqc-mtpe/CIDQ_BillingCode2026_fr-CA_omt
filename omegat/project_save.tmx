@@ -9659,13 +9659,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1105.2 Unit entrance.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1105.2 Entrée de l'unité.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T211409Z">
+        <seg>&lt;g1&gt;1105.2 Entrée de logement.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27749,13 +27748,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.786: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At least one unit entrance shall be on a circulation path complying with Section 1105.5 from a public street or sidewalk, a dwelling unit driveway, or a garage.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Au moins une entrée d'unité doit se trouver sur une voie de circulation conforme à la section 1105.5 à partir d'une rue ou d'un trottoir public, d'une allée d'unité d'habitation ou d'un garage.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T211500Z">
+        <seg>Au moins une entrée de logement doit se trouver sur une voie de circulation conforme à la section 1105.5 à partir d'une rue ou d'un trottoir public, d'une allée de logement ou d'un garage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50512,13 +50510,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the clear floor space is positioned for a parallel approach, the centerline of the clear floor space shall be offset 24 inches (610 mm) maximum from the centerline of the appliance.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque la surface de plancher dégagée est positionnée pour un accès parallèle, la ligne d'axe de la surface de plancher dégagée doit être décalée d'au plus 24 po [610 mm] par rapport à la ligne d'axe de l'appareil.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T211342Z">
+        <seg>Lorsque l’espace libre au sol est positionné de manière à permettre une approche parallèle, l’axe central de l’espace libre au sol doit être décalé de 24 pouces (610 mm) au maximum par rapport à l’axe central de l’appareil.</seg>
       </tuv>
     </tu>
     <tu>
