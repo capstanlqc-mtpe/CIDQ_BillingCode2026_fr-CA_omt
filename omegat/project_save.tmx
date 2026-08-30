@@ -16518,13 +16518,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.799: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;Accessible &lt;/g1&gt;&lt;x2/&gt;&lt;g3&gt;shower compartments shall comply with Section 608.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x2/&gt;Les compartiments de douche&lt;g1&gt; accessibles &lt;/g1&gt;&lt;g3&gt;doivent se conformer à la section 608.&lt;/g3&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T190913Z">
+        <seg>&lt;x2/&gt;Les compartiments de douche&lt;g1&gt; accessibles &lt;/g1&gt;&lt;g3&gt;doivent être conformes à la section 608.&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29969,13 +29968,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Control end wall grab bars shall comply with Section 607.4.1.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les barres d'appui du mur d'extrémité de commande doivent se conformer à la section 607.4.1.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T190908Z">
+        <seg>Les barres d'appui du mur d'extrémité de commande doivent être conformes à la section 607.4.1.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30038,13 +30036,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.874: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Controls shall comply with Section 309.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les commandes doivent se conformer à la section 309.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T190910Z">
+        <seg>Les commandes doivent être conformes à la section 309.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33901,13 +33898,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.873: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Grab bars shall comply with Section 609 and shall be provided in accordance with Section 607.4.1 or 607.4.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les barres d'appui doivent se conformer à la section 609 et être prévues selon la section 607.4.1 ou 607.4.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T190859Z">
+        <seg>Les barres d'appui doivent être conformes à la section 609 et être prévues selon la section 607.4.1 ou 607.4.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40366,13 +40362,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.883: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Seats shall comply with Section 610.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les sièges doivent se conformer à la section 610.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T190855Z">
+        <seg>Les sièges doivent être conformes à la section 610.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47642,13 +47637,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Transfer-type shower compartments shall comply with Section 608.2.1.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les compartiments de douche de type transfert doivent se conformer à la section 608.2.1.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T013308Z">
+        <seg>Les compartiments de douche de type transfert doivent être conformes à la section 608.2.1.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
