@@ -41693,13 +41693,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Standard roll-in-type shower compartments shall comply with Section 608.2.2.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les compartiments de douche standard de type à l'italienne doivent se conformer à la section 608.2.2.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T020600Z">
+        <seg>Les cabines de douche de type fauteuil roulant standard doivent être conformes à la section 608.2.2.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
