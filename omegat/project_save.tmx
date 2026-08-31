@@ -11978,13 +11978,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.821: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;420.7 Group I-1 assisted living housing units.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;420.7 Unités d'habitation avec services de soutien du groupe I-1.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T162329Z">
+        <seg>&lt;g1&gt;420.7 Logements avec services d’assistance du groupe I-1.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27330,13 +27329,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.801: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Areas or spaces permitted to be included in the calculation of the refuge area are corridors, lounge or dining areas and other low-hazard areas.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les aires ou les espaces pouvant être inclus dans le calcul de l'aire de refuge sont les couloirs, les aires de séjour ou de repas et les autres aires à faible risque.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T162302Z">
+        <seg>Les aires ou espaces dont la superficie peut être prise en compte dans le calcul de l’aire de refuge sont les corridors, les aires de séjour ou de restauration et les autres aires à faible risque.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34864,23 +34862,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.795: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group I-1 occupancies, rooms or spaces that contain a cooking facility with domestic cooking appliances shall be permitted to be open to the corridor where all of the following criteria are met:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les usages du groupe I-1, les pièces ou les locaux qui contiennent une installation de cuisson avec des appareils de cuisson domestiques peuvent être ouverts sur le couloir lorsque tous les critères suivants sont respectés :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T162724Z">
+        <seg>Dans les établissements du groupe I-1, les pièces ou espaces qui comprennent une installation de cuisson équipée d’appareils de cuisson domestiques peuvent être ouverts sur le corridor lorsque tous les critères suivants sont respectés :</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.783: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group I-1 occupancies, where a fire-resistance corridor is provided in areas where assisted living residents are housed, shared living spaces, group meeting or multipurpose therapeutic spaces open to the corridor shall be in accordance with all of the following criteria:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les usages du groupe I-1, lorsqu'un couloir résistant au feu est prévu dans les zones où sont logés les résidents en résidence-services, les espaces de vie partagés, les espaces de réunion de groupe ou les espaces thérapeutiques polyvalents ouverts sur le couloir doivent être conformes à tous les critères suivants :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T162355Z">
+        <seg>Dans les établissements du groupe I-1, lorsqu’un corridor résistant au feu est prévu dans les aires où sont hébergés des résidents bénéficiant de services d’assistance, les espaces de séjour communs, les espaces de réunion de groupe ou les espaces thérapeutiques polyvalents donnant sur le corridor doivent satisfaire à tous les critères suivants :</seg>
       </tuv>
     </tu>
     <tu>
@@ -34904,23 +34900,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group I-1, Condition 1, the corridors onto which the spaces open are protected by an automatic fire detection system installed in accordance with Section 907, or the spaces are equipped throughout with quick-response sprinklers in accordance with Section 903.3.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans le groupe I-1, condition 1, les couloirs sur lesquels les espaces donnent sont protégés par un système de détection automatique d'incendie installé selon la section 907, ou les espaces sont entièrement équipés de gicleurs à réaction rapide selon la section 903.3.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T162532Z">
+        <seg>Dans les établissements du groupe I-1, condition 1, les corridors sur lesquels donnent les espaces doivent être protégés par un système automatique de détection d’incendie installé conformément à la section 907, ou les espaces doivent être entièrement équipés d’extincteurs automatiques à réponse rapide conformément à la section 903.3.2.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group I-1, Condition 2 occupancies, the number of care recipients served by one cooking facility and within the same smoke compartment shall not be greater than 30.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les usages du groupe I-1, condition 2, le nombre de bénéficiaires de soins desservis par une installation de cuisson et se trouvant dans le même compartiment antifumée ne doit pas être supérieur à 30.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T162814Z">
+        <seg>Dans les usages du groupe I-1, condition 2, le nombre de bénéficiaires de soins desservis par une installation de cuisson et se trouvant dans le même compartiment coupe-fumée ne doit pas être supérieur à 30.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34954,13 +34948,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group I-1, Condition 2, the corridors onto which the spaces open, in the same smoke compartment, are protected by an automatic fire detection system installed in accordance with Section 907, or the smoke compartment in which the spaces are located is equipped throughout with quick-response sprinklers in accordance with Section 903.3.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans le groupe I-1, condition 2, les corridors sur lesquels les espaces donnent, dans le même compartiment de fumée, sont protégés par un système automatique de détection d'incendie installé selon la section 907, ou le compartiment de fumée dans lequel les espaces sont situés est entièrement équipé de gicleurs à réaction rapide selon la section 903.3.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T162554Z">
+        <seg>Dans les établissements du groupe I-1, condition 2, les corridors sur lesquels donnent les espaces, dans le même compartiment coupe-fumée, doivent être protégés par un système automatique de détection d’incendie installé conformément à la section 907, ou le compartiment coupe-fumée dans lequel se trouvent les espaces doit être entièrement équipé d’extincteurs automatiques à réponse rapide conformément à la section 903.3.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39770,13 +39763,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Refuge areas shall be provided within each smoke compartment.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des aires de refuge doivent être prévues dans chaque compartiment de fumée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T162108Z">
+        <seg>Des aires de refuge doivent être prévues dans chaque compartiment coupe-fumée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45014,13 +45006,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.888: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The open space is protected by an automatic fire detection system installed in accordance with Section 907.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'espace ouvert est protégé par un système automatique de détection d'incendie installé selon la section 907.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T162505Z">
+        <seg>L’espace ouvert doit être protégé par un système automatique de détection d’incendie installé conformément à la section 907.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45861,13 +45852,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.811: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The size of the refuge area shall accommodate the occupants and care recipients from the adjoining smoke compartment.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La taille de l'aire de refuge doit permettre d'accueillir les occupants et les bénéficiaires de soins du compartiment antifumée adjacent.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T162117Z">
+        <seg>La taille de l'aire de refuge doit permettre d'accueillir les occupants et les bénéficiaires de soins du compartiment coupe-fumée adjacent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45941,13 +45931,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.887: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The smoke barrier shall be in accordance with Section 709.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La barrière antifumée doit être conforme à la section 709.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T162039Z">
+        <seg>La séparations pare-fumée doit être conforme à la section 709.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46051,13 +46040,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.775: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The spaces are not occupied as resident sleeping rooms, treatment rooms, incidental uses in accordance with Section 509, or hazardous uses.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les espaces ne sont pas occupés comme chambres à coucher pour les résidents, salles de traitement, usages accessoires selon la section 509 ou usages dangereux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T162500Z">
+        <seg>Les espaces ne doivent pas être occupés comme chambres des résidents, salles de traitement, usages accessoires conformément à la section 509 ou usages dangereux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46666,13 +46654,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.825: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The walls and ceilings of the space are constructed as required for corridors.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les murs et les plafonds de l'espace sont construits selon les mêmes exigences que pour les corridors.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T162442Z">
+        <seg>Les murs et les plafonds de l’espace doivent être construits comme l’exigent les corridors.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48987,13 +48974,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.787: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a smoke compartment is adjoined by two or more smoke compartments, the minimum area of the refuge area shall accommodate the largest occupant load of the adjoining compartments.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un compartiment antifumée est contigu à deux compartiments antifumée ou plus, l'aire minimale de l'aire de refuge doit pouvoir accueillir la plus grande charge d'occupants des compartiments contigus.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T162139Z">
+        <seg>Lorsqu’un compartiment coupe-fumée est adjacent à deux compartiments coupe-fumée ou plus, la superficie minimale de l’aire de refuge doit être suffisante pour accueillir la plus grande charge d’occupants des compartiments adjacents.</seg>
       </tuv>
     </tu>
     <tu>
