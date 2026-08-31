@@ -30052,13 +30052,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Cooktops and ranges used for care-recipient training or nutritional counseling are not required to comply with Item 3 of this Section</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les tables de cuisson et les cuisinières utilisées pour la formation des bénéficiaires de soins ou les conseils nutritionnels ne sont pas tenues de se conformer au point 3 de cette section</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T165906Z">
+        <seg>Les tables de cuisson et les cuisinières utilisées pour la formation des bénéficiaires de soins ou pour la consultation en matière de nutrition ne sont pas tenues de satisfaire à l’élément 3 de la présente section</seg>
       </tuv>
     </tu>
     <tu>
@@ -36260,13 +36259,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.844: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Installation shall be in accordance with Section 906 and the extinguisher shall be located within a 30-foot (9144 mm) distance of travel from each domestic cooking appliance.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'installation doit être conforme à la section 906 et l'extincteur doit être situé à une distance de parcours de 30 pi [9144 mm] de chaque appareil de cuisson domestique.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T165820Z">
+        <seg>L'installation doit être conforme à la section 906 et l'extincteur doit être situé à une distance de parcours de 30 pi [9144 mm] de chaque appareil de cuisson domestique.</seg>
       </tuv>
     </tu>
     <tu>
