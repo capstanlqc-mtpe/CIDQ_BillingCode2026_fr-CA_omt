@@ -38749,13 +38749,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.799: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Peepholes, where used, shall provide a minimum 180-degree range of view.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les judas, lorsqu'ils sont utilisés, doivent offrir un champ de vision d'au moins 180 degrés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T034323Z">
+        <seg>Les judas, lorsqu’ils sont utilisés, doivent offrir un champ de vision d’au moins 180 degrés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43634,13 +43633,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.843: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The entrance level shall include a toilet room or bathroom complying with Section 1105.6 and one habitable space with an area 70 square feet (6.5 m2) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le niveau de l'entrée doit comprendre une salle de toilette ou de bain conforme à la Section 1105.6 et une aire habitable d'au moins 70 pi2 [6,5 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T032227Z">
+        <seg>Le niveau de l'entrée doit comprendre une salle de toilette ou une salle de bain conforme à la Section 1105.6 et une aire habitable d'au moins 70 pi2 [6,5 m2].</seg>
       </tuv>
     </tu>
     <tu>
