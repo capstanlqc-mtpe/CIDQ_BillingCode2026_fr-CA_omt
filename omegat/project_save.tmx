@@ -34852,13 +34852,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group I-1 occupancies, installation of cooking appliance used in domestic cooking facilities shall comply with all of the following:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les usages du groupe I-1, l'installation d'un appareil de cuisson utilisé dans les installations de cuisson domestique doit être conforme à toutes les exigences suivantes :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T163515Z">
+        <seg>Dans les établissements du groupe I-1, l’installation d’appareils de cuisson utilisés dans des installations de cuisson domestiques doit être conforme à toutes les exigences suivantes :</seg>
       </tuv>
     </tu>
     <tu>
