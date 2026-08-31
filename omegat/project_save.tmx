@@ -22952,13 +22952,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.791: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Floor assemblies separating dwelling units in the same buildings, floor assemblies separating sleeping units in the same building and floor assemblies separating dwelling or sleeping units from other occupancies contiguous to them in the same building shall be constructed as horizontal assemblies in accordance with Section 711.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les planchers séparant des logements dans un même bâtiment, les planchers séparant des unités de couchage dans un même bâtiment et les planchers séparant des logements ou des unités de couchage d'autres usages qui leur sont contigus dans un même bâtiment doivent être construits comme des ensembles horizontaux selon la section 711.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T155609Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les assemblages de plancher séparant des logements dans un même bâtiment, les assemblages de plancher séparant des unités de couchage dans un même bâtiment et les assemblages de plancher séparant des logements ou des unités de couchage d’autres usages contigus dans le même bâtiment doivent être construits comme des assemblages horizontaux conformément à la section 711.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35124,13 +35123,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group R-3 and R-4 facilities, floor assemblies within the dwelling units or sleeping units are not required to be constructed as horizontal assemblies.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les installations des groupes R-3 et R-4, les planchers dans les logements ou les unités de couchage ne doivent pas nécessairement être construits comme des ensembles horizontaux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T155640Z">
+        <seg>Dans les établissements des groupes R-3 et R-4, les assemblages de plancher à l’intérieur des logements ou des unités de couchage ne sont pas tenus d’être construits comme des assemblages horizontaux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39381,13 +39379,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Quick-response or residential automatic sprinklers shall be installed in accordance with Section 903.3.2.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des gicleurs automatiques à réaction rapide ou résidentiels doivent être installés selon la section 903.3.2.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T160845Z">
+        <seg>Les extincteurs automatiques à réponse rapide ou résidentiels doivent être installés conformément à la section 903.3.2.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
