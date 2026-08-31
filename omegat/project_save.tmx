@@ -11895,13 +11895,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;410.5.3.4 Path of egress travel.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;410.5.3.4 Chemin de retraite.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T045210Z">
+        <seg>&lt;g1&gt;410.5.3.4 Parcours d’évacuation.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -43657,13 +43656,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.867: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The exit access travel distance shall be not greater than 300 feet (91 440 mm) for buildings without a sprinkler system and 400 feet (122 mm) for buildings equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La distance de parcours ne doit pas dépasser 300 pieds (91 440 mm) pour les bâtiments sans système d'extincteurs automatiques et 400 pieds (122 mm) pour les bâtiments entièrement équipés d'un système d'extincteurs automatiques selon la section 903.3.1.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T050052Z">
+        <seg>La distance de parcours jusqu’à l’issue doit être d’au plus 300 pieds (91 440 mm) pour les bâtiments sans système d’extincteurs automatiques et d’au plus 400 pieds (122 m) pour les bâtiments entièrement équipés d’un système d’extincteurs automatiques conformément à la section 903.3.1.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43989,13 +43987,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The following exit access components are permitted where serving technical production areas:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les composants d'accès à la sortie suivants sont autorisés lorsqu'ils desservent des zones de production technique :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T045149Z">
+        <seg>Les éléments suivants des voies d’accès à l’issue sont autorisés lorsqu’ils desservent des zones de production technique :</seg>
       </tuv>
     </tu>
     <tu>
@@ -49408,8 +49405,8 @@
       <tuv lang="en">
         <seg>Where design flood elevations are not specified, they shall be established in accordance with Section 1612.3.1.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T044931Z">
-        <seg>Lorsque les élévations de crue de calcul ne sont pas spécifiées, elles doivent être établies conformément à la section 1612.3.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T044952Z">
+        <seg>Lorsque les élévations de crue de conception ne sont pas spécifiées, elles doivent être établies conformément à la section 1612.3.1.</seg>
       </tuv>
     </tu>
     <tu>
