@@ -9219,13 +9219,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.885: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1104.12.2.3.2 Forward approach.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1104.12.2.3.2 Accès frontal.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T035527Z">
+        <seg>&lt;g1&gt;1104.12.2.3.2 Approche de face.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9259,23 +9258,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.896: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1104.12.2.5.1 Approach.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1104.12.2.5.1 Accès.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T035254Z">
+        <seg>&lt;g1&gt;1104.12.2.5.1 Approche.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.892: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1104.12.2.5.2 Forward approach.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1104.12.2.5.2 Accès frontal.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T035124Z">
+        <seg>&lt;g1&gt;1104.12.2.5.2 Approche de face.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24206,13 +24203,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.808: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A clear floor space positioned for a parallel or forward approach to the refrigerator/freezer shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir une surface de plancher dégagée positionnée pour une approche parallèle ou par l'avant du réfrigérateur/congélateur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T035212Z">
+        <seg>Une surface de plancher dégagée positionnée pour une approche parallèle ou de face du réfrigérateur/congélateur doit être prévue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24306,23 +24302,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.792: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A clear floor space, positioned for a parallel or forward approach adjacent to the oven shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir une surface de plancher dégagée, positionnée pour une approche parallèle ou par l'avant adjacente au four.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T035336Z">
+        <seg>Un espace libre au sol, positionné de manière à permettre une approche parallèle ou de face à côté du four, doit être prévu.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.791: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A clear floor space, positioned for a parallel or forward approach to the cooktop, shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir une surface de plancher dégagée, positionnée pour une approche parallèle ou par l'avant de la table de cuisson.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T035558Z">
+        <seg>Une surface de plancher dégagée, positionnée pour une approche parallèle ou de face de la table de cuisson doit être prévue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43086,13 +43080,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.876: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The clear width of the circulation path shall be 36 inches (915 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La largeur libre de la voie de circulation doit être d'au moins 36 po [915 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T035009Z">
+        <seg>La largeur libre de la voie de circulation doit être d’au moins 36 po [915 mm].</seg>
       </tuv>
     </tu>
     <tu>
@@ -47460,13 +47453,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.852</note>
       <tuv lang="en">
         <seg>To obtain a permit, the applicant shall first file an application therefore in writing on a form furnished by the department of building safety for that purpose.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour obtenir un permis, le demandeur doit d'abord déposer une demande par écrit sur un formulaire fourni à cet effet par le service de la sécurité des bâtiments.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T035739Z">
+        <seg>Pour obtenir un permis, le demandeur doit d’abord présenter une demande écrite à cet effet sur un formulaire fourni par le service de la sécurité des bâtiments à cette fin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50485,23 +50477,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the clear floor space is positioned for a forward approach, knee and toe clearance complying with Section 306 shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque la surface de plancher dégagée est positionnée pour une approche par l'avant, il faut prévoir un espace pour les genoux et un espace pour les orteils conformément à la section 306.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T035508Z">
+        <seg>Lorsque la surface de plancher dégagée est positionnée pour une approche de face, un espace pour les genoux et un espace pour les orteils doit être prévu conformément à la section 306.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the clear floor space is positioned for a forward approach, the centerline of the clear floor space shall be offset 15 inches (380 mm) maximum from the centerline of the appliance.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque la surface de plancher dégagée est positionnée pour une approche par l'avant, la ligne d'axe de la surface de plancher dégagée doit être décalée d'au plus 15 po [380 mm] de la ligne d'axe de l'appareil.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T035029Z">
+        <seg>Lorsque l’espace libre au sol est positionné de manière à permettre une approche de face, l’axe central de l’espace libre au sol doit être décalé d’au plus 15 pouces (380 mm) par rapport à l’axe central de l’appareil.</seg>
       </tuv>
     </tu>
     <tu>
