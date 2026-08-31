@@ -24177,13 +24177,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.864: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A circulation path complying with Section 1105.5 shall connect the unit entrance complying with Section 1105.2 and with the spaces specified in Section 1105.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une voie de circulation conforme à la Section 1105.5 doit relier l'entrée du logement conforme à la Section 1105.2 et les espaces spécifiés à la Section 1105.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T225553Z">
+        <seg>Une voie de circulation conforme à la Section 1105.5 doit relier l'entrée du logement conforme à la Section 1105.2 et les espaces spécifiés dans la Section 1105.4.</seg>
       </tuv>
     </tu>
     <tu>
