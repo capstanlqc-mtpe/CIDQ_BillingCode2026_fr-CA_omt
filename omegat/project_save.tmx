@@ -20863,13 +20863,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.91</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[A] 107.2.7 Structural information.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[A] 107.2.7 Informations structurelles.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T035900Z">
+        <seg>&lt;g1&gt;[A] 107.2.7 Renseignements sur la structure.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -43221,13 +43220,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.904</note>
       <tuv lang="en">
         <seg>The construction documents shall provide the information specified in Section 1603.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les documents de construction doivent fournir les informations spécifiées à la section 1603.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T035834Z">
+        <seg>Les documents de construction doivent fournir les renseignements précisés à la section 1603.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49410,8 +49408,8 @@
       <tuv lang="en">
         <seg>Where design flood elevations are not specified, they shall be established in accordance with Section 1612.3.1.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T032302Z">
-        <seg>Lorsque les élévationslévations de crue de calcul ne sont pas précisées, elles doivent être établies conformément à l’article 1612.3.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T044931Z">
+        <seg>Lorsque les élévations de crue de calcul ne sont pas spécifiées, elles doivent être établies conformément à la section 1612.3.1.</seg>
       </tuv>
     </tu>
     <tu>
