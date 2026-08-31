@@ -10899,13 +10899,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.887</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;403.5.4 Smokeproof enclosures.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;403.5.4 Enceintes étanches à la fumée.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T205644Z">
+        <seg>&lt;g1&gt;403.5.4 Encloisonnements à l’épreuve de la fumée.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
