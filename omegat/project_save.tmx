@@ -5886,13 +5886,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.903: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;[F] 420.5 Fire alarm systems and smoke alarms&lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;[F] 420.5 Systèmes d'alarme incendie et détecteurs de fumée&lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T160857Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;[F] 420.5 Systèmes d'alarme d'incendie et détecteurs de fumée&lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32501,13 +32500,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Fire alarm systems and smoke alarms shall be provided in Group I-1, R- 1 and R-2 occupancies in accordance with Sections 907.2.6, 907.2.8 and 907.2.9, respectively.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des systèmes d'alarme incendie et des détecteurs de fumée doivent être prévus dans les usages des groupes I-1, R-1 et R-2 selon les sections 907.2.6, 907.2.8 et 907.2.9, respectivement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T160907Z">
+        <seg>Des systèmes d'alarme d'incendie et des détecteurs de fumée doivent être prévus dans les usages des groupes I-1, R-1 et R-2 selon les sections 907.2.6, 907.2.8 et 907.2.9, respectivement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41016,13 +41014,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.801: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke barriers shall be provided in Group I-1, Condition 2 to subdivide every story used by persons receiving care, treatment or sleeping and to provide other stories with an occupant load of 50 or more persons, into not fewer than two smoke compartments.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des barrières anti-fumée doivent être prévues dans le Groupe I-1, Condition 2, pour subdiviser chaque étage utilisé par des personnes recevant des soins, un traitement ou dormant et pour diviser les autres étages ayant une charge d'occupants de 50 personnes ou plus, en au moins deux compartiments anti-fumée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T161912Z">
+        <seg>Les séparations pare-fumée doivent être prévues dans les établissements du groupe I-1, condition 2, afin de subdiviser chaque étage utilisé par des personnes recevant des soins, des traitements ou dormant sur place et les autres étages ayant une charge d’occupants de 50 personnes ou plus en au moins deux compartiments coupe-fumée.</seg>
       </tuv>
     </tu>
     <tu>
