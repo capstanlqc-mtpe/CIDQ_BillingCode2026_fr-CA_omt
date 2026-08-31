@@ -37184,8 +37184,8 @@
       <tuv lang="en">
         <seg>Luminous egress path markings shall be provided in accordance with Section 1025.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054801Z">
-        <seg>Un marquage lumineux des parcours d’évacuation doit être prévu conformément à l’article 1025.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T205702Z">
+        <seg>Un marquage lumineux des parcours d’évacuation doit être prévu conformément à la section 1025.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37930,8 +37930,8 @@
       <tuv lang="en">
         <seg>Not more than 50 percent of the exit stairways shall be located in the same atrium.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T060102Z">
-        <seg>Au plus 50 % des escaliers d’issue doivent être situés dans le même atrium.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T210100Z">
+        <seg>Au plus 50 % des escaliers menant à une issue doivent être situés dans le même atrium.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43409,8 +43409,8 @@
       <tuv lang="en">
         <seg>The distance between the entry to an exit stairway in an atrium and the entrance to a minimum of one exit stairway enclosed in accordance with Section 1023.2 shall comply with the separation required by Section 1007.1.1.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T060024Z">
-        <seg>La distance entre l’entrée d’un escalier d’issue dans un atrium et l’entrée d’au moins un escalier d’issue encloisonné conformément à l’article 1023.2 doit être conforme à la distance de séparation exigée par l’article 1007.1.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T210031Z">
+        <seg>La distance entre l’entrée d’un escalier menant à une issue dans un atrium et l’entrée d’au moins un escalier menant à une issue encloisonné conformément à la section 1023.2 doit être conforme à la distance de séparation exigée par la section 1007.1.1.</seg>
       </tuv>
     </tu>
     <tu>
