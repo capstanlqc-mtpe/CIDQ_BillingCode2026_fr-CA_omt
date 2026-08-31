@@ -31853,13 +31853,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.904: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Except as modified or as provided for in this section, the provisions of Chapter 10 shall apply.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Sauf modification ou stipulation dans la présente section, les dispositions du chapitre 10 s'appliquent.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T141909Z">
+        <seg>Sauf modifications ou dispositions prévues dans la présente section, les dispositions du chapitre 10 doivent s’appliquer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32001,13 +32000,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exit access stairways and ramps serving technical production areas are not required to be enclosed.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les escaliers et rampes d'accès à l'issue desservant les zones de production technique ne sont pas tenus d'être encloisonnés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T142551Z">
+        <seg>Les escaliers et les rampes d'accès à l'issue desservant les zones de production technique ne sont pas tenus d'être encloisonnés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50955,13 +50953,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where two or more exits or exit access doorways from the stage are required in accordance with Section 1006.2, not fewer than one exit or exit access doorway shall be provided on each side of a stage.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque deux portes d'issue ou d'accès à l'issue ou plus de la scène sont exigées selon la section 1006.2, au moins une porte d'issue ou d'accès à l'issue doit être prévue de chaque côté d'une scène.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T142512Z">
+        <seg>Lorsqu’au moins deux issues ou baies de portes donnant accès à l’issue depuis la scène sont requises conformément à la section 1006.2, au moins une issue ou baie de porte donnant accès à l’issue doit être prévue de chaque côté de la scène.</seg>
       </tuv>
     </tu>
     <tu>
