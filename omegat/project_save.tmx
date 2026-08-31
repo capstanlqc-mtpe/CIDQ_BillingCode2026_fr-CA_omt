@@ -17419,13 +17419,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.615</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;HIGH-RISE BUILDINGS&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;GRATTE-CIELS&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T183824Z">
+        <seg>&lt;g1&gt;IMMEUBLES DE GRANDE HAUTEUR&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
