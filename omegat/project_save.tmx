@@ -24974,13 +24974,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A means for visually identifying a visitor without opening the unit entry door shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir un moyen d'identifier visuellement un visiteur sans ouvrir la porte d'entrée de l'unité.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T034339Z">
+        <seg>Un dispositif permettant d’identifier visuellement un visiteur sans ouvrir la porte d’entrée du logement doit être prévu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26074,13 +26073,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Activation of the button or switch shall initiate an audible tone within the unit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'activation du bouton ou de l'interrupteur doit déclencher une tonalité sonore à l'intérieur de l'unité.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T034640Z">
+        <seg>L'activation du bouton ou de l'interrupteur doit déclencher une tonalité sonore à l'intérieur du logement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50985,13 +50983,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.777: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where visible doorbell signals are located in sleeping areas, controls shall be provided to deactivate the signal.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des signaux de sonnette visibles sont situés dans les chambres, des commandes doivent être prévues pour désactiver le signal.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T034623Z">
+        <seg>Lorsque des signaux visuels de sonnette sont installés dans des aires de couchage, des commandes permettant de désactiver le signal doivent être prévues.</seg>
       </tuv>
     </tu>
     <tu>
