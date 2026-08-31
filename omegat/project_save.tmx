@@ -25158,13 +25158,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A shutoff for the fuel and electrical supply to the cooking equipment shall be provided in a location to which only staff has access.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un dispositif d'arrêt de l'alimentation en combustible et en électricité de l'équipement de cuisson doit être prévu dans un endroit auquel seul le personnel a accès.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T164634Z">
+        <seg>Un dispositif d’arrêt de l’alimentation en combustible et en électricité de l’équipement de cuisson doit être prévu à un endroit auquel seul le personnel a accès.</seg>
       </tuv>
     </tu>
     <tu>
