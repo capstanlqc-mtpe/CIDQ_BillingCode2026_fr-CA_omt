@@ -1249,13 +1249,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.773: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Where sleeping units include private bathrooms, walls between bedrooms and the associated private bathrooms are not required to be constructed as fire partitions.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Lorsque les unités de couchage comprennent des salles de bain privées, les murs entre les chambres et les salles de bain privées associées ne sont pas tenus d'être construits comme des cloisons coupe-feu.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T154623Z">
+        <seg>1.&lt;x1/&gt; Lorsque les unités de couchage comprennent des salles de bains privées, les murs entre les chambres et les salles de bains privées correspondantes ne sont pas tenus d’être construits comme des cloisons coupe-feu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2633,13 +2632,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.756: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Where sleeping units are constructed as suites, walls between bedrooms within the sleeping unit and the walls between the bedrooms and associated living spaces are not required to be constructed as fire partitions.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Lorsque les unités de couchage sont construites comme des suites, les murs entre les chambres à coucher à l'intérieur de l'unité de couchage et les murs entre les chambres à coucher et les espaces de vie associés ne sont pas tenus d'être construits comme des cloisons coupe-feu.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T154639Z">
+        <seg>2.&lt;x1/&gt; Lorsque les unités de couchage sont aménagées en suites, les murs entre les chambres à l’intérieur de l’unité de couchage ainsi que les murs entre les chambres et les espaces de séjour correspondants ne sont pas tenus d’être construits comme des cloisons coupe-feu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3253,13 +3251,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;In Group R-3 and R-4 facilities, walls within the dwelling units or sleeping units are not required to be constructed as fire partitions.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Dans les installations des groupes R-3 et R-4, les murs à l'intérieur des logements ou des unités de couchage ne doivent pas nécessairement être construits comme des cloisons coupe-feu.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T155534Z">
+        <seg>3.&lt;x1/&gt; Dans les établissements des groupes R-3 et R-4, les murs à l’intérieur des logements ou des unités de couchage ne sont pas tenus d’être construits comme des cloisons coupe-feu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15603,13 +15600,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.927: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;420.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;420.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T154352Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;420.1&lt;x3/&gt;Generalités.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21539,13 +21535,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.863: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 410.7 Standpipes.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 410.7 Colonnes montantes.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T154336Z">
+        <seg>&lt;g1&gt;[F] 410.7 Canalisations d’incendie.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23107,8 +23102,8 @@
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Occupancies in Groups I-1, R-1, R-2, R-3 and R-4 shall comply with the provisions of Sections 420.1 through 420.10 and other applicable provisions of this code.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T202913Z">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les usages des groupes I-1, R-1, R-2, R-3 et R-4 doivent être conformes aux dispositions des articles 420.1 à 420.10 et aux autres dispositions applicables du présent code.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T154415Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les usages des groupes I-1, R-1, R-2, R-3 et R-4 doivent être conformes aux dispositions des sections 420.1 à 420.10 et aux autres dispositions applicables du présent code.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23387,13 +23382,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.798: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Walls separating dwelling units in the same building, walls separating sleeping units in the same building and walls separating dwelling or sleeping units from other occupancies contiguous to them in the same building shall be constructed as fire partitions in accordance with Section 708.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les murs séparant les logements dans le même bâtiment, les murs séparant les unités de couchage dans le même bâtiment et les murs séparant les logements ou les unités de couchage des autres usages qui leur sont contigus dans le même bâtiment doivent être construits comme des cloisons coupe-feu selon la section 708.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T154446Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les murs séparant des logements dans un même bâtiment, les murs séparant des unités de couchage dans un même bâtiment et les murs séparant des logements ou des unités de couchage d’autres usages contigus dans le même bâtiment doivent être construits comme des cloisons coupe-feu conformément à la section 708.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29572,13 +29566,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.763: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Combustible hangings shall be limited to a single main curtain, borders, legs and a single backdrop.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les tentures combustibles doivent être limitées à un seul rideau principal, à des bordures, à des jambes et à une seule toile de fond.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T154241Z">
+        <seg>Les éléments suspendus combustibles doivent être limités à un seul rideau principal, aux frises, aux pendrillons et à un seul fond de scène.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29759,13 +29752,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.892</note>
       <tuv lang="en">
         <seg>Concrete or masonry walls shall be deemed to satisfy the requirements of Sections 403.2.2.1 and 403.2.2.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les murs en béton ou en maçonnerie sont réputés satisfaire aux exigences des articles 403.2.2.1 et 403.2.2.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T154041Z">
+        <seg>Les murs en béton ou en maçonnerie sont réputés satisfaire aux exigences des sections 403.2.2.1 et 403.2.2.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41370,33 +41362,30 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.781: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Sprinklers are not required for stages 1,000 square feet (93 m2) or less in area and 50 feet (15 240 mm) or less in height where curtains, scenery or other combustible hangings are not retractable vertically.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les gicleurs ne sont pas exigés pour les scènes d'une superficie de 1000 pi2 [93 m2] ou moins et d'une hauteur de 50 pi [15 240 mm] ou moins où les rideaux, les décors ou d'autres tentures combustibles ne sont pas rétractables verticalement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T154208Z">
+        <seg>Les extincteurs automatiques ne sont pas requis pour les scènes d’une superficie d’au plus 1 000 pieds carrés (93 m²) et d’une hauteur d’au plus 50 pieds (15 240 mm) lorsque les rideaux, décors ou autres éléments suspendus combustibles ne sont pas rétractables verticalement.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.801: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Sprinklers are not required under stage areas less than 4 feet (1219 mm) in clear height that are utilized exclusively for storage of tables and chairs, provided that the concealed space is separated from the adjacent spaces by Type X gypsum board not less than 5/8-inch (15.9 mm) in thickness.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les gicleurs ne sont pas exigés sous les aires de scène de moins de 4 pi [1219 mm] de hauteur libre qui sont utilisées exclusivement pour l'entreposage de tables et de chaises, à condition que l'espace dissimulé soit séparé des espaces adjacents par des panneaux de gypse de type X d'au moins 5/8 po [15,9 mm] d'épaisseur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T154130Z">
+        <seg>Les extincteurs automatiques ne sont pas requis sous les aires de scène d’une hauteur libre de moins de 4 pieds (1 219 mm) utilisées exclusivement pour l’entreposage de tables et de chaises, à condition que l’espace dissimulé soit séparé des espaces adjacents par des panneaux de gypse de type X d’une épaisseur d’au moins 5/8 pouce (15,9 mm).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.762: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Sprinklers are not required within portable orchestra enclosures on stages.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les gicleurs ne sont pas exigés dans les enceintes d'orchestre portables sur les scènes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T154253Z">
+        <seg>Des extincteurs automatiques ne sont pas requis dans les enceintes d’orchestre portatives sur les scènes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41642,13 +41631,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.825: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Standpipe systems shall be provided in accordance with Section 905.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des systèmes de colonnes montantes doivent être prévus selon la section 905.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T154327Z">
+        <seg>Les systèmes de canalisations d’incendie doivent être prévus conformément à la section 905.</seg>
       </tuv>
     </tu>
     <tu>
