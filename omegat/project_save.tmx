@@ -11959,13 +11959,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.884: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;420.6 Smoke barriers in Group I-1, Condition 2.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;420.6 Barrières antifumée dans le groupe I-1, condition 2.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T161932Z">
+        <seg>&lt;g1&gt;420.6 Séparations pare-fumée dans le groupe I-1, condition 2.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42007,13 +42006,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Such stories shall be divided into smoke compartments with an area of not more than 22,500 square feet (2092 m2) and the distance of travel from any point in a smoke compartment to a smoke barrier door shall not exceed 200 feet (60 960 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ces étages doivent être divisés en compartiments de fumée d'une superficie n'excédant pas 22 500 pi2 [2092 m2] et la distance de circulation entre tout point d'un compartiment de fumée et une porte pare-fumée ne doit pas excéder 200 pi [60 960 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T162024Z">
+        <seg>Ces étages doivent être subdivisés en compartiments coupe-fumée d’une superficie d’au plus 22 500 pieds carrés (2 092 m²), et la distance de parcours entre tout point d’un compartiment coupe-fumée et une porte de séparation pare-fumée ne doit pas être supérieure à 200 pi [60 960 mm].</seg>
       </tuv>
     </tu>
     <tu>
