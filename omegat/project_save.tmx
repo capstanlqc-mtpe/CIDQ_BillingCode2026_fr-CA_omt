@@ -33036,8 +33036,8 @@
       <tuv lang="en">
         <seg>For buildings other than Group R-2 and their ancillary spaces that are more than 420 feet (128 m) in building height, one additional interior exit stairway meeting the requirements of Sections 1011 and 1023 shall be provided in addition to the minimum number of exits required by Section 1006.3.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054412Z">
-        <seg>Pour les bâtiments autres que ceux du groupe R-2 et leurs espaces accessoires dont la hauteur dépasse 420 pi (128 m), un escalier d’issue intérieur supplémentaire conforme aux exigences des articles 1011 et 1023 doit être prévu en plus du nombre minimal d’issues exigé par l’article 1006.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T201950Z">
+        <seg>Pour les bâtiments autres que ceux du groupe R-2 et leurs espaces accessoires dont la hauteur du bâtiment est supérieure à 420 pieds (128 m), un escalier intérieur supplémentaire menant à l’issue et conforme aux exigences des sections 1011 et 1023 doit être prévu en plus du nombre minimal d’issues exigé par la section 1006.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40264,8 +40264,8 @@
       <tuv lang="en">
         <seg>Scissor stairways shall not be considered the additional interior exit stairway required by this section.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054447Z">
-        <seg>Les escaliers en ciseaux ne doivent pas être considérés comme l’escalier d’issue intérieur supplémentaire exigé par le présent article.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T200001Z">
+        <seg>Les escaliers en ciseaux ne doivent pas être considérés comme l’escalier d’issue intérieur supplémentaire exigé par la présente section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46363,8 +46363,8 @@
       <tuv lang="en">
         <seg>The total capacity of any combination of remaining interior exit stairways with one interior exit stairway removed shall be not less than the total capacity required by Section 1005.1.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260812T054422Z">
-        <seg>La capacité totale de toute combinaison d’escaliers d’issue intérieurs restants après le retrait d’un escalier d’issue intérieur ne doit pas être inférieure à la capacité totale exigée par l’article 1005.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T195951Z">
+        <seg>La capacité totale de toute combinaison d’escaliers d’issue intérieurs restants après le retrait d’un escalier d’issue intérieur ne doit pas être inférieure à la capacité totale exigée par la section 1005.1.</seg>
       </tuv>
     </tu>
     <tu>
