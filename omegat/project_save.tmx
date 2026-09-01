@@ -34886,13 +34886,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group I-1, Condition 2, Group I-2 and ambulatory care facilities, special purpose horizontal sliding, accordion or folding doors installed in accordance with Section 1010.3.3 and protected in accordance with Section 716.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans le groupe I-1, condition 2, le groupe I-2 et les centres de soins ambulatoires, les portes coulissantes horizontales, accordéon ou pliantes à usage spécial installées selon la section 1010.3.3 et protégées selon la section 716.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T231104Z">
+        <seg>Portes coulissantes, accordéon ou pliantes horizontales à usage spécial installées conformément à la section 1010.3.3 et protégées conformément à la section 716.</seg>
       </tuv>
     </tu>
     <tu>
