@@ -33263,13 +33263,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.87: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>For the purposes of determining area limitations, height limitations and type of construction, each portion of a building separated by one or more fire walls complying with Section 706 shall be considered to be a separate building.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Aux fins de la détermination des limites de superficie, des limites de hauteur et du type de construction, chaque partie d'un bâtiment séparée par un ou plusieurs murs coupe-feu conformes à l'article 706 doit être considérée comme un bâtiment distinct.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T205119Z">
+        <seg>Pour déterminer les limites de superficie, les limites de hauteur et le type de construction, chaque partie d’un bâtiment séparée par un ou plusieurs murs coupe-feu conformes à la section 706 doit être considérée comme un bâtiment distinct.</seg>
       </tuv>
     </tu>
     <tu>
