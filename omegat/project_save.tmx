@@ -20176,13 +20176,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.704: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;SMOKE PARTITIONS&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;CLOISONS ANTIFUMÉE&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T231511Z">
+        <seg>&lt;g1&gt;CLOISONS PARE-FUMÉE&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34942,13 +34941,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group I-2 and ambulatory care facilities, where doors protecting openings in smoke barriers are installed across a corridor and have hold-open devices, the doors shall be automatic-closing in accordance with Section 716.2.6.6.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les établissements du groupe I-2 et les centres de soins ambulatoires, lorsque des portes protégeant les ouvertures dans les barrières coupe-fumée sont installées en travers d'un corridor et sont munies de dispositifs de maintien en position ouverte, les portes doivent être à fermeture automatique selon la section 716.2.6.6.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T231142Z">
+        <seg>Dans les établissements du groupe I-2 et les établissements de soins ambulatoires, lorsque des portes protégeant les ouvertures dans les séparations pare-fumée sont installées en travers d’un corridor et sont munies de dispositifs de maintien en position ouverte, les portes doivent se fermer automatiquement conformément à la section 716.2.6.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36559,8 +36557,8 @@
       <tuv lang="en">
         <seg>Joints made in or between smoke barriers shall comply with Section 715.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T203058Z">
-        <seg>Les joints réalisés dans ou entre les barrières anti-fumée doivent être conformes à la section 715.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T231406Z">
+        <seg>Les joints réalisés dans ou entre les séparations pare-fumée doivent être conformes à la section 715.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38695,13 +38693,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Penetrations in a smoke barrier by ducts and air transfer openings shall comply with Section 717.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La pénétration de conduits et d'ouvertures permettant le passage de l'air dans un pare-fumée doit être conforme à la section 717.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T231445Z">
+        <seg>La pénétration de conduits et d'ouvertures permettant le passage de l'air dans une séparation pare-fumée doit être conforme à la section 717.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38725,13 +38722,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Penetrations of smoke barriers shall comply with Section 714.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les pénétrations des barrières anti-fumée doivent être conformes à la section 714.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T231410Z">
+        <seg>Les pénétrations des séparations pare-fumée doivent être conformes à la section 714.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41046,23 +41042,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.855: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke partitions installed as required elsewhere in the code shall comply with this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les cloisons coupe-fumée installées comme requis ailleurs dans le code doivent être conformes à la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T231906Z">
+        <seg>Les cloisons pare-fumée installées comme requis ailleurs dans le code doivent être conformes à la présente section.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke partitions shall extend from the top of the foundation or floor below to the underside of the floor or roof sheathing, deck or slab above or to the underside of the ceiling above where the ceiling membrane is constructed to limit the transfer of smoke.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les cloisons coupe-fumée doivent se prolonger du dessus de la fondation ou du plancher à leur base jusqu'à la face inférieure du plancher supérieur ou du revêtement de toiture, du platelage ou de la dalle de toit ou jusqu'à la face inférieure du plafond supérieur lorsque la membrane du plafond est construite de manière à limiter le passage de la fumée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T232337Z">
+        <seg>Les cloisons pare-fumée doivent s’étendre depuis le sommet des fondations ou du plancher situé en dessous jusqu’à la sous-face du revêtement de plancher ou de couverture, du platelage ou de la dalle situé au-dessus, ou jusqu’à la sous-face du plafond situé au-dessus lorsque la membrane du plafond est construite de manière à limiter la propagation de la fumée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41813,13 +41807,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Such doors shall have a vision panel with fire-protection-rated glazing materials in fire-protection-rated frames, the area of which shall not exceed that tested.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ces portes doivent avoir un regard vitré avec des matériaux de vitrage résistants au feu dans des cadres résistants au feu, dont la superficie ne doit pas dépasser celle testée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T231308Z">
+        <seg>Ces portes doivent avoir un regard vitré constitué de matériaux de vitrage présentant un degré de protection contre l’incendie, installés dans des cadres présentant un degré de protection contre l’incendie, dont la superficie ne doit pas dépasser celle testée.</seg>
       </tuv>
     </tu>
     <tu>
