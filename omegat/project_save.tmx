@@ -11719,13 +11719,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.908: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;410.2.6 Scenery.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;410.2.6 Décor.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T032002Z">
+        <seg>&lt;g1&gt;410.2.6 Décors.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29623,13 +29622,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.808: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Combustible materials used in sets and scenery shall meet the fire propagation performance criteria of Test Method 1 or Test Method 2, as appropriate, of NFPA 701, in accordance with Section 806 and the International Fire Code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les matériaux combustibles utilisés dans les décors et les paysages doivent satisfaire aux critères de performance de propagation du feu de la méthode d'essai 1 ou de la méthode d'essai 2, selon le cas, de la norme NFPA 701, selon la section 806 et l'International Fire Code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T032008Z">
+        <seg>Les matériaux combustibles utilisés dans les décors et les ensembles doivent satisfaire aux critères de performance en matière de propagation du feu de la méthode d’essai 1 ou de la méthode d’essai 2, selon le cas, de la norme NFPA 701, conformément à la section 806 et à l’International Fire Code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31568,13 +31566,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Emergency ventilation shall be provided for stages larger than 1,000 square feet (93 m2) in floor area, or with a stage height greater than 50 feet (15 240 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une ventilation d'urgence doit être prévue pour les scènes de plus de 1000 pi2 [93 m2] de surface de plancher ou dont la hauteur de scène est supérieure à 50 pi [15 240 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T032042Z">
+        <seg>Une ventilation d’urgence doit être prévue pour les scènes dont la superficie de plancher est supérieure à 1 000 pieds carrés (93 m²) ou dont la hauteur est supérieure à 50 pieds (15 240 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32346,13 +32343,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.783: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exterior openings that are located on the stage for means of egress or loading and unloading purposes, and that are likely to be open during occupancy of the theater, shall be constructed with vestibules to prevent air drafts into the auditorium.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures extérieures qui sont situées sur la scène à des fins de moyens d'évacuation ou de chargement et de déchargement, et qui sont susceptibles d'être ouvertes pendant l'usage du théâtre, doivent être construites avec des vestibules pour empêcher les courants d'air dans l'auditorium.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T031853Z">
+        <seg>Les ouvertures extérieures situées sur la scène et destinées aux moyens d’évacuation ou au chargement et au déchargement, et qui sont susceptibles de rester ouvertes pendant l’occupation du théâtre, doivent être aménagées avec des vestibules afin d’empêcher les courants d’air de pénétrer dans l’auditorium.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38843,13 +38839,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.807: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Permanent platforms are permitted to be constructed of fire-retardant-treated wood for Types I, II and IV construction where the platforms are not more than 30 inches (762 mm) above the main floor, and not more than one-third of the room floor area and not more than 3,000 square feet (279 m2) in area.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les plateformes permanentes peuvent être construites en bois ignifugé pour les constructions de types I, II et IV lorsque les plateformes ne sont pas à plus de 30 po [762 mm] au-dessus du plancher principal, qu'elles n'occupent pas plus du tiers de la surface de plancher de la pièce et qu'elles n'ont pas une superficie supérieure à 3000 pi2 [279 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T032331Z">
+        <seg>Les plateformes permanentes peuvent être construites en bois traité ignifuge pour les types de construction I, II et IV lorsque les plateformes ne sont pas situées à plus de 30 pouces (762 mm) au-dessus du plancher principal, qu’elles n’occupent pas plus du tiers de la superficie de plancher de la pièce et que leur superficie n’excède pas 3 000 pieds carrés (279 m2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41033,13 +41028,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.81: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke control in accordance with Section 909 shall be provided to maintain the smoke layer interface not less than 6 feet (1829 mm) above the highest level of the assembly seating or above the top of the proscenium opening where a proscenium wall is provided in compliance with Section 410.2.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un contrôle de la fumée selon la section 909 doit être prévu pour maintenir l'interface de la couche de fumée à au moins 6 pi [1829 mm] au-dessus du niveau le plus élevé des sièges de l'assemblée ou au-dessus du sommet de l'ouverture de l'avant-scène lorsqu'un mur d'avant-scène est prévu conformément à la section 410.2.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T032219Z">
+        <seg>Le contrôle des fumées, conformément à la section 909, doit être assuré de manière à maintenir l’interface de la couche de fumée à au moins 6 pieds (1 829 mm) au-dessus du niveau le plus élevé des places assises pour l’assemblée ou au-dessus du sommet de l’ouverture de scène lorsqu’un mur de séparation de scène est prévu conformément à la section 410.2.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42012,13 +42006,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.901: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Such ventilation shall comply with Section 410.2.7.1 or 410.2.7.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Cette ventilation doit se conformer à la section 410.2.7.1 ou 410.2.7.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T032107Z">
+        <seg>Cette ventilation doit être conforme à la section 410.2.7.1 ou 410.2.7.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47656,13 +47649,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Two or more vents constructed to open automatically by approved heat-activated devices and with an aggregate clear opening area of not less than 5 percent of the area of the stage shall be located near the center and above the highest part of the stage area.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Deux évents ou plus, construits pour s'ouvrir automatiquement au moyen de dispositifs approuvés activés par la chaleur et ayant une surface totale d'ouverture libre d'au moins 5 pour cent de la superficie de la scène, doivent être situés près du centre et au-dessus de la partie la plus haute de la zone de la scène.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T032129Z">
+        <seg>Deux ou plusieurs évents conçus pour s’ouvrir automatiquement au moyen de dispositifs approuvés activés par la chaleur, dont la superficie totale nette des ouvertures est d’au moins 5 % de la superficie de la scène, doivent être situés près du centre et au-dessus de la partie la plus élevée de l’aire de scène.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48848,13 +48840,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a proscenium wall is required to have a fire-resistance rating, the stage opening shall be provided with a fire curtain complying with NFPA 80, horizontal sliding doors complying with Section 716 having a fire protection rating of not less than 1 hour, or an approved water curtain complying with Section 903.3.1.1 or, in facilities not utilizing the provisions of smoke-protected assembly seating in accordance with Section 1030.6.2, a smoke control system complying with Section 909 or natural ventilation designed to maintain the smoke level not less than 6 feet (1829 mm) above the floor of the means of egress.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un mur d'avant-scène doit avoir un degré de résistance au feu, l'ouverture de la scène doit être munie d'un rideau coupe-feu conforme à la norme NFPA 80, de portes coulissantes horizontales conformes à la section 716 ayant un degré de protection contre le feu d'au moins 1 heure, ou d'un rideau d'eau approuvé conforme à la section 903.3.1.1 ou, dans les installations n'utilisant pas les dispositions relatives aux sièges de rassemblement protégés contre la fumée conformément à la section 1030.6.2, d'un système de contrôle de la fumée conforme à la section 909 ou d'une ventilation naturelle conçue pour maintenir le niveau de fumée à au moins 6 pieds (1829 mm) au-dessus du plancher du moyen d'évacuation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T031940Z">
+        <seg>Lorsqu’un mur de séparation de scène doit présenter une résistance au feu, l’ouverture de scène doit être munie d’un rideau coupe-feu conforme à la norme NFPA 80, de portes coulissantes horizontalement conformes à la section 716 et présentant un degré de résistance au feu d’au moins 1 heure, ou d’un rideau d’eau approuvé conforme à la section 903.3.1.1 ou, dans les établissements ne faisant pas appel aux dispositions relatives aux places assises protégées contre la fumée conformément à la section 1030.6.2, d’un système de contrôle des fumées conforme à la section 909 ou d’une ventilation naturelle conçue de manière à maintenir le niveau de fumée à au moins 6 pieds (1 829 mm) au-dessus du plancher du moyen d’évacuation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49873,13 +49864,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.861: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where protection of openings is required, exterior exit doors shall be protected with fire door assemblies that comply with Section 716.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque la protection des ouvertures est requise, les portes de sortie extérieures doivent être protégées par des portes coupe-feu qui se conforment à la section 716.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T031835Z">
+        <seg>Lorsque la protection des ouvertures est requise, les portes de sortie extérieures doivent être protégées par des portes coupe-feu qui sont conformes à la section 716.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50674,33 +50664,30 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.79: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the space beneath the permanent platform is used for storage or any purpose other than equipment, wiring or plumbing, the floor assembly shall be not less than 1-hour fire-resistance-rated construction.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque l'espace sous la plateforme permanente est utilisé pour l'entreposage ou à toute autre fin que l'équipement, le câblage ou la plomberie, l'assemblage du plancher doit être une construction ayant une résistance au feu d'au moins une heure (1 h).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T032355Z">
+        <seg>Lorsque l’espace situé sous la plateforme permanente est utilisé pour l’entreposage ou à toute autre fin que l’installation d’équipement, de câblage ou de plomberie, l’assemblage de plancher doit être constitué d’une construction présentant une résistance au feu d’au moins 1 heure.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.871: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the space beneath the permanent platform is used only for equipment, wiring or plumbing, the underside of the permanent platform need not be protected.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque l'espace sous la plateforme permanente est utilisé uniquement pour l'équipement, le câblage ou la plomberie, la face inférieure de la plateforme permanente n'a pas besoin d'être protégée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T033208Z">
+        <seg>Lorsque l’espace situé sous la plateforme permanente est utilisé uniquement pour l’installation d’équipement, de câblage ou de plomberie, la face inférieure de la plateforme permanente n’a pas à être protégée.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.8: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the stage height is greater than 50 feet (15 240 mm), all portions of the stage shall be completely separated from the seating area by a proscenium wall with not less than a 2-hour fire-resistance rating extending continuously from the foundation to the roof.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque la hauteur de la scène est supérieure à 50 pi (15 240 mm), toutes les parties de la scène doivent être complètement séparées de la zone des SIÈGES par un mur d'avant-scène ayant un degré de résistance au feu d'au moins 2 heures et s'étendant en continu de la fondation au toit.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T031918Z">
+        <seg>Lorsque la hauteur de la scène est supérieure à 50 pieds (15 240 mm), toutes les parties de la scène doivent être complètement séparées de l’aire de places assises par un mur de séparation de scène présentant une résistance au feu d’au moins 2 heures et s’étendant de façon continue des fondations jusqu’au toit.</seg>
       </tuv>
     </tu>
     <tu>
