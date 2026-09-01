@@ -24959,13 +24959,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.8: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A means of escape to a roof in place of a second means of egress is permitted.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un moyen d'évacuation vers un toit à la place d'un deuxième moyen d'évacuation est autorisé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T193317Z">
+        <seg>Un moyen d’évacuation vers un toit peut être prévu à la place d’un deuxième moyen d’évacuation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45123,13 +45122,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The path of egress travel within and from technical support areas shall be not less than 22 inches (559 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le chemin de retraite dans les zones de soutien technique et à partir de celles-ci ne doit pas être inférieur à 22 po [559 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T193730Z">
+        <seg>Le parcours d’évacuation dans les zones de soutien technique et à partir de celles-ci ne doit pas être inférieur à 22 po (559 mm).</seg>
       </tuv>
     </tu>
     <tu>
