@@ -38629,13 +38629,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.782: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Pass-through openings are installed in a wall, door or vision panel that is not required to have a fire-resistance rating.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures de passage sont installées dans un mur, une porte ou un panneau de vision qui n'est pas tenu d'avoir un degré de résistance au feu.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T234404Z">
+        <seg>Les ouvertures de passage doivent être installées dans un mur, une porte ou un regard vitré qui n’est pas tenu de présenter une résistance au feu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45863,13 +45862,13 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.734: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The smoke compartment in which the pass-through openings occur does not contain a patient care suite or sleeping room.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le compartiment anti-fumée dans lequel se trouvent les ouvertures de passage ne contient pas de suite de soins aux patients ou de chambre à coucher.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T234358Z">
+        <seg>Le compartiment coupe-fumée dans lequel se trouvent les ouvertures de passage ne doit pas contenir de suite de soins aux patients ni de chambre à coucher.
+</seg>
       </tuv>
     </tu>
     <tu>
