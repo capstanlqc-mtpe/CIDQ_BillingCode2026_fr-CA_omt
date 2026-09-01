@@ -13346,23 +13346,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;710.5.2.2.1 Smoke and draft control door labeling.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;710.5.2.2.1 Étiquetage des portes de contrôle de la fumée et du tirage.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T233219Z">
+        <seg>&lt;g1&gt;710.5.2.2.1 Étiquetage des portes de contrôle de la fumée et des courants d’air.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.861: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;710.5.2.3 Self- or automatic-closing doors.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;710.5.2.3 Portes à fermeture automatique ou à fermeture d'elles-mêmes.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T233301Z">
+        <seg>&lt;g1&gt;710.5.2.3 Portes à fermeture automatique ou à fermeture automatique déclenchée.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40926,13 +40924,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke and draft control doors complying only with UL 1784 shall be permitted to show the letter “S” on the manufacturer's labeling.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes de contrôle de la fumée et du tirage conformes uniquement à la norme UL 1784 peuvent porter la lettre « S » sur l'étiquetage du fabricant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T233234Z">
+        <seg>Les portes de contrôle de la fumée et des courants d’air conformes uniquement à la norme UL 1784 peuvent porter la lettre « S » sur l'étiquetage du fabricant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42369,13 +42366,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The air leakage rate of the door assembly shall not exceed 3.0 cubic feet per minute per square foot [0.015424 m3/(s × m2)] of door opening at 0.10 inch (24.9 Pa) of water for both the ambient temperature test and the elevated temperature exposure test.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le taux de fuite d'air de l'ensemble de porte ne doit pas excéder 3,0 pi3/min/pi2 [0,015424 m3/(s × m2)] d'ouverture de porte à 0,10 po (24,9 Pa) d'eau pour l'essai à température ambiante et l'essai d'exposition à température élevée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T233158Z">
+        <seg>Le taux de fuite d’air de l’assemblage de porte ne doit pas dépasser 3,0 pieds cubes par minute par pied carré [0,015424 m³/(s × m²)] d’ouverture de porte à une pression d’eau de 0,10 pouce (24,9 Pa), tant pour l’essai à température ambiante que pour l’essai d’exposition à une température élevée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49748,13 +49744,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.814: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where pass-through openings are provided in smoke partitions in Group I-2, Condition 2 occupancies, such openings shall comply with the following:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des ouvertures de passage sont prévues dans les cloisons coupe-fumée dans les usages du groupe I-2, condition 2, ces ouvertures doivent être conformes à ce qui suit :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T234336Z">
+        <seg>Lorsque des ouvertures de passage sont prévues dans des cloisons pare-fumée dans les établissements du groupe I-2, condition 2, ces ouvertures doivent satisfaire aux exigences suivantes :</seg>
       </tuv>
     </tu>
     <tu>
@@ -49992,23 +49987,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where required elsewhere in the code, doors in smoke partitions shall be self- or automatic-closing by smoke detection in accordance with Section 716.2.6.6.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque cela est exigé ailleurs dans le code, les portes des cloisons coupe-fumée doivent être à fermeture automatique ou à fermeture automatique par détection de fumée selon la section 716.2.6.6.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T233327Z">
+        <seg>Lorsque le présent code l’exige ailleurs, les portes des cloisons pare-fumée doivent être à fermeture automatique ou se fermer automatiquement sous l’effet de la détection de fumée, conformément à la section 716.2.6.6.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where required elsewhere in the code, doors in smoke partitions shall meet the requirements for a smoke and draft control door assembly tested in accordance with UL 1784.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque requis ailleurs dans le code, les portes dans les cloisons pare-fumée doivent satisfaire aux exigences d'un ensemble de porte de contrôle de la fumée et du tirage testé conformément à la norme UL 1784.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T233148Z">
+        <seg>Lorsque le présent code l’exige ailleurs, les portes des cloisons pare-fumée doivent satisfaire aux exigences applicables à un assemblage de porte de contrôle de la fumée et des courants d’air soumis à des essais conformément à la norme UL 1784.</seg>
       </tuv>
     </tu>
     <tu>
