@@ -46040,13 +46040,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The stage shall be separated from dressing rooms, scene docks, property rooms, workshops, storerooms and compartments appurtenant to the stage and other parts of the building by fire barriers constructed in accordance with Section 707 or horizontal assemblies constructed in accordance with Section 711, or both.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La scène doit être séparée des loges, des quais de scène, des salles d'accessoires, des ateliers, des réserves et des compartiments annexes à la scène et des autres parties du bâtiment par des barrières coupe-feu construites selon la section 707 ou des ensembles horizontaux construits selon la section 711, ou les deux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T164802Z">
+        <seg>La scène doit être séparée des loges, des quais de scène, des locaux à accessoires, des ateliers, des réserves et des locaux annexes à la scène, ainsi que des autres parties du bâtiment, par des séparations coupe-feu construites conformément à la section 707 ou par des assemblages horizontaux construits conformément à la section 711, ou par les deux.</seg>
       </tuv>
     </tu>
     <tu>
