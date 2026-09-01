@@ -41456,13 +41456,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.79: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Stages shall be constructed of materials as required for floors for the type of construction of the building in which such stages are located.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les scènes doivent être construites avec les matériaux requis pour les planchers pour le type de construction du bâtiment dans lequel ces scènes sont situées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T015943Z">
+        <seg>Les scènes doivent être construites avec les matériaux requis pour les planchers selon le type de construction du bâtiment dans lequel elles sont situées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45314,13 +45313,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.859: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The provisions of Sections 410.1 through 410.7 shall apply to all parts of buildings and structures that contain stages or platforms and similar appurtenances as herein defined.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les dispositions des sections 410.1 à 410.7 s'appliquent à toutes les parties des bâtiments et des structures qui contiennent des scènes ou des plateformes et des accessoires similaires tels que définis dans les présentes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T004753Z">
+        <seg>Les dispositions des sections 410.1 à 410.7 s’appliquent à toutes les parties des bâtiments et des constructions qui comportent des scènes ou des plateformes et des éléments accessoires similaires tels que définis dans le présent document.</seg>
       </tuv>
     </tu>
     <tu>
