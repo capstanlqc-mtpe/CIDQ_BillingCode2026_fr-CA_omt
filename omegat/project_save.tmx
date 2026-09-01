@@ -11680,13 +11680,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;410.2.2 Technical production areas: galleries, gridirons and catwalks.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;410.2.2 Zones de production technique : galeries, grilles et passerelles.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T031156Z">
+        <seg>&lt;g1&gt;410.2.2 Zones de production technique : passerelles, grils et passerelles suspendues.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28122,13 +28121,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Beams designed only for the attachment of portable or fixed theater equipment, gridirons, galleries and catwalks shall be constructed of approved materials consistent with the requirements for the type of construction of the building; and a fire-resistance rating shall not be required.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les poutres conçues uniquement pour la fixation d'équipement de théâtre portable ou fixe, les grilles, les galeries et les passerelles doivent être construites avec des matériaux approuvés conformes aux exigences pour le type de construction du bâtiment; et un degré de résistance au feu n'est pas requis.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T031218Z">
+        <seg>Les poutres conçues uniquement pour la fixation d’équipements de théâtre portatifs ou fixes, de grils, de passerelles et de passerelles suspendues doivent être construites avec des matériaux approuvés conformes aux exigences applicables au type de construction du bâtiment; une résistance au feu n’est pas requise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32749,13 +32747,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.791: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Floors of fly galleries and catwalks shall be constructed of any approved material.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les planchers des balcons suspendus et des passerelles doivent être construits avec tout matériau approuvé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T031304Z">
+        <seg>Les planchers des passerelles suspendues et des grils doivent être construits avec tout matériau approuvé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35530,13 +35527,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In buildings of Type IIA, IIIA and VA construction, a fire-resistance-rated floor is not required, provided that the space below the stage is equipped with an automatic sprinkler system or fire-extinguishing system in accordance with Section 903 or 904.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les bâtiments dont le type de construction est II-A, III-A et V-A, un plancher résistant au feu n'est pas requis, à condition que l'espace sous la scène soit équipé d'un système d'extincteurs automatiques ou d'un système d'extinction d'incendie selon la section 903 ou 904.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T031002Z">
+        <seg>Dans les bâtiments de type IIA, IIIA et VA, un plancher présentant une résistance au feu n’est pas requis, à condition que l’espace sous la scène soit équipé d’un système d’extincteurs automatiques ou d’un système d’extinction d’incendie conformément à la section 903 ou 904.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38329,13 +38325,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.798: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Openings through stage floors shall be equipped with tight-fitting, solid wood trap doors with approved safety locks.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures à travers les planchers de scène doivent être équipées de trappes en bois massif bien ajustées et munies de serrures de sécurité approuvées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T031038Z">
+        <seg>Les ouvertures dans les planchers de scène doivent être munies de trappes en bois massif à ajustement serré, dotées de verrous de sécurité approuvés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41398,13 +41393,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.739: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Stage areas shall be measured to include the entire performance area and adjacent backstage and support areas not separated from the performance area by fire-resistance-rated construction.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les zones de scène doivent être mesurées de manière à inclure toute la zone de représentation et les zones adjacentes des coulisses et de soutien non séparées de la zone de représentation par une construction résistante au feu.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T031108Z">
+        <seg>Les aires de scène doivent être mesurées de manière à inclure l’ensemble de l’aire de représentation ainsi que les aires adjacentes en coulisses et les aires de soutien qui ne sont pas séparées de l’aire de représentation par une construction présentant une résistance au feu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41445,13 +41439,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Stages of Type IIB or IV construction with a nominal 2-inch (51 mm) wood deck, provided that the stage is separated from other areas in accordance with Section 410.2.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Scènes de construction de type II-B ou IV avec un platelage en bois d'une épaisseur nominale de 2 po [51 mm], à condition que la scène soit séparée des autres zones selon la section 410.2.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T030957Z">
+        <seg>Les scènes de type IIB ou IV peuvent être dotées d’un platelage en bois nominal de 2 pouces (51 mm), à condition que la scène soit séparée des autres aires conformément à la section 410.2.4.</seg>
       </tuv>
     </tu>
     <tu>
