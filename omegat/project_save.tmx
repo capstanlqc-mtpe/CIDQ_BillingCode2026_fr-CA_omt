@@ -11808,13 +11808,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.815: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;410.4.2 Separation from each other.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;410.4.2 Séparation les uns des autres.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T171917Z">
+        <seg>&lt;g1&gt;410.4.2 Séparation entre les locaux.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -43783,13 +43782,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.85: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The fire-resistance rating shall be not less than 2 hours for stage heights greater than 50 feet (15 240 mm) and not less than 1 hour for stage heights of 50 feet (15 240 mm) or less.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le degré de résistance au feu ne doit pas être inférieur à 2 heures pour les hauteurs de scène supérieures à 50 pi [15 240 mm] et à 1 heure pour les hauteurs de scène de 50 pi [15 240 mm] ou moins.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T164807Z">
+        <seg>La résistance au feu doit être d’au moins 2 heures lorsque la hauteur de la scène est supérieure à 50 pieds (15 240 mm) et d’au moins 1 heure lorsque la hauteur de la scène est de 50 pieds (15 240 mm) ou moins.</seg>
       </tuv>
     </tu>
     <tu>
