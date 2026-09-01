@@ -28333,13 +28333,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.83: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Building height, number of stories and building area provisions shall be applied independently.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les dispositions relatives à la hauteur du bâtiment, au nombre de niveaux et à l'aire de bâtiment doivent être appliquées indépendamment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T204610Z">
+        <seg>Les dispositions relatives à la hauteur des bâtiments, au nombre d’étages et à la superficie des bâtiments doivent être appliquées indépendamment les unes des autres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47823,13 +47822,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.88: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Unless otherwise specifically modified in Chapter 4 and this chapter, building height, number of stories and building area shall not exceed the limits specified in Sections 504 and 506 based on the type of construction as determined by Section 602 and the occupancies as determined by Section 302 except as modified hereafter.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Sauf modification spécifique contraire au chapitre 4 et au présent chapitre, la hauteur du bâtiment, le nombre de niveaux et la superficie du bâtiment ne doivent pas excéder les limites spécifiées aux articles 504 et 506 en fonction du type de construction tel que déterminé par l'article 602 et des usages tels que déterminés par l'article 302, sauf modification ci-après.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T203440Z">
+        <seg>Sauf modification expresse au chapitre 4 et au présent chapitre, la hauteur des bâtiments, le nombre d’étages et la superficie des bâtiments ne doivent pas dépasser les limites spécifiées aux sections 504 et 506, selon le type de construction déterminé conformément à la section 602 et les usages déterminés conformément à la section 302, sauf modifications prévues ci-après.</seg>
       </tuv>
     </tu>
     <tu>
