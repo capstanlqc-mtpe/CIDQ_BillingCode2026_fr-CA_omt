@@ -13337,13 +13337,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;710.5.2.2 Smoke and draft control doors.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;710.5.2.2 Portes de contrôle de la fumée et du tirage.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T233131Z">
+        <seg>&lt;g1&gt;710.5.2.2 Portes de contrôle de la fumée et des courants d’air.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30487,13 +30486,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.874: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Doors in smoke partitions shall comply with Sections 710.5.2.1 through 710.5.2.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes des cloisons coupe-fumée doivent être conformes aux sections 710.5.2.1 à 710.5.2.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T233027Z">
+        <seg>Les portes des cloisons pare-fumée doivent être conformes aux sections 710.5.2.1 à 710.5.2.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38215,13 +38213,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.869: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Openings in smoke partitions shall comply with Sections 710.5.1 through 710.5.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures dans les cloisons coupe-fumée doivent être conformes aux sections 710.5.1 à 710.5.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T232350Z">
+        <seg>Les ouvertures dans les cloisons pare-fumée doivent être conformes aux sections 710.5.1 à 710.5.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50994,13 +50991,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Windows in smoke partitions shall be sealed to resist the free passage of smoke or be automatic-closing upon detection of smoke.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les fenêtres des cloisons coupe-fumée doivent être scellées pour résister au libre passage de la fumée ou être à fermeture automatique lors de la détection de fumée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T233018Z">
+        <seg>Les fenêtres des cloisons pare-fumée doivent être scellées de manière à résister au passage libre de la fumée ou se fermer automatiquement dès la détection de fumée.</seg>
       </tuv>
     </tu>
     <tu>
