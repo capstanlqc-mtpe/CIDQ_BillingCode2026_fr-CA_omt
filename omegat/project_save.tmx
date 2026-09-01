@@ -5562,13 +5562,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;709.4.1 Smoke-barrier assemblies separating smoke compartments&lt;e1/&gt;&lt;e2/&gt;&lt;g4&gt;.&lt;/g4&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;709.4.1 Ensembles pare-fumée séparant les compartiments anti-fumée&lt;e1/&gt;&lt;e2/&gt;&lt;g4&gt;.&lt;/g4&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T210508Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;709.4.1 Assemblages formant des séparations pare-fumée séparant les compartiments coupe-fumée&lt;e1/&gt;&lt;e2/&gt;&lt;g4&gt;.&lt;/g4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13220,13 +13219,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;709.4.2 Smoke-barrier walls enclosing areas of refuge or elevator lobbies.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;709.4.2 Murs pare-fumée qui enclosent des aires de refuge ou des halls d'ascenseur.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T210613Z">
+        <seg>&lt;g1&gt;709.4.2 Murs formant des séparations pare-fumée délimitant les aires de refuge ou les hall d'ascenseur.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20170,13 +20168,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.766: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;SMOKE BARRIERS&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;BARRIÈRES ANTIFUMÉE&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T210233Z">
+        <seg>&lt;g1&gt;SÉPARATIONS PARE-FUMÉE&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25255,13 +25252,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A smoke and draft control door assembly as specified in Section 716.2.2.1.1 shall not be required at each elevator hoistway door opening or at each exit doorway between an area of refuge and the exit enclosure.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un ensemble de porte pare-fumée et anti-courant d'air tel que spécifié à l'article 716.2.2.1.1 n'est pas exigé à chaque ouverture de porte de cage d'ascenseur ou à chaque ouverture de porte d'issue entre un espace de refuge et l'enceinte de l'issue.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T210717Z">
+        <seg>Un assemblage de porte de contrôle de la fumée et des courants d’air conforme à la section 716.2.2.1.1 n’est pas requis à chaque ouverture de porte de gaine d’ascenseur ni à chaque baie de porte d’issue entre une aire de refuge et l’encloisonnement de l’issue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40951,23 +40947,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke barriers constructed of minimum 0.10-inch-thick (2.5 mm) steel in Group I-3 buildings.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Barrières anti-fumée construites en acier d'une épaisseur minimale de 0,10 pouce (2,5 mm) dans les bâtiments du groupe I-3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T210314Z">
+        <seg>Les séparations pare-fumée construites en acier d'une épaisseur minimale de 0,10 pouce (2,5 mm) dans les bâtiments du groupe I-3.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.805: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke barriers shall be of materials permitted by the building type of construction.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les matériaux utilisés pour construire les pare-fumée seront ceux qui sont autorisés selon le type de construction du bâtiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T210202Z">
+        <seg>Les séparations pare-fumée doivent être constituées de matériaux autorisés pour le type de construction du bâtiment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40980,13 +40974,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.804: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke barriers shall form an effective membrane continuous from the top of the foundation or floor/ceiling assembly below to the underside of the floor or roof sheathing, deck or slab above, including continuity through concealed spaces, such as those found above suspended ceilings, and interstitial structural and mechanical spaces.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les barrières antifumée doivent former une membrane efficace continue du dessus de la fondation ou de l'ensemble plancher-plafond à leur base jusqu'à la face inférieure du plancher supérieur ou du revêtement de toiture, du platelage ou de la dalle de toit, y compris la continuité à travers les espaces dissimulés, comme ceux situés au-dessus des plafonds suspendus, et les espaces structurels et mécaniques interstitiels.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T210350Z">
+        <seg>Les séparations pare-fumée doivent former une membrane efficace et continue depuis le sommet des fondations ou de l’assemblage de plancher/plafond situé en dessous jusqu’à la sous-face du revêtement de plancher ou de la couverture, du platelage ou de la dalle situé au-dessus, y compris une continuité à travers les espaces dissimulés, tels que ceux situés au-dessus des plafonds suspendus, ainsi que les espaces interstitiels structuraux et mécaniques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41077,23 +41070,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.787: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke-barrier assemblies used to separate smoke compartments shall form an effective membrane enclosure that is continuous from an outside wall or smoke barrier wall to an outside wall or another smoke barrier wall and to the horizontal assemblies.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ensembles pare-fumée utilisés pour séparer les compartiments de fumée doivent former une enceinte à membrane efficace qui est continue d'un mur extérieur ou d'un mur pare-fumée à un mur extérieur ou à un autre mur pare-fumée et aux ensembles horizontaux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T210521Z">
+        <seg>Les assemblages formant des séparations pare-fumée utilisés pour séparer les compartiments coupe-fumée doivent former une enceinte constituant une membrane efficace et continue, depuis un mur extérieur ou un mur formant une séparation pare-fumée jusqu’à un mur extérieur ou un autre mur formant une séparation pare-fumée, et jusqu’aux assemblages horizontaux.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.814: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke-barrier walls are not required in interstitial spaces where such spaces are designed and constructed with ceilings or exterior walls that provide resistance to the passage of fire and smoke equivalent to that provided by the smoke-barrier walls.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les murs pare-fumée ne sont pas exigés dans les espaces interstitiels lorsque ces espaces sont conçus et construits avec des plafonds ou des murs extérieurs qui offrent une résistance au passage du feu et de la fumée équivalente à celle offerte par les murs pare-fumée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T210444Z">
+        <seg>Les murs formant des séparations pare-fumée ne sont pas requis dans les espaces interstitiels lorsque ces espaces sont conçus et construits avec des plafonds ou des murs extérieurs qui offrent une résistance au passage du feu et de la fumée équivalente à celle offerte par les murs formant des séparations pare-fumée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41106,13 +41097,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.83: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke-barrier walls used to enclose areas of refuge in accordance with Section 1009.6.4, or to enclose elevator lobbies in accordance with Section 405.4.3, 3007.6.2, or 3008.6.2, shall form an effective membrane enclosure that terminates at a fire barrier wall having a level of fire protection rating not less than 1 hour, another smoke barrier wall or an outside wall.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les murs pare-fumée utilisés pour encloisonner les zones de refuge selon la section 1009.6.4 ou pour encloisonner les halls d'ascenseur selon la section 405.4.3, 3007.6.2 ou 3008.6.2 doivent former une enceinte à membrane efficace qui se termine par un mur à barrières coupe-feu offrant un degré de protection au feu d'au moins une (1) heure, un autre mur pare-fumée ou un mur extérieur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T210655Z">
+        <seg>Les murs formant des séparations pare-fumée utilisés pour délimiter les aires de refuge conformément à la section 1009.6.4 ou les halls d’ascenseur conformément aux sections 405.4.3, 3007.6.2 ou 3008.6.2 doivent former une enceinte constituant une membrane efficace qui se termine à un mur de barrière coupe-feu présentant un degré de résistance au feu d’au moins 1 heure, à un autre mur formant une séparation pare-fumée ou à un mur extérieur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46090,13 +46080,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The supporting construction shall be protected to afford the required fire-resistance rating of the wall or floor supported in buildings of other than Type IIB, IIIB or VB construction.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les éléments porteurs doivent être protégés de manière à offrir le degré de résistance au feu requis du mur ou du plancher supporté dans les bâtiments autres que ceux de type IIB, IIIB ou VB.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T210355Z">
+        <seg>La construction porteuse doit être protégée de manière à assurer la résistance au feu requise pour le mur ou le plancher qu’elle supporte dans les bâtiments autres que ceux de type IIB, IIIB ou VB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47963,13 +47952,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.895: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Vertical and horizontal smoke barriers shall comply with this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les barrières antifumée verticales et horizontales doivent être conformes à la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T210249Z">
+        <seg>Les séparations pare-fumée verticales et horizontales doivent être conformes à la présente section.</seg>
       </tuv>
     </tu>
     <tu>
