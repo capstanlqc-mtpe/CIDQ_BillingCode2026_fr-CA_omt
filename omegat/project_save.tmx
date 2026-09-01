@@ -23741,13 +23741,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Group R occupancies shall be equipped throughout with an automatic sprinkler system in accordance with Section 903.2.8.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Les usages du groupe R doivent être entièrement équipés d'un système d'extincteurs automatiques selon la section 903.2.8.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T195522Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Les usages du groupe R doivent être entièrement équipés d’un système d’extincteurs automatiques conformément à la section 903.2.8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41353,23 +41352,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.772: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Sprinklers shall be installed in dressing rooms, performer lounges, shops and storerooms accessory to such stages.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des gicleurs doivent être installés dans les vestiaires, les salons des artistes, les ateliers et les réserves accessoires à ces scènes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T195413Z">
+        <seg>Des extincteurs automatiques doivent être installés dans les loges, les salons des artistes, les ateliers et les réserves accessoires à ces scènes.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Sprinklers shall be installed under the roof and gridiron and under all catwalks and galleries over the stage.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des gicleurs doivent être installés sous le toit et la grille et sous toutes les passerelles et galeries au-dessus de la scène.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T195354Z">
+        <seg>Des extincteurs automatiques doivent être installés sous le toit et le gril, ainsi que sous toutes les passerelles suspendues et les galeries au-dessus de la scène.</seg>
       </tuv>
     </tu>
     <tu>
