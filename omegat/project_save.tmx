@@ -34896,13 +34896,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group I-1, Condition 2, Group I-2 and ambulatory care facilities, where a pair of opposite-swinging doors are installed across a corridor in accordance with Section 709.5.1, the doors shall not be required to be protected in accordance with Section 716.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans le groupe I-1, condition 2, le groupe I-2 et les centres de soins ambulatoires, lorsqu'une paire de portes à ouverture opposée est installée en travers d'un couloir selon la section 709.5.1, les portes ne sont pas tenues d'être protégées selon la section 716.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T223441Z">
+        <seg>Dans les établissements du groupe I-1, condition 2, du groupe I-2 et les établissements de soins ambulatoires, lorsqu’une paire de portes à battants opposés est installée en travers d’un corridor conformément à la section 709.5.1, les portes ne sont pas tenues d’être protégées conformément à la section 716.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38191,13 +38190,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.857: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Openings in a smoke barrier shall be protected in accordance with Section 716.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures dans une barrière antifumée doivent être protégées selon la section 716.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T222605Z">
+        <seg>Les ouvertures dans une séparations pare-fumée doivent être protégées selon la section 716.</seg>
       </tuv>
     </tu>
     <tu>
