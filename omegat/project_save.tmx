@@ -43383,13 +43383,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.779: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The doors shall be close fitting within operational tolerances, and shall not have a center mullion or undercuts in excess of 3/4 inch (19.1 mm), louvers or grilles.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes doivent être bien ajustées dans les tolérances de fonctionnement et ne doivent pas avoir de meneau central ou de coupes au bas de plus de 3/4 pouce (19,1 mm), de persiennes ou de grilles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T223624Z">
+        <seg>Les portes doivent être à ajustement serré dans les limites de tolérance de fonctionnement et ne doivent pas comporter de meneau central ni de découpes inférieures de plus de 3/4 pouce (19,1 mm), de persiennes ou de grilles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43403,13 +43402,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.762: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The doors shall have head and jamb stops, and astragals or rabbets at meeting edges.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes doivent avoir des butées de tête de mur et de montant, ainsi que des astragales ou des feuillures sur les bords de jonction.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T223630Z">
+        <seg>Les portes doivent être munies de butées de tête et de jambage ainsi que de couvre-joints ou de feuillures aux rives de rencontre.</seg>
       </tuv>
     </tu>
     <tu>
