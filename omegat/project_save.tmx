@@ -5571,13 +5571,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.897: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;709.5.1 Group I-2 and ambulatory care facilities&lt;e1/&gt;&lt;e2/&gt;&lt;g4&gt;.&lt;/g4&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;709.5.1 Groupe I-2 et centres de soins ambulatoires&lt;e1/&gt;&lt;e2/&gt;&lt;g4&gt;.&lt;/g4&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T231119Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;709.5.1 Établissements du groupe I-2 et établissements de soins ambulatoires&lt;e1/&gt;&lt;e2/&gt;&lt;g4&gt;.&lt;/g4&gt;</seg>
       </tuv>
     </tu>
     <tu>
