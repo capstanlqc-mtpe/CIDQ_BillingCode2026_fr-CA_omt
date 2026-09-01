@@ -1160,13 +1160,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;The occupancy located on an occupied roof shall not be limited to the occupancies allowed on the story immediately below the roof where the building is equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1 or 903.3.1.2 and occupant notification in accordance with Sections 907.5.2.1 and 907.5.2.3 is provided in the area of the occupied roof.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; L'usage situé sur une toiture occupée n'est pas limité aux usages autorisés à l'étage immédiatement au-dessous de la toiture lorsque le bâtiment est entièrement équipé d'un système d'extincteurs automatiques selon la section 903.3.1.1 ou 903.3.1.2 et que l'avertissement des occupants selon les sections 907.5.2.1 et 907.5.2.3 est prévu dans la zone de la toiture occupée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T205431Z">
+        <seg>1.&lt;x1/&gt; L’usage situé sur un toit occupé ne doit pas être limité aux usages autorisés à l’étage situé immédiatement sous le toit lorsque le bâtiment est entièrement équipé d’un système d’extincteurs automatiques conformément à la section 903.3.1.1 ou 903.3.1.2 et qu’un système de notification des occupants conforme aux sections 907.5.2.1 et 907.5.2.3 est prévu dans l’aire du toit occupé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1947,13 +1946,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Assembly occupancies shall be permitted on roofs of open parking spaces of Type I or Type II construction, in accordance with the exception to Section 903.2.1.6.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Les usages de rassemblement sont autorisés sur les toits des espaces de stationnement ouverts de construction de type I ou de type II, conformément à l'exception à l'article 903.2.1.6.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T205452Z">
+        <seg>2.&lt;x1/&gt; Les usages des assemblées sont autorisés sur les toits d’espaces de stationnement ouverts de type de construction I ou II, conformément à l’exception de la section 903.2.1.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12363,13 +12361,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.836: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;503.1.4.1 Enclosures over occupied roof areas.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;503.1.4.1 Enceintes au-dessus des zones de toiture occupées.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T205551Z">
+        <seg>&lt;g1&gt;503.1.4.1 Enceintes au-dessus des zones de toits occupés.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25090,13 +25087,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A roof level or portion thereof shall be permitted to be used as an occupied roof provided the occupancy of the roof is an occupancy that is permitted by Table 504.4 for the story immediately below the roof.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un niveau de toit ou une partie de celui-ci peut être utilisé comme toiture occupée à condition que l'usage de la toiture soit un usage autorisé par le tableau 504.4 pour l'étage situé immédiatement en dessous de la toiture.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T205324Z">
+        <seg>Un niveau de toit ou une partie de celui-ci peut être utilisé comme toit occupé, à condition que l’usage du toit soit un usage autorisé par le tableau 504.4 pour l’étage situé immédiatement sous le toit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27114,13 +27110,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.797: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An occupied roof shall not be included in the building height or number of stories as regulated by Section 504, provided that the penthouses and other enclosed rooftop structures comply with Section 1511.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une toiture occupée ne doit pas être incluse dans la hauteur du bâtiment ou le nombre de niveaux tel que réglementé par la section 504, à condition que les appartements-terrasses et les autres structures fermées sur le toit se conforment à la section 1511.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T205345Z">
+        <seg>Un toit occupé ne doit pas être pris en compte dans la hauteur du bâtiment ni dans le nombre d’étages réglementés par la section 504, à condition que les pavillons et autres constructions fermées en toiture soient conformes à la section 1511.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28352,13 +28347,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Buildings and structures designed to house special industrial processes that require large areas and unusual building heights to accommodate craneways or special machinery and equipment, including, among others, rolling mills; structural metal fabrication shops and foundries; or the production and distribution of electric, gas or steam power, shall be exempt from the building height, number of stories and building area limitations specified in Sections 504 and 506.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les bâtiments et les structures conçus pour abriter des procédés industriels spéciaux qui nécessitent de grandes surfaces et des hauteurs de bâtiment inhabituelles pour accueillir des voies de grue ou des machines et équipements spéciaux, y compris, entre autres, les laminoirs; les ateliers de fabrication de structures métalliques et les fonderies; ou la production et la distribution d'énergie électrique, de gaz ou de vapeur, sont exemptés des limites de hauteur de bâtiment, de nombre de niveaux et de surface de bâtiment spécifiées aux articles 504 et 506.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T205126Z">
+        <seg>Les bâtiments et les constructions conçus pour abriter des procédés industriels spéciaux qui nécessitent de grandes superficies et des hauteurs de bâtiment inhabituelles pour permettre l’aménagement de chemins de roulement pour grues ou l’installation de machines et d’équipements spéciaux, notamment les laminoirs, les ateliers de fabrication de structures métalliques et les fonderies, ainsi que les installations de production et de distribution d’électricité, de gaz ou de vapeur, sont exemptés des limites de hauteur des bâtiments, de nombre d’étages et de superficie des bâtiments spécifiées aux sections 504 et 506.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28408,13 +28402,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.813: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Buildings of Type I construction permitted to be of unlimited tabular building heights and areas are not subject to the special requirements that allow unlimited area buildings in Section 507 or unlimited building height in Sections 503.1.1 and 504.3 or increased building heights and areas for other types of construction.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les bâtiments de type de construction I autorisés à avoir des hauteurs et des surfaces de bâtiment tabulaires illimitées ne sont pas soumis aux exigences particulières qui autorisent les bâtiments à surface illimitée de la Section 507 ou la hauteur de bâtiment illimitée des Sections 503.1.1 et 504.3 ou les hauteurs et surfaces de bâtiment accrues pour d'autres types de construction.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T205237Z">
+        <seg>Les bâtiments de type I dont la hauteur et la superficie peuvent être illimitées selon les tableaux ne sont pas assujettis aux exigences particulières permettant une superficie illimitée des bâtiments en vertu de la section 507, ni à celles permettant une hauteur illimitée des bâtiments en vertu des sections 503.1.1 et 504.3, ni à celles permettant d’augmenter la hauteur et la superficie des bâtiments pour les autres types de construction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31192,13 +31185,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Elements or structures enclosing the occupied roof areas shall not extend more than 48 inches (1220 mm) above the surface of the occupied roof.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les éléments ou structures entourant les zones de toiture occupées ne doivent pas dépasser de plus de 48 po [1220 mm] au-dessus de la surface de la toiture occupée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T205600Z">
+        <seg>Les éléments ou constructions qui délimitent les aires de toit occupé ne doivent pas s’élever à plus de 48 pouces (1 220 mm) au-dessus de la surface du toit occupé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31570,13 +31562,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Emergency voice/alarm communication system notification per Section 907.5.2.2 shall also be provided in the area of the occupied roof where such system is required elsewhere in the building.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La notification par le système de communication vocale et d'alarme d'urgence conformément à l'article 907.5.2.2 doit également être fournie dans la zone de la toiture occupée lorsqu'un tel système est requis ailleurs dans le bâtiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T205446Z">
+        <seg>Un système de notification vocale/d’alarme d’urgence conforme à la section 907.5.2.2 doit également être prévu dans l’aire du toit occupé lorsque ce système est exigé ailleurs dans le bâtiment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38782,13 +38773,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.864: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Penthouses constructed in accordance with Section 1511.2 and towers, domes, spires and cupolas constructed in accordance with Section 1511.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Penthouses construits selon la section 1511.2 et tours, dômes, flèches et coupoles construits selon la section 1511.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T210125Z">
+        <seg>Les pavillons en toiture construits conformément à la section 1511.2 ainsi que les tours, dômes, flèches et coupoles construits conformément à la section 1511.5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42479,13 +42469,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.863: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The area of the occupied roofs shall not be included in the building area as regulated by Section 506.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La superficie des toitures occupées ne doit pas être incluse dans l'aire de bâtiment telle que réglementée par l'article 506.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T205341Z">
+        <seg>La superficie des toits occupés ne doit pas être incluse dans la superficie du bâtiment réglementée par la section 506.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45305,13 +45294,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.874: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The provisions of this code applicable to the aggregate building shall be applicable to each building.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les dispositions du présent code applicables au bâtiment global sont applicables à chaque bâtiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T205213Z">
+        <seg>Les dispositions du présent code applicables au bâtiment considéré dans son ensemble doivent s’appliquer à chaque bâtiment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47625,13 +47613,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.859: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Two or more buildings on the same lot shall be regulated as separate buildings or shall be considered as portions of one building where the building height, number of stories of each building and the aggregate building area of the buildings are within the limitations specified in Sections 504 and 506.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Deux bâtiments ou plus sur le même terrain doivent être réglementés comme des bâtiments distincts ou doivent être considérés comme des parties d'un même bâtiment lorsque la hauteur du bâtiment, le nombre de niveaux de chaque bâtiment et la superficie totale des bâtiments sont conformes aux limites spécifiées aux Sections 504 et 506.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T205208Z">
+        <seg>Deux bâtiments ou plus situés sur le même terrain doivent être réglementés comme des bâtiments distincts ou être considérés comme des parties d’un même bâtiment lorsque la hauteur de chaque bâtiment, le nombre d’étages de chaque bâtiment et la superficie totale des bâtiments respectent les limites spécifiées aux sections 504 et 506.</seg>
       </tuv>
     </tu>
     <tu>
