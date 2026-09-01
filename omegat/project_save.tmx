@@ -31957,13 +31957,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.775: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exit access stairways and ramps serving a stage or platform are not required to be enclosed.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les escaliers et rampes d'accès à l'issue desservant une scène ou une plateforme ne sont pas tenus d'être fermés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T191028Z">
+        <seg>Les escaliers et les rampes d'accès à l'issue desservant une scène ou une plateforme ne sont pas tenus d'être fermés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50875,13 +50874,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where two means of egress are required, the common path of travel shall be not greater than 100 feet (30 480 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque deux moyens d'évacuation sont requis, le parcours commun ne doit pas dépasser 100 pi (30 480 mm).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T191123Z">
+        <seg>Lorsque deux moyens d’évacuation sont requis, la partie commune du parcours d’évacuation ne doit pas dépasser 100 pieds (30 480 mm).</seg>
       </tuv>
     </tu>
     <tu>
