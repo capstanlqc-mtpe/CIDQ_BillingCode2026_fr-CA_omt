@@ -41436,13 +41436,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Stages need not be constructed of the same materials as required for the type of construction provided that the construction complies with one of the following:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les scènes n'ont pas besoin d'être construites avec les mêmes matériaux que ceux exigés pour le type de construction, à condition que la construction soit conforme à l'une des conditions suivantes :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T030003Z">
+        <seg>Les scènes n’ont pas à être construites avec les mêmes matériaux que ceux exigés pour le type de construction, à condition que la construction soit conforme à l’une des dispositions suivantes :</seg>
       </tuv>
     </tu>
     <tu>
