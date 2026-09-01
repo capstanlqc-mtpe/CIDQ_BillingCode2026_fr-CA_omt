@@ -17247,13 +17247,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.812: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;GENERAL BUILDING HEIGHT AND AREA LIMITATIONS&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;LIMITES GÉNÉRALES DE LA HAUTEUR ET DE LA SUPERFICIE DU BÂTIMENT&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T203428Z">
+        <seg>&lt;g1&gt;LIMITES GÉNÉRALES DE HAUTEUR ET DE SUPERFICIE DES BÂTIMENTS&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
