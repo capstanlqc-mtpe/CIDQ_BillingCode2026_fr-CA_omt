@@ -39060,13 +39060,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Platforms installed for a period of not more than 30 days are permitted to be constructed of any materials permitted by this code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les plateformes installées pour une période ne dépassant pas 30 jours peuvent être construites au moyen de tous matériaux permis par le présent code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T033236Z">
+        <seg>Les plateformes installées pour une période d’au plus 30 jours peuvent être construites avec tout matériau autorisé par le présent code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45967,13 +45966,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The space between the floor and the platform above shall only be used for plumbing and electrical wiring to platform equipment.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'espace entre le plancher et la plateforme au-dessus ne doit être utilisé que pour la plomberie et le câblage électrique de l'équipement de la plateforme.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260901T154505Z">
+        <seg>L’espace entre le plancher et la plateforme située au-dessus doit être utilisé uniquement pour la plomberie et le câblage électrique des équipements de la plateforme.</seg>
       </tuv>
     </tu>
     <tu>
