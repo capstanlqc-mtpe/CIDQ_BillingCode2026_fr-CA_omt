@@ -1129,13 +1129,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.768: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;The fire area exceeds 12,000 square feet (1115 m&lt;g2&gt;2&lt;/g2&gt;).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Le secteur coupe-feu dépasse 12 000 pi2 [1 115 m&lt;g2&gt; 2&lt;/g2&gt;].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T155441Z">
+        <seg>1.&lt;x1/&gt; La zone d'incendie dépasse 12 000 pi2 [1 115 m&lt;g2&gt; 2&lt;/g2&gt;].</seg>
       </tuv>
     </tu>
     <tu>
@@ -26915,33 +26914,30 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.807: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An automatic sprinkler system shall be provided throughout stories containing Group A-2 occupancies and throughout all stories from the Group A-2 occupancy to and including the levels of exit discharge serving that occupancy where one of the following conditions exists:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'extincteurs automatiques doit être installé dans tous les étages contenant des locaux du groupe A-2 et dans tous les étages depuis le local du groupe A-2 jusqu'aux niveaux d'issue d'évacuation desservant ce local inclusivement lorsque l'une des conditions suivantes existe :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T155327Z">
+        <seg>Un système d’extincteurs automatiques doit être prévu dans tous les étages comportant des usages du groupe A-2 ainsi que dans tous les étages, depuis l’usage du groupe A-2 jusqu’aux niveaux des issues d’évacuation menant à l’extérieur inclusivement, qui desservent cet usage, lorsqu’une des conditions suivantes est présente :</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An automatic sprinkler system shall be provided throughout stories containing Group A-3 occupancies and throughout all stories from the Group A-3 occupancy to and including the levels of exit discharge serving that occupancy where one of the following conditions exists:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'extincteurs automatiques doit être prévu dans tous les étages contenant des locaux du groupe A-3 et dans tous les étages depuis le local du groupe A-3 jusqu'aux niveaux d'issue d'évacuation desservant ce local inclusivement lorsque l'une des conditions suivantes existe :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T155428Z">
+        <seg>Un système d’extincteurs automatiques doit être prévu dans tous les étages comportant des usages du groupe A-3 ainsi que dans tous les étages, depuis l’usage du groupe A-3 jusqu’aux niveaux des issues d’évacuation menant à l’extérieur inclusivement, qui desservent cet usage, lorsqu’une des conditions suivantes est présente :</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.813: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An automatic sprinkler system shall be provided throughout stories containing Group A-4 occupancies and throughout all stories from the Group A-4 occupancy to and including the levels of exit discharge serving that occupancy where one of the following conditions exists:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'extincteurs automatiques doit être installé dans tous les étages contenant des locaux du groupe A-4 et dans tous les étages depuis le local du groupe A-4 jusqu'aux niveaux d'issue d'évacuation desservant ce local inclusivement, lorsque l'une des conditions suivantes existe :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T155514Z">
+        <seg>Un système d’extincteurs automatiques doit être prévu dans tous les étages comportant des usages du groupe A-4 ainsi que dans tous les étages, depuis l’usage du groupe A-4 jusqu’aux niveaux des issues d’évacuation menant à l’extérieur inclusivement, qui desservent cet usage, lorsqu’une des conditions suivantes est présente :</seg>
       </tuv>
     </tu>
     <tu>
