@@ -21573,13 +21573,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.869: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 806.7 Interior trim.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 806.7 Garniture intérieure.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T135831Z">
+        <seg>&lt;g1&gt;[F] 806.7 Éléments de finition intérieure.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29590,13 +29589,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.857: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Combustible trim, excluding handrails and guardrails, shall not exceed 10 percent of the specific wall or ceiling area to which it is attached.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les garnitures combustibles, à l'exclusion des rampes et des garde-corps, ne doivent pas dépasser 10 pour cent de la superficie spécifique du mur ou du plafond auquel elles sont fixées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T135859Z">
+        <seg>Les éléments de finition combustibles, à l’exclusion des mains courantes et des garde-corps, ne doivent pas représenter plus de 10 % de la superficie du mur ou du plafond auquel ils sont fixés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34713,13 +34711,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Imitation leather or other material consisting of or coated with a pyroxylin or similarly hazardous base shall not be used in Group A occupancies.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le similicuir ou tout autre matériau constitué de pyroxyline ou d'une base de mur présentant un danger similaire, ou revêtu de ces matériaux, ne doit pas être utilisé dans les usages du groupe A.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T135757Z">
+        <seg>Le similicuir ou tout autre matériau constitué d’une base de pyroxylène ou d’une base similaire présentant un risque doit être interdit dans les établissements du groupe A.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37299,13 +37296,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.851: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Material, other than foam plastic used as interior trim, shall have a minimum Class C flame spread and smoke-developed index when tested in accordance with ASTM E84 or UL 723, as described in Section 803.1.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les matériaux, autres que la mousse plastique, utilisés comme garnitures intérieures doivent avoir un indice minimum de propagation de la flamme et d'émission de fumée de classe C lorsqu'ils sont testés conformément aux normes ASTM E84 ou UL 723, comme décrit à la section 803.1.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T135854Z">
+        <seg>Les matériaux autres que les mousses plastiques utilisés comme éléments de finition intérieure doivent présenter au minimum un indice de propagation des flammes et un indice de développement de fumée de classe C lorsqu’ils sont soumis à des essais conformément à la norme ASTM E84 ou UL 723, comme décrit à la section 803.1.2.</seg>
       </tuv>
     </tu>
     <tu>
