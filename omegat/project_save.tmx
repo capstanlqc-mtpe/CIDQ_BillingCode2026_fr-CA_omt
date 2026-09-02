@@ -24818,13 +24818,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.807: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A manual fire alarm system shall not be required in Group E occupancies with an occupant load of 50 or less.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'alarme incendie manuel n'est pas exigé dans les usages du groupe E dont la charge d'occupants est de 50 ou moins.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T223640Z">
+        <seg>Un système d’alarme d’incendie manuel n’est pas requis dans les usages du groupe E dont la charge d’occupants est d’au plus 50 personnes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24837,23 +24836,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.859: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A manual fire alarm system that activates the occupant notification system in accordance with Section 907.5 shall be installed in Group F occupancies where both of the following conditions exist:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'alarme incendie manuel qui active le système d'avertissement des occupants selon la section 907.5 doit être installé dans les usages du groupe F lorsque les deux conditions suivantes existent :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T224037Z">
+        <seg>Un système d’alarme d’incendie manuel qui active le système de notification des occupants conformément à la section 907.5 doit être installé dans les usages du groupe F lorsque les deux conditions suivantes sont présentes :</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.863: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A manual fire alarm system that activates the occupant notification system in accordance with Section 907.5 shall be installed in Group H-5 occupancies and in occupancies used for the manufacture of organic coatings.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'alarme incendie manuel qui active le système d'avertissement des occupants selon la section 907.5 doit être installé dans les usages du groupe H-5 et dans les usages utilisés pour la fabrication de revêtements organiques.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T224311Z">
+        <seg>Un système d’alarme d’incendie manuel qui active le système de notification des occupants conformément à la section 907.5 doit être installé dans les usages du groupe H-5 et dans les usages destinés à la fabrication de revêtements organiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24867,13 +24864,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A manual fire alarm system that initiates the occupant notification signal utilizing an emergency voice/alarm communication system meeting the requirements of Section 907.5.2.2 and installed in accordance with Section 907.6 shall be installed in Group E occupancies.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'alarme incendie manuel qui déclenche le signal d'avertissement aux occupants au moyen d'un système de communication vocale et d'alarme d'urgence satisfaisant aux exigences de l'article 907.5.2.2 et installé selon la section 907.6 doit être installé dans les usages du groupe E.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T223541Z">
+        <seg>Un système d’alarme d’incendie manuel qui déclenche le signal de notification des occupants au moyen d’un système de communication vocale et d’alarme d’urgence conforme aux exigences de la section 907.5.2.2 et installé conformément à la section 907.6 doit être installé dans les usages du groupe E.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27781,13 +27777,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.867: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Auditoriums, cafeterias, gymnasiums and similar areas are protected by heat detectors or other approved detection devices.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les auditoriums, les cafétérias, les gymnases et les zones similaires sont protégés par des détecteurs de chaleur ou d'autres dispositifs de détection approuvés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T223853Z">
+        <seg>Les auditoriums, les cafétérias, les gymnases et les aires similaires sont protégés par des détecteurs de chaleur ou d’autres dispositifs de détection approuvés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28277,13 +28272,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.804: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Buildings equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1, provided that the occupant notification appliances will activate throughout the notification zones upon sprinkler waterflow.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Bâtiments entièrement équipés d'un système d'extincteurs automatiques selon la section 903.3.1.1, à condition que les dispositifs d'avertissement des occupants s'activent dans toutes les zones d'avertissement lors de l'écoulement de l'eau des extincteurs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T223506Z">
+        <seg>Bâtiments entièrement équipés d’un système d’extincteurs automatiques conformément à la section 903.3.1.1, à condition que les avertisseurs du système de notification des occupants se déclenchent dans toutes les zones de notification dès qu’un débit d’eau est détecté dans le système d’extincteurs automatiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31466,13 +31460,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Emergency voice/alarm communication systems meeting the requirements of Section 907.5.2.2 and installed in accordance with Section 907.6 shall not be required in Group E occupancies with occupant loads of 100 or less, provided that activation of the manual fire alarm system initiates an approved occupant notification signal in accordance with Section 907.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les systèmes de communication vocale et d'alarme d'urgence conformes aux exigences de l'article 907.5.2.2 et installés selon la section 907.6 ne sont pas exigés dans les usages du groupe E dont la charge d'occupants est de 100 ou moins, à condition que l'activation du système d'alarme incendie manuel déclenche un signal d'avertissement aux occupants approuvé conformément à l'article 907.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T223648Z">
+        <seg>Les systèmes de communication vocale et d’alarme d’urgence conformes aux exigences de la section 907.5.2.2 et installés conformément à la section 907.6 ne sont pas requis dans les usages du groupe E dont la charge d’occupants est d’au plus 100 personnes, à condition que l’activation du système d’alarme d’incendie manuel déclenche un signal approuvé de notification des occupants conformément à la section 907.5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32406,8 +32399,8 @@
       <tuv lang="en">
         <seg>Fire areas containing ambulatory care facilities shall be provided with an electronically supervised automatic smoke detection system installed within the ambulatory care facility and in public use areas outside of tenant spaces, including public corridors and elevator lobbies.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T223306Z">
-        <seg>Les zones d’incendie comportant des établissements de soins ambulatoires doivent être munies d’un système automatique de détection de fumée surveillé électroniquement, installé dans l’établissement de soins ambulatoires et dans les aires à usage public situées à l’extérieur des locaux des locataires, y compris les corridors publics et les vestibules d’ascenseur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T223330Z">
+        <seg>Les zones d’incendie comportant des établissements de soins ambulatoires doivent être munies d’un système automatique de détection de fumée surveillé électroniquement, installé dans l’établissement de soins ambulatoires et dans les aires à usage public situées à l’extérieur des locaux des locataires, y compris les corridors publics et les halls d’ascenseur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37096,13 +37089,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Manual activation is provided from a normally occupied location.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'activation manuelle est assurée à partir d'un emplacement normalement occupé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T223921Z">
+        <seg>Un dispositif d’activation manuelle doit être prévu à partir d’un endroit normalement occupé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37125,13 +37117,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Manual fire alarm boxes shall not be required in Group E occupancies where all of the following apply:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des boîtiers d'alarme incendie manuelle ne sont pas exigés dans les usages du groupe E lorsque toutes les conditions suivantes sont remplies :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T223812Z">
+        <seg>Les déclencheurs manuels d’alarme d’incendie ne sont pas requis dans les usages du groupe E lorsque toutes les conditions suivantes sont respectées :</seg>
       </tuv>
     </tu>
     <tu>
@@ -40334,13 +40325,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Shops and laboratories involving dusts or vapors are protected by heat detectors or other approved detection devices.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ateliers et les laboratoires où il y a des poussières ou des vapeurs sont protégés par des détecteurs de chaleur ou d'autres dispositifs de détection approuvés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T223928Z">
+        <seg>Les ateliers et les laboratoires où sont manipulées des poussières ou des vapeurs sont protégés par des détecteurs de chaleur ou d’autres dispositifs de détection approuvés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43333,13 +43323,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.795: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The emergency voice/alarm communication system will activate on sprinkler waterflow.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le système de communication vocale et d'alarme d'urgence s'activera au débit d'eau des gicleurs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T224011Z">
+        <seg>Le système de communication vocale et d’alarme d’urgence doit se déclencher lors de la détection d’un débit d’eau dans le système d’extincteurs automatiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49021,13 +49010,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.859: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where automatic sprinkler systems or smoke detectors are installed, such systems or detectors shall be connected to the building fire alarm system.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des systèmes d'extincteurs automatiques ou des détecteurs de fumée sont installés, ces systèmes ou détecteurs doivent être reliés au système d'alarme incendie du bâtiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T223604Z">
+        <seg>Lorsque des systèmes d’extincteurs automatiques ou des détecteurs de fumée sont installés, ces systèmes ou détecteurs doivent être raccordés au système d’alarme d’incendie du bâtiment.</seg>
       </tuv>
     </tu>
     <tu>
