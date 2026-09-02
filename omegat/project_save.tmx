@@ -1354,13 +1354,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.Throughout all Group E fire areas greater than 12,000 square feet (1115 m2) in area.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1. Dans toutes les zones d'incendie du Groupe E d'une superficie supérieure à 12 000 pi2 [1115 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T162745Z">
+        <seg>1. Dans toutes les aires d’incendie du groupe E dont la superficie est supérieure à 12 000 pi2 [1115 m2].</seg>
       </tuv>
     </tu>
     <tu>
@@ -21823,12 +21822,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.923: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 903.2.3 Group E.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T162623Z">
         <seg>&lt;g1&gt;[F] 903.2.3 Groupe E.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
@@ -26729,13 +26727,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An automatic sprinkler system shall be provided for Group E occupancies as follows:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'extincteurs automatiques doit être prévu pour les usages du groupe E comme suit :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T162727Z">
+        <seg>Un système d’extincteurs automatiques doit être prévu pour les usages du groupe E comme suit :</seg>
       </tuv>
     </tu>
     <tu>
@@ -26809,13 +26806,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.801: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An automatic sprinkler system shall be provided throughout all Group F-1 occupancy fire areas that contain woodworking operations in excess of 2,500 square feet (232 m2) in area that generate finely divided combustible waste or use finely divided combustible materials.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'extincteurs automatiques doit être installé dans toutes les zones d'incendie d'usage du Groupe F-1 où sont effectuées des opérations de travail du bois sur une superficie de plus de 2 500 pi2 [232 m2] qui génèrent des déchets combustibles finement divisés ou utilisent des matériaux combustibles finement divisés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T162942Z">
+        <seg>Un système d’extincteurs automatiques doit être prévu dans toutes les aires d’incendie des usages du groupe F-1 qui comportent des opérations de menuiserie sur une superficie supérieure à 2 500 pieds carrés (232 m²) et qui génèrent des déchets combustibles finement divisés ou utilisent des matériaux combustibles finement divisés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32665,13 +32661,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.797: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Floors classified as an open parking garage are not required to be sprinklered.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les étages classés comme parc de stationnement ouvert ne sont pas tenus d'être équipés de gicleurs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T162617Z">
+        <seg>Les étages classés comme garages de stationnement ouvert ne sont pas tenus d'être équipés d'extincteurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35481,13 +35476,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In buildings where every classroom has not fewer than one exterior exit door at ground level, an automatic sprinkler system is not required in any area below the lowest level of exit discharge serving that area.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les bâtiments où chaque salle de classe possède au moins une porte de sortie extérieure au niveau du sol, un système d'extincteurs automatiques n'est pas exigé dans aucune zone située en dessous du niveau le plus bas de l'issue d'évacuation desservant cette zone.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T162820Z">
+        <seg>Dans les bâtiments où chaque salle de classe comporte au moins une porte d’issue extérieure au niveau du sol, un système d’extincteurs automatiques n’est pas requis dans les aires situées sous le niveau d’évacuation menant à l’extérieur le plus bas desservant cette zone.</seg>
       </tuv>
     </tu>
     <tu>
