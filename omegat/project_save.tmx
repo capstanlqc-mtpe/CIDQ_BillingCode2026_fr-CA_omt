@@ -13770,13 +13770,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.855: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;712.1.5.2 Joints in or between nonfire-resistance-rated floor assemblies.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;712.1.5.2 Joints dans ou entre des ensembles de plancher sans indice de résistance au feu.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T031601Z">
+        <seg>&lt;g1&gt;712.1.5.2 Joints dans ou entre des ensembles de plancher sans degré de résistance au feu.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27809,23 +27808,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Atriums complying with Section 404 that connect two or more stories in Group I-2 or I-3 occupancies or three or more stories in other occupancies shall be permitted.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les atriums conformes à l'article 404 qui relient deux étages ou plus dans les usages du groupe I-2 ou I-3 ou trois étages ou plus dans les autres usages sont autorisés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032057Z">
+        <seg>Les atriums conformes à la section 404 qui relient deux étages ou plus dans les usages du groupe I-2 ou I-3 ou trois étages ou plus dans les autres usages sont autorisés.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.716: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Atriums shall not be permitted within Group H occupancies.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ATRIUMS ne sont pas autorisés dans les usages du groupe H.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032116Z">
+        <seg>Les atriums ne sont pas autorisés dans les usages du groupe H.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35855,13 +35852,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In other than Groups B and M, this application is limited to openings that do not connect more than four stories.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les groupes autres que les groupes B et M, cette application est limitée aux ouvertures qui ne relient pas plus de quatre étages.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T031329Z">
+        <seg>Pour les groupes autres que B et M, cette disposition est limitée aux ouvertures qui ne relient pas plus de quatre étages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36542,13 +36538,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.901: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Joints meeting one of the exceptions specified in Section 715.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Joints répondant à l'une des exceptions spécifiées à l'article 715.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032017Z">
+        <seg>Joints répondant à l'une des exceptions spécifiées dans la section 715.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39262,13 +39257,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Protection by a draft curtain and closely spaced sprinklers in accordance with NFPA 13 shall be permitted where the area of the vertical opening between stories does not exceed twice the horizontal projected area of the escalator.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La protection par un rideau anti-tirage et des gicleurs étroitement espacés conformément à la norme NFPA 13 est autorisée lorsque la surface de l'ouverture verticale entre les étages n'excède pas le double de la surface projetée horizontale de l'escalier roulant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T031322Z">
+        <seg>La protection au moyen d’un écran de cantonnement des fumées et d’extincteurs automatiques rapprochés, conformément à la norme NFPA 13, est autorisée lorsque la superficie de l’ouverture verticale entre les étages ne dépasse pas deux fois la superficie horizontale projetée de l’escalier mécanique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44307,13 +44301,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.897: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The joint shall be sealed, treated or covered with an approved material or system to resist the free passage of flame and the products of combustion.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le joint doit être scellé, traité ou recouvert d'un matériau ou d'un système approuvé pour résister au libre passage des flammes et des produits de combustion.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032001Z">
+        <seg>Le joint doit être scellé, traité ou recouvert d’un matériau ou d’un système approuvé afin de résister au passage libre des flammes et des produits de combustion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45626,23 +45619,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.867: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The shutter shall be so constructed as to close immediately upon the actuation of a smoke detector installed in accordance with Section 907.3.1 and shall completely shut off the well opening.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le volet doit être construit de manière à se fermer immédiatement lors de l'activation d'un détecteur de fumée installé selon la section 907.3.1 et doit fermer complètement l'ouverture du puits.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T031440Z">
+        <seg>Le volet doit être conçu de manière à se fermer immédiatement dès l’activation d’un détecteur de fumée installé conformément à la section 907.3.1 et doit fermer complètement l’ouverture du puits.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.864: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The shutter shall operate at a speed of not more than 30 feet per minute (152.4 mm/s) and shall be equipped with a sensitive leading edge to arrest its progress where in contact with any obstacle, and to continue its progress on release therefrom.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le volet doit fonctionner à une vitesse n'excédant pas 30 pieds par minute (152,4 mm/s) et doit être équipé d'un bord avant sensible pour arrêter sa progression en cas de contact avec un obstacle, et pour poursuivre sa progression dès qu'il n'est plus en contact avec cet obstacle.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T031509Z">
+        <seg>Le volet doit fonctionner à une vitesse d’au plus 30 pieds par minute (152,4 mm/s) et être muni d’un bord d’attaque sensible permettant d’arrêter son mouvement lorsqu’il entre en contact avec un obstacle et de poursuivre son mouvement lorsque l’obstacle est dégagé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47687,13 +47678,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.778: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Unconcealed vertical openings totally within an individual residential dwelling unit and connecting four stories or less shall be permitted.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures verticales non dissimulées entièrement à l'intérieur d'un logement résidentiel individuel et reliant quatre étages ou moins sont autorisées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T031152Z">
+        <seg>Les ouvertures verticales non dissimulées entièrement situées à l’intérieur d’un logement individuel et reliant au plus quatre étages sont autorisées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47930,13 +47920,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.836: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Vertical openings contained entirely within a shaft enclosure complying with Section 713 shall be permitted.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures verticales entièrement l'intérieur d'un puits encloisonné conforme à la section 713 sont autorisées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T031124Z">
+        <seg>Les ouvertures verticales entièrement situées à l’intérieur d’un encloisonnement de gaine conforme à la section 713 sont autorisées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48473,13 +48462,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a building is equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1, vertical openings for escalators shall be permitted where protected in accordance with Section 712.1.3.1 or 712.1.3.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un bâtiment est entièrement équipé d'un système d'extincteurs automatiques selon la section 903.3.1.1, les ouvertures verticales pour les escaliers mécaniques sont autorisées lorsqu'elles sont protégées conformément à la section 712.1.3.1 ou 712.1.3.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T031212Z">
+        <seg>Lorsque le bâtiment est entièrement équipé d’un système d’extincteurs automatiques conformément à la section 903.3.1.1, les ouvertures verticales destinées aux escaliers mécaniques sont autorisées lorsqu’elles sont protégées conformément à la section 712.1.3.1 ou 712.1.3.2.</seg>
       </tuv>
     </tu>
     <tu>
