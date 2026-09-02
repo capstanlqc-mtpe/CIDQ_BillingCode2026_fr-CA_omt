@@ -14606,13 +14606,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.873: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;806.3 Occupancy-based requirements.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;806.3 Exigences basées sur l'occupation.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T134419Z">
+        <seg>&lt;g1&gt;806.3 Exigences fondées sur l’usage.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37948,13 +37947,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Occupancy-based requirements for combustible decorative materials, other than decorative vegetation, not complying with Section 806.4 shall comply with Sections 807.5.1 through 807.5.6 of the International Fire Code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les exigences basées sur l'usage pour les matériaux décoratifs combustibles, autres que la végétation décorative, qui ne sont pas conformes à la section 806.4 doivent être conformes aux sections 807.5.1 à 807.5.6 de l'International Fire Code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T134435Z">
+        <seg>Les exigences fondées sur l’usage applicables aux matériaux décoratifs combustibles, autres que la végétation décorative, qui ne sont pas conformes à la section 806.4 doivent être conformes aux sections 807.5.1 à 807.5.6 de l’International Fire Code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49943,13 +49941,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.8: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where required to exhibit improved fire performance, curtains, draperies, fabric hangings and similar combustible decorative materials suspended from walls or ceilings shall be tested by an approved agency and meet the flame propagation performance criteria of Test 1 or 2, as appropriate, of NFPA 701, or exhibit a maximum heat release rate of 100 kW when tested in accordance with NFPA 289, using the 20 kW ignition source.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'il est exigé qu'ils présentent un meilleur comportement au feu, les rideaux, les tentures, les tentures en tissu et les matériaux décoratifs combustibles similaires suspendus aux murs ou aux plafonds doivent être testés par un organisme agréé et satisfaire aux critères de comportement à la propagation de la flamme de l'essai 1 ou 2, selon le cas, de la norme NFPA 701, ou présenter un taux de dégagement de chaleur maximal de 100 kW lorsqu'ils sont testés conformément à la norme NFPA 289, en utilisant la source d'inflammation de 20 kW.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T134456Z">
+        <seg>Lorsque des rideaux, tentures, éléments suspendus en tissu et matériaux décoratifs combustibles similaires suspendus aux murs ou aux plafonds doivent présenter une performance au feu améliorée, ils doivent être soumis à des essais par une agence approuvée et satisfaire aux critères de performance en matière de propagation des flammes de l’essai 1 ou 2, selon le cas, de la norme NFPA 701, ou présenter un taux maximal de dégagement de chaleur de 100 kW lorsqu’ils sont soumis à des essais conformément à la norme NFPA 289, au moyen de la source d’allumage de 20 kW.</seg>
       </tuv>
     </tu>
     <tu>
