@@ -939,13 +939,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Openings below grade that lead directly to ground level by an exterior stairway complying with Section 1011 or an outside ramp complying with Section 1012.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Ouvertures sous le niveau du sol qui mènent directement au rez-de-chaussée par un escalier extérieur conforme à l'article 1011 ou une rampe extérieure conforme à l'article 1012.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T195541Z">
+        <seg>1.&lt;x1/&gt; Les ouvertures sous le niveau du sol qui donnent directement au niveau du sol par un escalier extérieur conforme à la section 1011 ou une rampe extérieure conforme à la section 1012.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1860,13 +1859,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.799: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;&lt;x2/&gt;Openings entirely above the adjoining ground level totaling not less than 20 square feet (1.86 m2) in each 50 linear feet (15 240 mm), or fraction thereof, of exterior wall in the story on not fewer than one side.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt;&lt;x2/&gt; Ouvertures entièrement au-dessus du rez-de-chaussée adjacent totalisant au moins 20 pi2 [1,86 m2] par 50 pi linéaires [15 240 mm], ou fraction de cette longueur, de mur extérieur à l'étage sur au moins un côté.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T195647Z">
+        <seg>2.&lt;x1/&gt;&lt;x2/&gt; Des ouvertures entièrement situées au-dessus du niveau du sol adjacent, dont la superficie totale est d’au moins 20 pieds carrés (1,86 m2) tous les 50 pieds linéaires (15 240 mm), ou fraction de cette distance, dans le mur extérieur de l’étage, sur au moins un côté.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2651,13 +2649,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.855: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Where the enclosed parking garage in accordance with Section 406.6 is located beneath other groups.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Lorsque le parc de stationnement fermé selon la section 406.6 est situé sous d'autres groupes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T194917Z">
+        <seg>2.&lt;x1/&gt; Lorsque le garage de stationnement fermé selon la section 406.6 est situé sous d'autres groupes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3552,13 +3549,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.869: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;Where the fire area of the open parking garage in accordance with Section 406.5 exceeds 48,000 square feet (4460 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Lorsque la superficie du secteur coupe-feu du parc de stationnement ouvert selon la section 406.5 excède 48 000 pi2 [4460 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T194954Z">
+        <seg>3.&lt;x1/&gt; Lorsque la superficie de la zone d’incendie du garage de stationnement ouvert selon la section 406.5 excède 48 000 pi2 [4460 m2].</seg>
       </tuv>
     </tu>
     <tu>
@@ -21704,23 +21700,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.897: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 903.2.10.1 Commercial parking garages.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 903.2.10.1 Parcs de stationnement commerciaux.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T195005Z">
+        <seg>&lt;g1&gt;[F] 903.2.10.1 Garages de stationnement commerciaux.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.868: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 903.2.10.2 Mechanical-access enclosed parking garages.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 903.2.10.2 Parcs de stationnement encloisonnés à accès mécanique.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T195056Z">
+        <seg>&lt;g1&gt;[F] 903.2.10.2 Garages de stationnement encloisonnés à accès mécanique.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26539,13 +26533,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.83: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An approved automatic sprinkler system shall be provided throughout buildings used for the storage of motor vehicles in a mechanical-access enclosed parking garage.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'extincteurs automatiques approuvé doit être prévu dans tous les bâtiments utilisés pour l'entreposage de véhicules automobiles dans un parc de stationnement fermé à accès mécanique.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T195106Z">
+        <seg>Un système d’extincteurs automatiques approuvé doit être prévu dans tous les bâtiments utilisés pour l’entreposage de véhicules automobiles dans un garage de stationnement fermé à accès mécanique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26684,13 +26677,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.844: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An automatic sprinkler system shall be installed throughout all stories, including basements, of all buildings where the floor area exceeds 1,500 square feet (139.4 m2) and where the story does not comply with the following criteria for exterior wall openings:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'extincteurs automatiques doit être installé à tous les étages, y compris les sous-sols, de tous les bâtiments où la surface de plancher dépasse 1 500 pieds carrés (139,4 m2) et où l'étage n'est pas conforme aux critères suivants relatifs aux ouvertures des murs extérieurs :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T195243Z">
+        <seg>Un système d’extincteurs automatiques doit être installé dans tous les étages, y compris les sous-sols, de tous les bâtiments dont la superficie de plancher est supérieure à 1 500 pieds carrés (139,4 m2) et dont l’étage ne respecte pas les critères suivants relatifs aux ouvertures dans les murs extérieurs :</seg>
       </tuv>
     </tu>
     <tu>
@@ -26856,13 +26848,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.85: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An automatic sprinkler system shall be provided throughout buildings used for storage of commercial motor vehicles where the fire area exceeds 5,000 square feet (464 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'extincteurs automatiques doit être prévu dans tous les bâtiments utilisés pour l'entreposage de véhicules automobiles commerciaux lorsque la superficie d'incendie excède 5000 pi2 [464 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T195016Z">
+        <seg>Un système d'extincteurs automatiques doit être prévu dans tous les bâtiments utilisés pour l'entreposage de véhicules automobiles commerciaux lorsque la superficie de la zone d'incendie excède 5000 pi2 [464 m2].</seg>
       </tuv>
     </tu>
     <tu>
@@ -31534,13 +31525,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.794: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Enclosed parking garages located beneath Group R-3 occupancies.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Parcs de stationnement encloisonnés situés sous les usages du groupe R-3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T194931Z">
+        <seg>Garages de stationnement encloisonnés situés sous les usages du groupe R-3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35244,13 +35234,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.808: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In all occupancies other than Group U, an automatic sprinkler system shall be installed for building design or hazards in the locations set forth in Sections 903.2.11.1 through 903.2.11.6.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans tous les usages autres que le groupe U, un système d'extincteurs automatiques doit être installé pour la conception du bâtiment ou les dangers aux endroits indiqués aux articles 903.2.11.1 à 903.2.11.6.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T195200Z">
+        <seg>Dans tous les usages autres que le groupe U, un système d’extincteurs automatiques doit être installé pour les configurations de bâtiments ou les risques d’incendie aux endroits indiqués aux sections 903.2.11.1 à 903.2.11.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38163,13 +38152,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Openings shall be located in each 50 linear feet (15 240 mm), or fraction thereof, of exterior wall in the story on not fewer than one side.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures doivent être situées tous les 50 pieds linéaires (15 240 mm), ou fraction de cette distance, de mur extérieur dans l'étage sur au moins un côté.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T195558Z">
+        <seg>Des ouvertures doivent être prévues tous les 50 pieds linéaires (15 240 mm), ou fraction de cette distance, dans le mur extérieur de l’étage, sur au moins un côté.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44031,13 +44019,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.879: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The height of the bottom of the clear opening shall not exceed 44 inches (1118 mm) measured from the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La hauteur du bas de l'ouverture libre ne doit pas dépasser 44 po [1118 mm] mesurée à partir du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T195735Z">
+        <seg>La hauteur du bas de l’ouverture libre ne doit pas dépasser 44 pouces (1 118 mm), mesurée à partir du plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45034,13 +45021,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The portion of the building that contains the mechanical-access enclosed parking garage shall be protected with a specially engineered automatic sprinkler system.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La partie du bâtiment qui contient le parc de stationnement fermé à accès mécanique doit être protégée par un système d'extincteurs automatiques spécialement conçu.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T195119Z">
+        <seg>La partie du bâtiment qui contient le garage de stationnement fermé à accès mécanique doit être protégée par un système d'extincteurs automatiques spécialement conçu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45451,13 +45437,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.887: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The required openings shall be distributed such that the lineal distance between adjacent openings does not exceed 50 feet (15 240 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures requises doivent être réparties de manière à ce que la distance linéaire entre les ouvertures adjacentes ne dépasse pas 50 pi (15 240 mm).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T195612Z">
+        <seg>Les ouvertures requises doivent être réparties de manière à ce que la distance linéaire entre deux ouvertures adjacentes ne dépasse pas 50 pieds (15 240 mm).</seg>
       </tuv>
     </tu>
     <tu>
