@@ -46830,13 +46830,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.881: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Thermal and acoustical insulation shall comply with Section 720.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'isolation thermique et acoustique doit se conformer à la section 720.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T151622Z">
+        <seg>L’isolation thermique et acoustique doit être conforme à la section 720.</seg>
       </tuv>
     </tu>
     <tu>
