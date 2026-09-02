@@ -16813,13 +16813,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.861: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;DECORATIVE MATERIALS AND TRIM&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;MATÉRIAUX DÉCORATIFS ET GARNITURES&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T033350Z">
+        <seg>&lt;g1&gt;MATÉRIAUX DÉCORATIFS ET ÉLÉMENTS DE FINITION&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32765,13 +32764,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.886: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Foam plastics shall not be used as interior trim except as provided in Section 806.5 or 2604.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les mousses plastiques ne doivent pas être utilisées comme garnitures intérieures, sauf dans les cas prévus aux articles 806.5 ou 2604.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T033130Z">
+        <seg>Les mousses plastiques ne doivent pas être utilisées comme finition intérieure, sauf dans les cas prévus aux sections 806.5 ou 2604.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34756,13 +34754,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group B and M occupancies, the amount of combustible fabric partitions suspended from the ceiling and not supported by the floor shall comply with Section 806.4 and shall not be limited.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les usages des groupes B et M, la quantité de cloisons en tissu combustible suspendues au plafond et non soutenues par le plancher doit être conforme à la section 806.4 et ne doit pas être limitée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T033535Z">
+        <seg>Dans les établissements des groupes B et M, la quantité de cloisons en tissu combustible suspendues au plafond et non soutenues par le plancher doit être conforme à la section 806.4 et n’est pas limitée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35003,13 +35000,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group R-2 dormitories, within sleeping units and dwelling units, the permissible amount of curtains, draperies, fabric hangings and similar decorative materials suspended from walls or ceiling shall not exceed 50 percent of the aggregate wall areas where the building is equipped throughout with an approved automatic sprinkler system installed in accordance with Section 903.3.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les dortoirs du groupe R-2, à l'intérieur des unités de couchage et des logements, la quantité autorisée de rideaux, de draperies, de tentures en tissu et de matériaux décoratifs similaires suspendus aux murs ou au plafond ne doit pas dépasser 50 pour cent de la surface totale des murs lorsque le bâtiment est entièrement équipé d'un système d'extincteurs automatiques approuvé installé selon la section 903.3.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T033523Z">
+        <seg>Dans les dortoirs des établissements du groupe R-2, à l’intérieur des unités de couchage et des logements, la quantité autorisée de rideaux, tentures, éléments suspendus en tissu et matériaux décoratifs similaires suspendus aux murs ou aux plafonds ne doit pas dépasser 50 % de la superficie totale des murs lorsque le bâtiment est entièrement équipé d’un système d’extincteurs automatiques approuvé installé conformément à la section 903.3.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35445,13 +35441,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.851: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In auditoriums in Group A, the permissible amount of curtains, draperies, fabric hangings and similar combustible decorative materials suspended from walls or ceilings shall not exceed 75 percent of the aggregate wall area where the building is equipped throughout with an approved automatic sprinkler system in accordance with Section 903.3.1.1, and where the material is installed in accordance with Section 803.15 of this code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les auditoriums du groupe A, la quantité autorisée de rideaux, de draperies, de tentures en tissu et de matériaux décoratifs combustibles similaires suspendus aux murs ou aux plafonds ne doit pas dépasser 75 % de la surface totale des murs lorsque le bâtiment est entièrement équipé d'un système d'extincteurs automatiques approuvé selon la section 903.3.1.1, et lorsque le matériau est installé selon la section 803.15 du présent code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T033500Z">
+        <seg>Dans les auditoriums des établissements du groupe A, la quantité autorisée de rideaux, tentures, éléments suspendus en tissu et matériaux décoratifs combustibles similaires suspendus aux murs ou aux plafonds ne doit pas dépasser 75 % de la superficie totale des murs lorsque le bâtiment est entièrement équipé d’un système d’extincteurs automatiques approuvé conformément à la section 903.3.1.1 et que les matériaux sont installés conformément à la section 803.15 du présent code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42168,13 +42163,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The 10-percent limit shall not apply to curtains, draperies, fabric hangings and similar combustible decorative materials used as window coverings.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La limite de 10 % ne s'applique pas aux rideaux, tentures, tentures en tissu et matériaux décoratifs combustibles similaires utilisés comme couvre-fenêtres.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T134043Z">
+        <seg>La limite de 10 % ne s’applique pas aux rideaux, tentures, éléments suspendus en tissu et matériaux décoratifs combustibles similaires utilisés comme couvre-fenêtres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42811,8 +42805,8 @@
       <tuv lang="en">
         <seg>The classification referred to herein corresponds to the classifications determined by ASTM E648 or NFPA 253 as follows: Class I, 0.45 watts/cm2 or greater; Class II, 0.22 watts/cm2 or greater.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T195225Z">
-        <seg>La classification mentionnée aux présentes correspond aux classifications déterminées conformément à la norme ASTM E648 ou à la norme NFPA 253, comme suit : classe I, 0,45 W/cm² ou plus; classe II, 0,22 W/cm² ou plus.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T033254Z">
+        <seg>La classification mentionnée aux présentes correspond aux classifications déterminées conformément à la norme ASTM E648 ou à la norme NFPA 253, comme suit : classe I, 0,45 W/cm2 ou plus; classe II, 0,22 W/cm2 ou plus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47168,13 +47162,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.861: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>This section shall apply both to exposed foam plastics and to foam plastics used in conjunction with a textile or vinyl facing or cover.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Cette section s'applique à la fois aux plastiques en mousse apparents et aux plastiques en mousse utilisés en conjonction avec un revêtement ou une couverture en textile ou en vinyle.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T033215Z">
+        <seg>Cette section s’applique à la fois aux mousses plastiques exposées et aux mousses plastiques utilisées avec un revêtement ou une couverture en textile ou en vinyle.</seg>
       </tuv>
     </tu>
     <tu>
