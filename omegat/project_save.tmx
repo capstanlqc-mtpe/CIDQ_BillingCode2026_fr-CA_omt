@@ -21748,23 +21748,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.902: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 903.2.11.1.2 Openings on one side only.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 903.2.11.1.2 Ouvertures d'un seul côté.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T195927Z">
+        <seg>&lt;g1&gt;[F] 903.2.11.1.2 Ouvertures sur un seul côté.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 903.2.11.2 Rubbish and linen chutes.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 903.2.11.2	Goulottes à ordures et à linge.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T201824Z">
+        <seg>&lt;g1&gt;[F] 903.2.11.2 Chutes à ordures et à linge.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25624,13 +25622,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Access to such openings shall be provided for the fire department from the exterior and shall not be obstructed in a manner such that fire fighting or rescue cannot be accomplished from the exterior.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'accès à ces ouvertures doit être prévu pour les pompiers depuis l'extérieur et ne doit pas être obstrué de manière à ce que la lutte contre l'incendie ou le sauvetage ne puisse être effectué depuis l'extérieur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T195855Z">
+        <seg>Un accès à ces ouvertures doit être prévu pour le service d’incendie depuis l’extérieur et ne doit pas être obstrué de manière à empêcher les opérations de lutte contre l’incendie ou de sauvetage depuis l’extérieur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38171,13 +38168,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.897: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Openings shall have a minimum dimension of not less than 30 inches (762 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures doivent avoir une dimension minimale d'au moins 30 po [762 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T195848Z">
+        <seg>Les ouvertures doivent avoir une dimension minimale d’au moins 30 pouces (762 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49005,13 +49001,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.85: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where any portion of a basement is located more than 75 feet (22 860 mm) from openings required by Section 903.2.11.1, or where walls, partitions or other obstructions are installed that restrict the application of water from hose streams, the basement shall be equipped throughout with an approved automatic sprinkler system.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'une partie d'un sous-sol est située à plus de 75 pieds (22 860 mm) des ouvertures requises par l'article 903.2.11.1, ou lorsque des murs, des cloisons ou d'autres obstacles sont installés et limitent l'application d'eau provenant de jets de tuyaux, le sous-sol doit être entièrement équipé d'un système d'extincteurs automatiques approuvé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T200014Z">
+        <seg>Lorsque toute partie d’un sous-sol est située à plus de 75 pieds (22 860 mm) des ouvertures requises par la section 903.2.11.1, ou lorsque des murs, cloisons ou autres obstacles sont installés de manière à restreindre l’application de l’eau provenant de lances d’incendie, le sous-sol doit être entièrement équipé d’un système d’extincteurs automatiques approuvé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49556,13 +49551,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where openings in a story are provided on only one side and the opposite wall of such story is more than 75 feet (22 860 mm) from such openings, the story shall be equipped throughout with an approved automatic sprinkler system, or openings shall be provided on not fewer than two sides of the story.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les ouvertures d'un étage sont prévues d'un seul côté et que le mur opposé de cet étage est à plus de 75 pieds (22 860 mm) de ces ouvertures, l'étage doit être entièrement équipé d'un système d'extincteurs automatiques approuvé, ou des ouvertures doivent être prévues sur au moins deux côtés de l'étage.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T195948Z">
+        <seg>Lorsque les ouvertures d’un étage sont prévues sur un seul côté et que le mur opposé de cet étage se trouve à plus de 75 pieds (22 860 mm) de ces ouvertures, l’étage doit être entièrement équipé d’un système d’extincteurs automatiques approuvé, ou des ouvertures doivent être prévues sur au moins deux côtés de l’étage.</seg>
       </tuv>
     </tu>
     <tu>
