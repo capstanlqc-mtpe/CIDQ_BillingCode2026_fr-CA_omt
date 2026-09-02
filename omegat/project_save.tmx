@@ -45902,13 +45902,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The space around penetrating items shall be filled with an approved material to limit the free passage of smoke.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'espace autour des éléments qui pénètrent doit être rempli d'un matériau approuvé pour limiter le libre passage de la fumée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T011426Z">
+        <seg>L’espace autour des éléments traversants doit être rempli d’un matériau approuvé afin de limiter le passage libre de la fumée.</seg>
       </tuv>
     </tu>
     <tu>
