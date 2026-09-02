@@ -21861,13 +21861,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.88: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 903.2.4.3 Group F-1 upholstered furniture or mattresses.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 903.2.4.3 Mobilier rembourré ou matelas du groupe F-1.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T174325Z">
+        <seg>&lt;g1&gt;[F] 903.2.4.3 Meubles rembourrés ou matelas du groupe F-1.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26756,13 +26755,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An automatic sprinkler system shall be provided throughout a Group F-1 fire area that exceeds 2,500 square feet (232 m2) used for the manufacture of upholstered furniture or mattresses.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'extincteurs automatiques doit être prévu dans toute la zone d'incendie du Groupe F-1 de plus de 2500 pi2 [232 m2] utilisée pour la fabrication de meubles rembourrés ou de matelas.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T174317Z">
+        <seg>Un système d’extincteurs automatiques doit être prévu dans toute aire d’incendie du groupe F-1 d’une superficie supérieure à 2 500 pieds carrés (232 m²) utilisée pour la fabrication de meubles rembourrés ou de matelas.</seg>
       </tuv>
     </tu>
     <tu>
