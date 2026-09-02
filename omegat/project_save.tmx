@@ -1120,13 +1120,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.807: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;The fire area exceeds 12,000 square feet (1115 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Le secteur coupe-feu excède 12 000 pi2 [1 115 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T153035Z">
+        <seg>1.&lt;x1/&gt; La zone d’incendie dépasse 12 000 pi2 [1 115 m2].</seg>
       </tuv>
     </tu>
     <tu>
@@ -3941,13 +3940,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.706: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>4.&lt;x1/&gt;The fire area contains a multi-theater complex.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>4.&lt;x1/&gt; Le secteur coupe-feu contient un complexe multi-salles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T153104Z">
+        <seg>4.&lt;x1/&gt; La zone d'incendie contient un complexe multi-salles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26908,13 +26906,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.801: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An automatic sprinkler system shall be provided throughout stories containing Group A-1 occupancies and throughout all stories from the Group A-1 occupancy to and including the levels of exit discharge serving that occupancy where one of the following conditions exists:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'extincteurs automatiques doit être installé dans tous les étages contenant des locaux du groupe A-1 et dans tous les étages depuis le local du groupe A-1 jusqu'aux niveaux de l'issue d'évacuation desservant ce local inclusivement lorsque l'une des conditions suivantes existe :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T152954Z">
+        <seg>Un système d’extincteurs automatiques doit être prévu dans tous les étages comportant des usages du groupe A-1 ainsi que dans tous les étages, depuis l’usage du groupe A-1 jusqu’aux niveaux d’évacuation menant à l’extérieur inclusivement, qui desservent cet usage, lorsqu’une des conditions suivantes est présente :</seg>
       </tuv>
     </tu>
     <tu>
@@ -27239,13 +27236,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.847: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Approved automatic sprinkler systems in new buildings and structures shall be provided in the locations described in Sections 903.2.1 through 903.2.12.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des systèmes d'extincteurs automatiques approuvés dans les nouveaux bâtiments et les nouvelles structures doivent être prévus aux endroits décrits aux articles 903.2.1 à 903.2.12.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T152743Z">
+        <seg>Les systèmes d’extincteurs automatiques approuvés dans les bâtiments et constructions neufs doivent être prévus aux endroits décrits aux sections 903.2.1 à 903.2.12.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41102,13 +41098,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.855: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Spaces or areas in telecommunications buildings used exclusively for telecommunications equipment, associated electrical power distribution equipment, batteries and standby engines, provided that those spaces or areas are equipped throughout with an automatic smoke detection system in accordance with Section 907.2 and are separated from the remainder of the building by not less than 1-hour fire barriers constructed in accordance with Section 707 or not less than 2-hour horizontal assemblies constructed in accordance with Section 711, or both.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Espaces ou aires dans les bâtiments de télécommunications utilisés exclusivement pour l'équipement de télécommunications, l'équipement de distribution d'énergie électrique associé, les batteries et les moteurs de secours, à condition que ces espaces ou aires soient entièrement équipés d'un système automatique de détection de fumée selon la section 907.2 et qu'ils soient séparés du reste du bâtiment par des barrières coupe-feu d'au moins une (1) heure construites selon la section 707 ou par des ensembles horizontaux d'au moins deux (2) heures construits selon la section 711, ou les deux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T152815Z">
+        <seg>Les espaces ou aires des bâtiments de télécommunications utilisés exclusivement pour l’équipement de télécommunications, l’équipement associé de distribution d’énergie électrique, les batteries et les moteurs de secours, à condition que ces espaces ou aires soient entièrement équipés d’un système automatique de détection d’incendie conformément à la section 907.2 et soient séparés du reste du bâtiment par des séparations coupe-feu d’au moins 1 heure construites conformément à la section 707 ou par des assemblages horizontaux d’au moins 2 heures construits conformément à la section 711, ou par les deux.</seg>
       </tuv>
     </tu>
     <tu>
