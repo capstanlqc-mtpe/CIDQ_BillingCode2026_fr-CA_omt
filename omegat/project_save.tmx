@@ -22076,13 +22076,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.887: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 907.2.2.1 Ambulatory care facilities.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 907.2.2.1 Centres de soins ambulatoires.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T223206Z">
+        <seg>&lt;g1&gt;[F] 907.2.2.1 Établissements de soins ambulatoires.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32403,13 +32402,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Fire areas containing ambulatory care facilities shall be provided with an electronically supervised automatic smoke detection system installed within the ambulatory care facility and in public use areas outside of tenant spaces, including public corridors and elevator lobbies.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les zones d'incendie contenant des centres de soins ambulatoires doivent être équipées d'un système automatique de détection de fumée à surveillance électronique installé dans le centre de soins ambulatoires et dans les aires publiques à l'extérieur des espaces locatifs, y compris les couloirs publics et les halls d'ascenseur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T223306Z">
+        <seg>Les zones d’incendie comportant des établissements de soins ambulatoires doivent être munies d’un système automatique de détection de fumée surveillé électroniquement, installé dans l’établissement de soins ambulatoires et dans les aires à usage public situées à l’extérieur des locaux des locataires, y compris les corridors publics et les vestibules d’ascenseur.</seg>
       </tuv>
     </tu>
     <tu>
