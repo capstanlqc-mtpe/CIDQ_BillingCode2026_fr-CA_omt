@@ -781,13 +781,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Four or more care recipients are incapable of self-preservation.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Quatre bénéficiaires de soins ou plus sont incapables de se protéger.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T162258Z">
+        <seg>1.&lt;x1/&gt; Quatre bénéficiaires de soins ou plus sont incapables de subvenir eux-mêmes à leurs besoins.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14732,13 +14731,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;903.2.1.7 Multiple fire areas.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;903.2.1.7 Secteurs coupe-feu multiples.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T160003Z">
+        <seg>&lt;g1&gt;903.2.1.7 Plusieurs zones d’incendie.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21698,13 +21696,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 903.2.1.6 Assembly occupancies on roofs.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 903.2.1.6 Usages de réunion sur les toits.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T155906Z">
+        <seg>&lt;g1&gt;[F] 903.2.1.6 Usages d’assemblée sur les toits.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21818,13 +21815,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.889: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 903.2.2 Ambulatory care facilities.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 903.2.2 Centres de soins ambulatoires.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T160047Z">
+        <seg>&lt;g1&gt;[F] 903.2.2 Établissements de soins ambulatoires.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26725,13 +26721,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.851: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An automatic sprinkler system shall be installed throughout the entire floor containing an ambulatory care facility where either of the following conditions exist at any time:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'extincteurs automatiques doit être installé sur l'ensemble de l'étage contenant un centre de soins ambulatoires lorsque l'une des conditions suivantes existe à tout moment :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T160115Z">
+        <seg>Un système d'extincteurs automatiques doit être installé sur l'ensemble de l'étage contenant un établissements de soins ambulatoires lorsque l'une des conditions suivantes existe à tout moment :</seg>
       </tuv>
     </tu>
     <tu>
@@ -26941,13 +26936,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.794: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An automatic sprinkler system shall be provided where multiple fire areas of Group A-1, A-2, A-3 or A-4 occupancies share exit or exit access components and the combined occupant load of theses fire areas is 300 or more.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'extincteurs automatiques doit être prévu lorsque plusieurs zones d'incendie des groupes d'occupation A-1, A-2, A-3 ou A-4 partagent des composantes d'issue ou d'accès à l'issue et que la charge d'occupants combinée de ces zones d'incendie est de 300 ou plus.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T155952Z">
+        <seg>Un système d’extincteurs automatiques doit être prévu lorsque plusieurs aires d’incendie correspondant à des usages des groupes A-1, A-2, A-3 ou A-4 partagent des éléments des issues ou des voies d’accès aux issues et que la charge d’occupants combinée de ces aires d’incendie est de 300 personnes ou plus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38100,13 +38094,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.794: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Open parking garages of Type I or Type II construction.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Parcs de stationnement ouverts de construction de type I ou de type II.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T155913Z">
+        <seg>Garages de stationnement ouverts de construction de type I ou de type II.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49026,13 +49019,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where an occupied roof has an assembly occupancy with an occupant load exceeding 100 for Group A-2 and 300 for other Group A occupancies, all floors between the occupied roof and the level of exit discharge shall be equipped with an automatic sprinkler system in accordance with Section 903.3.1.1 or 903.3.1.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'une toiture occupée a un usage de réunion avec une charge d'occupants supérieure à 100 pour le groupe A-2 et à 300 pour les autres usages du groupe A, tous les planchers entre la toiture occupée et le niveau de l'issue d'évacuation doivent être équipés d'un système d'extincteurs automatiques selon la section 903.3.1.1 ou 903.3.1.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T155855Z">
+        <seg>Lorsqu’un toit occupé comporte un usage d’assemblée dont la charge d’occupants est supérieure à 100 personnes pour le groupe A-2 et à 300 personnes pour les autres usages du groupe A, tous les planchers situés entre le toit occupé et le niveau de l'issue d’évacuation menant à l’extérieur doivent être équipés d’un système d’extincteurs automatiques conformément à la section 903.3.1.1 ou 903.3.1.2.</seg>
       </tuv>
     </tu>
     <tu>
