@@ -13492,13 +13492,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.887: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;711.2.4.4 Separating smoke compartments.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;711.2.4.4 Séparation des compartiments de fumée.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T030552Z">
+        <seg>&lt;g1&gt;711.2.4.4 Séparation des compartiments coupe-fumée.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13542,13 +13541,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.868: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;711.3 Nonfire-resistance-rated floor and roof assemblies.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;711.3 Ensembles de plancher et de toit non résistants au feu.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T031001Z">
+        <seg>&lt;g1&gt;711.3 Ensembles de plancher et de couverture sans résistance au feu.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27312,13 +27310,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.89: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Assemblies shall be continuous without vertical openings, except as permitted by Section 712.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les assemblages doivent être continus, sans ouvertures verticales, sauf dans les cas autorisés par l'article 712.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T031042Z">
+        <seg>Les ensembles doivent être continus, sans ouvertures verticales, sauf dans les cas autorisés par la section 712.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27331,13 +27328,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.807: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Assemblies shall be of materials permitted by the building type of construction.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les matériaux utilisés pour construire les assemblages seront ceux qui sont autorisés selon le type de construction du bâtiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T031023Z">
+        <seg>Les matériaux utilisés pour construire les ensembles seront ceux qui sont autorisés selon le type de construction du bâtiment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30956,13 +30952,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.903: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Each vertical opening shall comply in accordance with one of the protection methods in Sections 712.1.1 through 712.1.16.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Chaque ouverture verticale doit être conforme à l'une des méthodes de protection décrites aux articles 712.1.1 à 712.1.16.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T031055Z">
+        <seg>Chaque ouverture verticale doit être conforme à l'une des méthodes de protection décrites dans les sections 712.1.1 à 712.1.16.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34365,8 +34360,8 @@
       <tuv lang="en">
         <seg>Horizontal assemblies at smoke barriers constructed in accordance with Section 709.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T025727Z">
-        <seg>Les assemblages horizontaux au niveau des barrières anti-fumée construites selon la section 709.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T030352Z">
+        <seg>Les ensembles horizontaux au niveau des barrières anti-fumée construites selon la section 709.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34374,8 +34369,8 @@
       <tuv lang="en">
         <seg>Horizontal assemblies at the separations of dwelling units and sleeping units as required by Section 420.3.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T025719Z">
-        <seg>Les assemblages horizontaux aux séparations des logements et des unités de couchage, comme l'exige l'article 420.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T030358Z">
+        <seg>Les ensembles horizontaux aux séparations des logements et des unités de couchage, comme l'exige l'article 420.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34383,8 +34378,8 @@
       <tuv lang="en">
         <seg>Horizontal assemblies at the separations of incidental uses as specified by Table 509.1 provided that the required fire-resistance rating does not exceed 1 hour.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T025603Z">
-        <seg>Les assemblages horizontaux aux endroits où des usages accessoires sont séparés, comme le précise le tableau 509.1, à condition que la résistance au feu requise ne dépasse pas 1 heure.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T030404Z">
+        <seg>Les ensembles horizontaux aux endroits où des usages accessoires sont séparés, comme le précise le tableau 509.1, à condition que la résistance au feu requise ne dépasse pas 1 heure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34398,13 +34393,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.781: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Horizontal assemblies serving as dwelling or sleeping unit separations in accordance with Section 420.3 shall be not less than 1-hour fire-resistance-rated construction.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ensembles horizontaux servant de séparations entre les unités d'habitation ou les unités de couchage selon la section 420.3 doivent être des constructions ayant un degré de résistance au feu d'au moins une heure (1 h).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T030427Z">
+        <seg>Les ensembles horizontaux servant de séparations entre les logements ou les unités de couchage selon la section 420.3 doivent être des constructions ayant un degré de résistance au feu d'au moins une heure (1 h).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34748,23 +34742,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.791: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In 1-hour fire-resistance-rated floor/ceiling assemblies, the ceiling membrane is not required to be installed over unusable crawl spaces.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les ensembles plafond-plancher ayant un degré de résistance au feu de 1 heure, il n'est pas exigé d'installer la membrane de plafond au-dessus des vides sanitaires inutilisables.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T030833Z">
+        <seg>Dans les ensembles plancher/plafond présentant une résistance au feu d’une heure, la membrane du plafond n’est pas tenue d’être installée au-dessus des vides sanitaires inutilisables.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.744: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In 1-hour fire-resistance-rated roof assemblies, the floor membrane is not required to be installed where unusable attic space occurs above.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les assemblages de toit résistants au feu pendant 1 heure, il n'est pas exigé d'installer la membrane de plancher lorsqu'il y a un espace de grenier inutilisable au-dessus.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T030904Z">
+        <seg>Dans les ensembles de toit résistants au feu pendant 1 heure, il n'est pas exigé d'installer la membrane de plancher lorsqu'il y a un espace de grenier inutilisable au-dessus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37728,8 +37720,8 @@
       <tuv lang="en">
         <seg>Nonfire-resistance-rated floor, floor/ceiling, roof and roof/ceiling assemblies shall comply with Sections 711.3.1 and 711.3.2.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T203142Z">
-        <seg>Les assemblages de plancher, de plancher/plafond, de toiture et de toiture/plafond sans degré de résistance au feu doivent être conformes aux sections 711.3.1 et 711.3.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T031007Z">
+        <seg>Les assemblages de plancher, de plancher/plafond, de couverture et de couverture/plafond sans résistance au feu doivent être conformes aux sections 711.3.1 et 711.3.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43709,8 +43701,8 @@
       <tuv lang="en">
         <seg>The fire-resistance rating of horizontal assemblies shall comply with Sections 711.2.4.1 through 711.2.4.6 but shall be not less than that required by the building type of construction.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T025745Z">
-        <seg>Le degré de résistance au feu des assemblages horizontaux doit être conforme aux sections 711.2.4.1 à 711.2.4.6, mais il ne doit pas être inférieur à celui qui est exigé selon le type de construction du bâtiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T030339Z">
+        <seg>Le degré de résistance au feu des ensembles horizontaux doit être conforme aux sections 711.2.4.1 à 711.2.4.6, mais il ne doit pas être inférieur à celui qui est exigé selon le type de construction du bâtiment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48639,13 +48631,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.891: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a horizontal assembly is required by other Sections of this code, the assembly shall have a fire-resistance rating of not less than that required by that section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un assemblage horizontal est exigé par d'autres articles du présent code, l'assemblage doit avoir un degré de résistance au feu au moins égal à celui qui est exigé par cet article.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T030726Z">
+        <seg>Lorsqu'un l’ensemble horizontal est requis par d’autres sections du présent code, il doit présenter une résistance au feu d’au moins celle exigée par cette section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50428,13 +50419,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the horizontal assembly is required to be a smoke barrier, the assembly shall comply with Section 709.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque l'assemblage horizontal doit être une barrière antifumée, l'assemblage doit être conforme à la section 709.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T030609Z">
+        <seg>Lorsque l’ensemble horizontal doit constituer une séparation pare-fumée, il doit être conforme à la section 709.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50442,18 +50432,17 @@
       <tuv lang="en">
         <seg>Where the horizontal assembly separates a single occupancy into different fire areas, the assembly shall have a fire-resistance rating of not less than that required by Section 707.3.10.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T025918Z">
-        <seg>Lorsque l’assemblage horizontal sépare un même usage en différentes aires d’incendie, l’assemblage doit présenter une résistance au feu d’au moins celle exigée par la section 707.3.10.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T030230Z">
+        <seg>Lorsque l’ensemble horizontal sépare un même usage en différentes aires d’incendie, l’assemblage doit présenter une résistance au feu d’au moins celle exigée par la section 707.3.10.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.88: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the horizontal assembly separates incidental uses from the remainder of the building, the assembly shall have a fire-resistance rating of not less than that required by Section 509.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque l'assemblage horizontal sépare des usages accessoires du reste du bâtiment, l'assemblage doit avoir un degré de résistance au feu au moins égal à celui qui est exigé à l'article 509.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T030711Z">
+        <seg>Lorsque l’ensemble horizontal sépare des usages accessoires du reste du bâtiment, il doit présenter une résistance au feu d’au moins celle exigée par la section 509.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50461,8 +50450,8 @@
       <tuv lang="en">
         <seg>Where the horizontal assembly separates mixed occupancies, the assembly shall have a fire-resistance rating of not less than that required by Section 508.4 based on the occupancies being separated.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T025841Z">
-        <seg>Lorsque l’assemblage horizontal sépare des usages mixtes, l’assemblage doit présenter une résistance au feu d’au moins celle exigée par la section 508.4, selon les usages séparés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T030255Z">
+        <seg>Lorsque l’ensemble horizontal sépare des usages mixtes, l’assemblage doit présenter une résistance au feu d’au moins celle exigée par la section 508.4, selon les usages séparés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50672,13 +50661,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the weight of lay-in ceiling panels, used as part of fire-resistance-rated floor/ceiling or roof/ceiling assemblies, is not adequate to resist an upward force of 1 pound per square foot (48 Pa), wire or other approved devices shall be installed above the panels to prevent vertical displacement under such upward force.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque le poids des panneaux de plafond posés, utilisés dans le cadre d'ensembles plafond-plancher ou plafond-toit ayant un degré de résistance au feu, n'est pas suffisant pour résister à une force ascendante de 1 livre par pied carré (48 Pa), du fil ou d'autres dispositifs approuvés doivent être installés au-dessus des panneaux pour empêcher tout déplacement vertical sous une telle force ascendante.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T030913Z">
+        <seg>Lorsque le poids des panneaux de plafond suspendu amovibles, utilisés comme partie intégrante d’assemblages de plancher/plafond ou de couverture/plafond présentant une résistance au feu, n’est pas suffisant pour résister à une force ascendante de 1 livre par pied carré (48 Pa), des fils métalliques ou d’autres dispositifs approuvés doivent être installés au-dessus des panneaux afin d’empêcher leur déplacement vertical sous l’effet d’une telle force ascendante.</seg>
       </tuv>
     </tu>
     <tu>
