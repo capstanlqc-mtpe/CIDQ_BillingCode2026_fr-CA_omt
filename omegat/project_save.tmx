@@ -21554,13 +21554,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.88: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 806.5 Foam plastic.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 806.5 Plastique mousse.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T134524Z">
+        <seg>&lt;g1&gt;[F] 806.5 Mousse plastique.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32735,13 +32734,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.815: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Foam plastic used as trim in any occupancy shall comply with Section 2604.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le plastique mousse utilisé comme garniture dans tout usage doit se conformer à la section 2604.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T135750Z">
+        <seg>La mousse plastique utilisée comme élément de finition dans tout usage doit être conforme à la section 2604.2.</seg>
       </tuv>
     </tu>
     <tu>
