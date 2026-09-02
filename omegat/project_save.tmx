@@ -36568,13 +36568,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.885: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Joints shall be filled with an approved material to limit the free passage of smoke.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les joints doivent être remplis d'un matériau approuvé pour limiter le libre passage de la fumée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T011451Z">
+        <seg>Les joints doivent être remplis d’un matériau approuvé afin de limiter le passage libre de la fumée.</seg>
       </tuv>
     </tu>
     <tu>
