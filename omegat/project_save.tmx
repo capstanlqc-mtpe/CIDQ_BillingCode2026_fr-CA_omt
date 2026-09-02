@@ -36310,13 +36310,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Interior floor-wall base that is 6 inches (152 mm) or less in height shall be tested in accordance with Section 804.2 and shall be not less than Class II. Where a Class I floor finish is required, the floor-wall base shall be Class I.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La base de mur intérieure d'une hauteur de 6 po [152 mm] ou moins doit être testée selon la section 804.2 et ne doit pas être inférieure à la classe II. Lorsqu'une finition de plancher de classe I est requise, la base de mur doit être de classe I.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T143040Z">
+        <seg>Le revêtement de base mur-plancher intérieur d’une hauteur d’au plus 6 pouces (152 mm) doit être soumis à des essais conformément à la section 804.2 et doit être au moins de classe II. Lorsqu’une finition de plancher de classe I est requise, le revêtement de base mur-plancher doit être de classe I.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36350,13 +36349,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.872: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Interior trim materials that comply with Section 806.7.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Matériaux de revêtement intérieur qui se conforment à la section 806.7.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T143105Z">
+        <seg>Matériaux d’éléments de finition intérieure conformes à la section 806.7.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37070,13 +37068,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Lockers constructed entirely of wood and noncombustible materials shall be permitted to be used wherever interior finish materials are required to meet a Class C classification in accordance with Section 803.1.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les casiers construits entièrement en bois et en matériaux non combustibles peuvent être utilisés partout où les matériaux de revêtement intérieur doivent satisfaire à une classification de Classe C selon la section 803.1.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T150322Z">
+        <seg>Les casiers construits entièrement en bois et en matériaux incombustibles peuvent être utilisés partout où les matériaux de finition intérieure doivent satisfaire à une classification de classe C conformément à la section 803.1.2.</seg>
       </tuv>
     </tu>
     <tu>
