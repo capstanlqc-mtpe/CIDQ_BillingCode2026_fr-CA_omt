@@ -785,8 +785,8 @@
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Four or more care recipients are incapable of self-preservation.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T162258Z">
-        <seg>1.&lt;x1/&gt; Quatre bénéficiaires de soins ou plus sont incapables de subvenir eux-mêmes à leurs besoins.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T162421Z">
+        <seg>1.&lt;x1/&gt; Quatre bénéficiaires de soins ou plus sont incapables de se protéger eux-mêmes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2330,13 +2330,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.803: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;One or more care recipients that are incapable of self-preservation are located at other than the level of exit discharge serving such a facility.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Un ou plusieurs bénéficiaires de soins incapables de se protéger sont situés à un niveau autre que celui de l'issue d'évacuation desservant une telle installation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T162526Z">
+        <seg>2.&lt;x1/&gt; Un ou plusieurs bénéficiaires de soins ou plus sont incapables de se protéger eux-mêmes se trouvent à un niveau autre que le niveau d’évacuation menant à l’extérieur desservant l’établissement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35473,13 +35472,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In buildings where ambulatory care is provided on levels other than the level of exit discharge, an automatic sprinkler system shall be installed throughout the entire floor as well as all floors below where such care is provided, and all floors between the level of ambulatory care and the nearest level of exit discharge, the level of exit discharge, and all floors below the level of exit discharge.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les bâtiments où des soins ambulatoires sont dispensés à des niveaux autres que le niveau de l'issue d'évacuation, un système d'extincteurs automatiques doit être installé sur l'ensemble de l'étage ainsi que sur tous les étages inférieurs où de tels soins sont dispensés, et sur tous les étages entre le niveau des soins ambulatoires et le niveau de l'issue d'évacuation le plus proche, sur le niveau de l'issue d'évacuation et sur tous les étages inférieurs au niveau de l'issue d'évacuation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T162352Z">
+        <seg>Dans les bâtiments où des soins ambulatoires sont dispensés à des niveaux autres que le niveau d’évacuation menant à l’extérieur, un système d’extincteurs automatiques doit être installé dans tout l’étage concerné ainsi que dans tous les étages situés en dessous où de tels soins sont dispensés, et dans tous les étages situés entre le niveau où les soins ambulatoires sont dispensés et le niveau de l'issue d’évacuation menant à l’extérieur le plus proche, ainsi que dans le niveau de l'issue d’évacuation menant à l’extérieur et tous les étages situés en dessous de celui-ci.</seg>
       </tuv>
     </tu>
     <tu>
