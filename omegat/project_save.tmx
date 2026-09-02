@@ -16471,13 +16471,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.825: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;AUTOMATIC SPRINKLER SYSTEMS&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;SYSTÈMES AUTOMATIQUES DE GICLEURS&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T152407Z">
+        <seg>&lt;g1&gt;SYSTÈMES D’EXTINCTEURS AUTOMATIQUES&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26009,13 +26008,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.863: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Acoustical materials complying with the interior finish requirements of Section 803 shall be installed in accordance with the manufacturer's recommendations and applicable provisions for applying interior finish.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les matériaux acoustiques conformes aux exigences de finition intérieure de la section 803 doivent être installés conformément aux recommandations du fabricant et aux dispositions applicables pour l'application de la finition intérieure.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T152058Z">
+        <seg>Les matériaux acoustiques conformes aux exigences relatives aux finitions intérieures de la section 803 doivent être installés conformément aux recommandations du fabricant et aux dispositions applicables à la mise en œuvre des finitions intérieures.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26353,13 +26351,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Alternative automatic fire-extinguishing systems complying with Section 904 shall be permitted instead of automatic sprinkler protection where recognized by the applicable standard and approved by the fire code official.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des systèmes automatiques d'extinction d'incendie de remplacement conformes à l'article 904 peuvent être autorisés au lieu d'une protection par gicleurs automatiques lorsqu'ils sont reconnus par la norme applicable et approuvés par l'agent responsable du code d'incendie.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T152517Z">
+        <seg>Les systèmes d’extinction automatique d’incendie de remplacement conformes à la section 904 peuvent être utilisés à la place d’un système de protection par extincteurs automatiques lorsque la norme applicable les reconnaît et qu’ils sont approuvés par le responsable de la réglementation en matière d’incendie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45253,13 +45250,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.859: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The quality, design, fabrication and erection of metal suspension systems for acoustical tile and lay-in panel ceilings in buildings or structures shall conform to generally accepted engineering practice, the provisions of this Chapter and other applicable requirements of this code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La qualité, la conception, la fabrication et le montage des systèmes de suspension métalliques pour les plafonds en dalles acoustiques et en panneaux encastrés dans les bâtiments ou les structures doivent être conformes aux pratiques d'ingénierie généralement acceptées, aux dispositions du présent chapitre et aux autres exigences applicables du présent code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T151633Z">
+        <seg> La qualité, la conception, la fabrication et la mise en place des systèmes de suspension métalliques pour les plafonds en carreaux acoustiques et en panneaux amovibles dans les bâtiments ou les constructions doivent être conformes aux pratiques d’ingénierie généralement reconnues, aux dispositions du présent chapitre et aux autres exigences applicables du présent code.</seg>
       </tuv>
     </tu>
     <tu>
