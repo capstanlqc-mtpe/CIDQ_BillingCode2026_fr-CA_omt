@@ -21766,13 +21766,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.882: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 903.2.11.3 Buildings 55 feet or more in height.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 903.2.11.3 Bâtiments d'une hauteur de 55 pieds ou plus.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T202825Z">
+        <seg>&lt;g1&gt;[F] 903.2.11.3 Bâtiments d'une hauteur supérieure à 55 pieds.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22010,13 +22009,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 907.1.2 Fire alarm shop drawings.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 907.1.2 Plans d'atelier des systèmes d'alarme incendie.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T203607Z">
+        <seg>&lt;g1&gt;[F] 907.1.2 Plans d'atelier des systèmes d'alarme d'incendie.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26662,13 +26660,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An automatic sprinkler system shall be installed in commercial kitchen exhaust hood and duct systems where an automatic sprinkler system is used to comply with Section 904.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'extincteurs automatiques doit être installé dans les systèmes de hottes et de conduits d'évacuation des cuisines commerciales lorsqu'un système d'extincteurs automatiques est utilisé pour se conformer à la section 904.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T203146Z">
+        <seg>Un système d’extincteurs automatiques doit être installé dans les systèmes de hottes et de gaines d’évacuation des cuisines commerciales lorsqu’un système d’extincteurs automatiques est utilisé pour satisfaire aux exigences de la section 904.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26681,13 +26678,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.793: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An automatic sprinkler system shall be installed throughout buildings that have one or more stories with an occupant load of 30 or more located 55 feet (16 764 mm) or more above the lowest level of fire department vehicle access, measured to the finished floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'extincteurs automatiques doit être installé dans tous les bâtiments d'un ou de plusieurs étages dont la charge d'occupants est de 30 ou plus et qui sont situés à 55 pieds [16 764 mm] ou plus au-dessus du niveau le plus bas de l'accès des véhicules des services d'incendie, mesuré jusqu'au sol fini.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T202958Z">
+        <seg>Un système d’extincteurs automatiques doit être installé dans tous les bâtiments comportant un ou plusieurs étages dont la charge d’occupants est d’au moins 30 personnes et qui sont situés à 55 pieds (16 764 mm) ou plus au-dessus du niveau le plus bas d’accès des véhicules du service d’incendie, la mesure étant prise jusqu’au plancher fini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29717,13 +29713,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.847: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Construction documents for fire alarm systems shall be of sufficient clarity to indicate the location, nature and extent of the work proposed and show in detail that it will conform to the provisions of this code, the International Fire Code; and relevant laws, ordinances, rules and regulations, as determined by the fire code official.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les documents de construction pour les systèmes d'alarme incendie doivent être suffisamment clairs pour indiquer l'emplacement, la nature et l'étendue des travaux proposés et montrer en détail qu'ils seront conformes aux dispositions du présent code, de l'International Fire Code et des lois, ordonnances, règles et règlements pertinents, tels que déterminés par l'agent responsable du code d'incendie.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T203602Z">
+        <seg>Les documents de construction relatifs aux systèmes d’alarme incendie doivent être suffisamment clairs pour indiquer l’emplacement, la nature et l’étendue des travaux proposés et démontrer en détail leur conformité aux dispositions du présent code, de l’International Fire Code et des lois, ordonnances, règles et règlements applicables, selon ce que détermine le responsable de la réglementation en matière d’incendie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30628,13 +30623,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.904: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Ducts where the largest cross-sectional diameter of the duct is less than 10 inches (254 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Conduits dont le plus grand diamètre de coupe transversale est inférieur à 10 po [254 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T203106Z">
+        <seg>Les gaines dont le plus grand diamètre de la section transversale est inférieur à 10 pouces (254 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40327,13 +40321,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Shop drawings for fire alarm systems shall be prepared in accordance with NFPA 72 and submitted for review and approval prior to system installation.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les dessins d'atelier pour les systèmes d'alarme incendie doivent être préparés conformément à la norme NFPA 72 et soumis pour examen et approbation avant l'installation du système.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T211157Z">
+        <seg>Les dessins d’atelier des systèmes d’alarme incendie doivent être préparés conformément à la norme NFPA 72 et soumis à des fins d’examen et d’approbation avant l’installation du système.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47060,13 +47053,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.886: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>This section covers the application, installation, performance and maintenance of fire alarm systems and their components.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Cette section couvre l'application, l'installation, la performance et l'entretien des systèmes d'alarme incendie et de leurs composants.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T203534Z">
+        <seg>Cette section couvre l'application, l'installation, la performance et l'entretien des systèmes d'alarme d'incendie et de leurs composants.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49828,13 +49820,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.866: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where required by the International Mechanical Code, automatic sprinklers shall be provided in ducts conveying hazardous exhaust or flammable or combustible materials.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque l'International Mechanical Code l'exige, des gicleurs automatiques doivent être prévus dans les conduits transportant des gaz d'échappement dangereux ou des matières inflammables ou combustibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T203041Z">
+        <seg>Lorsque l’International Mechanical Code l’exige, des extincteurs automatiques doivent être prévus dans les gaines transportant des rejets dangereux ou des matières inflammables ou combustibles.</seg>
       </tuv>
     </tu>
     <tu>
