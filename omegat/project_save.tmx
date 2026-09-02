@@ -24834,8 +24834,8 @@
       <tuv lang="en">
         <seg>A manual fire alarm system that activates the occupant notification system in accordance with Section 907.5 shall be installed in Group A occupancies where the occupant load due to the assembly occupancy is 300 or more, or where the Group A occupant load is more than 100 persons above or below the lowest level of exit discharge.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T213918Z">
-        <seg>Un système d’alarme incendie manuel qui active le système de notification des occupants conformément à la section 907.5 doit être installé dans les usages du groupe A lorsque la charge d’occupants attribuable à l’usage d’assemblée est de 300 personnes ou plus, ou lorsque la charge d’occupants du groupe A est supérieure à 100 personnes au-dessus ou au-dessous du niveau d’évacuation menant à l’extérieur le plus bas.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T214010Z">
+        <seg>Un système d’alarme d’incendie manuel qui active le système de notification des occupants conformément à la section 907.5 doit être installé dans les usages du groupe A lorsque la charge d’occupants attribuable à l’usage d’assemblée est de 300 personnes ou plus, ou lorsque la charge d’occupants du groupe A est supérieure à 100 personnes au-dessus ou au-dessous du niveau de l’issue d’évacuation menant à l’extérieur le plus bas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26538,8 +26538,8 @@
       <tuv lang="en">
         <seg>An approved fire alarm system installed in accordance with the provisions of this code and NFPA 72 shall be provided in new buildings and structures in accordance with Sections 907.2.1 through 907.2.23 and provide occupant notification in accordance with Section 907.5, unless other requirements are provided by another section of this code.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T212120Z">
-        <seg>Un système d’alarme d'incendie approuvé, installé conformément aux dispositions du présent code et de la norme NFPA 72, doit être prévu dans les bâtiments et constructions neufs conformément aux sections 907.2.1 à 907.2.23 et assurer la notification des occupants conformément à la section 907.5, sauf si d’autres exigences sont prévues par une autre section du présent code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T214059Z">
+        <seg>Un système d’alarme d’incendie approuvé, installé conformément aux dispositions du présent code et de la norme NFPA 72, doit être prévu dans les bâtiments et constructions neufs conformément aux sections 907.2.1 à 907.2.23 et assurer la notification des occupants conformément à la section 907.5, sauf si d’autres exigences sont prévues par une autre section du présent code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33778,13 +33778,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.836: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Group A occupancies not separated from one another in accordance with Section 707.3.10 shall be considered as a single occupancy for the purposes of applying this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les usages du groupe A qui ne sont pas séparés les uns des autres selon la section 707.3.10 doivent être considérés comme un usage unique aux fins de l'application de la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T213926Z">
+        <seg>Les usages du groupe A qui ne sont pas séparés les uns des autres conformément à la section 707.3.10 doivent être considérés comme un seul usage aux fins de l’application de la présente section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37112,13 +37111,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.8: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Manual fire alarm boxes are not required where the building is equipped throughout with an automatic sprinkler system installed in accordance with Section 903.3.1.1 and the occupant notification appliances will activate throughout the notification zones upon sprinkler water flow.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les avertisseurs d'incendie manuels ne sont pas requis lorsque le bâtiment est entièrement équipé d'un système d'extincteurs automatiques installé selon la section 903.3.1.1 et que les appareils d'avertissement des occupants s'activeront dans toutes les zones d'avertissement dès que l'eau des extincteurs automatiques se mettra à couler.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T214524Z">
+        <seg>Les déclencheurs manuels d’alarme incendie ne sont pas requis lorsque le bâtiment est entièrement équipé d’un système d’extincteurs automatiques installé conformément à la section 903.3.1.1 et que les avertisseurs du système de notification des occupants se déclenchent dans toutes les zones de notification dès qu’un débit d’eau est détecté dans le système d’extincteurs automatiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37703,8 +37701,8 @@
       <tuv lang="en">
         <seg>Not fewer than one manual fire alarm box shall be provided in an approved location to initiate a fire alarm signal for fire alarm systems employing automatic fire detectors or waterflow detection devices.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T212112Z">
-        <seg>Au moins un déclencheur manuel d’alarme d'incendie doit être prévu à un endroit approuvé pour déclencher un signal d’alarme incendie dans les systèmes d’alarme d'incendie munis de détecteurs automatiques d’incendie ou de dispositifs de détection du débit d’eau.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T214053Z">
+        <seg>Au moins un déclencheur manuel d’alarme d’incendie doit être prévu à un endroit approuvé pour déclencher un signal d’alarme d’incendie dans les systèmes d’alarme d’incendie munis de détecteurs automatiques d’incendie ou de dispositifs de détection du débit d’eau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38978,13 +38976,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.81: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Portions of Group E occupancies occupied for assembly purposes shall be provided with a fire alarm system as required for the Group E occupancy.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les parties des usages du Groupe E occupées à des fins de réunions doivent être dotées d'un système d'alarme incendie tel qu'exigé pour l'usage du Groupe E.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T214122Z">
+        <seg>Les parties des usages du Groupe E occupées à des fins de réunions doivent être dotées d'un système d'alarme d'incendie tel qu'exigé pour l'usage du Groupe E.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44413,8 +44410,8 @@
       <tuv lang="en">
         <seg>The manual fire alarm box is not required for Group R-2 occupancies unless required by the fire code official to provide a means for fire watch personnel to initiate an alarm during a sprinkler system impairment event.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T212236Z">
-        <seg>Le déclencheur manuel d’alarme d'incendie n’est pas requis dans les usages du groupe R-2, sauf si le responsable de la réglementation en matière d’incendie l’exige afin de fournir au personnel chargé de la surveillance incendie un moyen de déclencher une alarme lors d’une interruption de fonctionnement du système d’extincteurs automatiques.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T214020Z">
+        <seg>Le déclencheur manuel d’alarme d’incendie n’est pas requis dans les usages du groupe R-2, sauf si le responsable de la réglementation en matière d’incendie l’exige afin de fournir au personnel chargé de la surveillance incendie un moyen de déclencher une alarme lors d’une interruption de fonctionnement du système d’extincteurs automatiques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44422,8 +44419,8 @@
       <tuv lang="en">
         <seg>The manual fire alarm box is not required for fire alarm systems dedicated to elevator recall control and supervisory service.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T212217Z">
-        <seg>Le déclencheur manuel d’alarme d'incendie n’est pas requis pour les systèmes d’alarme d'incendie dédiés à la commande de rappel des ascenseurs et au service de surveillance.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T214025Z">
+        <seg>Le déclencheur manuel d’alarme d’incendie n’est pas requis pour les systèmes d’alarme d'incendie dédiés à la commande de rappel des ascenseurs et au service de surveillance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49575,8 +49572,8 @@
       <tuv lang="en">
         <seg>Where other sections of this code allow elimination of fire alarm boxes due to sprinklers, a single fire alarm box shall be installed.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T212135Z">
-        <seg>Lorsque d’autres sections du présent code permettent de supprimer les déclencheurs d’alarme incendie en raison de la présence d’extincteurs automatiques, un seul déclencheur d’alarme d'incendie doit être installé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T214036Z">
+        <seg>Lorsque d’autres sections du présent code permettent de supprimer les déclencheurs d’alarme d’incendie en raison de la présence d’extincteurs automatiques, un seul déclencheur d’alarme d’incendie doit être installé.</seg>
       </tuv>
     </tu>
     <tu>
