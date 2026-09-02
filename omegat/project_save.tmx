@@ -26099,13 +26099,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.854: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Air transfer openings in smoke partitions shall be provided with a smoke damper complying with Section 717.3.2.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures permettant le passage de l'air dans les cloisons coupe-fumée doivent être munies d'un registre de désenfumage conforme à la section 717.3.2.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T023618Z">
+        <seg>Les ouvertures de transfert d’air dans les cloisons pare-fumée doivent être munies d’un registre coupe-fumée conforme à la section 717.3.2.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27325,13 +27324,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.889: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Assemblies shall be continuous without vertical openings, except as permitted by this Section and Section 712.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les assemblages doivent être continus sans ouvertures verticales, sauf dans les cas autorisés par le présent article et l'article 712.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T023707Z">
+        <seg>Les assemblages doivent être continus sans ouvertures verticales, sauf dans les cas autorisés par la présente section et la section 712.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35503,13 +35501,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.843: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In buildings of Type IIB, IIIB or VB construction, the construction supporting the horizontal assembly is not required to be fire-resistance rated at the following:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les bâtiments de construction de type II-B, III-B ou V-B, la construction supportant la séparation horizontale n'est pas tenue d'offrir un degré de résistance au feu dans les cas suivants :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T025556Z">
+        <seg>Dans les bâtiments de type de construction IIB, IIIB ou VB, la construction supportant l’assemblage horizontal n’est pas tenue de présenter une résistance au feu dans les cas suivants :</seg>
       </tuv>
     </tu>
     <tu>
@@ -45891,13 +45888,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.854: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The space around a duct penetrating a smoke partition shall be filled with an approved material to limit the free passage of smoke.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'espace autour d'un conduit pénétrant dans une cloison coupe-fumée doit être rempli d'un matériau approuvé pour limiter le libre passage de la fumée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T023544Z">
+        <seg>L'espace autour d'un conduit pénétrant dans une cloison pare-fumée doit être rempli d'un matériau approuvé pour limiter le libre passage de la fumée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50488,13 +50484,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the installation of a smoke damper will interfere with the operation of a required smoke control system in accordance with Section 909, approved alternative protection shall be utilized.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque l'installation d'un registre de désenfumage entrave le fonctionnement d'un système de contrôle de la fumée exigé selon la section 909, une protection de remplacement approuvée doit être utilisée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T023629Z">
+        <seg>Lorsque l’installation d’un registre coupe-fumée nuit au fonctionnement d’un système de contrôle des fumées requis conformément à la section 909, une protection de remplacement approuvée doit être utilisée.</seg>
       </tuv>
     </tu>
     <tu>
