@@ -21888,13 +21888,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.895: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 903.2.7.1 High-piled storage.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 903.2.7.1 Entreposage en grandes piles.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T184837Z">
+        <seg>&lt;g1&gt;[F] 903.2.7.1 Stockage en hauteur.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26743,13 +26742,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An automatic sprinkler system shall be provided in accordance with the International Fire Code in all buildings of Group M where storage of merchandise is in high-piled or rack storage arrays.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'extincteurs automatiques doit être prévu conformément à l'International Fire Code dans tous les bâtiments du groupe M où l'entreposage de marchandises se fait en piles hautes ou en rayonnages.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T184840Z">
+        <seg>Un système d’extincteurs automatiques doit être prévu conformément à l’International Fire Code dans tous les bâtiments du groupe M où des marchandises sont entreposées en hauteur ou sur des rayonnages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26772,13 +26770,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.836: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An automatic sprinkler system shall be provided throughout a Group M fire area where the area used for the display and sale of upholstered furniture or mattresses exceeds 5,000 square feet (464 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'extincteurs automatiques doit être installé dans toute la zone d'incendie du Groupe M où la surface utilisée pour la présentation et la vente de meubles rembourrés ou de matelas dépasse 5 000 pieds carrés (464 m2).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T185941Z">
+        <seg>Un système d’extincteurs automatiques doit être prévu dans toute aire d’incendie du groupe M où la superficie utilisée pour l’exposition et la vente de meubles rembourrés ou de matelas est supérieure à 5 000 pieds carrés (464 m2).</seg>
       </tuv>
     </tu>
     <tu>
