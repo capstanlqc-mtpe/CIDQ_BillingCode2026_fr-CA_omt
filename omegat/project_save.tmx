@@ -581,13 +581,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Buildings having two or more stories above grade plane, including basements, with a fire area containing a repair garage exceeding 10,000 square feet (929 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Bâtiments de deux étages ou plus au-dessus du plan de référence, y compris les sous-sols, avec une zone d'incendie contenant un garage de réparation de plus de 10 000 pieds carrés (929 m2).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T194057Z">
+        <seg>1.&lt;x1/&gt; Bâtiments comportant deux étages ou plus au-dessus du plan de référence, y compris les sous-sols, dont une aire d’incendie contenant un garage de réparation a une superficie supérieure à 10 000 pieds carrés (929 m2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1254,13 +1253,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.857: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Where the fire area of the enclosed parking garage in accordance with Section 406.6 exceeds 12,000 square feet (1115 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Lorsque le secteur coupe-feu du parc de stationnement fermé selon la section 406.6 excède 12 000 pi2 [1115 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T194904Z">
+        <seg>1.&lt;x1/&gt; Lorsque la superficie de la zone d’incendie du garage de stationnement fermé, conformément à la section 406.6, est supérieure à 12 000 pi2 [1115 m2].</seg>
       </tuv>
     </tu>
     <tu>
@@ -2001,13 +1999,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Buildings not more than one story above grade plane, with a fire area containing a repair garage exceeding 12,000 square feet (1115 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Bâtiments d'un seul étage au-dessus du plan de référence, dont la zone d'incendie contenant un garage de réparation excède 12 000 pieds carrés (1 115 m2).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T194224Z">
+        <seg>2.&lt;x1/&gt; Bâtiments comportant au plus un étage au-dessus du plan de référence, dont une aire d’incendie contenant un garage de réparation a une superficie supérieure à 12 000 pieds carrés (1 115 m2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3735,13 +3732,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>4.&lt;x1/&gt;A Group S-1 fire area used for the repair of commercial motor vehicles where the fire area exceeds 5,000 square feet (464 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>4.&lt;x1/&gt; Un secteur coupe-feu du Groupe S-1 utilisé pour la réparation de véhicules automobiles commerciaux lorsque le secteur coupe-feu excède 5000 pi2 [464 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T194308Z">
+        <seg>4.&lt;x1/&gt; Une zone d’incendie du groupe S-1 utilisée pour la réparation de véhicules automobiles commerciaux, lorsque la superficie de l’aire d’incendie est supérieure à 5000 pi2 [464 m2].</seg>
       </tuv>
     </tu>
     <tu>
@@ -21699,13 +21695,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.89: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 903.2.10 Group S-2 parking garages.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 903.2.10 Parcs de stationnement, Groupe S-2.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T194507Z">
+        <seg>&lt;g1&gt;[F] 903.2.10 Garages de stationnement, Groupe S-2.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21975,13 +21970,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.895: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 903.2.9.2 Bulk storage of tires.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 903.2.9.2 Entreposage en vrac de pneus.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T194337Z">
+        <seg>&lt;g1&gt;[F] 903.2.9.2 Entreposage de pneus en vrac.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21995,13 +21989,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.883: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 903.2.9.4 Group S-1 upholstered furniture and mattresses.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 903.2.9.4 Mobilier rembourré et matelas du groupe S-1.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T194410Z">
+        <seg>&lt;g1&gt;[F] 903.2.9.4 Meubles rembourrés et matelas du groupe S-1.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26786,13 +26779,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.843: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An automatic sprinkler system shall be provided throughout a Group S-1 fire area where the area used for the storage of upholstered furniture or mattresses exceeds 2,500 square feet (232 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'extincteurs automatiques doit être prévu dans toute la zone d'incendie du groupe S-1 lorsque la zone utilisée pour l'entreposage de meubles rembourrés ou de matelas dépasse 2500 pi2 [232 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T194441Z">
+        <seg>Un système d’extincteurs automatiques doit être prévu dans toute aire d’incendie du groupe S-1 où la superficie utilisée pour l’entreposage de meubles rembourrés ou de matelas est supérieure à 2500 pi2 [232 m2].</seg>
       </tuv>
     </tu>
     <tu>
@@ -26825,13 +26817,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An automatic sprinkler system shall be provided throughout all buildings used as repair garages in accordance with Section 406, as shown:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'extincteurs automatiques doit être installé dans tous les bâtiments utilisés comme garages de réparation selon la section 406, comme indiqué :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T194037Z">
+        <seg>Un système d’extincteurs automatiques doit être prévu dans tous les bâtiments utilisés comme garages de réparation conformément à la section 406, comme suit :</seg>
       </tuv>
     </tu>
     <tu>
@@ -28302,13 +28293,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.847: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Buildings and structures where the area for the storage of tires exceeds 20,000 cubic feet (566 m3) shall be equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les bâtiments et les structures où l'aire d'entreposage des pneus pneus dépasse 20 000 pi3 (566 m3) doivent être entièrement équipés d'un système d'extincteurs automatiques selon la section 903.3.1.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T194347Z">
+        <seg>Les bâtiments et constructions où la superficie consacrée à l’entreposage de pneus dépasse 20 000 pieds cubes (566 m³) doivent être entièrement équipés d’un système d’extincteurs automatiques conformément à la section 903.3.1.1.</seg>
       </tuv>
     </tu>
     <tu>
