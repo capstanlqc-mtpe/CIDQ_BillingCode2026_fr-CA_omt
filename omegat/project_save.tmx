@@ -13590,13 +13590,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.902: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;712.1.10 Parking garages.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;712.1.10 Parcs de stationnement.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032414Z">
+        <seg>&lt;g1&gt;712.1.10 Garages de stationnement.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14119,13 +14118,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.906: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;802.7 Foam plastics.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;802.7 Mousse plastique.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T033058Z">
+        <seg>&lt;g1&gt;802.7 Mousses plastiques.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21519,13 +21517,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.89: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 802.3 Decorative materials and trim.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 802.3 Matériaux décoratifs et garnitures.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032936Z">
+        <seg>&lt;g1&gt;[F] 802.3 Matériaux décoratifs et éléments de finition.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25622,13 +25619,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Access doors shall be permitted in ceilings of fire-resistance-rated floor/ceiling and roof/ceiling assemblies, provided that such doors are tested in accordance with ASTM E119 or UL 263 as horizontal assemblies and labeled by an approved agency for such purpose.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes d'accès sont autorisées dans les plafonds des ensembles plancher-plafond et toit-plafond ayant un degré de résistance au feu, à condition que ces portes soient testées conformément à la norme ASTM E119 ou UL 263 en tant qu'ensembles horizontaux et étiquetées par un organisme agréé à cette fin.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032741Z">
+        <seg>Les trappes d’accès sont autorisées dans les plafonds des assemblages de plancher/plafond et de couverture/plafond présentant une résistance au feu, à condition que ces trappes soient soumises à des essais conformément à la norme ASTM E119 ou UL 263 en tant qu’assemblages horizontaux et qu’elles portent une étiquette d’une agence approuvée à cette fin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27270,13 +27266,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Approved vertical openings for masonry chimneys shall be permitted where the annular space is fireblocked at each floor level in accordance with Section 718.2.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures verticales approuvées pour les cheminées en maçonnerie sont autorisées lorsque l'espace annulaire est protégé contre le feu à chaque niveau du sol selon la section 718.2.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032159Z">
+        <seg>Les ouvertures verticales approuvées pour les cheminées en maçonnerie sont autorisées lorsque l'espace annulaire est protégé contre le feu à chaque niveau de plancher selon la section 718.2.5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27923,13 +27918,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.836: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Balconies or stories within Groups A-1, A-4 and A-5 and mezzanines that comply with Section 505 shall not be considered a story as it applies to this section</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les balcons ou les étages des groupes A-1, A-4 et A-5 et les mezzanines qui se conforment à la section 505 ne sont pas considérés comme un étage aux fins de la présente section</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032134Z">
+        <seg>Les balcons ou les étages des groupes A-1, A-4 et A-5 et les mezzanines qui sont conformes à la section 505 ne sont pas considérés comme un étage aux fins de la présente section</seg>
       </tuv>
     </tu>
     <tu>
@@ -30171,13 +30165,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Decorative materials and trim shall be restricted by combustibility, fire performance or flame propagation performance criteria in accordance with Section 806.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les matériaux décoratifs et les moulures doivent être limités par des critères de combustibilité, de comportement au feu ou de propagation de la flamme selon la section 806.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032930Z">
+        <seg>Les matériaux décoratifs et les éléments de finition doivent être assujettis à des critères de combustibilité, de performance au feu ou de performance en matière de propagation des flammes, conformément à la section 806.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30393,13 +30386,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Does not penetrate a horizontal assembly that separates fire areas or smoke barriers that separate smoke compartments.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ne pénètre pas dans un assemblage horizontal qui sépare les zones d'incendie ou les barrières anti-fumée qui séparent les compartiments de fumée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032312Z">
+        <seg>Ne pénètre pas dans un ensemble horizontal qui sépare les zones d'incendie ou les barrières pare-fumée qui séparent les compartiments pare-fumée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32764,13 +32756,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.892: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Foam plastics shall not be used as interior finish except as provided in Section 803.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les mousses plastiques ne doivent pas être utilisées comme finition intérieure, sauf dans les cas prévus à l'article 803.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T033109Z">
+        <seg>Les mousses plastiques ne doivent pas être utilisées comme finition intérieure, sauf dans les cas prévus à la section 803.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32962,13 +32953,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>For buildings in flood hazard areas as established in Section 1612.3, interior finishes, trim and decorative materials below the elevation required by Section 1612 shall be flood-damage-resistant materials.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les bâtiments situés dans des zones à risque d'inondation, comme établi à l'article 1612.3, les finitions intérieures, les garnitures et les matériaux décoratifs situés sous les élévations exigées à l'article 1612 doivent être des matériaux résistants aux dommages causés par les inondations.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032956Z">
+        <seg>Pour les bâtiments situés dans des zones à risque d’inondation établies conformément à la section 1612.3, les matériaux de finition intérieure, les éléments de finition et les matériaux décoratifs situés sous l’élévation exigée par la section 1612 doivent être des matériaux résistants aux dommages causés par les inondations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34447,13 +34437,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.859: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Horizontal fire door assemblies used to protect openings in fire-resistance-rated horizontal assemblies shall be tested in accordance with NFPA 288, and shall achieve a fire-resistance rating not less than the assembly being penetrated.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes coupe-feu horizontales utilisées pour protéger les ouvertures dans les ensembles horizontaux résistants au feu doivent être testées conformément à la norme NFPA 288 et doivent offrir un degré de résistance au feu égal ou supérieur à celui de l'ensemble traversé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032641Z">
+        <seg>Les assemblages horizontaux de portes coupe-feu utilisés pour protéger les ouvertures dans les assemblages horizontaux présentant une résistance au feu doivent être soumis à des essais conformément à la norme NFPA 288 et doivent atteindre une résistance au feu au moins égale à celle de l’assemblage traversé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35861,13 +35850,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.879: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>In other than Groups I-2 and I-3, a vertical opening that is not used as one of the applications specified in this Section shall be permitted if the opening complies with all of the following items:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les usages autres que ceux des groupes I-2 et I-3, une ouverture verticale qui n'est pas utilisée pour l'une des applications spécifiées dans la présente section est autorisée si l'ouverture est conforme à tous les éléments suivants :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032227Z">
+        <seg>Dans les groupes autres que I-2 et I-3, une ouverture verticale qui n’est pas utilisée pour l’une des applications spécifiées dans la présente section est autorisée si elle satisfait à toutes les exigences suivantes :</seg>
       </tuv>
     </tu>
     <tu>
@@ -36441,13 +36429,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.781: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Is not open to a corridor on non-sprinklered floors.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>N'est pas ouverte sur un corridor sur des étages non équipés de gicleurs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032342Z">
+        <seg>N'est pas ouverte sur un corridor sur des étages non équipés d'extincteurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40810,13 +40797,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Skylights and other penetrations through a fire-resistance-rated roof deck or slab are permitted to be unprotected, provided that the structural integrity of the fire-resistance-rated roof assembly is maintained.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les puits de lumière et autres pénétrations à travers un platelage ou une dalle de toit offrant une résistance au feu peuvent ne pas être protégés, à condition que l'intégrité structurelle de l'assemblage de toit offrant une résistance au feu soit maintenue.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032805Z">
+        <seg>Les puits de lumière et autres traversées d’un platelage ou d’une dalle de couverture présentant une résistance au feu sont autorisés à ne pas être protégés, à condition que l’intégrité structurale de l’assemblage de couverture présentant une résistance au feu soit maintenue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44310,13 +44296,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.873: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The label shall be permanently affixed and shall specify the manufacturer, the test standard and the fire-resistance rating.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'étiquette doit être apposée de façon permanente et doit préciser le fabricant, la norme d'essai et le degré de résistance au feu.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032708Z">
+        <seg>L’étiquette doit être apposée de façon permanente et doit préciser le fabricant, la norme d’essai et la résistance au feu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45183,13 +45168,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The provisions of Section 803 shall limit the allowable fire performance and smoke development of interior wall and ceiling finish materials based on occupancy classification.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les dispositions de l'article 803 limitent le comportement au feu et le dégagement de fumée admissibles des matériaux de revêtement de murs et de plafonds intérieurs en fonction de la classification d'usage.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032850Z">
+        <seg>Les dispositions de la section 803 doivent limiter la performance au feu et le développement de fumée admissibles des matériaux de finition intérieure des murs et des plafonds en fonction de la classification des usages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47929,33 +47913,30 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.808: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Vertical openings containing exit access stairways or ramps in accordance with Section 1019 shall be permitted.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures verticales contenant des escaliers ou des rampes d'accès à l'issue selon la section 1019 sont autorisées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032604Z">
+        <seg>Les ouvertures verticales contenant des escaliers ou des rampes d’accès à l’issue conformes à la section 1019 sont autorisées.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Vertical openings for automobile ramps in parking garages shall be permitted where constructed in accordance with Sections 406.5 and 406.6.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures verticales pour les rampes d'accès pour automobiles dans les parcs de stationnement sont autorisées lorsqu'elles sont construites selon les sections 406.5 et 406.6.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032440Z">
+        <seg>Les ouvertures verticales pour les rampes d'accès pour automobiles dans les garages de stationnement sont autorisées lorsqu'elles sont construites selon les sections 406.5 et 406.6.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.805: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Vertical openings for elevator hoistways in parking garages that serve only the parking garage, and complying with Sections 406.5 and 406.6, respectively, shall be permitted.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures verticales pour les cages d'ascenseur dans les parcs de stationnement qui desservent uniquement le parc de stationnement et qui sont conformes aux articles 406.5 et 406.6, respectivement, peuvent être autorisées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032459Z">
+        <seg>Les ouvertures verticales destinées aux gaines d’ascenseur dans les garages de stationnement qui desservent uniquement le garage de stationnement et qui sont conformes respectivement aux sections 406.5 et 406.6 sont autorisées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47969,13 +47950,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Vertical openings for mechanical exhaust or supply duct systems in parking garages complying with Sections 406.5 and 406.6, respectively, shall be permitted to be unenclosed where such duct system is contained within and serves only the parking garage.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures verticales pour les systèmes de conduits d'évacuation ou d'alimentation mécaniques dans les parcs de stationnement conformes aux articles 406.5 et 406.6, respectivement, peuvent ne pas être fermées lorsque ce système de conduits est contenu à l'intérieur et dessert uniquement le parc de stationnement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032523Z">
+        <seg>Les ouvertures verticales destinées aux systèmes de gaines d’extraction ou d’alimentation mécaniques dans les garages de stationnement conformes respectivement aux sections 406.5 et 406.6 peuvent être non encloisonnées lorsque ces systèmes de gaines sont entièrement situés dans le garage de stationnement et desservent uniquement celui-ci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47988,13 +47968,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.874: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Vertical openings shall be permitted where allowed by other Sections of this code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures verticales sont autorisées lorsque d'autres articles du présent code le permettent.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T032828Z">
+        <seg>Les ouvertures verticales sont autorisées lorsque d'autres sections du présent code le permettent.</seg>
       </tuv>
     </tu>
     <tu>
