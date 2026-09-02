@@ -21761,8 +21761,8 @@
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 903.2.11.2 Rubbish and linen chutes.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T201824Z">
-        <seg>&lt;g1&gt;[F] 903.2.11.2 Chutes à ordures et à linge.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T202349Z">
+        <seg>&lt;g1&gt;[F] 903.2.11.2 Vide-ordures et vide-linge.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25612,13 +25612,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.797: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Access to sprinklers in chutes shall be provided for servicing.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un accès aux gicleurs dans les vide-ordures doit être prévu pour l'entretien.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T202803Z">
+        <seg>Un accès aux extincteurs automatiques installés dans les vide-ordures doit être prévu pour permettre leur entretien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26654,13 +26653,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.807: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An automatic sprinkler system shall be installed at the top of rubbish and linen chutes and in their terminal rooms.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'extincteurs automatiques doit être installé au sommet des vide-ordures et des vide-linge et dans leurs salles terminales.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T202544Z">
+        <seg>Un système d’extincteurs automatiques doit être installé au sommet des vide-ordures et des vide-linge ainsi que dans leurs locaux terminaux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29055,13 +29053,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Chutes shall have additional sprinkler heads installed at alternate floors and at the lowest intake.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les vide-ordures doivent être équipés de têtes de gicleurs supplémentaires installées à un étage sur deux et à la prise d'eau la plus basse.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T202554Z">
+        <seg>Des têtes d’extincteurs automatiques supplémentaires doivent être installées dans les vide-ordures et les vide-linge à chaque étage sur deux et au niveau de la prise la plus basse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41803,13 +41800,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.844: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Such sprinklers shall be installed at alternate floors, beginning with the second level below the last intake and ending with the floor above the discharge.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ces gicleurs doivent être installés à des étages alternés, en commençant par le deuxième niveau sous la dernière prise d'eau et en terminant par l'étage au-dessus de l'évacuation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T202713Z">
+        <seg>Ces extincteurs automatiques doivent être installés à chaque étage sur deux, en commençant par le deuxième niveau sous la dernière prise et en terminant par l’étage situé au-dessus du niveau d’évacuation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48668,13 +48664,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a rubbish chute extends through a building more than one floor below the lowest intake, the extension shall have sprinklers installed that are recessed from the drop area of the chute and protected from freezing in accordance with Section 903.3.1.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un vide-ordures traverse un bâtiment sur plus d'un étage en dessous de la prise d'air la plus basse, le prolongement doit être équipé de gicleurs encastrés à l'écart de la zone de chute du vide-ordures et protégés contre le gel selon la section 903.3.1.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T202644Z">
+        <seg>Lorsqu'un vide-ordures traverse un bâtiment sur plus d’un étage sous la prise la plus basse, le prolongement doit être muni d’extincteurs automatiques encastrés de manière à ne pas se trouver dans la zone de chute du vide-ordures et protégés contre le gel conformément à la section 903.3.1.1.</seg>
       </tuv>
     </tu>
     <tu>
