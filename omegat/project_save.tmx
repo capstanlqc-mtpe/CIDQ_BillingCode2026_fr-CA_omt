@@ -22028,13 +22028,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.791: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 907.2 Where required—new buildings and structures.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 907.2 Endroits où ils sont exigés — nouveaux bâtiments et nouvelles structures.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T212021Z">
+        <seg>&lt;g1&gt;[F] 907.2 Lorsque requis — bâtiments et constructions neufs.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
