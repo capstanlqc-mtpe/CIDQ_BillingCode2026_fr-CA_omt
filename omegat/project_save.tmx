@@ -3399,13 +3399,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;The combined area of all Group S-1 fire areas on all floors, including any mezzanines, exceeds 24,000 square feet (2230 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; La superficie combinée de toutes les zones d'incendie du Groupe S-1 à tous les étages, y compris les mezzanines, excède 24 000 pi2 [2230 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T190859Z">
+        <seg>3.&lt;x1/&gt; La superficie combinée de toutes les aires d’incendie du groupe S-1 à tous les étages, y compris les mezzanines, est supérieure à 24 000 pi2 [2230 m2].</seg>
       </tuv>
     </tu>
     <tu>
@@ -3746,13 +3745,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.847: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>4.&lt;x1/&gt;A Group S-1 fire area used for the storage of commercial motor vehicles where the fire area exceeds 5,000 square feet (464 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>4.&lt;x1/&gt; Un secteur coupe-feu du groupe S-1 utilisé pour l'entreposage de véhicules automobiles commerciaux lorsque le secteur coupe-feu excède 5000 pi2 [464 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T192029Z">
+        <seg>4.&lt;x1/&gt; Une zone d’incendie du groupe S-1 utilisée pour l’entreposage de véhicules automobiles commerciaux, lorsque la superficie de l’aire d’incendie est supérieure à 5000 pi2 [464 m2].</seg>
       </tuv>
     </tu>
     <tu>
