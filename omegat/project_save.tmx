@@ -13474,23 +13474,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.854: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;711.2.4.2 Separating fire areas.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;711.2.4.2 Séparation des secteurs coupe-feu.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T025908Z">
+        <seg>&lt;g1&gt;711.2.4.2 Séparation des aires d’incendie.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.844: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;711.2.4.3 Dwelling units and sleeping units.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;711.2.4.3 Unités d'habitation et unités de couchage.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T025943Z">
+        <seg>&lt;g1&gt;711.2.4.3 Logements et unités de couchage.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34363,33 +34361,30 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.875: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Horizontal assemblies at smoke barriers constructed in accordance with Section 709.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ensembles horizontaux au niveau des barrières anti-fumée construites selon la section 709.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T025727Z">
+        <seg>Les assemblages horizontaux au niveau des barrières anti-fumée construites selon la section 709.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Horizontal assemblies at the separations of dwelling units and sleeping units as required by Section 420.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ensembles horizontaux aux séparations des logements et des unités de couchage, comme l'exige l'article 420.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T025719Z">
+        <seg>Les assemblages horizontaux aux séparations des logements et des unités de couchage, comme l'exige l'article 420.3.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.861: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Horizontal assemblies at the separations of incidental uses as specified by Table 509.1 provided that the required fire-resistance rating does not exceed 1 hour.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ensembles horizontaux aux séparations d'usages accessoires comme spécifié dans le tableau 509.1, à condition que le degré de résistance au feu requis ne dépasse pas une (1) heure.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T025603Z">
+        <seg>Les assemblages horizontaux aux endroits où des usages accessoires sont séparés, comme le précise le tableau 509.1, à condition que la résistance au feu requise ne dépasse pas 1 heure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43710,13 +43705,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.886: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The fire-resistance rating of horizontal assemblies shall comply with Sections 711.2.4.1 through 711.2.4.6 but shall be not less than that required by the building type of construction.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le degré de résistance au feu des ensembles horizontaux doit être conforme aux sections 711.2.4.1 à 711.2.4.6, mais il ne doit pas être inférieur à celui qui est exigé selon le type de construction du bâtiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T025745Z">
+        <seg>Le degré de résistance au feu des assemblages horizontaux doit être conforme aux sections 711.2.4.1 à 711.2.4.6, mais il ne doit pas être inférieur à celui qui est exigé selon le type de construction du bâtiment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50444,13 +50438,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the horizontal assembly separates a single occupancy into different fire areas, the assembly shall have a fire-resistance rating of not less than that required by Section 707.3.10.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque l'ensemble horizontal sépare un seul usage en différents secteurs coupe-feu, l'ensemble doit avoir un degré de résistance au feu au moins égal à celui qui est exigé à l'article 707.3.10.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T025918Z">
+        <seg>Lorsque l’assemblage horizontal sépare un même usage en différentes aires d’incendie, l’assemblage doit présenter une résistance au feu d’au moins celle exigée par la section 707.3.10.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50464,13 +50457,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.854: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the horizontal assembly separates mixed occupancies, the assembly shall have a fire-resistance rating of not less than that required by Section 508.4 based on the occupancies being separated.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque l'assemblage horizontal sépare des usages mixtes, l'assemblage doit avoir un degré de résistance au feu au moins égal à celui qui est exigé à l'article 508.4 en fonction de la séparation des usages.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T025841Z">
+        <seg>Lorsque l’assemblage horizontal sépare des usages mixtes, l’assemblage doit présenter une résistance au feu d’au moins celle exigée par la section 508.4, selon les usages séparés.</seg>
       </tuv>
     </tu>
     <tu>
