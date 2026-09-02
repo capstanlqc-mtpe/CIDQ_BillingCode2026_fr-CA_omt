@@ -22057,13 +22057,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.806: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 907.2.1.2 Emergency voice/alarm communication captions.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 907.2.1.2 Sous-titrage de la communication vocale et d'alarme d'urgence.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T220024Z">
+        <seg>&lt;g1&gt;[F] 907.2.1.2 Légendes du système de communication vocale et d’alarme d’urgence.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24879,13 +24878,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A manual fire alarm system, which activates the occupant notification system in accordance with Section 907.5, shall be installed in Group B occupancies where one of the following conditions exists:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'alarme incendie manuel, qui active le système d'avertissement des occupants selon la section 907.5, doit être installé dans les usages du groupe B lorsque l'une des conditions suivantes existe :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T222603Z">
+        <seg>Un système d’alarme d’incendie manuel, qui active le système de notification des occupants conformément à la section 907.5, doit être installé dans les usages du groupe B lorsque l’une des conditions suivantes est présente :</seg>
       </tuv>
     </tu>
     <tu>
@@ -25989,13 +25987,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.812: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Activation of the fire alarm in Group A occupancies with an occupant load of 1,000 or more shall initiate a signal using an emergency voice/alarm communications system in accordance with Section 907.5.2.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'activation de l'alarme incendie dans les usages du Groupe A ayant une charge d'occupants de 1 000 ou plus doit déclencher un signal à l'aide d'un système de communication vocale et d'alarme d'urgence selon la section 907.5.2.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T215911Z">
+        <seg>L'activation de l'aL’activation de l’alarme d’incendie dans les usages du groupe A ayant une charge d’occupants de 1 000 personnes ou plus doit déclencher un signal au moyen d’un système de communication vocale et d’alarme d’urgence conforme à la section 907.5.2.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41197,13 +41194,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.805: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Stadiums, arenas and grandstands required to caption audible public announcements shall be in accordance with Section 907.5.2.2.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les stades, les arénas et les tribunes devant sous-titrer les annonces publiques audibles doivent être conformes à la section 907.5.2.2.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T220619Z">
+        <seg>Les stades, les arénas et les gradins pour lesquels il est exigé que les annonces publiques audibles soient sous-titrées doivent être conformes à la section 907.5.2.2.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48988,13 +48984,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.789: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where approved, the prerecorded announcement is allowed to be manually deactivated for a period of time, not to exceed 3 minutes, for the sole purpose of allowing a live voice announcement from an approved, constantly attended location.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque cela est approuvé, l'annonce préenregistrée peut être désactivée manuellement pendant une période n'excédant pas 3 minutes, dans le seul but de permettre une annonce vocale en direct à partir d'un emplacement approuvé et constamment occupé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T215944Z">
+        <seg>Lorsque cela est approuvé, l’annonce préenregistrée peut être désactivée manuellement pendant une période d’au plus 3 minutes, uniquement afin de permettre la diffusion d’une annonce en direct à partir d’un endroit approuvé constamment surveillé.</seg>
       </tuv>
     </tu>
     <tu>
