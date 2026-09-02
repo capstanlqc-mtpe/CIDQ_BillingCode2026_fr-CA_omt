@@ -2914,13 +2914,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.812: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2&lt;x1/&gt;.An automatic sprinkler system is not required where Group I-4 day care facilities are at the level of exit discharge and where every room where care is provided has not fewer than one exterior exit door.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2&lt;x1/&gt;. Un système d'extincteurs automatiques n'est pas requis lorsque les garderies du groupe I-4 sont au niveau de l'issue d'évacuation et lorsque chaque pièce où des soins sont dispensés a au moins une porte d'issue extérieure.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T175306Z">
+        <seg>2&lt;x1/&gt;. Un système d’extincteurs automatiques n’est pas requis lorsque les établissements de soins de jour du groupe I-4 sont situés au niveau de l’issue d’évacuation menant à l’extérieur et que chaque pièce où des soins sont dispensés comporte au moins une porte d’issue extérieure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3263,13 +3262,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.812: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;In buildings where Group I-4 day care is provided on levels other than the level of exit discharge, an automatic sprinkler system in accordance with Section 903.3.1.1 shall be installed on the entire floor where care is provided, all floors between the level of care and the level of exit discharge, and all floors below the level of exit discharge other than areas classified as an open parking garage.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Dans les bâtiments où des services de garde du groupe I-4 sont fournis à des niveaux autres que le niveau de l'issue d'évacuation, un système d'extincteurs automatiques selon la section 903.3.1.1 doit être installé sur l'ensemble de l'étage où les soins sont fournis, sur tous les étages entre le niveau de l'étage où les soins sont fournis et le niveau de l'issue d'évacuation, et sur tous les étages en dessous du niveau de l'issue d'évacuation, à l'exception des zones classées comme un parc de stationnement ouvert.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T180821Z">
+        <seg>3.&lt;x1/&gt; Dans les bâtiments où des services de soins de jour du groupe I-4 sont dispensés à des niveaux autres que le niveau de l’issue d’évacuation menant à l’extérieur, un système d’extincteurs automatiques conforme à la section 903.3.1.1 doit être installé dans tout l’étage où les soins sont dispensés, dans tous les étages situés entre le niveau où les soins sont dispensés et le niveau d’évacuation menant à l’extérieur, ainsi que dans tous les étages situés sous le niveau d’évacuation menant à l’extérieur, à l’exception des aires classées comme garages de stationnement ouverts.</seg>
       </tuv>
     </tu>
     <tu>
