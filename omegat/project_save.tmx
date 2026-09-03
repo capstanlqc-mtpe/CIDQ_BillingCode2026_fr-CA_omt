@@ -32840,23 +32840,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>For rows of seating served by aisles or doorways at both ends, there shall be not more than 100 seats per row.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les rangées de sièges desservies par des allées ou des ouvertures de porte aux deux extrémités, il ne doit pas y avoir plus de 100 sièges par rangée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T154336Z">
+        <seg>Pour les rangées de sièges desservies par des allées ou des baies de porte aux deux extrémités, le nombre de sièges par rangée ne doit pas être supérieur à 100.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>For rows of seating served by an aisle or doorway at only one end of the row, the minimum clear width of 12 inches (305 mm) between rows shall be increased by 0.6 inch (15.2 mm) for every additional seat beyond seven seats where seats have backrests or beyond 10 where seats are without backrests.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les rangées de sièges desservies par une allée ou une ouverture de porte à une seule extrémité de la rangée, la largeur libre minimale de 12 po [305 mm] entre les rangées doit être augmentée de 0,6 po [15,2 mm] pour chaque siège supplémentaire au-delà de sept sièges lorsque les sièges ont des dossiers ou au-delà de 10 sièges lorsque les sièges sont sans dossier.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T154930Z">
+        <seg>Pour les rangées de sièges desservies par une allée ou une baie de porte à une seule extrémité de la rangée, la largeur libre minimale de 12 po (305 mm) entre les rangées doit être augmentée de 0,6 po (15,2 mm) pour chaque siège supplémentaire au-delà de sept sièges lorsque les sièges sont munis de dossiers, ou au-delà de 10 sièges lorsque les sièges sont dépourvus de dossiers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32887,13 +32885,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.779: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>For smoke-protected or open-air assembly seating, the row length limits for a 12-inch-wide (305 mm) aisle accessway, beyond which the aisle accessway minimum clear width shall be increased, are in Table 1030.13.2.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les SIÈGES de rassemblement protégés contre la fumée ou en plein air, les limites de longueur de rangée pour un passage d'accès d'allée de 12 po [305 mm] de large, au-delà desquelles la largeur libre minimale du passage d'accès d'allée doit être augmentée, sont indiquées au tableau 1030.13.2.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T154920Z">
+        <seg>Pour les sièges d’assemblée protégés contre la fumée ou en plein air, les limites de longueur des rangées pour une voie d’accès à une allée de 12 po (305 mm) de largeur, au-delà desquelles la largeur libre minimale de la voie d’accès à une allée doit être augmentée, sont indiquées au tableau 1030.13.2.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44160,23 +44157,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The minimum clear width is not required to exceed 22 inches (559 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il n'est pas exigé que la largeur libre minimale dépasse 22 po [559 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T154408Z">
+        <seg>La largeur libre minimale n’est pas tenue d’être supérieure à 22 po (559 mm).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The minimum clear width of 12 inches (305 mm) between rows shall be increased by 0.3 inch (7.6 mm) for every additional seat beyond 14 seats where seats have backrests or beyond 21 where seats are without backrests.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La largeur libre minimale de 12 po [305 mm] entre les rangées doit être augmentée de 0,3 po [7,6 mm] pour chaque siège supplémentaire au-delà de 14 sièges lorsque les sièges ont des dossiers ou au-delà de 21 sièges lorsque les sièges sont sans dossier.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T154343Z">
+        <seg>La largeur libre minimale de 12 po (305 mm) entre les rangées doit être augmentée de 0,3 po (7,6 mm) pour chaque siège supplémentaire au-delà de 14 sièges lorsque les sièges sont munis de dossiers, ou au-delà de 21 sièges lorsque les sièges sont dépourvus de dossiers.</seg>
       </tuv>
     </tu>
     <tu>
