@@ -1916,13 +1916,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;ASTM E2072, except that the charging source shall be 1 footcandle (11 lux) of fluorescent illumination for 60 minutes, and the minimum luminance shall be 30 milicandelas per square meter at 10 minutes and 5 milicandelas per square meter after 90 minutes.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; ASTM E2072, sauf que la source de charge doit être de 1 pied-bougie [11 lux] d'éclairage fluorescent pendant 60 minutes, et la luminance minimale doit être de 30 milicandelas par mètre carré à 10 minutes et de 5 milicandelas par mètre carré après 90 minutes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061039Z">
+        <seg>2.&lt;x1/&gt; ASTM E2072, sauf que la source de charge doit être un éclairage fluorescent de 1 pied-bougie (11 lux) pendant 60 minutes, et que la luminance minimale doit être de 30 millicandelas par mètre carré après 10 minutes et de 5 millicandelas par mètre carré après 90 minutes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6607,13 +6606,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.898: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1025.2.4.1 Floor-mounted demarcation lines.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1025.2.4.1 Lignes de démarcation au sol.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060435Z">
+        <seg>&lt;g1&gt;1025.2.4.1 Lignes de démarcation au sol.&lt;/g1&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -6727,13 +6725,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1027.2 Use in a means of egress.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1027.2 Utilisation dans un moyen d'évacuation.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061136Z">
+        <seg>&lt;g1&gt;1027.2 Utilisation dans le cadre d'un moyen d'évacuation.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16924,13 +16921,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.854: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;EXTERIOR EXIT STAIRWAYS AND RAMPS&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;ESCALIERS ET RAMPES DE SORTIE EXTÉRIEURS&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061109Z">
+        <seg>&lt;g1&gt;ESCALIERS ET RAMPES D'ISSUE EXTÉRIEURS&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27611,13 +27607,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.863: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At the top or bottom of the stairs, demarcation lines shall drop vertically to the floor within 2 inches (51 mm) of the step or landing edge.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>En haut ou en bas de l'escalier, les lignes de démarcation doivent descendre verticalement jusqu'au plancher à moins de 2 po [51 mm] du bord de la marche ou du palier.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060550Z">
+        <seg>En haut ou en bas de l'escalier, les lignes de démarcation doivent descendre verticalement jusqu'au plancher à moins de 2 po (51 mm) du bord de la marche ou du palier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30001,23 +29996,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.807: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Demarcation lines on walls shall transition vertically to the floor and then extend across the floor where a line on the floor is the only practical method of outlining the path.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les lignes de démarcation sur les murs doivent faire la transition verticalement vers le plancher, puis se prolonger sur le plancher lorsqu'une ligne sur le plancher est la seule méthode pratique pour délimiter le chemin.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060610Z">
+        <seg>Les lignes de démarcation sur les murs doivent passer verticalement au plancher, puis se prolonger sur le plancher lorsque l’utilisation d’une ligne sur le plancher constitue le seul moyen pratique de délimiter le parcours.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.79: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Demarcation lines shall not extend in front of exit discharge doors that lead out of an exit and through which occupants must travel to complete the exit path.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les lignes de démarcation ne doivent pas s'étendre devant les portes d'issue d'évacuation qui mènent à l'extérieur d'une issue et par lesquelles les occupants doivent passer pour terminer le chemin d'évacuation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060520Z">
+        <seg>Les lignes de démarcation ne doivent pas se prolonger devant les portes d’issue au niveau de l’issue qui donnent vers l’extérieur d’une issue et que les occupants doivent franchir pour compléter le parcours de l’issue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30240,13 +30233,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Door hardware shall be marked with not less than 16 square inches (10323 mm2) of luminous material.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La quincaillerie de porte doit être marquée avec au moins 16 pouces carrés [10 323 mm2] de matériau luminescent.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060900Z">
+        <seg>La quincaillerie de porte doit être marquée avec au moins 16 pouces carrés (10 323 mm2) de matériau luminescent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32014,23 +32006,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exterior exit stairways and ramps serving as an element of a required means of egress shall be open on not less than one side, except for required structural columns, beams, handrails and guards.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les escaliers et rampes d'issue extérieurs servant d'élément d'un moyen d'évacuation exigé doivent être ouverts sur au moins un côté, à l'exception des colonnes, poutres, rampes et garde-corps structurels exigés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061233Z">
+        <seg>Les escaliers et les rampes d’issue extérieurs servant d’élément d’un moyen d’évacuation exigé doivent être ouverts sur au moins un côté, à l’exception des poteaux structuraux, des poutres, des mains courantes et des garde-corps exigés.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exterior exit stairways and ramps serving as an exit component in a means of egress system shall comply with the requirements of this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les escaliers et rampes d'issue extérieurs servant de composant d'issue dans un moyen d'évacuation doivent être conformes aux exigences de la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061124Z">
+        <seg>Les escaliers et les rampes d'issue extérieurs servant de composant d'issue dans un moyen d'évacuation doivent être conformes aux exigences de la présente section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32890,13 +32880,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>For occupancies in other than Group I-2, exterior exit stairways and ramps shall be permitted as an element of a required means of egress for buildings not exceeding six stories above grade plane or that are not high-rise buildings.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les usages autres que ceux du groupe I-2, les escaliers et rampes d'issue extérieurs peuvent être autorisés comme éléments d'un moyen d'évacuation exigé pour les bâtiments ne dépassant pas six étages au-dessus du plan de référence ou qui ne sont pas des immeubles de grande hauteur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061210Z">
+        <seg>Pour les usages autres que ceux du groupe I-2, les escaliers et rampes d’issue extérieurs peuvent être utilisés comme élément d’un moyen d’évacuation exigé pour les bâtiments ne comportant pas plus de six étages au-dessus du plan de référence ou qui ne sont pas des bâtiments de grande hauteur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34277,13 +34266,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.821: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>However, such markings shall not conceal any required information or indicators including but not limited to instructions to occupants for the use of standpipes.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Toutefois, ces marquages ne doivent dissimuler aucune information ou aucun indicateur requis, y compris, mais sans s'y limiter, les instructions aux occupants pour l'utilisation des colonnes d'incendie.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060744Z">
+        <seg>Cependant, ces marquages ne doivent masquer aucune information ni aucun indicateur requis, notamment, sans s’y limiter, les instructions destinées aux occupants concernant l’utilisation des colonnes d'incendie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36859,13 +36847,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.798: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Luminous egress path markings shall be permitted to be made of any material, including paint, provided that an electrical charge is not required to maintain the required luminance.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les marquages lumineux des voies d'évacuation peuvent être faits de n'importe quel matériau, y compris de la peinture, à condition qu'une charge électrique ne soit pas nécessaire pour maintenir la luminance requise.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061001Z">
+        <seg>Les marquages lumineux du chemin d’évacuation peuvent être faits de tout matériau, y compris de la peinture, à condition qu’aucune charge électrique ne soit requise pour maintenir la luminance exigée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37673,13 +37660,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.815: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Obstacles at or below 6 feet 6 inches (1981 mm) in height and projecting more than 4 inches (102 mm) into the egress path shall be outlined with markings not less than 1 inch (25 mm) in width comprised of a pattern of alternating equal bands, of luminous material and black, with the alternating bands not more than 2 inches (51 mm) thick and angled at 45 degrees (0.79 rad).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les obstacles d'une hauteur inférieure ou égale à 6 pi-6 po [1981 mm] et empiétant de plus de 4 po [102 mm] dans le chemin d'évacuation doivent être délimités par des marquages d'au moins 1 po [25 mm] de largeur constitués d'un motif de bandes égales alternées, de matériau lumineux et de noir, les bandes alternées ne devant pas dépasser 2 po [51 mm] d'épaisseur et devant être inclinées à 45 degrés (0,79 rad).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060709Z">
+        <seg>Les obstacles situés à une hauteur égale ou inférieure à 6 pi 6 po (1 981 mm) et faisant saillie de plus de 4 po (102 mm) dans le chemin d’évacuation doivent être délimités par des marquages d’au moins 1 po (25 mm) de largeur constitués d’un motif de bandes alternées de largeur égale, faites de matériau lumineux et de couleur noire, les bandes alternées ayant une épaisseur d’au plus 2 po (51 mm) et étant inclinées à 45 degrés (0,79 rad).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38471,23 +38457,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Perimeter demarcation lines shall be placed on the wall with the bottom edge of the stripe not more than 4 inches (102 mm) above the finished floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les lignes de démarcation du périmètre doivent être placées sur le mur, le bord inférieur de la bande ne devant pas se trouver à plus de 4 po [102 mm] au-dessus du sol fini.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060536Z">
+        <seg>Les lignes de démarcation du périmètre doivent être placées sur le mur, le bord inférieur de la bande ne devant pas se trouver à plus de 4 po (102 mm) au-dessus du sol fini.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Perimeter demarcation lines shall be placed within 4 inches (102 mm) of the wall and shall extend to within 2 inches (51 mm) of the markings on the leading edge of landings.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les lignes de démarcation du périmètre doivent être placées à moins de 4 po [102 mm] du mur et s'étendre jusqu'à moins de 2 po [51 mm] des marquages sur le bord avant des paliers.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060448Z">
+        <seg>Les lignes de démarcation du périmètre doivent être placées à moins de 4 po (102 mm) du mur et s'étendre jusqu'à moins de 2 po (51 mm) des marquages sur le bord avant des paliers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41107,13 +41091,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Stair landings and other floor areas within interior exit stairways, interior exit ramps and exit passageways, with the exception of the sides of steps, shall be provided with solid and continuous demarcation lines on the floor or on the walls or a combination of both.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les paliers d'escalier et les autres surfaces de plancher dans les escaliers d'issue intérieurs, les rampes d'issue intérieures et les passages d'issue, à l'exception des côtés des marches, doivent être munis de lignes de démarcation pleines et continues sur le plancher ou sur les murs ou sur les deux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060414Z">
+        <seg>Les paliers d’escalier et les autres surfaces de plancher à l’intérieur des escaliers et rampes d’issue intérieurs et des passages d’issue, à l’exception des côtés des marches, doivent être munis de lignes de démarcation pleines et continues sur le plancher ou sur les murs, ou une combinaison des deux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43318,13 +43301,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.843: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The exit symbol shall be not less than 4 inches (102 mm) in height and shall be mounted on the door, centered horizontally, with the top of the symbol not higher than 18 inches (457 mm) above the finished floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le symbole de sortie doit avoir une hauteur d'au moins 4 po [102 mm] et doit être installé sur la porte, centré horizontalement, la partie supérieure du symbole ne devant pas se trouver à plus de 18 po [457 mm] au-dessus du sol fini.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060846Z">
+        <seg>Le symbole de sortie doit avoir une hauteur d’au moins 4 po (102 mm) et doit être installé sur la porte, centré horizontalement, le haut du symbole ne devant pas être situé à plus de 18 po (457 mm) au-dessus du plancher fini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44449,13 +44431,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.879: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The minimum width of 1 inch (25 mm) shall not apply to markings listed in accordance with UL 1994.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La largeur minimale de 1 po [25 mm] ne doit pas s'appliquer aux marquages inscrits conformément à la norme UL 1994.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060759Z">
+        <seg>La largeur minimale de 1 po (25 mm) ne doit pas s'appliquer aux marquages inscrits conformément à la norme UL 1994.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45680,13 +45661,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The stripes shall be 1 to 2 inches (25 mm to 51 mm) wide with interruptions not exceeding 4 inches (102 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les bandes doivent avoir une largeur de 1 à 2 po [25 mm à 51 mm] avec des interruptions ne dépassant pas 4 po [102 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060407Z">
+        <seg>Les bandes doivent avoir une largeur de 1 à 2 po (25 mm à 51 mm) avec des interruptions ne dépassant pas 4 po (102 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -48568,13 +48548,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a wall-mounted demarcation line transitions to a floor-mounted demarcation line, or vice versa, the wall-mounted demarcation line shall drop vertically to the floor to meet a complimentary extension of the floor-mounted demarcation line, thus forming a continuous marking.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'une ligne de démarcation fixée au mur passe à une ligne de démarcation fixée au plancher, ou vice versa, la ligne de démarcation fixée au mur doit descendre verticalement jusqu'au plancher pour rejoindre un prolongement complémentaire de la ligne de démarcation fixée au plancher, formant ainsi un marquage continu.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060700Z">
+        <seg>Lorsqu’une ligne de démarcation fixée au mur passe à une ligne de démarcation fixée au plancher, ou vice versa, la ligne de démarcation fixée au mur doit descendre verticalement jusqu’au plancher pour rejoindre un prolongement correspondant de la ligne de démarcation fixée au plancher, formant ainsi un marquage continu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49389,13 +49368,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.788: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where photoluminescent exit path markings are installed, they shall be provided with not less than 1 footcandle (11 lux) of illumination for not less than 60 minutes prior to periods when the building is occupied and continuously during occupancy.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des marquages photoluminescents de chemin d'évacuation sont installés, ils doivent être éclairés d'au moins 1 pied-bougie [11 lux] pendant au moins 60 minutes avant les périodes où le bâtiment est occupé et en continu pendant l'occupation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061100Z">
+        <seg>Lorsque des marquages photoluminescents du chemin d’évacuation sont installés, ils doivent être éclairés à raison d’au moins 1 pied-bougie (11 lux) pendant au moins 60 minutes avant les périodes d’occupation du bâtiment et de façon continue pendant l’occupation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50282,13 +50260,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the wall line is broken by a door, demarcation lines on walls shall continue across the face of the door or transition to the floor and extend across the floor in front of such door.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque la ligne murale est interrompue par une porte, les lignes de démarcation sur les murs doivent continuer sur la face de la porte ou faire la transition vers le plancher et s'étendre sur le plancher devant cette porte.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060627Z">
+        <seg>Lorsque la ligne sur le mur est interrompue par une porte, les lignes de démarcation sur les murs doivent se poursuivre sur la face de la porte ou passer au plancher et se prolonger sur le plancher devant cette porte.</seg>
       </tuv>
     </tu>
     <tu>
