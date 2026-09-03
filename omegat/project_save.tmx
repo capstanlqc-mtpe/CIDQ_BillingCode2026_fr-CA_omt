@@ -1002,13 +1002,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Such equipment and ductwork shall be located exterior to the building and shall be directly connected to the interior exit stairway and ramp by ductwork enclosed in construction as required for shafts.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Cet équipement et ces conduits doivent être situés à l'extérieur du bâtiment et doivent être directement reliés à l'escalier et à la rampe d'issue intérieurs par des conduits enfermés dans la construction comme requis pour les puits.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T053457Z">
+        <seg>1.&lt;x1/&gt; Ces équipements et ces conduits doivent être situés à l’extérieur du bâtiment et doivent être directement raccordés à l’escalier et à la rampe d’issue intérieure par des conduits enfermés dans une construction conforme aux exigences applicables aux puits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1178,13 +1177,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.857: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;The signs shall be a minimum size of 18 inches (457 mm) by 12 inches (305 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Les panneaux doivent avoir une taille minimale de 18 po [457 mm] sur 12 po [305 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T054156Z">
+        <seg>1.&lt;x1/&gt; Les panneaux doivent avoir une taille minimale de 18 po (457 mm) sur 12 po (305 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2501,13 +2499,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;The letters designating the identification of the interior exit stairway and ramp shall be not less than 11/2 inches (38 mm) in height.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Les lettres désignant l'identification de l'escalier et de la rampe d'issue intérieurs ne doivent pas être d'une hauteur inférieure à 11/2 po [38 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T054211Z">
+        <seg>2.&lt;x1/&gt; Les lettres désignant l'identification de l'escalier et de la rampe d'issue intérieurs ne doivent pas être d'une hauteur inférieure à 11/2 po (38 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2609,13 +2606,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.813: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Where such equipment and ductwork is located within the interior exit stairway and ramp, the intake air shall be taken directly from the outdoors and the exhaust air shall be discharged directly to the outdoors, or such air shall be conveyed through ducts enclosed in construction as required for shafts.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Lorsque cet équipement et ces conduits sont situés dans l'escalier et la rampe d'issue intérieurs, l'air d'admission doit être prélevé directement de l'extérieur et l'air d'évacuation doit être évacué directement vers l'extérieur, ou cet air doit être acheminé par des conduits enfermés dans la construction comme requis pour les cages.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T053524Z">
+        <seg>2.&lt;x1/&gt; Lorsque ces équipements et ces conduits sont situés à l’intérieur de l’escalier et de la rampe d’issue intérieure, l’air d’admission doit être prélevé directement de l’extérieur et l’air d’évacuation doit être rejeté directement à l’extérieur, ou cet air doit être acheminé par des conduits enfermés dans une construction conforme aux exigences applicables aux puits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3386,13 +3382,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.864: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;The number designating the floor level shall be not less than 5 inches (127 mm) in height and located in the center of the sign.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Le nombre désignant le niveau du sol ne doit pas être inférieur à 5 po [127 mm] en hauteur et doit être situé au centre du panneau.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T054223Z">
+        <seg>3.&lt;x1/&gt; Le nombre désignant le niveau du sol ne doit pas être inférieur à 5 po (127 mm) en hauteur et doit être situé au centre du panneau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3501,13 +3496,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.875: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;Where located within the building, such equipment and ductwork shall be separated from the remainder of the building, including other mechanical equipment, with construction as required for shafts.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Lorsqu'ils sont situés à l'intérieur du bâtiment, ces équipements et conduits doivent être séparés du reste du bâtiment, y compris des autres équipements mécaniques, par une construction conforme aux exigences relatives aux puits.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T053613Z">
+        <seg>3.&lt;x1/&gt; Lorsque ces équipements et ces conduits sont situés à l’intérieur du bâtiment, ils doivent être séparés du reste du bâtiment, y compris des autres équipements mécaniques, par une construction conforme aux exigences applicables aux puits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3847,13 +3841,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>4.&lt;x1/&gt;Other lettering and numbers shall be not less than 1 inch (25 mm) in height.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>4.&lt;x1/&gt; Les autres lettres et chiffres doivent avoir une hauteur d'au moins 1 po [25 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T054242Z">
+        <seg>4.&lt;x1/&gt; Les autres lettres et chiffres doivent avoir une hauteur d'au moins 1 po (25 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6435,13 +6428,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1023.7 Interior exit stairway and ramp exterior walls.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1023.7 Murs extérieurs des escaliers et rampes d'issue intérieurs.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T053741Z">
+        <seg>&lt;g1&gt;1023.7 Murs extérieurs des escaliers et des rampes d'issue intérieurs.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25059,13 +25051,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A sign shall be provided at each floor landing in an interior exit stairway and ramp connecting more than three stories designating the floor level, the terminus of the top and bottom of the interior exit stairway and ramp and the identification of the stairway or ramp.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un panneau doit être prévu à chaque palier d'étage dans un escalier et une rampe d'issue intérieurs reliant plus de trois étages, indiquant le niveau du sol, l'extrémité du haut et du bas de l'escalier et de la rampe d'issue intérieurs et l'identification de l'escalier ou de la rampe.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T054039Z">
+        <seg>Un panneau doit être installé à chaque palier d’étage d’un escalier et d’une rampe d’issue intérieurs desservant plus de trois étages, indiquant le niveau de l’étage, l’extrémité supérieure et l’extrémité inférieure de l’escalier et de la rampe d’issue intérieurs, ainsi que l’identification de l’escalier ou de la rampe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26941,13 +26932,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.83: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An interior exit stairway and ramp shall not continue below its level of exit discharge unless an approved barrier is provided at the level of exit discharge to prevent persons from unintentionally continuing into levels below.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un escalier et une rampe d'issue intérieurs ne doivent pas se prolonger en dessous de leur niveau d'issue d'évacuation, sauf si une barrière approuvée est prévue au niveau de l'issue d'évacuation pour empêcher les personnes de continuer involontairement vers les niveaux inférieurs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T053920Z">
+        <seg>Un escalier et une rampe d'issue intérieurs ne doivent pas se prolonger en dessous de leur niveau d'issue d'évacuation, sauf si une barrière approuvée est prévue au niveau de l'issue d'évacuation pour empêcher les personnes de continuer à se déplacer involontairement vers les niveaux inférieurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30113,13 +30103,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Directional exit signs shall be provided as specified in Section 1013.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des panneaux de sortie directionnels doivent être prévus comme spécifié à l'article 1013.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T053940Z">
+        <seg>Des panneaux de sortie directionnels doivent être prévus comme spécifié dans la section 1013.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32178,13 +32167,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.86: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exterior walls of the interior exit stairway or ramp shall comply with the requirements of Section 705 for exterior walls.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les murs extérieurs de l'escalier ou de la rampe d'issue intérieurs doivent être conformes aux exigences de l'article 705 pour les murs extérieurs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T053802Z">
+        <seg>Les murs extérieurs de l'escalier ou de la rampe d'issue intérieurs doivent être conformes aux exigences de la section 705 pour les murs extérieurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35383,13 +35371,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In each case, openings into the fire-resistance-rated construction shall be limited to those needed for maintenance and operation and shall be protected by opening protectives in accordance with Section 716 for shaft enclosures.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans chaque cas, les ouvertures dans la construction ayant une résistance au feu doivent être limitées à celles nécessaires à l'entretien et au fonctionnement et doivent être protégées par une protection d'ouvertures selon la section 716 pour les puits encloisonnés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T053704Z">
+        <seg>Dans chaque cas, les ouvertures dans la construction présentant un degré de résistance au feu doivent être limitées à celles qui sont nécessaires pour l’entretien et le fonctionnement et doivent être protégées par des dispositifs de protection des ouvertures conformes aux exigences de la section 716 applicables aux puits encloisonnés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37180,8 +37167,8 @@
       <tuv lang="en">
         <seg>Membrane penetrations shall be permitted on the outside of the interior exit stairway and ramp.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T053209Z">
-        <seg>Les pénétrations de membrane sont autorisées sur l’extérieur de l’escalier et de la rampe d’issue intérieure.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T053243Z">
+        <seg>Les pénétrations de membrane sont autorisées sur l’extérieur de l’escalier et de la rampe d’issue intérieurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42273,13 +42260,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.868: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The bottom of the sign shall be located not less than 5 feet (1524 mm) above the floor landing in a position that is readily visible when the doors are in the open and closed positions.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le bas de l'enseigne doit être situé à au moins 5 pieds (1 524 mm) au-dessus du palier, dans une position facilement visible lorsque les portes sont en position ouverte et fermée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T054130Z">
+        <seg>Le bas du panneau doit être situé à au moins 5 pieds (1 524 mm) au-dessus du palier d’étage, à un endroit facilement visible lorsque les portes sont en position ouverte et fermée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43983,13 +43969,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.865: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The interior exit stairway and ramp ventilation systems shall be independent of other building ventilation systems.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les systèmes de ventilation des escaliers et rampes d'issue intérieurs doivent être indépendants des autres systèmes de ventilation du bâtiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T053748Z">
+        <seg>es systèmes de ventilation des escaliers et des rampes d’issue intérieurs doivent être indépendants des autres systèmes de ventilation du bâtiment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46759,13 +46744,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>This construction shall extend vertically from the ground to a point 10 feet (3048 mm) above the topmost landing of the stairway or ramp, or to the roof line, whichever is lower.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Cette construction doit se prolonger verticalement depuis le sol jusqu'à un point situé à 10 pi [3048 mm] au-dessus du palier le plus haut de l'escalier ou de la rampe, ou jusqu'à la ligne du toit, selon la plus basse des deux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T053844Z">
+        <seg>Cette construction doit se prolonger verticalement depuis le sol jusqu'à un point situé à 10 pi (3048 mm) au-dessus du palier le plus haut de l'escalier ou de la rampe, ou jusqu'à la ligne du toit, selon la plus basse des deux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49320,13 +49304,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where nonrated walls or unprotected openings enclose the exterior of the stairway or ramps and the walls or openings are exposed by other parts of the building at an angle of less than 180 degrees (3.14 rad), the building exterior walls within 10 feet (3048 mm) horizontally of a nonrated wall or unprotected opening shall have a fire-resistance rating of not less than 1 hour.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des murs non cotés ou des ouvertures non protégées entourent l'extérieur de l'escalier ou des rampes et que les murs ou les ouvertures sont exposés par d'autres parties du bâtiment à un angle inférieur à 180 degrés (3,14 rad), les murs extérieurs du bâtiment situés à moins de 10 pieds (3 048 mm) horizontalement d'un mur non coté ou d'une ouverture non protégée doivent offrir un degré de résistance au feu d'au moins une heure.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T053822Z">
+        <seg>Lorsque des murs sans degré de résistance au feu ou des ouvertures non protégées forment l’enveloppe extérieure de l’escalier ou des rampes et que ces murs ou ouvertures sont exposés à d’autres parties du bâtiment selon un angle inférieur à 180 degrés (3,14 rad), les murs extérieurs du bâtiment situés à moins de 3 048 mm (10 pi) horizontalement d’un mur sans degré de résistance au feu ou d’une ouverture non protégée doivent avoir un degré de résistance au feu d’au moins 1 heure.</seg>
       </tuv>
     </tu>
     <tu>
