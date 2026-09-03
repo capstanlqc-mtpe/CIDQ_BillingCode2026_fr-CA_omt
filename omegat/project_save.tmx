@@ -27144,13 +27144,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At each door to an area of refuge providing direct access to a stairway, exterior area for assisted rescue, exit stairway, exit passageway or exit discharge, signage shall be provided in accordance with Section 1013.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>À chaque porte d'une zone de refuge donnant un accès direct à un escalier, à une zone extérieure pour le sauvetage assisté, à un escalier d'issue, à un passage d'issue ou à une issue d'évacuation, une signalisation doit être prévue selon la section 1013.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T214821Z">
+        <seg>À chaque porte donnant accès à une aire de refuge offrant un accès direct à un escalier, à une aire extérieure de sauvetage assisté, à un escalier d’issue, à un passage d’issue ou à une sortie d’issue, une signalisation doit être prévue conformément à la section 1013.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34828,13 +34827,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.779: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In addition, where accessible unload areas also serve as accessible load areas, signs indicating the location of the accessible load and unload areas shall be provided at entries to queues and waiting lines.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>De plus, lorsque les zones de débarquement accessibles servent également de zones d'embarquement accessibles, des panneaux indiquant l'emplacement des zones d'embarquement et de débarquement accessibles doivent être prévus aux entrées des files d'attente.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T214912Z">
+        <seg>De plus, lorsque les aires de débarquement accessibles servent également d’aires d’embarquement accessibles, des affiches indiquant l’emplacement des aires d’embarquement et de débarquement accessibles doivent être installées aux entrées des files d’attente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35250,13 +35248,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.862: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In interior exit stairways and ramps, floor level signage shall be provided in accordance with Section 1023.9.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les escaliers et rampes d'issue intérieurs, une signalisation au niveau du sol doit être prévue selon la section 1023.9.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T214841Z">
+        <seg>Dans les escaliers et les rampes d'issue intérieurs, une signalisation au niveau du sol doit être prévue selon la section 1023.9.</seg>
       </tuv>
     </tu>
     <tu>
