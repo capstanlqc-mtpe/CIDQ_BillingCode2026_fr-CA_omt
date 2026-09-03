@@ -14618,13 +14618,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.881: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;g2&gt;1109.5 Drinking fountains&lt;/g2&gt;&lt;x4/&gt;.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;g2&gt;1109.5 Fontaines&lt;/g2&gt;&lt;x4/&gt;.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T213121Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;1109.5 Abreuvoirs&lt;/g2&gt;&lt;x4/&gt;.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23226,13 +23225,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.718: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Where sinks are provided, at least 5 percent but not less than one provided in &lt;g3&gt;accessible &lt;/g3&gt;spaces shall be &lt;g4&gt;accessible&lt;/g4&gt;.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Lorsque des éviers sont prévus, au moins 5 pour cent de ceux-ci, mais pas moins d'un, prévus dans des espaces &lt;g3&gt;accessibles&lt;/g3&gt;, doivent être &lt;g4&gt;accessibles&lt;/g4&gt;.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T213025Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Lorsque des lavabos sont prévus, au moins 5 pour cent de ceux-ci, mais pas moins d'un, prévus dans des espaces &lt;g3&gt;accessibles&lt;/g3&gt;, doivent être &lt;g4&gt;accessibles&lt;/g4&gt;.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24973,13 +24971,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A single drinking fountain with two separate spouts that complies with the requirements for people who use a wheelchair and standing persons shall be permitted to be substituted for two separate drinking fountains.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un seul abreuvoir muni de deux gicleurs distincts qui sont conformes aux exigences pour les personnes qui utilisent un fauteuil roulant et celles qui se tiennent debout peut remplacer deux abreuvoirs individuels.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T213407Z">
+        <seg>Un seul abreuvoir comportant deux embouts distincts et conforme aux exigences applicables aux personnes utilisant un fauteuil roulant et aux personnes en position debout peut remplacer deux abreuvoirs distincts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25533,23 +25530,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.804: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Accessible parking spaces required by Section 1106.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Places de STATIONNEMENT accessibles exigées par l'article 1106.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T213453Z">
+        <seg>Places de stationnement accessibles exigées par la section 1106.2.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.805: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Accessible parking spaces required by Section 1106.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Places de STATIONNEMENT accessibles, comme l'exige l'article 1106.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T213539Z">
+        <seg>Places de stationnement accessibles, tel que requis par la section 1106.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37598,13 +37593,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.81: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>One drinking fountain shall comply with the requirements for people who use a wheelchair and one drinking fountain shall comply with the requirements for standing persons.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un abreuvoir doit se conformer aux exigences pour les personnes qui utilisent un fauteuil roulant et l'autre, aux exigences pour les personnes debout.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T213229Z">
+        <seg>Un abreuvoir doit être conforme aux exigences applicables aux personnes utilisant un fauteuil roulant, et un appareil de fontaine d’eau à boire doit être conforme aux exigences applicables aux personnes en position debout.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48603,12 +48597,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Where drinking fountains are primarily for children’s use, drinking fountains for people using wheelchairs shall be permitted to comply with the children’s provisions in ICC A117.1 and drinking fountains for standing children shall be permitted.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les fontaines sont principalement destinées aux enfants, les fontaines pour les personnes en fauteuil roulant peuvent se conformer aux dispositions de la norme ICC A117.1 relatives aux enfants et des fontaines pour les enfants debout peuvent être autorisées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T213418Z">
+        <seg>Lorsque les abreuvoirs sont principalement destinés à être utilisés par des enfants, les abreuvoirs destinés aux personnes utilisant un fauteuil roulant peuvent être conformes aux dispositions relatives aux enfants de la norme ICC A117.1, et des abreuvoirs destinés aux enfants en position debout peuvent être prévus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49906,13 +49899,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the total lavatories provided in a toilet room or bathing facility is six or more, at least one lavatory with enhanced reach ranges shall be provided.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque le nombre total de lavabos prévu dans une salle de toilettes ou de bain est de six ou plus, il faut prévoir au moins un des lavabos avec portées améliorées.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T213005Z">
+        <seg>Lorsque le nombre total de lavabos prévus dans un cabinet de toilette ou une salle de bain est de six ou plus, au moins un lavabo offrant des plages de portée améliorées doit être prévu.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
