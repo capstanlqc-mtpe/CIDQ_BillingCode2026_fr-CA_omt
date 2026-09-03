@@ -2752,13 +2752,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.918: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>201 to 300</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>De 201 à 300</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T203707Z">
+        <seg>201 à 300</seg>
       </tuv>
     </tu>
     <tu>
@@ -3524,13 +3523,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.916: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>301 to 400</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>De 301 à 400</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T203711Z">
+        <seg>301 à 400</seg>
       </tuv>
     </tu>
     <tu>
@@ -3902,13 +3900,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.914: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>401 to 500</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>De 401 à 500</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T203715Z">
+        <seg>401 à 500</seg>
       </tuv>
     </tu>
     <tu>
@@ -17435,23 +17432,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.769: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;MINIMUM REQUIRED NUMBER OF ACCESSIBLE UNITS WITH ROLL-IN SHOWERS&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;NOMBRE MINIMAL REQUIS D'UNITÉS ACCESSIBLES AVEC DOUCHES À ACCÈS DE plain-pied&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T203648Z">
+        <seg>&lt;g1&gt;NOMBRE MINIMAL REQUIS D’UNITÉS ACCESSIBLES AVEC DOUCHES À ACCÈS DE PLAIN-PIED&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.755: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;MINIMUM REQUIRED NUMBER OF ACCESSIBLE UNITS WITHOUT ROLLIN SHOWERS&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;NOMBRE MINIMAL REQUIS D'UNITÉS ACCESSIBLES SANS DOUCHES À ACCÈS DE plain-pied&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T203637Z">
+        <seg>&lt;g1&gt;NOMBRE MINIMAL REQUIS D’UNITÉS ACCESSIBLES SANS DOUCHES À ACCÈS DE PLAIN-PIED&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
