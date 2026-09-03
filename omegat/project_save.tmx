@@ -10355,13 +10355,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.87: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1208.2.1 Furred ceiling.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1208.2.1 Plafond à fourrure.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T224512Z">
+        <seg>&lt;g1&gt;1208.2.1 Plafond suspendu.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26118,13 +26117,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Alternatively, the impact insulation class of floor-ceiling assemblies shall be established by engineering analysis based on a comparison of floor-ceiling assemblies having impact insulation class ratings as determined by the test procedures in ASTM E492.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Sinon, la classe d'isolation aux bruits d'impact des assemblages plancher-plafond doit être établie par une analyse technique fondée sur une comparaison d'assemblages plancher-plafond ayant des cotes de classe d'isolation aux bruits d'impact déterminées par les procédures d'essai de la norme ASTM E492.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T223659Z">
+        <seg>Sinon, l’indice d’isolation aux bruits d’impact des ensembles plancher-plafond doit être établi au moyen d’une analyse technique fondée sur une comparaison avec des ensembles plancher-plafond dont les indices d’isolation aux bruits d’impact ont été déterminés conformément aux méthodes d’essai prévues dans la norme ASTM E492.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26132,8 +26130,8 @@
       <tuv lang="en">
         <seg>Alternatively, the sound transmission class of walls, partitions and floor-ceiling assemblies shall be established by engineering analysis based on a comparison of walls, partitions and floor-ceiling assemblies having sound transmission class ratings as determined by the test procedures set forth in ASTM E90.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T223432Z">
-        <seg>À titre de variante, l’indice de transmission du son des murs, cloisons et ensembles plancher-plafond doit être établi au moyen d’une analyse technique fondée sur une comparaison avec des murs, cloisons et ensembles plancher-plafond dont les indices de transmission du son ont été déterminés conformément aux méthodes d’essai énoncées dans la norme ASTM E90.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T223552Z">
+        <seg>Sinon, l’indice de transmission du son des murs, cloisons et ensembles plancher-plafond doit être établi au moyen d’une analyse technique fondée sur une comparaison avec des murs, cloisons et ensembles plancher-plafond dont les indices de transmission du son ont été déterminés conformément aux méthodes d’essai énoncées dans la norme ASTM E90.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26891,13 +26889,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.851: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Any portion of the room measuring less than 5 feet (1524 mm) from the finished floor to the ceiling shall not be included in any computation of the minimum area thereof.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Toute partie de la pièce mesurant moins de 5 pi [1524 mm] du plancher fini au plafond ne doit pas être incluse dans le calcul de la superficie minimale de la pièce.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T224429Z">
+        <seg>Toute partie de la pièce mesurant moins de 5 pi (1524 mm) du plancher fini au plafond ne doit pas être incluse dans le calcul de la superficie minimale de la pièce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26909,13 +26906,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Any room with a furred ceiling shall be required to have the minimum ceiling height in two-thirds of the area thereof, but in no case shall the height of the furred ceiling be less than 7 feet (2134 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Toute pièce dont le plafond est à solives doit avoir la hauteur de plafond minimale dans les deux tiers de sa superficie, mais en aucun cas la hauteur du plafond à solives ne doit être inférieure à 7 pi [2134 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T224519Z">
+        <seg>Toute pièce comportant un plafond suspendu doit avoir la hauteur de plafond minimale sur les deux tiers de sa superficie; toutefois, la hauteur du plafond suspendu ne doit en aucun cas être inférieure à 7 pi (2 134 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27688,13 +27684,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.865: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Bathrooms, toilet rooms, kitchens, storage rooms and laundry rooms shall have a ceiling height of not less than 7 feet (2134 mm) above the finished floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La hauteur de plafond dans les salles de bain, les toilettes, les cuisines, les pièces d'entreposage et les buanderies ne doit pas être inférieure à 7 pi [2134 mm] au-dessus du sol fini.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T224306Z">
+        <seg>La hauteur de plafond dans les salles de bain, les toilettes, les cuisines, les pièces d'entreposage et les buanderies ne doit pas être inférieure à 7 pi (2134 mm) au-dessus du sol fini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29725,13 +29720,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.81: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Corridors contained within a dwelling unit or sleeping unit in a Group R occupancy shall have a ceiling height of not less than 7 feet (2134 mm) above the finished floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La hauteur de plafond dans les corridors contenus dans un logement ou une unité de couchage dans un usage groupe R ne doit pas être inférieure à 7 pi [2134 mm] au-dessus du sol fini.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T224448Z">
+        <seg>La hauteur de plafond dans les corridors contenus dans un logement ou une unité de couchage dans un usage groupe R ne doit pas être inférieure à 7 pi (2134 mm) au-dessus du sol fini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31388,13 +31382,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.795: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Every dwelling unit shall have not less than one room that shall have not less than 120 square feet (11.2 m2) of net floor area.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Chaque logement doit avoir au moins une pièce qui doit avoir au moins 120 pi2 [11,2 m2] de surface de plancher nette.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T224538Z">
+        <seg>Chaque logement doit avoir au moins une pièce qui doit avoir au moins 120 pi2 (11,2 m2) de surface de plancher nette.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32303,13 +32296,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.81: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Floor-ceiling assemblies between dwelling units and sleeping units or between a dwelling unit or sleeping unit and a public or service area within the structure shall have an impact insulation class rating of not less than 50 where tested in accordance with ASTM E492, or have a Normalized Impact Sound Rating (NISR) of not less than 45 if field tested in accordance with ASTM E1007.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ensembles plancher-plafond entre les logements et les unités de couchage ou entre un logement ou une unité de couchage et une zone publique ou de service à l'intérieur de la structure doivent avoir un indice de classe d'isolation aux bruits d'impact d'au moins 50 lorsqu'ils sont testés conformément à la norme ASTM E492, ou avoir un indice normalisé de bruit d'impact (NISR) d'au moins 45 s'ils sont testés sur le terrain conformément à la norme ASTM E1007.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T223652Z">
+        <seg>Les ensembles plancher-plafond entre des logements et des unités d’habitation destinées au sommeil, ou entre un logement ou une unité d’habitation destinée au sommeil et une aire publique ou de service à l’intérieur du bâtiment, doivent avoir un indice d’isolation aux bruits d’impact d’au moins 50 lorsqu’ils sont soumis à des essais conformément à la norme ASTM E492, ou avoir un indice d’isolation normalisé aux bruits d’impact (NISR) d’au moins 45 lorsqu’ils sont soumis à des essais sur place conformément à la norme ASTM E1007.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33603,13 +33595,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Habitable spaces, other than a kitchen, shall be not less than 7 feet (2134 mm) in any plan dimension.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les lieux habitables, autres qu'une cuisine, ne doivent pas avoir moins de 7 pi [2134 mm] dans toute dimension en vue en plan.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T223723Z">
+        <seg>Les lieux habitables, autres qu'une cuisine, ne doivent pas avoir moins de 7 pi (2134 mm) dans toute dimension en vue en plan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35333,13 +35324,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.767: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In one- and two-family dwellings, beams or girders spaced not less than 4 feet (1219 mm) on center shall be permitted to project not more than 6 inches (152 mm) below the required ceiling height.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les logements unifamiliaux et bifamiliaux, les poutres ou les poutrelles espacées d'au moins 4 pi [1219 mm] d'axe en axe peuvent faire saillie d'au plus 6 po [152 mm] au-dessous de la hauteur de plafond exigée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T224337Z">
+        <seg>Dans les habitations de une ou deux familles, les poutres ou poutres maîtresses espacées d’au moins 4 pi (1 219 mm) entre axes sont autorisées à dépasser d’au plus 6 po (152 mm) sous la hauteur de plafond exigée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36167,13 +36157,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.821: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Kitchens shall have a clear passageway of not less than 3 feet (914 mm) between counter fronts and appliances or counter fronts and walls.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les cuisines doivent avoir un passage dégagé d'au moins 3 pi [914 mm] entre les façades de comptoir et les appareils électroménagers ou entre les façades de comptoir et les murs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T223734Z">
+        <seg>Les cuisines doivent avoir un passage dégagé d'au moins 3 pi (914 mm) entre les façades de comptoir et les appareils électroménagers ou entre les façades de comptoir et les murs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37490,13 +37479,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Occupiable spaces, habitable spaces and corridors shall have a ceiling height of not less than 7 feet 6 inches (2286 mm) above the finished floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La hauteur de plafond dans les lieux occupables, les lieux habitables et les corridors ne doit pas être inférieure à 7 pi-6 po [2286 mm] au-dessus du sol fini.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T224252Z">
+        <seg>La hauteur de plafond dans les lieux occupables, les lieux habitables et les corridors ne doit pas être inférieure à 7 pi-6 po (2286 mm) au-dessus du sol fini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37909,13 +37897,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.85: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Other habitable rooms shall have a net floor area of not less than 70 square feet (6.5 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les autres pièces habitables doivent avoir une surface de plancher nette d'au moins 70 pi2 [6,5 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T224550Z">
+        <seg>Les autres pièces habitables doivent avoir une surface de plancher nette d'au moins 70 pi2 (6,5 m2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45217,13 +45204,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.863: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The sound transmission class of concrete masonry and clay masonry assemblies shall be calculated in accordance with TMS 302 or determined through testing in accordance with ASTM E90.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La classe de transmission acoustique des assemblages de maçonnerie en béton et de maçonnerie en argile doit être calculée conformément à la norme TMS 302 ou déterminée par des essais conformément à la norme ASTM E90.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T223638Z">
+        <seg>L’indice de transmission du son des ensembles en maçonnerie de blocs de béton et en maçonnerie de briques d’argile doit être calculé conformément à la norme TMS 302 ou déterminé au moyen d’essais effectués conformément à la norme ASTM E90.</seg>
       </tuv>
     </tu>
     <tu>
