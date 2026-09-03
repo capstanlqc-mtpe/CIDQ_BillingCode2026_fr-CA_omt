@@ -9861,13 +9861,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.863: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1108.5.2 Group I-2 nursing homes.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1108.5.2 Maisons de soins infirmiers du groupe I-2.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T195554Z">
+        <seg>&lt;g1&gt;1108.5.2 Centres d'hébergement et de soins de longue durée du groupe I-2.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25504,13 +25503,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.776: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Accessible dwelling units and sleeping units shall be dispersed among the various classes of units.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les logements et les unités de couchage accessibles doivent être répartis entre les différentes catégories d'unités.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T195303Z">
+        <seg>Les unités de logement et les unités de couchage accessibles doivent être réparties parmi les différentes catégories d’unités d'habitation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34449,13 +34447,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.734: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group I-1, Condition 1, at least 4 percent, but not less than one, of the dwelling units and sleeping units shall be Accessible units.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans le groupe I-1, condition 1, au moins 4 pour cent, mais pas moins d'un, des logements et des unités de couchage doivent être des unités accessibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T195251Z">
+        <seg>Dans les établissements du groupe I-1, condition 1, au moins 4 %, mais pas moins d’une, des unités de logement et des unités de couchage doivent être des unités accessibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35576,13 +35573,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In structures with four or more dwelling units or sleeping units intended to be occupied as a residence, every dwelling unit and sleeping unit intended to be occupied as a residence shall be a Type B unit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les structures comportant quatre logements ou unités de couchage ou plus destinés à être occupés à titre de résidence, chaque logement et chaque unité de couchage destinés à être occupés à titre de résidence doivent être des unités de type B.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T195449Z">
+        <seg>Dans les bâtiments comportant quatre logements ou unités de couchage ou plus destinés à être occupés comme résidence, chaque logement et chaque unité de couchage destiné à être occupé comme résidence doit être une unité de type B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39573,13 +39569,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Roll-in-type showers shall not be required to comply with ICC A117.1 where roll-in-type showers comply with Section 1110.2.3, in not more than 50 percent of the Accessible units.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les douches de type à accès de plain-pied ne sont pas tenues de se conformer à la norme ICC A117.1 lorsque les douches de type à accès de plain-pied sont conformes à la section 1110.2.3, dans au plus 50 pour cent des unités accessibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T195353Z">
+        <seg>Les douches de type à accès de plain-pied ne sont pas tenues d’être conformes à la norme ICC A117.1 lorsqu’elles sont conformes à la section 1110.2.3, dans au plus 50 % des unités accessibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47660,13 +47655,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Water closets shall not be required to comply with ICC A117.1 where such water closets comply with Section 1110.2.2, in not more than 50 percent of the Accessible units.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les cabines de toilette ne sont pas tenues de se conformer à la norme ICC A117.1 lorsque ces cabines de toilette sont conformes à la section 1110.2.2, dans au plus 50 pour cent des unités accessibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T195342Z">
+        <seg>Les cabines de toilette ne sont pas tenues d’être conformes à la norme ICC A117.1 lorsqu’elles sont conformes à la section 1110.2.2, dans au plus 50 % des unités accessibles.</seg>
       </tuv>
     </tu>
     <tu>
