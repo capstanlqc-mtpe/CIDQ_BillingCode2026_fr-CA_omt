@@ -26128,13 +26128,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Alternatively, the sound transmission class of walls, partitions and floor-ceiling assemblies shall be established by engineering analysis based on a comparison of walls, partitions and floor-ceiling assemblies having sound transmission class ratings as determined by the test procedures set forth in ASTM E90.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Sinon, la classe de transmission acoustique des murs, des cloisons et des ensembles plancher-plafond doit être établie par une analyse technique fondée sur une comparaison de murs, de cloisons et d'ensembles plancher-plafond ayant des cotes de classe de transmission acoustique déterminées par les procédures d'essai énoncées dans la norme ASTM E90.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T223432Z">
+        <seg>À titre de variante, l’indice de transmission du son des murs, cloisons et ensembles plancher-plafond doit être établi au moyen d’une analyse technique fondée sur une comparaison avec des murs, cloisons et ensembles plancher-plafond dont les indices de transmission du son ont été déterminés conformément aux méthodes d’essai énoncées dans la norme ASTM E90.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38205,13 +38204,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Penetrations or openings in construction assemblies for piping; electrical devices; recessed cabinets; bathtubs; soffits; or heating, ventilating or exhaust ducts shall be sealed, lined, insulated or otherwise treated to maintain the required ratings.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les pénétrations ou les ouvertures dans les assemblages de construction pour la tuyauterie, les appareils électriques, les armoires encastrées, les baignoires, les soffites ou les conduits de chauffage, de ventilation ou d'évacuation doivent être scellées, revêtues, isolées ou autrement traitées pour maintenir les cotes requises.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T223443Z">
+        <seg>Les pénétrations ou ouvertures dans les ensembles de construction destinées au passage de tuyauteries, de dispositifs électriques ou de placards encastrés, ou liées à des baignoires, des soffites ou des conduits de chauffage, de ventilation ou d’évacuation, doivent être scellées, revêtues, isolées ou autrement traitées de manière à maintenir les indices exigés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46358,13 +46356,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.796: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>This Section shall apply to common interior walls, partitions and floor/ceiling assemblies between adjacent dwelling units and sleeping units or between dwelling units and sleeping units and adjacent public areas.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le présent article s'applique aux murs intérieurs communs, aux cloisons et aux ensembles plancher/plafond entre les logements adjacents et les unités de couchage ou entre les logements et les unités de couchage et les espaces publics adjacents.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T223320Z">
+        <seg>La présente section s’applique aux murs intérieurs, cloisons et ensembles plancher-plafond communs entre des logements et des unités d’habitation destinées au sommeil adjacents, ou entre des logements et des unités d’habitation destinées au sommeil et des aires publiques adjacentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46508,13 +46505,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>This requirement shall not apply to entrance doors; however, such doors shall be tight fitting to the frame and sill.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Cette exigence ne doit pas s'appliquer aux portes d'entrée; toutefois, ces portes doivent être bien ajustées au cadre et au seuil.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T223545Z">
+        <seg>Cette exigence ne s’applique pas aux portes d’entrée; toutefois, ces portes doivent être parfaitement ajustées au cadre et au seuil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47512,13 +47508,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.811: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Walls, partitions and floor-ceiling assemblies separating dwelling units and sleeping units from each other or from public or service areas shall have a sound transmission class of not less than 50 where tested in accordance with ASTM E90, or have a Normalized Noise Isolation Class (NNIC) rating of not less than 45 if field tested, in accordance with ASTM E336 for airborne noise.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les murs, les cloisons et les ensembles plancher-plafond séparant les logements et les unités de couchage les uns des autres ou des aires publiques ou de service doivent avoir une classe de transmission du son d'au moins 50 lorsqu'ils sont testés conformément à la norme ASTM E90, ou avoir une classe d'isolation acoustique normalisée (NNIC) d'au moins 45 s'ils sont testés sur le terrain, conformément à la norme ASTM E336 pour le bruit aérien.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T223343Z">
+        <seg>Les murs, les cloisons et les ensembles plancher-plafond séparant des logements et des unités d’habitation destinées au sommeil les uns des autres ou les séparant d’aires publiques ou de service doivent avoir un indice de transmission du son (ITS) d’au moins 50 lorsqu’ils sont soumis à des essais conformément à la norme ASTM E90, ou avoir un indice d’isolement acoustique normalisé (NNIC) d’au moins 45 lorsqu’ils sont soumis à des essais sur place conformément à la norme ASTM E336 pour le bruit aérien.</seg>
       </tuv>
     </tu>
     <tu>
