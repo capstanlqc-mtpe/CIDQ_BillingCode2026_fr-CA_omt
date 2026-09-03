@@ -9476,23 +9476,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1105.1.7 Tenant spaces.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1105.1.7 Lieux locatifs.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T191535Z">
+        <seg>&lt;g1&gt;1105.1.7 Espaces locatifs.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1105.1.8 Dwelling units and sleeping units.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1105.1.8 Unités d'habitation et unités de couchage.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T191608Z">
+        <seg>&lt;g1&gt;1105.1.8 Logements et unités de couchage.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27256,13 +27254,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At least one accessible entrance shall be provided to each dwelling unit and sleeping unit in a facility.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Au moins une entrée accessible doit être prévue pour chaque unité d'habitation et chaque unité de couchage dans un établissement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T191753Z">
+        <seg>Au moins une entrée accessible doit être prévue pour chaque logement et chaque unité de couchage dans un établissement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30417,13 +30414,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.772: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Dwelling units and sleeping units that are required to be Accessible units, Type A units and Type B units shall comply with the applicable portions of Chapter 11 of ICC A117.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les unités d'habitation et les unités de couchage qui doivent être des unités accessibles, des unités de type A et des unités de type B doivent être conformes aux parties applicables du chapitre 11 de la norme ICC A117.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T191857Z">
+        <seg>Les logements et les unités de couchage qui doivent être des unités accessibles, des unités de type A et des unités de type B doivent être conformes aux parties applicables du chapitre 11 de la norme ICC A117.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31862,13 +31858,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.814: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exterior decks, patios or balconies that are part of Type B units and have impervious surfaces, and that are not more than 4 inches (102 mm) below the finished floor level of the adjacent interior space of the unit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les terrasses extérieures, les patios ou les balcons qui font partie des unités de type B et qui ont des surfaces imperméables, et qui ne sont pas à plus de 4 po [102 mm] en dessous du niveau du sol fini de l'espace intérieur adjacent de l'unité.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T192502Z">
+        <seg>Les terrasses, patios ou balcons extérieurs qui font partie d’unités de type B et qui comportent des surfaces imperméables, et qui ne sont pas situés à plus de 4 po (102 mm) au-dessous du niveau du plancher fini de l’espace intérieur adjacent de l’unité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34832,13 +34827,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In addition to the other requirements of this chapter, occupancies having dwelling units or sleeping units shall be provided with accessible features in accordance with this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>En plus des autres exigences du présent chapitre, les locaux occupés comportant des logements ou des unités de couchage doivent être dotés de caractéristiques d'accessibilité conformément à la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T191834Z">
+        <seg>En plus des autres exigences du présent chapitre, les usages comportant des logements ou des unités de couchage doivent être dotés de caractéristiques d’accessibilité conformément à la présente section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37355,13 +37349,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.795: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Not fewer than one accessible route shall connect accessible building or facility entrances with the primary entrance of each Accessible unit, Type A unit and Type B unit within the building or facility and with those exterior and interior spaces and facilities that serve the units.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pas moins d'un itinéraire accessible doit relier les entrées accessibles du bâtiment ou de l'installation à l'entrée principale de chaque unité accessible, unité de type A et unité de type B à l'intérieur du bâtiment ou de l'installation et aux espaces et installations extérieurs et intérieurs qui desservent les unités.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T192840Z">
+        <seg>Au moins un itinéraire accessible doit relier les entrées accessibles des bâtiments ou des établissements à l’entrée principale de chaque unité accessible, unité de type A et unité de type B dans le bâtiment ou l’établissement, ainsi qu’aux espaces et installations extérieurs et intérieurs qui desservent les unités.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39605,13 +39598,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.74: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Rooms and spaces available to the general public or available for use by residents and serving Accessible units, Type A units or Type B units shall be accessible.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les pièces et les aires accessibles au grand public ou à l'usage des résidents et desservant des unités accessibles, des unités de type A ou des unités de type B doivent être accessibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T192011Z">
+        <seg>Les pièces et les espaces accessibles au grand public ou à l'usage des résidents et desservant des unités accessibles, des unités de type A ou des unités de type B doivent être accessibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41180,13 +41172,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Stories and mezzanines exempted by Section 1108.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Étages et mezzanines exemptés par l'article 1108.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T192028Z">
+        <seg>Étages et mezzanines exemptés par la section 1108.4.</seg>
       </tuv>
     </tu>
     <tu>
