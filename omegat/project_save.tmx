@@ -6995,23 +6995,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1030.13.1 Seating at tables.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1030.13.1 SIÈGES AUX TABLES.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T070352Z">
+        <seg>&lt;g1&gt;1030.13.1 Sièges à des tables.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.8: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1030.13.1.1 Aisle accessway capacity and width for seating at tables.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1030.13.1.1 Capacité et largeur des passages d'accès aux allées pour les SIÈGES aux tables.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T070452Z">
+        <seg>&lt;g1&gt;1030.13.1.1 Capacité et largeur des passages d'accès aux allées pour les sièges aux tables.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25931,13 +25929,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.787: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Aisle accessways for seating at tables shall comply with Section 1030.13.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les accès par les allées pour les SIÈGES aux tables doivent être conformes à la section 1030.13.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T070317Z">
+        <seg>Les accès par les allées pour les sièges aux tables doivent être conformes à la section 1030.13.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25950,13 +25947,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.763: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Aisle accessways serving arrangements of seating at tables or counters shall comply with the capacity requirements of Section 1005.1 but shall not have less than 12 inches (305 mm) of width plus 1/2 inch (12.7 mm) of width for each additional 1 foot (305 mm), or fraction thereof, beyond 12 feet (3658 mm) of aisle accessway length measured from the center of the seat farthest from an aisle.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les passages d'allée desservant des SIÈGES à des tables ou à des comptoirs doivent être conformes aux exigences de capacité de l'article 1005.1, mais leur largeur ne doit pas être inférieure à 12 po [305 mm] plus 1/2 po [12,7 mm] de largeur pour chaque 1 pi [305 mm] supplémentaire, ou fraction de 1 pi, au-delà de 12 pi [3658 mm] de longueur de passage d'allée mesurée à partir du centre du siège le plus éloigné d'une allée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T150519Z">
+        <seg>Les voies d’accès aux allées desservant des configurations de sièges à des tables ou à des comptoirs doivent être conformes aux exigences de capacité de la section 1005.1, mais ne doivent pas avoir une largeur inférieure à 12 po (305 mm), plus 1/2 po (12,7 mm) de largeur pour chaque 1 pi (305 mm) supplémentaire, ou fraction de celui-ci, au-delà de 12 pi (3 658 mm) de longueur de la voie d’accès à l’allée, mesurée à partir du centre du siège le plus éloigné d’une allée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35697,13 +35693,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.781: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In the case of other side boundaries for aisles or aisle accessways, the clear width shall be measured to walls, edges of seating and tread edges.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans le cas d'autres limites latérales différentes pour les allées ou les voies d'accès aux allées, la largeur libre doit être mesurée jusqu'aux murs, aux bords des SIÈGES et aux bords des marches.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T070433Z">
+        <seg>Dans le cas d'autres limites latérales différentes pour les allées ou les voies d'accès aux allées, la largeur libre doit être mesurée jusqu'aux murs, aux bords des sièges et aux bords des marches.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38120,13 +38115,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.77: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Outdoor aisles, stepped aisles and ramped aisles and outdoor approaches to aisles, stepped aisles and ramped aisles shall be designed so that water will not accumulate on the walking surface.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les allées extérieures, les allées à marches et les allées à rampe, ainsi que les approches extérieures des allées, des allées à marches et des allées à rampe, doivent être conçues de manière à ce que l'eau ne s'accumule pas sur la surface de marche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T070257Z">
+        <seg>Les allées extérieures, les allées à gradins et les allées en pente, ainsi que les accès extérieurs aux allées, aux allées à gradins et aux allées en pente, doivent être conçus de manière à empêcher l’accumulation d’eau sur la surface de circulation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41816,13 +41810,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.867: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The 19-inch (483 mm) distance shall be measured perpendicular to the side of the table or counter.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La distance de 19 po [483 mm] doit être mesurée perpendiculairement au côté de la table ou du comptoir.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T070416Z">
+        <seg>La distance de 19 po (483 mm) doit être mesurée perpendiculairement au côté de la table ou du comptoir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49521,13 +49514,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where seating is located at a table or counter and is adjacent to an aisle or aisle accessway, the measurement of required clear width of the aisle or aisle accessway shall be made to a line 19 inches (483 mm) away from and parallel to the edge of the table or counter.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les SIÈGES sont situés à une table ou à un comptoir et sont adjacents à une allée ou à une voie d'accès à une allée, la mesure de la largeur libre requise de l'allée ou de la voie d'accès à une allée doit être effectuée jusqu'à une ligne située à 19 po [483 mm] du bord de la table ou du comptoir et parallèle à celui-ci.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T070405Z">
+        <seg>Lorsque des sièges sont situés à une table ou à un comptoir et sont adjacents à une allée ou à une voie d’accès à l’allée, la largeur libre requise de l’allée ou de la voie d’accès à l’allée doit être mesurée jusqu’à une ligne située à 19 po (483 mm) du bord de la table ou du comptoir et parallèle à celui-ci.</seg>
       </tuv>
     </tu>
     <tu>
