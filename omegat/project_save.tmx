@@ -38737,13 +38737,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Portions of an aisle accessway having a length not exceeding 6 feet (1829 mm) and used by a total of not more than four persons.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Parties d'une voie d'accès à une allée d'une longueur n'excédant pas 6 pieds (1829 mm) et utilisées par un total de quatre personnes au maximum.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T152146Z">
+        <seg>Parties d’une voie d’accès à une allée d’une longueur maximale de 6 pi (1 829 mm) et utilisées par un total d’au plus quatre personnes.</seg>
       </tuv>
     </tu>
     <tu>
