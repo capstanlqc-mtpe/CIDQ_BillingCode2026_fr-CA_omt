@@ -943,13 +943,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Openings in the exit passageway serving a smoke-proof enclosure are permitted where the exit passageway is protected and pressurized in the same manner as the smokeproof enclosure, and openings are protected as required for access from other floors.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Les ouvertures dans le passage d'issue desservant un espace étanche à la fumée sont autorisées lorsque le passage d'issue est protégé et pressurisé de la même manière que l'espace étanche à la fumée, et que les ouvertures sont protégées selon les exigences pour l'accès depuis d'autres étages.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T054805Z">
+        <seg>1.&lt;x1/&gt; Les ouvertures dans le passage d’issue desservant une enceinte à l’épreuve de la fumée sont autorisées lorsque le passage d’issue est protégé et mis en surpression de la même manière que l’enceinte à l’épreuve de la fumée, et que les ouvertures sont protégées conformément aux exigences applicables à l’accès depuis les autres étages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2459,13 +2458,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.852: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;The fire barrier separating the smokeproof enclosure from the exit passageway is not required, provided that the exit passageway is protected and pressurized in the same manner as the smokeproof enclosure.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; La barrière coupe-feu séparant l'enceinte étanche à la fumée du passage d'issue n'est pas requise, à condition que le passage d'issue soit protégé et pressurisé de la même manière que l'enceinte étanche à la fumée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T054831Z">
+        <seg>2.&lt;x1/&gt; La barrière coupe-feu entre l’enceinte à l’épreuve de la fumée et le passage d’issue n’est pas exigée, à condition que le passage d’issue soit protégé et mis en surpression de la même manière que l’enceinte à l’épreuve de la fumée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3051,13 +3049,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;A smokeproof enclosure shall be permitted to egress through areas on the level of exit discharge or vestibules as permitted by Section 1028.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Une enceinte étanche à la fumée peut avoir une issue par des zones au niveau de l'issue d'évacuation ou par des vestibules autorisés par l'article 1028.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T054906Z">
+        <seg>3.&lt;x1/&gt; Une enceinte à l’épreuve de la fumée peut avoir une issue par des zones au niveau de l'issue d'évacuation ou par des vestibules autorisés par la section 1028.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4475,13 +4472,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.876: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>6.&lt;x1/&gt;Where signs required by Section 1023.9 are installed in the interior exit stairways and ramps of buildings subject to Section 1025, the signs shall be made of the same materials as required by Section 1025.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>6.&lt;x1/&gt; Lorsque les enseignes exigées par l'article 1023.9 sont installées dans les escaliers et rampes d'issue intérieurs des bâtiments soumis à l'article 1025, les enseignes doivent être faites des mêmes matériaux que ceux exigés par l'article 1025.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T054351Z">
+        <seg>6.&lt;x1/&gt; Lorsque les enseignes exigées par la section 1023.9 sont installées dans les escaliers et rampes d'issue intérieurs des bâtiments soumis à la section 1025, les enseignes doivent être faites des mêmes matériaux que ceux exigés par la section 1025.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6309,13 +6305,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.774: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1023.10 Elevator lobby identification signs.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1023.10 Panneaux d'identification du HALL D'ASCENSEUR.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T054412Z">
+        <seg>&lt;g1&gt;1023.10 Panneaux d'identification du hall d'ascenseur.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6339,13 +6334,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.905: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1023.12.1 Termination and extension.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1023.12.1 Terminaison et extension.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T054637Z">
+        <seg>&lt;g1&gt;1023.12.1 Aboutissement et extension.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6359,13 +6353,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.874: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1023.13 Standpipes.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1023.13 Colonnes montantes.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055010Z">
+        <seg>&lt;g1&gt;1023.13 Colonnes d'incendie.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25167,13 +25160,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A smokeproof enclosure shall terminate at an exit discharge or a public way.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une enceinte étanche à la fumée doit se terminer à une issue d'évacuation ou à une voie publique.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T054700Z">
+        <seg>Une enceinte étanche à la fumée doit aboutir à un niveau d’évacuation menant à l’extérieur ou à une voie publique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25519,13 +25511,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.847: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Access is not required by way of a vestibule or exterior balcony for stairways and ramps using the pressurization alternative complying with Section 909.20.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'accès par un vestibule ou un balcon extérieur n'est pas exigé pour les escaliers et les rampes utilisant l'option de pressurisation conforme à l'article 909.20.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T054946Z">
+        <seg>L'accès par un vestibule ou un balcon extérieur n'est pas exigé pour les escaliers et les rampes utilisant l'option de pressurisation conforme à la section 909.20.5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26912,13 +26903,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.864: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An exit passageway shall not be used for any purpose other than as a means of egress and a circulation path.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un passage d'évacuation ne doit pas être utilisé à d'autres fins que comme moyen d'évacuation et voie de circulation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055114Z">
+        <seg>Un passage de sortie ne doit pas être utilisé à d'autres fins que comme moyen d'évacuation et voie de circulation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27347,13 +27337,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.805: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At landings in interior exit stairways where two or more doors lead to the floor level, any door with direct access to an enclosed elevator lobby shall be identified by signage located on the door or directly adjacent to the door stating “Elevator Lobby.”</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Sur les paliers des escaliers d'issue intérieurs où deux portes ou plus mènent au niveau du sol, toute porte donnant un accès direct à un HALL D'ASCENSEUR fermé doit être identifiée par une signalisation située sur la porte ou directement adjacente à la porte indiquant « HALL D'ASCENSEUR ».</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T054437Z">
+        <seg>Sur les paliers des escaliers d'issue intérieurs où deux portes ou plus mènent au niveau du sol, toute porte donnant un accès direct à un hall d'ascenseur fermé doit être identifiée par une signalisation située sur la porte ou directement adjacente à la porte indiquant « Hall d'ascenseur ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -28902,13 +28891,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.783: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Characters shall contrast with their background, with either light characters on a dark background or dark characters on a light background.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les caractères doivent contraster avec leur arrière-plan, soit des caractères clairs sur un fond sombre, soit des caractères foncés sur un fond clair.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T054315Z">
+        <seg>Les caractères doivent contraster avec leur arrière-plan, soit des caractères clairs sur un arrière-plan foncé, soit des caractères foncés sur un arrière-plan clair.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31809,13 +31797,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.811: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exit passageway enclosures shall have walls, floors and ceilings of not less than a 1-hour fire-resistance rating, and not less than that required for any connecting interior exit stairway or ramp.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les passages d'issue encloisonnés doivent avoir des murs, des planchers et des plafonds offrant un degré de résistance au feu d'au moins une (1) heure, et au moins égal à celui qui est exigé pour tout escalier ou toute rampe d'issue intérieurs qui y sont reliés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055238Z">
+        <seg>Les passages d'issue encloisonnés doivent avoir des murs, des planchers et des plafonds présentant un degré de résistance au feu d’au moins 1 heure, et au moins égal à celui exigé pour tout escalier ou rampe d’issue intérieur raccordé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31859,13 +31846,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.821: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exit passageways serving as an exit component in a means of egress system shall comply with the requirements of this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les passages d'évacuation servant d'élément d'issue dans un moyen d'évacuation doivent être conformes aux exigences de la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055105Z">
+        <seg>Les passages de sortie servant d'élément d'issue dans un moyen d'évacuation doivent être conformes aux exigences de la présente section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41276,13 +41262,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.83: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Standpipes and standpipe hose connections shall be provided where required by Sections 905.3 and 905.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des colonnes montantes et des raccords de tuyaux pour colonnes montantes doivent être prévus lorsque les sections 905.3 et 905.4 l'exigent.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055039Z">
+        <seg>Des colonnes d'incendie et des raccords de tuyaux pour colonnes d'incendie doivent être prévus lorsque les sections 905.3 et 905.4 l'exigent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43339,13 +43324,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.866: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The exit passageway shall be without openings other than the fire door assembly required by Section 1023.3.1 and those necessary for egress from the exit passageway.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le passage d'issue ne doit pas comporter d'ouvertures autres que la porte coupe-feu exigée par l'article 1023.3.1 et celles qui sont nécessaires à l'évacuation du passage d'issue.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T054718Z">
+        <seg>Le passage d'issue ne doit pas comporter d'ouvertures autres que la porte coupe-feu exigée par la section 1023.3.1 et celles qui sont nécessaires à l'évacuation du passage d'issue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44510,13 +44494,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.807: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The minimum width or required capacity of exit passageways shall be unobstructed.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La largeur minimale ou la capacité requise des passages de sortie doit être non obstruée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055156Z">
+        <seg>La largeur minimale ou la capacité requise des passages de sortie doit être dégagée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45191,13 +45174,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The required capacity of exit passageways shall be determined as specified in Section 1005.1 but the minimum width shall be not less than 44 inches (1118 mm), except that exit passageways serving an occupant load of less than 50 shall be not less than 36 inches (914 mm) in width.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La capacité requise des passages de sortie doit être déterminée comme le spécifie l'article 1005.1, mais la largeur minimale ne doit pas être inférieure à 44 po [1118 mm], sauf que les passages de sortie desservant une charge d'occupants inférieure à 50 doivent avoir une largeur d'au moins 36 po [914 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055136Z">
+        <seg>La capacité requise des passages d’issue doit être déterminée conformément aux dispositions de la section 1005.1, mais leur largeur minimale ne doit pas être inférieure à 44 po (1 118 mm), sauf que les passages d’issue desservant une charge d’occupation de moins de 50 personnes ne doivent pas avoir une largeur inférieure à 36 po (914 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49084,13 +49066,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.807: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where floor level signs are provided in interior exit stairways and ramps, a floor-level sign identifying the floor level in visual characters, raised characters and braille complying with ICC A117.1 shall be located at each floor-level landing adjacent to the door leading from the interior exit stairway and ramp into the corridor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des panneaux au niveau du sol sont prévus dans les escaliers et rampes d'issue intérieurs, un panneau au niveau du sol identifiant le niveau du sol en caractères visuels, en caractères en relief et en braille conformes à la norme ICC A117.1 doit être situé à chaque palier au niveau du sol adjacent à la porte menant de l'escalier et de la rampe d'issue intérieurs au corridor.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T054524Z">
+        <seg>Lorsque des panneaux indiquant le niveau d’étage sont installés dans les escaliers et les rampes d’issue intérieurs, un panneau indiquant le niveau d’étage au moyen de caractères visuels, de caractères en relief et du braille conformes à la norme ICC A117.1 doit être installé à chaque palier d’étage, à côté de la porte donnant de l’escalier d’issue intérieur et de la rampe d’issue intérieure sur le corridor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49603,13 +49584,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where required by Section 403.5.4, 405.7.2 or 412.2.2.1, interior exit stairways and ramps shall be smokeproof enclosures in accordance with Section 909.20.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque l'exigent les articles 403.5.4, 405.7.2 ou 412.2.2.1, les escaliers et rampes d'issue intérieurs doivent être des enceintes étanches à la fumée selon la section 909.20.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T054629Z">
+        <seg>Lorsqu’ils sont exigés par la section 403.5.4, 405.7.2 ou 412.2.2.1, les escaliers et les rampes d’issue intérieurs doivent être des enceintes à l’épreuve de la fumée conformes à la section 909.20.</seg>
       </tuv>
     </tu>
     <tu>
