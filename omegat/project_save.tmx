@@ -7022,13 +7022,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.78: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1030.13.2 Clear width of aisle accessways serving seating in rows.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1030.13.2 Largeur libre des couloirs d'accès desservant les SIÈGES en rangées.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T152505Z">
+        <seg>&lt;g1&gt;1030.13.2 Largeur libre des voies d’accès à une allée desservant des sièges en rangées.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -43999,13 +43998,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.767: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The length of travel along the aisle accessway shall not exceed 30 feet (9144 mm) from any seat to the point where a person has a choice of two or more paths of egress travel to separate exits.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La longueur du parcours le long de la voie d'accès de l'allée ne doit pas excéder 30 pi [9144 mm] à partir de n'importe quel siège jusqu'au point où une personne a le choix entre deux chemins de retraite ou plus vers des issues distinctes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T152438Z">
+        <seg>La longueur du parcours le long de la voie d’accès à une allée ne doit pas être supérieure à 30 pi (9 144 mm), depuis tout siège jusqu’au point où une personne peut choisir entre au moins deux parcours d’évacuation menant à des sorties distinctes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48715,13 +48713,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.847: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where chairs have automatic or self-rising seats, the measurement shall be made with seats in the raised position.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les chaises sont munies de sièges automatiques ou à relevage automatique, la mesure doit être effectuée avec les sièges en position relevée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T154148Z">
+        <seg>Lorsque les sièges sont munis d’un mécanisme de relevage automatique ou se relèvent automatiquement, la mesure doit être effectuée lorsque les sièges sont en position relevée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49541,13 +49538,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.825: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where seating rows have 14 or fewer seats, the minimum clear aisle accessway width shall be not less than 12 inches (305 mm) measured as the clear horizontal distance from the back of the row ahead and the nearest projection of the row behind.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les rangées de sièges comportent 14 sièges ou moins, la largeur minimale libre de la voie d'accès de l'allée ne doit pas être inférieure à 12 po [305 mm], mesurée comme la distance horizontale libre entre l'arrière de la rangée située devant et la saillie la plus proche de la rangée située derrière.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T152514Z">
+        <seg>Lorsque les rangées de sièges comportent au plus 14 sièges, la largeur libre minimale de la voie d’accès à une allée doit être d’au moins 12 po (305 mm), mesurée comme la distance horizontale libre entre l’arrière de la rangée située devant et la saillie la plus proche de la rangée située derrière.</seg>
       </tuv>
     </tu>
     <tu>
