@@ -9150,13 +9150,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.864: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1104.2 Within a site.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1104.2 Au sein d'un site.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T183646Z">
+        <seg>&lt;g1&gt;1104.2 Dans un site.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9170,13 +9169,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.852: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1104.3 Connected spaces.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1104.3 Lieux connectés.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T184029Z">
+        <seg>&lt;g1&gt;1104.3 Espaces connectés.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26228,13 +26226,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An accessible route is not required between accessible buildings, accessible facilities, accessible elements and accessible spaces that have, as the only means of access between them, a vehicular way not providing for pedestrian access.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un itinéraire accessible n'est pas exigé entre les bâtiments accessibles, les établissements accessibles, les éléments accessibles et les espaces accessibles qui ont, comme seul moyen d'accès entre eux, une voie pour véhicules ne permettant pas l'accès aux piétons.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T184014Z">
+        <seg>Un itinéraire accessible n’est pas exigé entre les bâtiments accessibles, les installations accessibles, les éléments accessibles et les espaces accessibles dont le seul moyen d’accès entre eux est une voie de circulation véhiculaire ne permettant pas l’accès aux piétons.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27285,12 +27282,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At least one accessible route shall connect accessible buildings, accessible facilities, accessible elements and accessible spaces that are on the same site.</seg>
       </tuv>
-      <tuv lang="fr-CA">
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T183942Z">
         <seg>Au moins un itinéraire accessible doit relier les bâtiments accessibles, les installations accessibles, les éléments accessibles et les espaces accessibles qui se trouvent sur le même site.</seg>
       </tuv>
     </tu>
@@ -29340,13 +29336,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.779: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Common use circulation paths, located within employee work areas that are less than 1,000 square feet (93 m2) in size and defined by permanently installed partitions, counters, casework or furnishings, shall not be required to be accessible routes.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les voies de circulation à usage commun, situées dans les zones de travail des employés de moins de 1000 pi2 [93 m2] et délimitées par des cloisons, des comptoirs, des meubles de rangement ou de l'ameublement installés de façon permanente, ne sont pas tenues d'être des itinéraires accessibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T185246Z">
+        <seg>Les voies de circulation à usage commun, situées dans les zones de travail des employés de moins de 1000 pi2 (93 m2) et délimitées par des cloisons, des comptoirs, des meubles de rangement ou de l'ameublement installés de façon permanente, ne sont pas tenues d'être des itinéraires accessibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34758,13 +34753,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.805: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In a building, room or space used for assembly purposes with fixed seating, an accessible route shall not be required to serve levels where wheelchair spaces are not provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans un bâtiment, une pièce ou une aire utilisée à des fins de réunions avec des places assises fixes, un itinéraire accessible n'est pas requis pour desservir les niveaux où il n'y a pas d'espaces pour fauteuils roulants.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T184322Z">
+        <seg>Dans un bâtiment, une pièce ou un espace utilisé à des fins d’assemblée comportant des sièges fixes, un itinéraire accessible n’est pas exigé pour desservir les niveaux où aucune place pour fauteuil roulant n’est prévue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38023,13 +38017,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.836: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Other than in buildings or facilities containing or serving Type B units, an accessible route shall not be required between site arrival points and the building or facility entrance if the only means of access between them is a vehicular way not providing for pedestrian access.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Sauf dans les bâtiments ou les installations contenant ou desservant des unités de type B, un itinéraire accessible n'est pas exigé entre les points d'arrivée sur le site et l'entrée du bâtiment ou de l'installation si le seul moyen d'accès entre eux est une voie réservée aux véhicules ne permettant pas l'accès aux piétons.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T183612Z">
+        <seg>Sauf dans les bâtiments ou installations qui contiennent des unités de type B ou qui en desservent, une voie accessible n’est pas exigée entre les points d’arrivée sur le site et l’entrée du bâtiment ou de l’installation lorsque le seul moyen d’accès entre ceux-ci est une voie de circulation véhiculaire ne permettant pas l’accès aux piétons.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41187,13 +41180,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.825: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Stories and mezzanines exempted by Section 1104.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Étages et mezzanines exemptés par l'article 1104.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T184236Z">
+        <seg>Étages et mezzanines exemptés par la section 1104.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47896,13 +47888,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a building or portion of a building is required to be accessible, at least one accessible route shall be provided to each portion of the building, to accessible building entrances connecting accessible pedestrian walkways and to the public way.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un bâtiment ou une partie d'un bâtiment doit être accessible, au moins un itinéraire accessible doit être prévu vers chaque partie du bâtiment, vers les entrées accessibles du bâtiment reliant les allées piétonnières accessibles et vers la voie publique.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T184307Z">
+        <seg>Lorsqu’un bâtiment ou une partie de bâtiment doit être accessible, au moins un itinéraire accessible doit être aménagé jusqu’à chaque partie du bâtiment, jusqu’aux entrées accessibles du bâtiment qui relient les parcours piétonniers accessibles et la voie publique.</seg>
       </tuv>
     </tu>
     <tu>
