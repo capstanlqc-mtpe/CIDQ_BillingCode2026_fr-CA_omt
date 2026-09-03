@@ -10217,13 +10217,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.885: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1112.4 Other signs.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1112.4 Autres affiches.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T214016Z">
+        <seg>&lt;g1&gt;1112.4 Autres panneaux.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25471,23 +25470,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.718: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Accessible check-out aisles where not all aisles are accessible.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Allées de caisse accessibles lorsque toutes les allées ne sont pas accessibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T213650Z">
+        <seg>Allées de caisse accessibles lorsque toutes les allées de caisse ne sont pas accessibles.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.791: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Accessible dressing, fitting and locker rooms where not all such rooms are accessible.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Vestiaires, cabines d'essayage et casiers accessibles lorsque toutes ces pièces ne sont pas accessibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T213708Z">
+        <seg>Vestiaires, cabines d’essayage et vestiaires à casiers accessibles lorsque tous ces locaux ne sont pas accessibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27157,23 +27154,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At each separate-sex toilet and bathing room indicating the location of the nearest family/assisted use toilet or bathing room where provided in accordance with Section 1110.2.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans chaque toilette et salle de bain séparées pour chaque sexe, en indiquant l'emplacement de la toilette ou de la salle de bain familiale ou à usage assisté la plus proche, lorsqu'elle est prévue selon la section 1110.2.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T213938Z">
+        <seg>À chaque cabinet de toilette et salle de bain distincts pour hommes et femmes, indiquer l’emplacement du cabinet de toilette ou de la salle de bain à usage familial ou assisté le plus proche, lorsqu’un tel cabinet ou une telle salle est prévu conformément à la section 1110.2.1.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.821: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At exits and exit stairways serving a required accessible space, but not providing an approved accessible means of egress, signage shall be provided in accordance with Section 1009.10.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Aux issues et aux escaliers d'issue desservant un espace accessible exigé, mais ne procurant pas un moyen d'évacuation accessible approuvé, il faut prévoir une signalisation selon la section 1009.10.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T213954Z">
+        <seg>Aux sorties et aux escaliers d’issue desservant un espace accessible requis, mais ne fournissant pas un moyen approuvé d’évacuation accessible, une signalisation doit être prévue conformément à la section 1009.10.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30449,13 +30444,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.814: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Each assembly area required to comply with Section 1109.2.7 shall provide a sign notifying patrons of the availability of assistive listening systems.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Chaque zone de rassemblement tenue de se conformer à la section 1109.2.7 doit être munie d'un panneau informant les clients de la disponibilité de systèmes d'aide à l'écoute.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T214330Z">
+        <seg>Chaque espace d’assemblée tenu de respecter la section 1109.2.7 doit comporter un panneau informant les usagers de la disponibilité de systèmes d’aide à l’écoute.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40199,13 +40193,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Signs required in Section 403.4 of the International Plumbing Code identifying toilet rooms and bathing rooms shall be visual characters, raised characters and braille complying with ICC A117.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les panneaux exigés à l'article 403.4 de l'International Plumbing Code pour identifier les toilettes et les salles de bain doivent être en caractères visuels, en caractères en relief et en braille conformément à la norme ICC A117.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T213751Z">
+        <seg>Les panneaux exigés à la section 403.4 de l’International Plumbing Code pour identifier les cabinets de toilette et les salles de bain doivent comporter des caractères visuels, des caractères en relief et du braille conformes à la norme ICC A117.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45083,13 +45076,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The sign shall comply with ICC A117.1 requirements for visual characters and include the International Symbol of Access for Hearing Loss.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'affiche doit être conforme aux exigences de la norme ICC A117.1 en ce qui a trait aux caractères visuels et inclure le Symbole international d'accès pour les personnes malentendantes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T214255Z">
+        <seg>Le panneau doit comporter des caractères visuels conformes aux exigences de la norme ICC A117.1 et inclure le symbole international d’accès pour les personnes ayant une perte auditive.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45103,13 +45095,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.773: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The sign, where provided, shall be above the check-out aisle in the same location as the checkout aisle number or type of check-out identification.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'enseigne, lorsqu'elle est prévue, doit être située au-dessus de l'allée de caisse, au même endroit que le numéro de l'allée de caisse ou le type d'identification de la caisse.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T213701Z">
+        <seg>Le panneau, lorsqu’il est prévu, doit être situé au-dessus de l’allée de caisse, au même endroit que le numéro de l’allée de caisse ou que l’identification du type d’allée de caisse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48615,13 +48606,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.812: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where drinking fountains for persons using wheelchairs and drinking fountains for standing persons are not located adjacent to each other, directional signage shall be provided indicating the location of the other drinking fountains.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les abreuvoirs pour les personnes en fauteuil roulant et les abreuvoirs pour les personnes debout ne sont pas situés l'un à côté de l'autre, il faut prévoir une signalisation directionnelle indiquant l'emplacement des autres abreuvoirs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T214002Z">
+        <seg>Lorsque les abreuvoirs destinés aux personnes utilisant un fauteuil roulant et les abreuvoirs destinés aux personnes en position debout ne sont pas situés l’un à côté de l’autre, une signalisation directionnelle doit être prévue pour indiquer l’emplacement des autres abreuvoirs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49054,13 +49044,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.836: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where pictograms are provided as designations for toilet rooms and bathing rooms, the pictograms shall have visual characters, raised characters and braille complying with ICC A117.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des pictogrammes sont fournis pour désigner les toilettes et les salles de bain, les pictogrammes doivent comporter des caractères visuels, des caractères en relief et du braille conformes à la norme ICC A117.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T213811Z">
+        <seg>Lorsque des pictogrammes sont prévus pour désigner les cabinets de toilette et les salles de bain, les pictogrammes doivent comporter des caractères visuels, des caractères en relief et du braille conformes à la norme ICC A117.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49992,13 +49981,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.776: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where ticket offices or windows are provided, signs are not required at each assembly area provided that signs are displayed at each ticket office or window informing patrons of the availability of assistive listening systems.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des bureaux ou des guichets de billetterie sont prévus, des enseignes ne sont pas exigées dans chaque aire de rassemblement, à condition que des enseignes soient affichées à chaque bureau ou guichet de billetterie pour informer les spectateurs de la disponibilité de systèmes d'aide à l'audition.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T214808Z">
+        <seg>Lorsque des billetteries ou des guichets sont prévus, des affiches ne sont pas requises dans chaque aire d’assemblée, pourvu que des affiches soient installées à chaque billetterie ou à chaque guichet pour informer les usagers de la disponibilité de systèmes d’aide à l’écoute.</seg>
       </tuv>
     </tu>
     <tu>
