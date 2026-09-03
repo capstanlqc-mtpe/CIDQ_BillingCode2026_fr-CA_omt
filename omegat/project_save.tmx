@@ -2084,13 +2084,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Fire protection systems.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2. Systèmes de protection contre&lt;x1/&gt; le feu.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T053041Z">
+        <seg>2. Systèmes de protection contre&lt;x1/&gt; l’incendie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2364,13 +2363,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Separation between an interior exit stairway or ramp and the exit passageway extension shall not be required where there are no openings into the exit passageway extension.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; La séparation entre un escalier ou une rampe d'issue intérieurs et le prolongement du passage d'issue n'est pas exigée lorsqu'il n'y a aucune ouverture dans le prolongement du passage d'issue.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T052648Z">
+        <seg>2.&lt;x1/&gt; Une séparation entre un escalier ou une rampe d’issue intérieurs et le prolongement du passage d’issue n’est pas requise lorsqu’il n’y a aucune ouverture donnant sur le prolongement du passage d’issue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3303,23 +3301,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.804: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;Security systems.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3. Systèmes de&lt;x1/&gt; SÉCURITÉ.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T053055Z">
+        <seg>3. Systèmes de&lt;x1/&gt; sécurité.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.864: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;Separation between an interior exit stairway or ramp and the exit passageway extension shall not be required where the interior exit stairway and the exit passageway extension are pressurized in accordance with Section 909.20.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; La séparation entre un escalier ou une rampe d'issue intérieurs et le prolongement du passage d'issue n'est pas exigée lorsque l'escalier d'issue intérieur et le prolongement du passage d'issue sont pressurisés selon la section 909.20.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T052752Z">
+        <seg>3.&lt;x1/&gt; La séparation entre un escalier d’issue intérieur ou une rampe d’issue intérieure et le prolongement du passage d’issue n’est pas exigée lorsque l’escalier d’issue intérieur et le prolongement du passage d’issue sont mis en surpression conformément à la section 909.20.5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4449,13 +4445,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>6.&lt;x1/&gt;Electrical raceway serving the interior exit stairway and ramp and terminating at a steel box not exceeding 16 square inches (0.010 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>6. Chemin de câbles&lt;x1/&gt; électrique desservant l'escalier et la rampe d'issue intérieurs et se terminant par un boîtier en acier n'excédant pas 16 pouces carrés (0,010 m2).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T053120Z">
+        <seg>6. Chemin de câbles&lt;x1/&gt; électrique desservant l'escalier et la rampe d'issue intérieurs et aboutissant par un boîtier en acier n'excédant pas 16 pouces carrés (0,010 m2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6391,13 +6386,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.849: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1023.3 Termination.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1023.3 Extrémité.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T052420Z">
+        <seg>&lt;g1&gt;1023.3 Aboutissement.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24317,13 +24311,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A combination of interior exit stairways, interior exit ramps and exit passageways, constructed in accordance with Sections 1023.2, 1023.3.1 and 1024, respectively, and forming a continuous protected enclosure, shall be permitted to extend an interior exit stairway or ramp to the exit discharge or a public way.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une combinaison d'escaliers d'issue intérieurs, de rampes d'issue intérieures et de passages d'issue, construits conformément aux articles 1023.2, 1023.3.1 et 1024, respectivement, et formant une enceinte protégée continue, peut prolonger un escalier ou une rampe d'issue intérieurs jusqu'à l'issue d'évacuation ou à une voie publique.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T052503Z">
+        <seg>Une combinaison d’escaliers d’issue intérieurs, de rampes d’issue intérieures et de passages d’issue, construits conformément aux sections 1023.2, 1023.3.1 et 1024, respectivement, et formant un encloisonnement protégé continu, peut être utilisée pour prolonger un escalier ou une rampe d’issue intérieurs jusqu’au niveau d’évacuation menant à l’extérieur ou à une voie publique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24523,13 +24516,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A fire door assembly complying with Section 716 shall be installed in the fire barrier to provide a means of egress from the interior exit stairway and ramp to the exit passageway.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une porte coupe-feu conforme à l'article 716 doit être installée dans la barrière coupe-feu pour procurer un moyen d'évacuation de l'escalier et de la rampe d'issue intérieurs vers le passage d'issue.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T052558Z">
+        <seg>Une porte coupe-feu conforme à la section 716 doit être installée dans la barrière coupe-feu pour procurer un moyen d'évacuation de l'escalier et de la rampe d'issue intérieurs vers le passage d'issue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31244,13 +31236,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Elevators shall not open into interior exit stairways and ramps.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ascenseurs ne doivent pas s'ouvrir sur les escaliers et rampes d'issue intérieurs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T053000Z">
+        <seg>Les ascenseurs ne doivent pas s’ouvrir sur les escaliers et les rampes d’issue intérieures.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31462,18 +31453,17 @@
       <tuv lang="en">
         <seg>Enclosures for interior exit stairways and ramps shall be constructed as fire barriers in accordance with Section 707 or horizontal assemblies constructed in accordance with Section 711, or both.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T052221Z">
-        <seg>Les encloisonnements des escaliers et rampes d’issue intérieurs doivent être construits comme des séparations coupe-feu conformément à la section 707 ou comme des assemblages horizontaux construits conformément à la section 711, ou les deux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T052254Z">
+        <seg>Les encloisonnements des escaliers et des rampes d’issue intérieurs doivent être construits comme des séparations coupe-feu conformément à la section 707 ou comme des assemblages horizontaux construits conformément à la section 711, ou les deux.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Enclosures for interior exit stairways and ramps shall have a fire-resistance rating not less than the floor assembly penetrated, but need not exceed 2 hours.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les escaliers et rampes d'issue intérieurs encloisonnés doivent offrir un degré de résistance au feu n'étant pas inférieur à celui du plancher qu'ils traversent, sans toutefois dépasser 2 heures.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T052316Z">
+        <seg>Les escaliers et les rampes d'issue intérieurs encloisonnés doivent offrir un degré de résistance au feu n'étant pas inférieur à celui du plancher qu'ils traversent, sans toutefois dépasser 2 heures.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31536,13 +31526,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Equipment and ductwork for interior exit stairway and ramp ventilation as permitted by Section 1023.5 shall comply with one of the following items:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'équipement et les conduits pour la ventilation des escaliers et rampes d'issue intérieurs autorisés par l'article 1023.5 doivent être conformes à l'un des points suivants :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T053237Z">
+        <seg>L'équipement et les conduits pour la ventilation des escaliers et des rampes d'issue intérieurs autorisés par l'article 1023.5 doivent être conformes à l'un des points suivants :</seg>
       </tuv>
     </tu>
     <tu>
@@ -36062,13 +36051,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Interior exit stairway and ramp opening protectives shall be in accordance with the requirements of Section 716.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La protection d'ouvertures des escaliers et rampes d'issue intérieurs doit être conforme aux exigences de la section 716.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T052913Z">
+        <seg>La protection d'ouvertures des escaliers d’issue intérieurs et des rampes d’issue intérieures doivent être conformes aux exigences de la section 716.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36090,13 +36078,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Interior exit stairways and ramps shall terminate at an exit discharge or a public way.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les escaliers et rampes d'issue intérieurs doivent se terminer à une issue d'évacuation ou à une voie publique.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T052424Z">
+        <seg>Les escaliers et les rampes d’issue intérieurs doivent aboutir à un niveau d’évacuation menant à l’extérieur ou à une voie publique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37189,13 +37176,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Membrane penetrations shall be permitted on the outside of the interior exit stairway and ramp.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La pénétration de membrane est permise à l'extérieur des escaliers et rampes d'issue intérieurs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T053209Z">
+        <seg>Les pénétrations de membrane sont autorisées sur l’extérieur de l’escalier et de la rampe d’issue intérieure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37967,13 +37953,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Openings in interior exit stairways and ramps other than unprotected exterior openings shall be limited to those required for exit access to the enclosure from normally occupied spaces and for egress from the enclosure.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures dans les escaliers et rampes d'issue intérieurs autres que les ouvertures extérieures non protégées doivent être limitées à celles requises pour l'accès à l'enceinte depuis les espaces normalement occupés et pour l'évacuation de l'enceinte.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T052944Z">
+        <seg>Les ouvertures dans les escaliers et les rampes d’issue intérieures, autres que les ouvertures extérieures non protégées, doivent être limitées à celles qui sont nécessaires pour permettre l’accès à l’issue depuis les espaces normalement occupés et pour permettre l’évacuation de l’enceinte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38470,13 +38455,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.86: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Penetrations into or through interior exit stairways and ramps are prohibited except for the following:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les pénétrations dans ou à travers les escaliers et rampes d'issue intérieurs sont interdites, sauf pour ce qui suit :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T053010Z">
+        <seg>Les pénétrations dans ou à travers les escaliers et les rampes d'issue intérieurs sont interdites, sauf pour ce qui suit :</seg>
       </tuv>
     </tu>
     <tu>
@@ -44640,13 +44624,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.825: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The number of stories connected by the interior exit stairways or ramps shall include any basements, but not any mezzanines.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le nombre de niveaux reliés par les escaliers ou les rampes de sortie intérieurs doit comprendre tout étage en sous-sol, mais pas les mezzanines.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T052307Z">
+        <seg>Le nombre d’étages reliés par les escaliers ou les rampes d’issue intérieurs doit comprendre les sous-sols, mais pas les mezzanines.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46601,13 +46584,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>There shall not be penetrations or communication openings, whether protected or not, between adjacent interior exit stairways and ramps.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il ne doit pas y avoir de pénétrations ou d'ouvertures de communication, protégées ou non, entre les escaliers et rampes d'issue intérieurs adjacents.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T053141Z">
+        <seg>Il ne doit pas y avoir de pénétrations ou d'ouvertures de communication, protégées ou non, entre les escaliers et les rampes d'issue intérieurs adjacents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49203,13 +49185,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.847: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where interior exit stairways and ramps are extended to an exit discharge or a public way by an exit passageway, the interior exit stairway and ramp shall be separated from the exit passageway by a fire barrier constructed in accordance with Section 707 or a horizontal assembly constructed in accordance with Section 711, or both.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les escaliers et rampes d'issue intérieurs sont prolongés jusqu'à une issue d'évacuation ou une voie publique par un passage d'issue, l'escalier et la rampe d'issue intérieurs doivent être séparés du passage d'issue par une barrière coupe-feu construite selon la section 707 ou une séparation horizontale construite selon la section 711, ou les deux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T052529Z">
+        <seg>Lorsque des escaliers et des rampes d’issue intérieurs sont prolongés jusqu’à un niveau d’évacuation menant à l’extérieur ou à une voie publique par un passage d’issue, l’escalier ou la rampe d’issue intérieurs doit être séparé du passage d’issue par une séparation coupe-feu construite conformément à la section 707 ou par un assemblage horizontal construit conformément à la section 711, ou par les deux.</seg>
       </tuv>
     </tu>
     <tu>
