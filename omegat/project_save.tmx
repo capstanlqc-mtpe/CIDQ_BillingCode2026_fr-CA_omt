@@ -1065,13 +1065,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.864: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;The clear width of &lt;g2&gt;48 inches (1219 mm) &lt;/g2&gt;between handrails is not required in buildings equipped throughout with an automatic sprinkler system installed in accordance with Section 903.3.1.1 or 903.3.1.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; La largeur libre de &lt;g2&gt;48 po (1 219 mm) &lt;/g2&gt;entre les rampes n'est pas exigée dans les bâtiments entièrement équipés d'un système d'extincteurs automatiques installé selon la section 903.3.1.1 ou 903.3.1.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T040120Z">
+        <seg>1.&lt;x1/&gt; La largeur libre de &lt;g2&gt;48 po (1 219 mm) &lt;/g2&gt;entre les mains courantes n'est pas exigée dans les bâtiments entièrement équipés d'un système d'extincteurs automatiques installé selon la section 903.3.1.1 ou 903.3.1.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2430,13 +2429,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;The clear width of &lt;g2&gt;48 inches (1219 mm) &lt;/g2&gt;between handrails is not required for stairways accessed from a refuge area in conjunction with a horizontal exit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; La largeur libre de &lt;g2&gt;48 po (1219 mm) &lt;/g2&gt;entre les rampes n'est pas exigée pour des escaliers auxquels on accède depuis une aire de refuge en conjonction avec une issue horizontale.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T040203Z">
+        <seg>2.&lt;x1/&gt; La largeur libre de &lt;g2&gt;48 po (1219 mm) &lt;/g2&gt;entre les mains courantes n'est pas exigée pour des escaliers accessibles à partir d’une aire de refuge dans le cadre d’une issue horizontale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4762,13 +4760,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.9: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;1009.3.2 Stairway width&lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;1009.3.2 Largeur de l'escalier&lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T040038Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;1009.3.2 Largeur des escaliers&lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41303,13 +41300,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.815: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Stairways shall have a clear width of &lt;g1&gt;48 inches (1219 mm) minimum &lt;/g1&gt;between handrails.&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les escaliers doivent avoir une largeur libre d'au &lt;g1&gt;moins 48 po [1219 mm] &lt;/g1&gt;entre les rampes.&lt;x2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T040058Z">
+        <seg>Les escaliers doivent avoir une largeur libre d'au &lt;g1&gt;moins 48 po [1219 mm] &lt;/g1&gt;entre les mains courantes.&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
