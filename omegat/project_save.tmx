@@ -970,8 +970,8 @@
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Ramped aisles within assembly rooms or spaces shall comply with the provisions in Section 1030.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260828T223053Z">
-        <seg>1.&lt;x1/&gt;Les allées en pente dans les salles ou espaces de rassemblement doivent être conformes aux dispositions de la section 1030.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T040451Z">
+        <seg>1.&lt;x1/&gt;Les allées en pente dans les salles ou espaces de rassemblement doivent être conformes aux dispositions de la section 1030.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2028,13 +2028,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Curb ramps shall comply with ICC A117.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2. Les rampes&lt;x1/&gt; de trottoir doivent être conformes à la norme ICC A117.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T040517Z">
+        <seg>2. Les rampes&lt;x1/&gt; de bordure doivent être conformes à la norme ICC A117.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3457,13 +3456,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.8: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;Vehicle ramps in parking garages for pedestrian exit access shall not be required to comply with Sections 1012.3 through 1012.10 where they are not an accessible route serving accessible parking spaces, other required accessible elements or part of an accessible means of egress.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Les rampes pour véhicules dans les parcs de stationnement pour l'accès à l'issue des piétons ne sont pas tenues de se conformer aux sections 1012.3 à 1012.10 lorsqu'elles ne constituent pas un itinéraire accessible desservant des places de stationnement accessibles, d'autres éléments accessibles requis ou une partie d'un moyen d'évacuation accessible.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T041355Z">
+        <seg>3.&lt;x1/&gt; Les rampes pour véhicules des garages de stationnement utilisées pour l’accès des piétons aux issues ne sont pas tenues d’être conformes aux sections 1012.3 à 1012.10 lorsqu’elles ne constituent pas une voie accessible desservant des places de stationnement accessibles, d’autres éléments accessibles exigés ou un moyen d’évacuation accessible.</seg>
       </tuv>
     </tu>
     <tu>
