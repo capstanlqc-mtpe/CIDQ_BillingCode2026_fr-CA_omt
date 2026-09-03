@@ -16744,13 +16744,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.87: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;Carbon monoxide detection shall be installed in new buildings in accordance with Sections 915.1.1 &lt;/g1&gt;through 915.6.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La &lt;g1&gt;détection de monoxyde de carbone doit être installée dans les bâtiments neufs selon les sections 915.1.1 &lt;/g1&gt;à 915.6.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T005201Z">
+        <seg>La &lt;g1&gt;détection de monoxyde de carbone doit être installée dans les bâtiments neufs conformément aux sections 915.1.1 à 915.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32723,13 +32722,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>For Group I-1, Condition 1 occupancies, smoke detection in habitable spaces is not required where the facility is equipped throughout with an automatic sprinkler system installed in accordance with Section 903.3.1.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les usages du groupe I-1, condition 1, la détection de fumée dans les espaces habitables n'est pas exigée lorsque l'installation est entièrement équipée d'un système d'extincteurs automatiques installé selon la section 903.3.1.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T005106Z">
+        <seg>Pour les usages du groupe I-1, condition 1, la détection de fumée dans les espaces habitables n’est pas requise lorsque l’établissement est entièrement équipé d’un système d’extincteurs automatiques installé conformément à la section 903.3.1.1.</seg>
       </tuv>
     </tu>
     <tu>
