@@ -1742,8 +1742,8 @@
       <tuv lang="en">
         <seg>2.1.&lt;x1/&gt;In an approved location between the fuel-burning appliance or fuel-burning fireplace and the dwelling unit, sleeping unit or classroom.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T014213Z">
-        <seg>2.1.&lt;x1/&gt; Dans un emplacement approuvé entre l'appareil à combustion ou le foyer à combustion et le logements, l'unité de couchage ou la salle de classe.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T014220Z">
+        <seg>2.1.&lt;x1/&gt; Dans un emplacement approuvé entre l'appareil à combustion ou le foyer à combustion et le logement, l'unité de couchage ou la salle de classe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2014,13 +2014,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.801: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Carbon monoxide detection shall not be required in dwelling units, sleeping units and classrooms located more than one story above or below a private garage.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2. La détection du monoxyde de&lt;x1/&gt; carbone n'est pas exigée dans les logements, les unités de couchage et les salles de classe situés à plus d'un étage au-dessus ou au-dessous d'un garage privé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T014351Z">
+        <seg>2. La détection du monoxyde de&lt;x1/&gt; carbone n’est pas requise dans les logements, les unités de couchage et les salles de classe situés à plus d’un étage au-dessus ou au-dessous d’un garage privé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22198,23 +22197,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.902: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 915.2.1 Dwelling units.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 915.2.1 Unités d'habitation.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T014526Z">
+        <seg>&lt;g1&gt;[F] 915.2.1 Logements.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.893: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 915.2.2 Sleeping units.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 915.2.2 Chambres.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T014608Z">
+        <seg>&lt;g1&gt;[F] 915.2.2 Unités de couchage.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22228,13 +22225,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.886: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 915.4 Carbon monoxide alarms.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 915.4 Détecteurs de monoxyde de carbone.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T015217Z">
+        <seg>&lt;g1&gt;[F] 915.4 Alarme de monoxyde de carbone.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28496,23 +28492,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.804: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Carbon monoxide alarm signals shall be automatically transmitted to an on-site location that is staffed by school personnel.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les signaux d'alarme de monoxyde de carbone doivent être automatiquement transmis à un endroit sur place où se trouve du personnel de l'école.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T015010Z">
+        <seg>Les signaux d’alarme des détecteurs de monoxyde de carbone doivent être automatiquement transmis à un endroit sur place où du personnel de l’école est présent.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.791: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Carbon monoxide alarm signals shall not be required to be automatically transmitted to an on-site location that is staffed by school personnel in Group E occupancies with an occupant load of 30 or less.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il n'est pas exigé que les signaux d'alarme de monoxyde de carbone soient automatiquement transmis à un emplacement sur place où se trouve du personnel scolaire dans les usages du groupe E dont la charge d'occupants est de 30 ou moins.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T015053Z">
+        <seg>Les signaux d’alarme des détecteurs de monoxyde de carbone ne sont pas tenus d’être automatiquement transmis à un endroit sur place où du personnel de l’école est présent dans les usages du groupe E dont la charge d’occupants est d’au plus 30 personnes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28605,33 +28599,30 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.871: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Carbon monoxide detection required by Sections 915.1 through 915.2.3 shall be provided by carbon monoxide alarms complying with Section 915.4 or carbon monoxide detection systems complying with Section 915.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La détection de monoxyde de carbone requise par les sections 915.1 à 915.2.3 doit être assurée par des détecteurs de monoxyde de carbone conformes à la section 915.4 ou par des systèmes de détection de monoxyde de carbone conformes à la section 915.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T015121Z">
+        <seg>La détection de monoxyde de carbone exigée par les sections 915.1 à 915.2.3 doit être assurée au moyen de détecteurs de monoxyde de carbone conformes à la section 915.4 ou de systèmes de détection de monoxyde de carbone conformes à la section 915.5.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.81: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Carbon monoxide detection shall be allowed to be installed outside of each separate sleeping area in the immediate vicinity of the sleeping unit where the sleeping unit or its attached bathroom does not contain a fuel-burning appliance and is not served by a forced air furnace.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il est permis d'installer un détecteur de monoxyde de carbone à l'extérieur de chaque chambre séparée, à proximité immédiate de la chambre, lorsque la chambre ou sa salle de bain attenante ne contient pas d'appareil à combustion et n'est pas desservie par une fournaise à air pulsé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T014908Z">
+        <seg>La détection de monoxyde de carbone peut être installée à l’extérieur de chaque aire de couchage distincte, à proximité immédiate de l’unité de couchage, lorsque l’unité de couchage ou sa salle de bains attenante ne contient pas d’appareil à combustion et n’est pas desservie par un appareil de chauffage à air pulsé.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Carbon monoxide detection shall be installed in dwelling units outside of each separate sleeping area in the immediate vicinity of the bedrooms.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des détecteurs de monoxyde de carbone doivent être installés dans les logements à l'extérieur de chaque espace de couchage séparé, à proximité immédiate des chambres à coucher.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T014628Z">
+        <seg>La détection de monoxyde de carbone doit être installée dans les logements, à l’extérieur de chaque aire de couchage distincte, à proximité immédiate des chambres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32913,13 +32904,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>For determining compliance with Section 915.1.5, an open parking garage complying with Section 406.5 or an enclosed parking garage complying with Section 406.6 shall not be considered a private garage.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour déterminer la conformité à la section 915.1.5, un parc de stationnement ouvert conforme à la section 406.5 ou un parc de stationnement fermé conforme à la section 406.6 ne doit pas être considéré comme un garage privé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T014434Z">
+        <seg>Pour déterminer la conformité à la section 915.1.5, un garage de stationnement ouvert conforme à la section 406.5 ou un garage de stationnement fermé conforme à la section 406.6 ne doit pas être considéré comme un garage privé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48447,13 +48437,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a fuel-burning appliance is located within a bedroom or its attached bathroom, carbon monoxide detection shall be installed within the bedroom.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un appareil à combustion est situé dans une chambre à coucher ou dans sa salle de bain attenante, un détecteur de monoxyde de carbone doit être installé dans la chambre à coucher.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T014638Z">
+        <seg>Lorsqu’un appareil à combustion est situé dans une chambre ou dans sa salle de bains attenante, la détection de monoxyde de carbone doit être installée dans la chambre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49753,13 +49742,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.883: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where required by Section 915.1.1, carbon monoxide detection shall be installed in the locations specified in Sections 915.2.1 through 915.2.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque l'article 915.1.1 l'exige, la détection de monoxyde de carbone doit être installée aux endroits spécifiés aux articles 915.2.1 à 915.2.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T014517Z">
+        <seg>Lorsque la section 915.1.1 l’exige, la détection de monoxyde de carbone doit être installée aux endroits précisés aux sections 915.2.1 à 915.2.3.</seg>
       </tuv>
     </tu>
     <tu>
