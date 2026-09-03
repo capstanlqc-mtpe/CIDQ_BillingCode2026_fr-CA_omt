@@ -679,13 +679,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.792: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Edge protection is not required on ramps that are not required to have handrails, provided they have flared sides that comply with the ICC A117.1 curb ramp provisions.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1. La protection des&lt;x1/&gt; bords n'est pas requise sur les rampes qui ne doivent pas comporter de rampes, à condition qu'elles aient des côtés évasés conformes aux dispositions de la norme ICC A117.1 relatives aux rampes de trottoir.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T044628Z">
+        <seg>1. La protection des&lt;x1/&gt; bords n’est pas requise pour les rampes qui ne sont pas tenues d’être munies de mains courantes, à condition qu’elles comportent des côtés évasés conformes aux dispositions de l’ICC A117.1 relatives aux rampes de bordure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2901,13 +2900,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.806: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2&lt;x1/&gt;.Edge protection is not required on the sides of ramp landings serving an adjoining ramp run or stairway.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2&lt;x1/&gt;. La protection des bords n'est pas exigée sur les côtés des paliers de rampe desservant une course de rampe ou un escalier adjacent.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T044655Z">
+        <seg>2&lt;x1/&gt;. La protection des bords n’est pas requise sur les côtés des paliers de rampe qui desservent une volée de rampe ou un escalier adjacent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3131,13 +3129,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.808: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;Edge protection is not required on the sides of ramp landings having a vertical dropoff of not more than 1/2 inch (12.7 mm) within 10 inches (254 mm) horizontally of the required landing area.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3. La protection&lt;x1/&gt; de bord n'est pas exigée sur les côtés des paliers de rampe ayant une dénivellation verticale n'excédant pas 1/2 po [12,7 mm] à moins de 10 po [254 mm] horizontalement de la zone de palier exigée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T044725Z">
+        <seg>3. La protection&lt;x1/&gt; des bords n'est pas exigée sur les côtés des paliers de rampe ayant une dénivellation verticale n'excédant pas 1/2 po (12,7 mm) à moins de 10 po (254 mm) horizontalement de la zone de palier exigée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24389,23 +24386,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.862: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A curb shall be not less than 4 inches (102 mm) in height.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une bordure ne doit pas avoir une hauteur inférieure à 4 po [102 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T044755Z">
+        <seg>Une bordure ne doit pas avoir une hauteur inférieure à 4 po (102 mm).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.756: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A curb, rail, wall or barrier shall be provided to serve as edge protection.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une bordure, un garde-fou, un mur ou une barrière doit être prévu pour servir de protection des bords.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T044742Z">
+        <seg>Une bordure, une rampe, un mur ou une barrière doit être prévu pour servir de protection des bords.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27848,13 +27843,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.844: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Barriers shall be constructed so that the barrier prevents the passage of a 4-inch-diameter (102 mm) sphere, where any portion of the sphere is within 4 inches (102 mm) of the floor or ground surface.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les barrières doivent être construites de manière à empêcher le passage d'une sphère de 4 po [102 mm] de diamètre, lorsque toute partie de la sphère se trouve à moins de 4 po [102 mm] du plancher ou de la surface du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T044818Z">
+        <seg>Les barrières doivent être construites de manière à empêcher le passage d’une sphère de 4 pouces (102 mm) de diamètre lorsque toute partie de la sphère se trouve à moins de 4 pouces (102 mm) de la surface du plancher ou du sol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39361,13 +39355,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.865: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Ramps with a rise greater than 6 inches (152 mm) shall have handrails on both sides.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes dont la hauteur est supérieure à 6 po [152 mm] doivent être munies de rampes des deux côtés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T044529Z">
+        <seg>Les rampes dont la hauteur est supérieure à 6 po (152 mm) doivent être munies de mains courantes des deux côtés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43594,13 +43587,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The floor or ground surface of the ramp run or landing shall extend 12 inches (305 mm) minimum beyond the inside face of a handrail complying with Section 1014.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le plancher ou la surface du sol de la course de la rampe ou du palier doit se prolonger d'au moins 12 po [305 mm] au-delà de la face intérieure d'une rampe conforme à la section 1014.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T044852Z">
+        <seg>La surface du plancher ou du sol de la volée de rampe ou du palier doit se prolonger d’au moins 12 pouces (305 mm) au-delà de la face intérieure d’une main courante conforme à la section 1014.</seg>
       </tuv>
     </tu>
     <tu>
