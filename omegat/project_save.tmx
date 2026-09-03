@@ -36614,13 +36614,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.799: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Landings shall have a slope not steeper than one unit vertical in 48 units horizontal (2-percent slope) in any direction.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les paliers doivent présenter une pente d'au plus une unité verticale sur 48 unités horizontales (pente de 2 %) dans n'importe quelle direction.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T042613Z">
+        <seg>Les paliers doivent présenter une pente d'au plus une unité verticale sur 48 unités horizontales (pente de 2 %) dans toute direction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39338,13 +39337,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Ramps shall have landings at the bottom and top of each ramp, points of turning, entrance, exits and at doors.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes doivent avoir des paliers au bas et au sommet de chaque rampe, aux points de virage, à l'entrée, aux sorties et aux portes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T042142Z">
+        <seg>Les rampes doivent comporter des paliers au bas et au sommet de chaque rampe, aux points de changement de direction, aux entrées, aux sorties et aux portes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42708,13 +42706,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The clear width of a ramp between handrails, if provided, or other permissible projections shall be 36 inches (914 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La largeur libre d'une rampe entre les rampes, le cas échéant, ou d'autres saillies autorisées doit être d'au moins 36 po [914 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T041725Z">
+        <seg>La largeur libre d'une rampe entre les mains courantes, le cas échéant, ou d'autres saillies autorisées doit être d'au moins 36 po (914 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44440,13 +44437,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The minimum headroom in all parts of the means of egress ramp shall be not less than 80 inches (2032 mm) above the finished floor of the ramp run and any intermediate landings.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La hauteur libre minimale dans toutes les parties de la rampe d'un moyen d'évacuation ne doit pas être inférieure à 80 po [2032 mm] au-dessus du sol fini de la course de la rampe et de tout palier intermédiaire.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T042010Z">
+        <seg>La hauteur libre minimale dans toutes les parties de la rampe faisant partie du moyen d’évacuation doit être d’au moins 80 pouces (2 032 mm) au-dessus du plancher fini de la volée de rampe et de tout palier intermédiaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44550,13 +44546,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The minimum width and required capacity of a means of egress ramp shall be not less than that required for corridors by Section 1020.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La largeur minimale et la capacité requise d'une rampe de moyen d'évacuation ne doivent pas être inférieures à celles qui sont exigées pour les corridors à l'article 1020.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T041634Z">
+        <seg>La largeur minimale et la capacité requise d'une rampe de moyen d'évacuation ne doivent pas être inférieures à celles qui sont exigées pour les corridors dans la section 1020.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45351,13 +45346,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The rise for any ramp run shall be 30 inches (762 mm) maximum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La hauteur de tout tronçon de rampe doit être d'au plus 30 po [762 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T041603Z">
+        <seg>La hauteur de tout tronçon de rampe doit être d'au plus 30 po (762 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45585,13 +45579,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.869: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The slope measured perpendicular to the direction of travel of a ramp shall not be steeper than one unit vertical in 48 units horizontal (2-percent slope).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La pente mesurée perpendiculairement au sens de déplacement d'une rampe ne doit pas être supérieure à une unité verticale sur 48 unités horizontales (pente de 2 pour cent).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T041539Z">
+        <seg>La pente mesurée perpendiculairement à la direction de déplacement d’une rampe ne doit pas être supérieure à une unité verticale pour 48 unités horizontales (pente de 2 pour cent).</seg>
       </tuv>
     </tu>
     <tu>
