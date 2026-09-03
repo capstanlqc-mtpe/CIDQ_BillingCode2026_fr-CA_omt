@@ -6133,13 +6133,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.897: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1012.6.5 Doorways.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1012.6.5 Portes.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T043632Z">
+        <seg>&lt;g1&gt;1012.6.5 Ouvertures de portes.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34846,13 +34845,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.771: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group R-2 and R-3 individual dwelling or sleeping units that are not required to be Accessible units, Type A units or Type B units in accordance with Section 1108, landings are permitted to be 36 inches by 36 inches (914 mm by 914 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les unités d'habitation individuelles ou les unités de couchage des groupes R-2 et R-3 qui ne doivent pas être des unités accessibles, des unités de type A ou des unités de type B selon la section 1108, les paliers peuvent mesurer au moins 36 po sur 36 po [914 mm sur 914 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T043616Z">
+        <seg>Dans les logements individuels ou les unités de couchage individuelles des usages des groupes R-2 et R-3 qui ne sont pas tenus d’être des logements accessibles, des logements de type A ou des logements de type B conformément à la section 1108, les paliers peuvent avoir une dimension minimale de 36 pouces sur 36 pouces (914 mm sur 914 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39306,13 +39304,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Ramps shall be built of materials consistent with the types permitted for the type of construction of the building, except that wood handrails shall be permitted for all types of construction.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes doivent être construites avec des matériaux conformes aux types autorisés pour le type de construction du bâtiment, à l'exception des rampes en bois qui sont autorisées pour tous les types de construction.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T044042Z">
+        <seg>Les rampes doivent être construites avec des matériaux conformes aux types de matériaux autorisés pour le type de construction du bâtiment, sauf que des mains courantes en bois sont autorisées pour tous les types de construction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48978,13 +48975,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.804: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where changes in direction of travel occur at landings provided between ramp runs, the landing shall be 60 inches by 60 inches (1524 mm by 1524 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des changements de direction de déplacement se produisent au niveau des paliers prévus entre les tronçons de rampe, le palier doit être d'au moins 60 po sur 60 po [1524 mm sur 1524 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T043335Z">
+        <seg>Lorsque des changements de direction du déplacement se produisent aux paliers prévus entre les volées de rampe, le palier doit avoir une dimension minimale de 60 pouces sur 60 pouces (1 524 mm sur 1 524 mm).</seg>
       </tuv>
     </tu>
     <tu>
