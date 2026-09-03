@@ -26235,13 +26235,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An accessible route is not required to stories, mezzanines and occupied roofs that have an aggregate area of not more than 3,000 square feet (278.7 m2) and are located above and below accessible levels.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il n'est pas nécessaire de prévoir un itinéraire accessible vers les étages, les mezzanines et les toits occupés dont la superficie totale n'excède pas 3000 pi2 [278,7 m2] et qui sont situés au-dessus et au-dessous des niveaux accessibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T190042Z">
+        <seg>Une voie accessible n’est pas exigée pour les étages, les mezzanines et les toitures occupées dont la superficie totale ne dépasse pas 3 000 pi² (278,7 m²) et qui sont situés au-dessus ou au-dessous de niveaux accessibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26255,23 +26254,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An accessible route shall not be required to freestanding press boxes that are more than 12 feet (3660 mm) above grade provided that the aggregate area of all press boxes for each playing field is not more than 500 square feet (46 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il n'est pas nécessaire de prévoir un itinéraire accessible vers les loges de presse autoportantes qui se trouvent à plus de 12 pi [3660 mm] au-dessus du niveau du sol, à condition que la superficie totale de toutes les loges de presse pour chaque terrain de jeu ne dépasse pas 500 pi2 [46 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T185436Z">
+        <seg>Une voie accessible n’est pas exigée pour les cabines de presse autonomes situées à plus de 12 pi (3 660 mm) au-dessus du niveau du sol, à condition que la superficie totale de toutes les cabines de presse pour chaque terrain de jeu ne soit pas supérieure à 500 pi2 (46 m2).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.813: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An accessible route shall not be required to press boxes in bleachers that have a single point of entry from the bleachers, provided that the aggregate area of all press boxes for each playing field is not more than 500 square feet (46 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il n'est pas nécessaire de prévoir un itinéraire accessible vers les loges de presse dans les gradins qui ont un point d'entrée unique à partir des gradins, à condition que la superficie totale de toutes les loges de presse pour chaque terrain de jeu ne dépasse pas 500 pi2 [46 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T185423Z">
+        <seg>Une voie accessible n’est pas exigée pour les cabines de presse situées dans les gradins qui ne comportent qu’un seul point d’accès depuis les gradins, à condition que la superficie totale de toutes les cabines de presse pour chaque terrain de jeu ne soit pas supérieure à 500 pi2 (46 m2).</seg>
       </tuv>
     </tu>
     <tu>
