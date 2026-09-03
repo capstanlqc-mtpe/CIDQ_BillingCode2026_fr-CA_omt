@@ -7100,13 +7100,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.878: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1030.14.2 Stepped aisles.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1030.14.2 Allées en escalier.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T160930Z">
+        <seg>&lt;g1&gt;1030.14.2 Allées à gradins.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26008,23 +26007,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Aisles that are sloped more than 1 unit vertical in 20 units horizontal (5-percent slope) shall be considered to be a ramped aisle.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les allées dont la pente est supérieure à 1 unité verticale sur 20 unités horizontales (pente de 5 pour cent) doivent être considérées comme des allées en rampe.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T160606Z">
+        <seg>Les allées dont la pente est supérieure à 1 unité verticale sur 20 unités horizontales (pente de 5 %) doivent être considérées comme des allées en pente.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Aisles with a slope exceeding one unit vertical in eight units horizontal (12.5-percent slope) shall consist of a series of risers and treads that extends across the full width of aisles and complies with Sections 1030.14.2.1 through 1030.14.2.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les allées dont la pente est supérieure à une unité verticale sur huit unités horizontales (pente de 12,5 pour cent) doivent être constituées d'une série de contremarches et de girons qui s'étendent sur toute la largeur des allées et qui sont conformes aux sections 1030.14.2.1 à 1030.14.2.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T160922Z">
+        <seg>Les allées dont la pente est supérieure à 1 unité verticale sur 8 unités horizontales (pente de 12,5 %) doivent être constituées d’une série de contremarches et de girons s’étendant sur toute la largeur des allées et doivent être conformes aux sections 1030.14.2.1 à 1030.14.2.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35113,13 +35110,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.8: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In assembly spaces with fixed seating, edge protection is not required on the sides of ramped aisles where the ramped aisles provide access to the adjacent seating and aisle accessways.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les espaces de réunion avec des places assises fixes, la protection des bords n'est pas exigée sur les côtés des allées en pente lorsque les allées en pente donnent accès aux places assises adjacentes et aux voies d'accès aux allées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T160907Z">
+        <seg>Dans les espaces d’assemblées comportant des sièges fixes, une protection de rive n’est pas exigée sur les côtés des allées en pente lorsque celles-ci donnent accès aux sièges adjacents et aux voies d’accès aux allées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36361,13 +36357,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.734: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Landings for ramped aisles shall be permitted to overlap required aisles or cross aisles.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les paliers des allées en rampe peuvent chevaucher les allées requises ou les allées transversales.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T160821Z">
+        <seg>Les paliers des allées en pente peuvent empiéter sur les allées ou les allées transversales requises.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39062,13 +39057,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Ramped aisles shall have landings in accordance with Sections 1012.6 through 1012.6.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les allées en rampe doivent avoir des paliers selon les sections 1012.6 à 1012.6.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T160733Z">
+        <seg>Les allées en pente doivent comporter des paliers conformément aux sections 1012.6 à 1012.6.5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39082,13 +39076,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Ramped aisles that serve as part of an accessible route in accordance with Sections 1009 and 1109.2 shall have a maximum slope of 1 unit vertical in 12 units horizontal (8-percent slope).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les allées en pente qui font partie d'un itinéraire accessible selon les sections 1009 et 1109.2 doivent avoir une pente maximale de 1 unité verticale sur 12 unités horizontales (pente de 8 %).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T160530Z">
+        <seg>Les allées en pente qui font partie d’une voie accessible conformément aux sections 1009 et 1109.2 doivent avoir une pente maximale de 1 unité verticale sur 12 unités horizontales (pente de 8 %).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41209,8 +41202,8 @@
       <tuv lang="en">
         <seg>Stepped aisles shall comply with Sections 1030.14.2 through 1030.14.2.4.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T041800Z">
-        <seg>Les allées en gradins doivent être conformes aux sections 1030.14.2 à 1030.14.2.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T160425Z">
+        <seg>Les allées à gradins doivent être conformes aux sections 1030.14.2 à 1030.14.2.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45335,13 +45328,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.847: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The slope measured perpendicular to the direction of travel of a ramped aisle shall not be steeper than 1 unit vertical in 48 units horizontal (2-percent slope).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La pente mesurée perpendiculairement au sens de déplacement d'une allée en pente ne doit pas être supérieure à 1 unité verticale sur 48 unités horizontales (pente de 2 %).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T160632Z">
+        <seg>La pente mesurée perpendiculairement au sens de circulation d’une allée en pente ne doit pas être supérieure à 1 unité verticale sur 48 unités horizontales (pente de 2 %).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45355,13 +45347,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.849: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The slope of other ramped aisles shall not exceed 1 unit vertical in 8 units horizontal (12.5-percent slope).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La pente des autres allées en rampe ne doit pas dépasser 1 unité verticale sur 8 unités horizontales (pente de 12,5 pour cent).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T160601Z">
+        <seg>La pente des autres allées en pente ne doit pas être supérieure à 1 unité verticale sur 8 unités horizontales (pente de 12,5 %).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45711,13 +45702,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.854: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The tolerance between adjacent treads shall not exceed 3/16 inch (4.8 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La tolérance entre les pas de marche adjacents ne doit pas excéder 3/16 po [4,8 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T161027Z">
+        <seg>La tolérance entre les girons adjacents ne doit pas excéder 3/16 po (4,8 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46998,13 +46988,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.85: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Tread depths shall be not less than 11 inches (279 mm) and shall have dimensional uniformity.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La profondeur des pas de marche ne doit pas être inférieure à 11 po [279 mm] et les dimensions doivent être uniformes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T160955Z">
+        <seg>La profondeur des girons ne doit pas être inférieure à 11 po (279 mm) et leurs dimensions doivent être uniformes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49879,13 +49868,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the gradient of stepped aisles is to be the same as the gradient of adjoining seating areas, the riser height shall be not less than 4 inches (102 mm) nor more than 8 inches (203 mm) and shall be uniform within each flight.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque la pente des allées à marches doit être la même que celle des zones de SIÈGES adjacentes, la hauteur de la contremarche ne doit pas être inférieure à 4 po [102 mm] ni supérieure à 8 po [203 mm] et doit être uniforme dans chaque volée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T164302Z">
+        <seg>Lorsque la pente des allées à gradins est la même que celle des aires de sièges adjacentes, la hauteur des contremarches ne doit être ni inférieure à 4 po (102 mm) ni supérieure à 8 po (203 mm), et doit être uniforme dans chaque volée.</seg>
       </tuv>
     </tu>
     <tu>
