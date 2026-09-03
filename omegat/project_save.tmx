@@ -839,13 +839,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;In a building, room or space used for assembly purposes or portions thereof without ramped or tiered floors for seating and with 200 or fewer seats, the seats shall not be required to be fastened to the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Dans un bâtiment, une pièce ou une aire utilisée à des fins de réunions ou dans des parties de ceux-ci sans planchers en pente ou à gradins pour les sièges et avec 200 sièges ou moins, les sièges ne sont pas tenus d'être fixés au plancher.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T164850Z">
+        <seg>1.&lt;x1/&gt; Dans un bâtiment, une pièce ou un espace utilisé à des fins d’assemblée, ou dans une partie de ceux-ci, qui ne comporte pas de planchers en pente ou en gradins pour les sièges et qui compte au plus 200 sièges, les sièges ne sont pas tenus d’être fixés au plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -975,13 +974,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.754: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Riser height nonuniformity shall be limited to the extent necessitated by changes in the gradient of the adjoining seating area to maintain adequate sight-lines.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1. Le manque d'uniformité de la hauteur&lt;x1/&gt; des contremarches doit être limité dans la mesure nécessaire en raison des changements de la pente de la zone de SIÈGES adjacente pour maintenir des lignes de visibilité adéquates.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T164334Z">
+        <seg>1. La non-uniformité de la hauteur &lt;x1/&gt; des contremarches doit être limitée dans la mesure rendue nécessaire par les variations de la pente de l’aire de sièges adjacente afin de maintenir des lignes de visibilité adéquates.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2153,13 +2151,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;In a building, room or space used for assembly purposes or portions thereof with seating at tables and without ramped or tiered floors for seating, the seats shall not be required to be fastened to the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Dans un bâtiment, une pièce ou une aire utilisée à des fins de réunions ou dans des parties de ceux-ci avec des sièges à des tables et sans planchers en pente ou à gradins pour les sièges, les sièges ne sont pas tenus d'être fixés au plancher.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T164905Z">
+        <seg>2.&lt;x1/&gt; Dans un bâtiment, une pièce ou un espace utilisé à des fins d’assemblée, ou dans une partie de ceux-ci, qui comporte des sièges disposés autour de tables et qui ne comporte pas de planchers en pente ou en gradins pour les sièges, les sièges ne sont pas tenus d’être fixés au plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2334,13 +2331,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.791: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Riser heights not exceeding 9 inches (229 mm) shall be permitted where they are necessitated by the slope of the adjacent seating areas to maintain sightlines.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2. Des hauteurs&lt;x1/&gt; de contremarches ne dépassant pas 9 po [229 mm] sont autorisées lorsqu'elles sont rendues nécessaires par la pente des zones de sièges adjacentes pour maintenir les lignes de visibilité.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T164426Z">
+        <seg>2. Des hauteurs&lt;x1/&gt; des contremarches ne dépassant pas 9 po (229 mm) sont autorisées lorsqu'elles sont rendues nécessaires par la pente des zones de sièges adjacentes pour maintenir les lignes de visibilité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3195,13 +3191,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;In a building, room or space used for assembly purposes or portions thereof without ramped or tiered floors for seating and with greater than 200 seats, the seats shall be fastened together in groups of not less than three or the seats shall be securely fastened to the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Dans un bâtiment, une pièce ou une aire utilisée à des fins de réunions ou des parties de ceux-ci sans planchers en pente ou en gradins pour les sièges et avec plus de 200 sièges, les sièges doivent être fixés ensemble en groupes d'au moins trois ou les sièges doivent être solidement fixés au plancher.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T164947Z">
+        <seg>3.&lt;x1/&gt; Dans un bâtiment, une pièce ou un espace utilisé à des fins d’assemblée, ou dans une partie de ceux-ci, qui ne comporte pas de planchers en pente ou en gradins pour les sièges et qui compte plus de 200 sièges, les sièges doivent être fixés les uns aux autres par groupes d’au moins trois sièges ou doivent être solidement fixés au plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3783,13 +3778,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>4.&lt;x1/&gt;In a building, room or space used for assembly purposes where flexibility of the seating arrangement is an integral part of the design and function of the space and seating is on tiered levels, not more than 200 seats shall not be required to be fastened to the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>4.&lt;x1/&gt; Dans un bâtiment, une pièce ou une aire utilisée à des fins de réunions où la flexibilité de la disposition des sièges fait partie intégrante de la conception et de la fonction de l'aire et où les sièges sont disposés en gradins, il n'est pas nécessaire de fixer au sol plus de 200 sièges.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T165040Z">
+        <seg>4.&lt;x1/&gt; Dans un bâtiment, une pièce ou un espace utilisé à des fins d’assemblée où la flexibilité de la disposition des sièges fait partie intégrante de la conception et de la fonction de l’espace et où les sièges sont disposés sur des niveaux en gradins, au plus 200 sièges ne sont pas tenus d’être fixés au plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4259,13 +4253,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.803: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>5.&lt;x1/&gt;Groups of seats within a building, room or space used for assembly purposes separated from other seating by railings, guards, partial height walls or similar barriers with level floors and having not more than 14 seats per group shall not be required to be fastened to the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>5. Les&lt;x1/&gt; groupes de sièges à l'intérieur d'un bâtiment, d'une pièce ou d'une aire utilisée à des fins de réunions, séparés des autres sièges par des garde-corps, des garde-fous, des murs de hauteur partielle ou des barrières similaires, avec des planchers de niveau et ne comportant pas plus de 14 sièges par groupe, ne sont pas tenus d'être fixés au plancher.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T165111Z">
+        <seg>5. Les&lt;x1/&gt; groupes de sièges situés dans un bâtiment, une pièce ou un espace utilisé à des fins d’assemblée, séparés des autres sièges par des garde-corps, des protections, des murs de hauteur partielle ou des barrières similaires, dont les planchers sont de niveau et qui comptent au plus 14 sièges par groupe, ne sont pas tenus d’être fixés au plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4434,13 +4427,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>6.&lt;x1/&gt;Seats intended for musicians or other performers and separated by railings, guards, partial height walls or similar barriers shall not be required to be fastened to the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>6.&lt;x1/&gt; Les sièges destinés aux musiciens ou à d'autres artistes et séparés par des garde-fous, des garde-corps, des murs de hauteur partielle ou des barrières similaires ne sont pas tenus d'être fixés au sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T165148Z">
+        <seg>6.&lt;x1/&gt; Les sièges destinés aux musiciens ou à d’autres artistes et séparés des autres sièges par des garde-corps, des protections, des murs de hauteur partielle ou des barrières similaires ne sont pas tenus d’être fixés au plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7139,13 +7131,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.862: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1030.14.2.3 Tread contrasting marking stripe.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1030.14.2.3 Bande de marquage contrastante sur la marche.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T164550Z">
+        <seg>&lt;g1&gt;1030.14.2.3 Bande de marquage contrastante des girons.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7169,13 +7160,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.895: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1030.16 Handrails.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1030.16 Rampes.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T165202Z">
+        <seg>&lt;g1&gt;1030.16 Mains courantes.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24266,13 +24256,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.796: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A contrasting marking stripe shall be provided on each tread at the nosing or leading edge such that the location of each tread is readily apparent when viewed in descent.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une bande de marquage contrastante doit être prévue sur chaque marche au niveau du nez ou du bord avant de manière à ce que l'emplacement de chaque marche soit facilement visible en descendant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T164609Z">
+        <seg>Une bande de marquage contrastante doit être prévue sur chaque giron, au niveau du nez de marche ou du bord avant, de manière que l’emplacement de chaque giron soit facilement perceptible lorsqu’il est observé dans le sens de la descente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34818,13 +34807,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.866: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In a building, room or space used for assembly purposes, the seats shall be securely fastened to the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans un bâtiment, une pièce ou une aire utilisée à des fins de réunions, les sièges doivent être solidement fixés au plancher.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T164723Z">
+        <seg>Dans un bâtiment, une pièce ou un espace utilisé à des fins d’assemblée, les sièges doivent être solidement fixés au plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38555,13 +38543,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.732: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Plans showing seating, tiers and aisles shall be submitted for approval.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des VUES EN PLAN montrant les SIÈGES, les gradins et les allées doivent être présentées pour approbation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T165057Z">
+        <seg>Les plans indiquant les sièges, les gradins et les allées doivent être soumis pour approbation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39027,13 +39014,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.844: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Ramped aisles having a slope exceeding one unit vertical in 15 units horizontal (6.7-percent slope) and stepped aisles shall be provided with handrails in compliance with Section 1014 located either at one or both sides of the aisle or within the aisle width.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les allées en pente dont la pente est supérieure à une unité verticale sur 15 unités horizontales (pente de 6,7 pour cent) et les allées à gradins doivent être munies de rampes conformes à la section 1014, situées soit d'un côté ou des deux côtés de l'allée, soit à l'intérieur de la largeur de l'allée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T165251Z">
+        <seg>Les allées en pente dont la pente est supérieure à 1 unité verticale sur 15 unités horizontales (pente de 6,7 %) et les allées à gradins doivent être munies de mains courantes conformes à la section 1014, situées sur un ou sur les deux côtés de l’allée ou à l’intérieur de sa largeur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41506,13 +41492,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.869: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Such stripe shall be not less than 1 inch (25 mm) and not more than 2 inches (51 mm) wide.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Cette bande doit avoir une largeur d'au moins 1 po [25 mm] et d'au plus 2 po [51 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T164615Z">
+        <seg>Cette bande doit avoir une largeur d’au moins 1 po (25 mm) et d’au plus 2 po (51 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45692,13 +45677,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The tolerance between adjacent risers on a stepped aisle that were designed to be equal height shall not exceed 3/16 inch (4.8 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La tolérance entre les contremarches adjacentes d'une allée en escalier conçues pour être de hauteur égale ne doit pas dépasser 3/16 po [4,8 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T164501Z">
+        <seg>La tolérance entre des contremarches adjacentes d’une allée à gradins qui ont été conçues pour avoir la même hauteur ne doit pas être supérieure à 3/16 po (4,8 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49104,13 +49088,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where nonuniformities exceed 3/16 inch (4.8 mm) between adjacent risers, the exact location of such nonuniformities shall be indicated with a distinctive marking stripe on each tread at the nosing or leading edge adjacent to the nonuniform risers.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les irrégularités dépassent 3/16 po [4,8 mm] entre les contremarches adjacentes, l'emplacement exact de ces irrégularités doit être indiqué par une bande de marquage distinctive sur chaque marche au niveau du nez de marche ou du bord avant adjacent aux contremarches irrégulières.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T164344Z">
+        <seg>Lorsque les écarts de hauteur entre des contremarches adjacentes sont supérieurs à 3/16 po (4,8 mm), l’emplacement exact de ces écarts doit être indiqué au moyen d’une bande de marquage distinctive sur chaque giron, au niveau du nez de marche ou du bord avant adjacent aux contremarches non uniformes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49621,13 +49604,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.782: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where stepped aisles have seating on one side and the aisle width is 74 inches (1880 mm) or greater, two handrails are required.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les allées en paliers ont des sièges d'un côté et que la largeur de l'allée est de 74 po [1880 mm] ou plus, deux rampes sont exigées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T165306Z">
+        <seg>Lorsque les allées à gradins comportent des sièges sur un côté et que la largeur de l’allée est de 74 po (1 880 mm) ou plus, deux mains courantes sont exigées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50068,13 +50050,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the stepped aisle is designed in accordance with Exception 1 of Section 1030.14.2.2, the stepped aisle shall be constructed so that each riser of unequal height, determined in the direction of descent, is not more than 3/8 inch (9.5 mm) in height different from adjacent risers where stepped aisle treads are less than 22 inches (560 mm) in depth and 3/4 inch (19.1 mm) in height different from adjacent risers where stepped aisle treads are 22 inches (560 mm) or greater in depth.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque l'allée en escalier est conçue conformément à l'Exception 1 de l'article 1030.14.2.2, l'allée en escalier doit être construite de manière à ce que chaque contremarche de hauteur inégale, déterminée dans le sens de la descente, ne diffère pas de plus de 3/8 po [9,5 mm] en hauteur des contremarches adjacentes lorsque les marches de l'allée en escalier ont une profondeur inférieure à 22 po [560 mm] et de 3/4 po [19,1 mm] en hauteur des contremarches adjacentes lorsque les marches de l'allée en escalier ont une profondeur de 22 po [560 mm] ou plus.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T164508Z">
+        <seg>Lorsque l’allée à gradins est conçue conformément à l’exception 1 de la section 1030.14.2.2, elle doit être construite de manière que chaque contremarche de hauteur inégale, déterminée dans le sens de la descente, ne présente pas une différence de hauteur de plus de 3/8 po (9,5 mm) par rapport aux contremarches adjacentes lorsque les girons de l’allée à gradins ont une profondeur inférieure à 22 po (560 mm), et de plus de 3/4 po (19,1 mm) par rapport aux contremarches adjacentes lorsque les girons de l’allée à gradins ont une profondeur de 22 po (560 mm) ou plus.</seg>
       </tuv>
     </tu>
     <tu>
