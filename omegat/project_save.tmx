@@ -1020,13 +1020,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.806: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;The area shall be of a size to accommodate not less than 5 square feet (0.46 m2) for each person.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; La zone doit être d'une taille permettant d'accueillir au moins 5 pi2 [0,46 m2] pour chaque personne.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T062632Z">
+        <seg>1.&lt;x1/&gt; La zone doit être d’une dimension permettant d’accueillir au moins 5 pieds carrés (0,46 m2) par personne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2388,13 +2387,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;The area shall be located on the same lot not less than 50 feet (15 240 mm) away from the building requiring egress.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; La zone doit être située sur le même terrain à au moins 50 pi (15 240 mm) du bâtiment nécessitant une évacuation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T062615Z">
+        <seg>2.&lt;x1/&gt; La zone doit être située sur le même lot, à au moins 50 pi (15 240 mm) du bâtiment nécessitant une évacuation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23975,13 +23973,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A building, room or space used for assembly purposes that has an occupant load of greater than 300 and is provided with a main exit, that main exit shall be of sufficient capacity to accommodate not less than one-half of the occupant load, but such capacity shall be not less than the total required capacity of all means of egress leading to the exit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans un bâtiment, une pièce ou une aire utilisée à des fins de réunions qui a une charge d'occupants supérieure à 300 et qui est pourvu d'une issue principale, cette issue principale doit avoir une capacité suffisante pour accueillir au moins la moitié de la charge d'occupants, mais cette capacité ne doit pas être inférieure à la capacité requise totale de tous les moyens d'évacuation menant à l'issue.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063022Z">
+        <seg>Un bâtiment, une salle ou un espace utilisé à des fins d’assemblée dont la charge d’occupation est supérieure à 300 personnes et qui est muni d’une issue principale doit avoir une issue principale d’une capacité suffisante pour accueillir au moins la moitié de la charge d’occupation; toutefois, cette capacité ne doit pas être inférieure à la capacité totale requise de tous les moyens d’évacuation menant à l’issue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27997,13 +27994,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.793: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Bleachers, grandstands and folding and telescopic seating, that are not building elements, shall comply with ICC 300.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les gradins, les tribunes et les SIÈGES pliants et télescopiques, qui ne sont pas des éléments de construction, doivent être conformes à l'ICC 300.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T062850Z">
+        <seg>Les gradins, les tribunes et les sièges pliants et télescopiques, qui ne sont pas des éléments de construction, doivent être conformes à l'ICC 300.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30860,13 +30856,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.806: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Egress courts serving Group R-3 and U occupancies shall be not less than 36 inches (914 mm) in width.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les cours d'évacuation desservant les occupations des groupes R-3 et U doivent avoir une largeur d'au moins 36 po [914 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T062713Z">
+        <seg>Les cours d'évacuation desservant les occupations des groupes R-3 et U doivent avoir une largeur d'au moins 36 po (914 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32695,13 +32690,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>For balconies, galleries or press boxes having a seating capacity of 50 or more located in a building, room or space used for assembly purposes, not less than two means of egress shall be provided, with one from each side of every balcony, gallery or press box.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les balcons, les galeries ou les loges de presse d'une capacité de 50 sièges ou plus situés dans un bâtiment, une pièce ou une aire utilisée à des fins de réunions, au moins deux moyens d'évacuation doivent être prévus, un de chaque côté de chaque balcon, galerie ou loge de presse.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063235Z">
+        <seg>Pour les balcons, les galeries ou les loges de presse ayant une capacité de sièges de 50 personnes ou plus et situés dans un bâtiment, une salle ou un espace utilisé à des fins d’assemblée, au moins deux moyens d’évacuation doivent être prévus, dont un de chaque côté de chaque balcon, galerie ou loge de presse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34182,13 +34176,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.847: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Horizontal exits complying with Section 1026 shall not be required to discharge directly to the exterior of the building.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les issues horizontales conformes à l'article 1026 ne sont pas tenues de permettre l'évacuation directement à l'extérieur du bâtiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T062348Z">
+        <seg>Les issues horizontales conformes à la section 1026 ne sont pas tenues de permettre l'évacuation directement à l'extérieur du bâtiment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34509,13 +34502,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group A-1 occupancies, where persons are admitted to the building at times when seats are not available, such persons shall be allowed to wait in a lobby or similar space, provided that such lobby or similar space shall not encroach on the minimum width or required capacity of the means of egress.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les occupations du groupe A-1, lorsque des personnes sont admises dans le bâtiment à des moments où il n'y a pas de sièges disponibles, ces personnes doivent être autorisées à attendre dans un hall ou un lieu similaire, à condition que ce hall ou ce lieu similaire n'empiète pas sur la largeur minimale ou la capacité requise des moyens d'évacuation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063212Z">
+        <seg>Dans les usages du groupe A-1, lorsque des personnes sont admises dans le bâtiment à des moments où aucune place assise n’est disponible, ces personnes doivent être autorisées à attendre dans un hall ou un espace similaire, à condition que ce hall ou cet espace similaire n’empiète pas sur la largeur minimale ou la capacité requise du moyen d’évacuation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34857,23 +34849,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In a building used for assembly purposes where there is not a well-defined main exit or where multiple main exits are provided, exits for each level shall be permitted to be distributed around the perimeter of the building, provided that the total width of egress is not less than 100 percent of the required width.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans un bâtiment utilisé à des fins de réunions où il n'y a pas d'issue principale bien définie ou où il y a plusieurs issues principales, les issues de chaque étage peuvent être réparties autour du périmètre du bâtiment, à condition que la largeur totale de l'évacuation ne soit pas inférieure à 100 % de la largeur requise.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063121Z">
+        <seg>Dans un bâtiment utilisé à des fins d’assemblée où il n’y a pas d’issue principale clairement définie ou où plusieurs issues principales sont prévues, les issues de chaque niveau peuvent être réparties autour du périmètre du bâtiment, à condition que la largeur totale d’évacuation soit d’au moins 100 % de la largeur requise.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In a building, room or space used for assembly purposes where there is not a well-defined main exit or where multiple main exits are provided, exits shall be permitted to be distributed around the perimeter of the building provided that the total capacity of egress is not less than 100 percent of the required capacity.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans un bâtiment, une pièce ou une aire utilisée à des fins de réunions où il n'y a pas d'issue principale bien définie ou où plusieurs issues principales sont prévues, les issues peuvent être réparties autour du périmètre du bâtiment, à condition que la capacité totale d'évacuation ne soit pas inférieure à 100 pour cent de la capacité requise.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063045Z">
+        <seg>Dans un bâtiment, une salle ou un espace utilisé à des fins d’assemblée où il n’y a pas d’issue principale clairement définie ou où plusieurs issues principales sont prévues, les issues peuvent être réparties autour du périmètre du bâtiment à condition que la capacité totale d’évacuation soit d’au moins 100 % de la capacité requise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34927,13 +34917,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In addition to having access to a main exit, each level in a building used for assembly purposes having an occupant load greater than 300 and provided with a main exit, shall be provided with additional means of egress that shall provide an egress capacity for not less than one-half of the total occupant load served by that level and shall comply with Section 1007.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>En plus d'avoir accès à une issue principale, chaque étage d'un bâtiment utilisé à des fins de réunions ayant une charge d'occupants supérieure à 300 et doté d'une issue principale doit être pourvu de moyens d'évacuation supplémentaires qui doivent fournir une capacité d'évacuation d'au moins la moitié de la charge d'occupants totale desservie par cet étage et doivent être conformes à la section 1007.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063113Z">
+        <seg>En plus de donner accès à une issue principale, chaque niveau d’un bâtiment utilisé à des fins d’assemblée dont la charge d’occupation est supérieure à 300 personnes et qui est muni d’une issue principale doit être pourvu de moyens d’évacuation supplémentaires offrant une capacité d’évacuation correspondant à au moins la moitié de la charge d’occupation totale desservie par ce niveau et conformes à la section 1007.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37601,13 +37590,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Not more than 50 percent of the number and minimum width or required capacity of the interior exit stairways and ramps is permitted to egress through a vestibule provided that all of the following conditions are met:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Au plus 50 pour cent du nombre et de la largeur minimale ou de la capacité requise des escaliers et rampes d'issue intérieurs peuvent être évacués par un vestibule, à condition que toutes les conditions suivantes soient respectées :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T062255Z">
+        <seg>Au plus 50 % du nombre et de la largeur minimale ou de la capacité requise des escaliers et rampes d’issue intérieurs peuvent être évacués par un vestibule, à condition que toutes les conditions suivantes soient respectées :</seg>
       </tuv>
     </tu>
     <tu>
@@ -37995,13 +37983,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.783: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Openings within such walls shall be protected by opening protectives having a fire protection rating of not less than 3/4 hour.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures dans ces murs doivent être protégées par une protection d'ouvertures ayant un degré de protection contre le feu d'au moins 3/4 d'heure.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T062806Z">
+        <seg>Les ouvertures dans ces murs doivent être protégées par des dispositifs de protection des ouvertures présentant un degré de protection contre l’incendie d’au moins 3/4 heure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38091,13 +38078,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Other accessory use areas 1,000 square feet (92.9 m2) or less in area and equipped with an automatic sprinkler system in accordance with Section 903.3.1.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Autres aires d'usage accessoire d'une superficie de 1000 pi2 [92,9 m2] ou moins et équipées d'un système d'extincteurs automatiques selon la section 903.3.1.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T062940Z">
+        <seg>Autres aires d'usage accessoire d'une superficie de 1000 pi2 (92,9 m2) ou moins et équipées d'un système d'extincteurs automatiques selon la section 903.3.1.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40853,13 +40839,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.808: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Spaces under grandstands or bleachers shall be separated by fire barriers complying with Section 707 and horizontal assemblies complying with Section 711 with not less than 1-hour fire-resistance-rated construction.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les espaces sous les tribunes ou les gradins doivent être séparés par des barrières coupe-feu conformes à la section 707 et des ensembles horizontaux conformes à la section 711 avec une construction ayant un degré de résistance au feu d'au moins une (1) heure.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T062909Z">
+        <seg>Les espaces situés sous les gradins ou les estrades doivent être séparés par des séparations coupe-feu conformes à la section 707 et des ensembles horizontaux conformes à la section 711, présentant un degré de résistance au feu d’au moins 1 heure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41470,13 +41455,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Such foyer, if not directly connected to a public street by all the main entrances or exits, shall have a straight and unobstructed corridor or path of travel to every such main entrance or exit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ce foyer, s'il n'est pas directement relié à une voie publique par toutes les entrées ou issues principales, doit avoir un corridor ou un chemin de circulation droit et non obstrué vers chacune de ces entrées ou issues principales.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063219Z">
+        <seg>Un tel foyer, s’il n’est pas directement relié à une rue publique par toutes les entrées ou issues principales, doit être desservi par un corridor ou un parcours rectiligne et sans obstruction menant à chacune de ces entrées ou issues principales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43155,13 +43139,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The entire area of the vestibule is separated from areas below by construction conforming to the fire-resistance rating of the interior exit stairway or ramp enclosure.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Toute l'aire du vestibule est séparée des aires situées en dessous par une construction conforme au degré de résistance au feu de l'enceinte de l'escalier ou de la rampe d'issue intérieurs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T062307Z">
+        <seg>L’ensemble de la superficie du vestibule doit être séparé des espaces situés en dessous par une construction présentant le degré de résistance au feu exigé pour l’enceinte de l’escalier ou de la rampe d’issue intérieur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43247,13 +43230,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.844: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The exit discharge shall provide a direct and unobstructed access to a public way.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'issue d'évacuation doit fournir un accès direct et non obstrué à une voie publique.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T062427Z">
+        <seg>L'issue d'évacuation doit fournir un accès direct et dégagé à une voie publique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45059,13 +45041,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The required capacity and width of egress courts shall be unobstructed to a height of 7 feet (2134 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La capacité requise et la largeur des cours d'évacuation doivent être non obstruées jusqu'à une hauteur de 7 pi [2134 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T062722Z">
+        <seg>La capacité requise et la largeur des cours d'évacuation doivent être non obstruées jusqu'à une hauteur de 7 pi (2134 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45109,13 +45090,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.866: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The required capacity of egress courts shall be determined as specified in Section 1005.1, but the minimum width shall be not less than 44 inches (1118 mm), except as specified herein.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La capacité requise des cours d'évacuation doit être déterminée comme le spécifie l'article 1005.1, mais la largeur minimale ne doit pas être inférieure à 44 po (1118 mm), sauf dans les cas spécifiés dans le présent document.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T062704Z">
+        <seg>La capacité requise des cours d’évacuation doit être déterminée conformément aux dispositions de la section 1005.1, mais leur largeur minimale ne doit pas être inférieure à 44 po (1 118 mm), sauf indication contraire dans les présentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46905,13 +46885,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.76: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Ticket booths less than 100 square feet (9.29 m2) in area.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Guichets de billets d'une superficie inférieure à 100 pi2 [9,29 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T062922Z">
+        <seg>Guichets de billets d'une superficie inférieure à 100 pi2 (9,29 m2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -48661,13 +48640,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where an egress court serving a building or portion thereof is less than 10 feet (3048 mm) in width, the egress court walls shall have not less than 1-hour fire-resistance-rated construction for a distance of 10 feet (3048 mm) above the floor of the egress court.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'une cour d'évacuation desservant un bâtiment ou une partie de celui-ci a une largeur inférieure à 10 pi [3048 mm], les murs de la cour d'évacuation doivent avoir une construction offrant un degré de résistance au feu d'au moins une heure sur une distance de 10 pi [3048 mm] au-dessus du sol de la cour d'évacuation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T062759Z">
+        <seg>Lorsque la cour d’évacuation desservant un bâtiment ou une partie de celui-ci a une largeur inférieure à 10 pi (3 048 mm), les murs de la cour d’évacuation doivent être constitués d’une construction présentant un degré de résistance au feu d’au moins 1 heure sur une hauteur de 10 pi (3 048 mm) au-dessus du plancher de la cour d’évacuation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49858,13 +49836,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the building is classified as a Group A occupancy, the main exit shall front on not less than one street or an unoccupied space of not less than 10 feet (3048 mm) in width that adjoins a street or public way.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque le bâtiment est classé comme un usage du Groupe A, l'issue principale doit donner sur au moins une rue ou sur un espace inoccupé d'au moins 10 pi [3048 mm] de largeur qui est adjacent à une rue ou à une voie publique.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063037Z">
+        <seg>Lorsque le bâtiment est classé dans le groupe A, l’issue principale doit donner sur au moins une rue ou sur un espace inoccupé d’au moins 10 pi (3 048 mm) de largeur qui est adjacent à une rue ou à une voie publique.</seg>
       </tuv>
     </tu>
     <tu>
