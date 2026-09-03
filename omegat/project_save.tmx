@@ -9348,13 +9348,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.865: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1104.6 Security barriers.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1104.6 Barrières de SÉCURITÉ.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T190805Z">
+        <seg>&lt;g1&gt;1104.6 Barrières de sécurité.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9428,13 +9427,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.87: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1105.1.2 Parking garage entrances.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1105.1.2 Entrées des parcs de stationnement.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T191335Z">
+        <seg>&lt;g1&gt;1105.1.2 Entrées des garages de stationnement.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25578,13 +25576,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.783: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Accessible routes from parking garages contained within and serving Type B units are not required to be interior.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les itinéraires accessibles à partir des parcs de stationnement situés à l'intérieur des unités de type B et desservant celles-ci ne sont pas tenus d'être intérieurs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T190751Z">
+        <seg>Les itinéraires accessibles à partir des garages de stationnement situés à l'intérieur des unités de type B et desservant celles-ci ne sont pas tenus d'être intérieurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35272,13 +35269,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.806: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In facilities with the occupancies and building occupant loads indicated in Table 1105.1.1, public entrances that are required to be accessible shall have one door be either a full power-operated door or a low-energy power-operated door.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les installations dont les usages et les charges d'occupants du bâtiment sont indiqués au tableau 1105.1.1, les entrées publiques qui doivent être accessibles doivent avoir une porte qui est soit une porte entièrement à commande électrique, soit une porte à commande électrique à faible énergie.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T191122Z">
+        <seg>Dans les établissements dont les usages et la capacité d’occupation du bâtiment sont indiqués au tableau 1105.1.1, les entrées publiques qui doivent être accessibles doivent comporter au moins une porte qui est soit une porte à commande électrique complète, soit une porte à commande électrique à faible énergie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36642,13 +36638,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.786: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Loading and service entrances that are not the only entrance to a tenant space.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les entrées de chargement et de service qui ne sont pas la seule entrée d'un espace locatif.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T191034Z">
+        <seg>Les entrées de livraison et de service qui ne constituent pas l’unique entrée d’un local de locataire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41808,13 +41803,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The accessible route shall permit persons with disabilities passing around security barriers to maintain visual contact with their personal items to the same extent provided others passing through the security barrier.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'itinéraire accessible doit permettre aux personnes handicapées qui contournent les barrières de sécurité de maintenir un contact visuel avec leurs effets personnels dans la même mesure que les autres personnes qui franchissent la barrière de sécurité.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T190953Z">
+        <seg>L'itinéraire accessible doit permettre aux personnes en situation d'handicap qui contournent les barrières de sécurité de maintenir un contact visuel avec leurs effets personnels dans la même mesure que les autres personnes qui franchissent la barrière de sécurité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48646,13 +48640,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where direct access is provided for pedestrians from a pedestrian tunnel or elevated walkway to a building or facility, at least one entrance to the building or facility from each tunnel or walkway shall be accessible.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un accès direct est prévu pour les piétons depuis un tunnel piétonnier ou une passerelle surélevée vers un bâtiment ou une installation, au moins une entrée du bâtiment ou de l'installation depuis chaque tunnel ou passerelle doit être accessible.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T191423Z">
+        <seg>Lorsqu’un accès direct est aménagé pour les piétons entre un tunnel piétonnier ou une passerelle surélevée et un bâtiment ou un établissement, au moins une entrée du bâtiment ou de l’établissement depuis chaque tunnel ou passerelle doit être accessible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48733,13 +48726,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where entrances used only by inmates or detainees and security personnel are provided at judicial facilities, detention facilities or correctional facilities, at least one such entrance shall be accessible.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des entrées utilisées uniquement par les détenus ou les personnes en détention et le personnel de SÉCURITÉ sont prévues dans les établissements judiciaires, les centres de détention ou les établissements correctionnels, au moins une de ces entrées doit être accessible.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T191455Z">
+        <seg>Lorsque des entrées utilisées uniquement par les détenus ou les personnes incarcérées et le personnel de sécurité sont prévues dans des établissements judiciaires, des établissements de détention ou des établissements correctionnels, au moins une de ces entrées doit être accessible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49236,13 +49228,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.793: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where provided, direct access for pedestrians from parking structures to buildings or facility entrances shall be accessible.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'il est prévu, l'accès direct pour les piétons depuis les structures de stationnement vers les entrées des bâtiments ou des installations doit être accessible.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T191408Z">
+        <seg>Lorsqu’un accès direct pour les piétons est prévu entre les garages de stationnement et les bâtiments ou les entrées des établissements, cet accès doit être accessible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49424,13 +49415,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where security barriers incorporate elements that cannot comply with these requirements, such as certain metal detectors, fluoroscopes or other similar devices, the accessible route shall be permitted to be provided adjacent to security screening devices.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les barrières de sécurité comportent des éléments qui ne peuvent pas être conformes à ces exigences, comme certains détecteurs de métaux, des fluoroscopes ou d'autres dispositifs similaires, l'itinéraire accessible peut être aménagé à côté des dispositifs de contrôle de sécurité.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T190924Z">
+        <seg>Lorsque des barrières de sécurité comportent des éléments qui ne peuvent pas être conformes à ces exigences, comme certains détecteurs de métaux, fluoroscopes ou autres dispositifs similaires, il est permis d’aménager la voie accessible à côté des dispositifs de contrôle de sécurité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49860,13 +49850,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.884: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the public entrance includes a vestibule, at least one door into and one door out of the vestibule shall meet the requirements of this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque l'entrée publique comprend un vestibule, au moins une porte d'entrée et une porte de sortie du vestibule doivent satisfaire aux exigences de la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T191132Z">
+        <seg>Lorsque l’entrée publique comporte un vestibule, au moins une porte donnant sur le vestibule et une porte donnant hors du vestibule doivent être conformes aux exigences de la présente section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50754,13 +50743,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.815: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>a.&lt;x1/&gt;In mixed-use facilities where the total sum of the building occupant load is greater than those listed, the most restrictive building occupant load shall apply.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>a. &lt;x1/&gt;Dans les installations à usage mixte où la somme totale de la charge d'occupants du bâtiment est supérieure à celles énumérées, la charge d'occupants du bâtiment la plus contraignante s'applique.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T191350Z">
+        <seg>a. &lt;x1/&gt;Dans les établissements à usages mixtes où la somme totale des capacités d’occupation du bâtiment est supérieure à celles indiquées, la capacité d’occupation du bâtiment la plus restrictive doit s’appliquer.</seg>
       </tuv>
     </tu>
     <tu>
