@@ -751,13 +751,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;For other than tempered glass, manufacturer’s designations are not required, provided that the building official approves the use of a certificate, affidavit or other evidence confirming compliance with this code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Pour le verre autre que le verre trempé, les désignations du fabricant ne sont pas requises, à condition que le responsable de la construction approuve l'utilisation d'un certificat, d'un affidavit ou de toute autre preuve confirmant la conformité au présent code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T232223Z">
+        <seg>1.&lt;x1/&gt; Pour les vitrages autres que les vitrages trempés, la désignation du fabricant n’est pas requise, pourvu que le responsable de la réglementation du bâtiment approuve l’utilisation d’un certificat, d’une déclaration sous serment ou d’une autre preuve confirmant la conformité au présent code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22699,13 +22698,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.879: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Except as provided in Sections 2406.1.2 through 2406.1.4, all glazing shall pass the impact test requirements of Section 2406.2.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Sauf dans les cas prévus aux articles 2406.1.2 à 2406.1.4, tous les vitrages doivent satisfaire aux exigences de l'essai de résistance aux chocs de l'article 2406.2.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T232010Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Sauf dans les cas prévus aux sections 2406.1.2 à 2406.1.4, tous les vitrages doivent satisfaire aux exigences relatives aux essais d’impact de la section 2406.2.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23078,13 +23076,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.879: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;The locations specified in Sections 2406.4.1 through 2406.4.7 shall be considered to be specific hazardous locations requiring safety glazing materials.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les emplacements spécifiés aux articles 2406.4.1 à 2406.4.7 doivent être considérés comme des emplacements dangereux spécifiques nécessitant des matériaux de vitrage de sécurité.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T232901Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les emplacements précisés aux sections 2406.4.1 à 2406.4.7 doivent être considérés comme des emplacements dangereux particuliers nécessitant des matériaux de vitrage de sécurité.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23442,13 +23439,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.852: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Except as indicated in Section 2406.3.1, each pane of safety glazing installed in hazardous locations shall be identified by a manufacturer’s designation specifying who applied the designation, the manufacturer or installer and the safety glazing standard with which it complies, as well as the information specified in Section 2403.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Sauf indication contraire à l’article 2406.3.1, chaque panneau de verre de sécurité installé dans des endroits dangereux doit être identifié par une désignation du fabricant précisant qui a appliqué la désignation, le fabricant ou l’installateur et la norme de verre de sécurité à laquelle il se conforme, ainsi que les informations spécifiées à l’article 2403.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T232124Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Sauf dans les cas indiqués à la section 2406.3.1, chaque vitre de vitrage de sécurité installée dans des emplacements dangereux doit être identifiée par une désignation du fabricant précisant qui a apposé la désignation, le fabricant ou l’installateur, ainsi que la norme relative aux vitrages de sécurité à laquelle elle est conforme, et comportant également les renseignements précisés à la section 2403.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24548,13 +24544,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.866: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A label meeting the requirements of this section shall be permitted in lieu of the manufacturer’s designation.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une étiquette satisfaisant aux exigences de la présente section est autorisée en lieu et place de la désignation du fabricant.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T232200Z">
+        <seg>Une étiquette conforme aux exigences de la présente section peut être utilisée à la place de la désignation du fabricant.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33223,13 +33218,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Glazing not in doors or enclosures for hot tubs, whirlpools, saunas, steam rooms, bathtubs and showers shall be permitted to be tested in accordance with ANSI Z97.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le vitrage qui n'est pas dans les portes ou les enceintes pour les bains à remous, les spas, les saunas, les hammams, les baignoires et les douches peut être testé conformément à la norme ANSI Z97.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T232107Z">
+        <seg>Les vitrages qui ne sont pas intégrés à des portes ou à des enceintes pour cuves thermales, cuves à remous, saunas, bains de vapeur, baignoires et douches peuvent être soumis à des essais conformément à la norme ANSI Z97.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37035,13 +37029,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Multipane glazed assemblies having individual panes not exceeding 1 square foot (0.09 m2) in exposed areas shall have one pane or more in the assembly marked as indicated in Section 2406.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ensembles vitrés à vitres multiples dont les vitres individuelles ne dépassent pas 1 pi2 (0,09 m2) dans les zones exposées doivent avoir une ou plusieurs vitres dans l'ensemble marquées tel qu'indiqué à l'article 2406.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T232256Z">
+        <seg>Les ensembles de vitrages multiples dont les vitres individuelles ont une superficie exposée d’au plus 1 pi2 (0,09 m2) doivent comporter au moins une vitre portant le marquage indiqué à la section 2406.3.</seg>
       </tuv>
     </tu>
     <tu>
