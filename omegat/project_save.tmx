@@ -32860,23 +32860,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.807: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>For seats with folding tablet arms, row spacing is permitted to be determined with the tablet arm in the stored position where the tablet arm when raised manually to vertical position in one motion automatically returns to the stored position by force of gravity.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les sièges munis d'accoudoirs rabattables, l'espacement des rangées peut être déterminé avec l'accoudoir en position de rangement lorsque l'accoudoir, lorsqu'il est relevé manuellement en position verticale en un seul mouvement, revient automatiquement en position de rangement par la force de la gravité.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T154325Z">
+        <seg>Pour les sièges munis de tablettes-accoudoirs rabattables, il est permis de déterminer l’espacement entre les rangées lorsque la tablette-accoudoir est en position rangée, lorsque celle-ci, relevée manuellement en position verticale en un seul mouvement, revient automatiquement en position rangée sous l’effet de la gravité.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>For seats with folding tablet arms, row spacing shall be determined with the tablet arm in the used position.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les sièges munis d'accoudoirs rabattables, l'espacement des rangées doit être déterminé avec l'accoudoir en position d'utilisation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T154206Z">
+        <seg>Pour les sièges munis de tablettes-accoudoirs rabattables, l’espacement entre les rangées doit être déterminé lorsque la tablette-accoudoir est en position d’utilisation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48620,13 +48618,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where any chair in the row does not have an automatic or self-rising seat, the measurements shall be made with the seat in the down position.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'une chaise de la rangée n'est pas équipée d'un siège automatique ou à relevage automatique, les mesures doivent être effectuées avec le siège en position abaissée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T154157Z">
+        <seg>Lorsqu’un siège quelconque de la rangée n’est pas muni d’un mécanisme de relevage automatique ou ne se relève pas automatiquement, les mesures doivent être effectuées lorsque le siège est en position abaissée.</seg>
       </tuv>
     </tu>
     <tu>
