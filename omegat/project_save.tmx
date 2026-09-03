@@ -34216,13 +34216,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>If due to circumstances outside the control of the owner, either the slope of the finished ground level between accessible facilities and buildings exceeds one unit vertical in 12 units horizontal (1:12), or where physical barriers or legal restrictions prevent the installation of an accessible route, a vehicular route with parking that complies with Section 1106 at each public or common use facility or building is permitted in place of the accessible route.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Si, en raison de circonstances indépendantes de la volonté du propriétaire, la pente du niveau du sol fini entre les installations accessibles et les bâtiments dépasse une unité verticale sur 12 unités horizontales (1:12), ou si des obstacles physiques ou des restrictions légales empêchent l'installation d'un itinéraire accessible, un itinéraire pour véhicules avec stationnement conforme à la section 1106 à chaque installation ou bâtiment public ou à usage commun est autorisé à la place de l'itinéraire accessible.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T194002Z">
+        <seg>Si, en raison de circonstances indépendantes de la volonté du propriétaire, soit la pente du niveau du sol fini entre les installations et les bâtiments accessibles est supérieure à 1 unité verticale sur 12 unités horizontales (1:12), soit des obstacles physiques ou des restrictions légales empêchent l’aménagement d’un itinéraire accessible, une voie de circulation véhiculaire comportant des stationnements conformes à la section 1106 peut être aménagée en remplacement de l'itinéraire accessible, à chaque installation ou bâtiment à usage public ou à usage commun.</seg>
       </tuv>
     </tu>
     <tu>
