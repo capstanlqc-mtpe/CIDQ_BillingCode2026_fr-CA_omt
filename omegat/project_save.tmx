@@ -837,13 +837,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.779: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;In Group R-2 and R-3 individual dwelling and sleeping units that are not required to be Accessible units, Type A units or Type B units in accordance with Section 1108, landings are permitted to be 36 inches (914 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Dans les unités d'habitation individuelles et les unités de couchage des groupes R-2 et R-3 qui ne sont pas tenues d'être des unités accessibles, des unités de type A ou des unités de type B selon la section 1108, les paliers peuvent être d'au moins 36 po [914 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T042940Z">
+        <seg>1.&lt;x1/&gt; Dans les logements individuels et les unités de couchage individuelles des usages des groupes R-2 et R-3 qui ne sont pas tenus d’être des logements accessibles, des logements de type A ou des logements de type B conformément à la section 1108, les paliers peuvent avoir une largeur minimale de 36 pouces (914 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2654,13 +2653,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.861: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Where the ramp is not a part of an accessible route, the length of the landing shall not be required to be more than 48 inches (1219 mm) in the direction of travel.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Lorsque la rampe ne fait pas partie d'un itinéraire accessible, la longueur du palier ne doit pas être supérieure à 48 po [1219 mm] dans le sens du parcours.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T043047Z">
+        <seg>2.&lt;x1/&gt; Lorsque la rampe ne fait pas partie d’un itinéraire accessible, la longueur du palier dans la direction de déplacement n’est pas tenue d’être supérieure à 48 pouces (1 219 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44162,13 +44160,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.87: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The landing width shall be not less than the width of the widest ramp run adjoining the landing.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La largeur du palier ne doit pas être inférieure à la largeur de la rampe la plus large adjacente au palier.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T042656Z">
+        <seg>La largeur du palier ne doit pas être inférieure à la largeur de la volée de rampe adjacente la plus large.</seg>
       </tuv>
     </tu>
     <tu>
