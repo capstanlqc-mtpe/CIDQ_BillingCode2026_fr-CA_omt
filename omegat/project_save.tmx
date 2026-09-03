@@ -31918,13 +31918,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exterior openings required for ventilation shall be allowed to open into a sunroom with thermal isolation or a patio cover provided that the openable area between the sunroom addition or patio cover and the interior room shall have an area of not less than 8 percent of the floor area of the interior room or space, but not less than 20 square feet (1.86 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures extérieures requises pour la ventilation peuvent s'ouvrir dans un solarium avec isolation thermique ou une terrasse couverte, à condition que la zone ouvrable entre l'annexe du solarium ou la terrasse couverte et la pièce intérieure ait une surface d'au moins 8 % de la surface de plancher de la pièce ou de l'espace intérieur, mais d'au moins 20 pi2 (1,86 m2).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T221847Z">
+        <seg>Les ouvertures sur l’extérieur requises pour la ventilation sont autorisées à donner sur une véranda avec isolation thermique ou sur une couverture de terrasse, pourvu que la superficie ouvrante entre l’agrandissement formant véranda ou la couverture de terrasse et la pièce intérieure soit d’au moins 8 % de la superficie de plancher de la pièce ou de l’espace intérieur, sans toutefois être inférieure à 20 pi2 (1,86 m2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44325,13 +44324,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The openable area of the openings to the outdoors shall be based on the total floor area being ventilated.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La surface ouvrable des ouvertures donnant sur l'extérieur doit être basée sur la surface de plancher totale ventilée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T221248Z">
+        <seg>La superficie ouvrante des ouvertures donnant sur l’extérieur doit être calculée en fonction de la superficie de plancher totale ventilée.</seg>
       </tuv>
     </tu>
     <tu>
