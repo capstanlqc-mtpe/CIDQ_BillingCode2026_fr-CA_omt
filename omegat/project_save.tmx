@@ -22595,13 +22595,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.873: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Contaminant sources in naturally ventilated spaces shall be removed in accordance with the International Mechanical Code and the International Fire Code.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les sources de contaminants dans les lieux naturellement ventilés doivent être éliminées conformément à l'International Mechanical Code et à l'International Fire Code.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T221956Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les sources de contaminants dans les espaces naturellement ventilés doivent être éliminées conformément à l'International Mechanical Code et à l'International Fire Code.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35882,13 +35881,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Interior spaces intended for human occupancy shall be provided with active or passive space heating systems capable of maintaining an indoor temperature of not less than 68°F (20°C) at a point 3 feet (914 mm) above the floor on the design heating day.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les espaces intérieurs destinés à l'occupation humaine doivent être dotés de systèmes de chauffage des locaux actifs ou passifs capables de maintenir une température intérieure d'au moins 68 °F (20 °C) à un point situé à 3 pi (914 mm) au-dessus du sol le jour de chauffage de référence.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T222657Z">
+        <seg>Les espaces intérieurs destinés à être occupés par des personnes doivent être pourvus de systèmes de chauffage des locaux, actifs ou passifs, capables de maintenir une température intérieure d’au moins 68 °F (20 °C) en un point situé à 3 pi (914 mm) au-dessus du plancher, au cours de la journée de calcul du chauffage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42649,13 +42647,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.869: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The depth of the opening shall be measured from the average adjoining ground level to the bottom of the opening..</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La profondeur de l'ouverture doit être mesurée à partir du niveau moyen du sol adjacent jusqu'au bas de l'ouverture.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T221926Z">
+        <seg>La profondeur de l’ouverture doit être mesurée à partir du niveau moyen du sol adjacent jusqu’au bas de l’ouverture.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48940,13 +48937,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.847: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where openings below grade provide required natural ventilation, the outside horizontal clear space measured perpendicular to the opening shall be one and one-half times the depth of the opening.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les ouvertures sous le niveau du sol assurent la ventilation naturelle requise, l'espace libre horizontal extérieur mesuré perpendiculairement à l'ouverture doit être une fois et demie la profondeur de l'ouverture.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T221900Z">
+        <seg>Lorsque des ouvertures situées sous le niveau du sol assurent la ventilation naturelle requise, l’espace libre horizontal extérieur mesuré perpendiculairement à l’ouverture doit être égal à une fois et demie la profondeur de l’ouverture.</seg>
       </tuv>
     </tu>
     <tu>
