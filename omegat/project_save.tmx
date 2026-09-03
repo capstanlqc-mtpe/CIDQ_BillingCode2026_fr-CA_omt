@@ -491,13 +491,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;A depth of not less than 22 inches (559 mm) where the treads on the descending side of the transition have greater depth.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Une profondeur d'au moins 22 po [559 mm] lorsque les girons du côté descendant de la transition ont une plus grande profondeur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065917Z">
+        <seg>1.&lt;x1/&gt; Une profondeur d'au moins 22 po (559 mm) lorsque les girons du côté descendant de la transition ont une plus grande profondeur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -607,13 +606,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.849: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Dead-end aisles shall be not greater than 20 feet (6096 mm) in length.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1. Les allées&lt;x1/&gt; sans issue ne doivent pas dépasser 20 pieds [6096 mm] de longueur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065411Z">
+        <seg>1. Les allées&lt;x1/&gt; sans issue ne doivent pas dépasser 20 pieds  (6096 mm) de longueur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1867,13 +1865,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;A depth of not less than 30 inches (762 mm) where the treads on the descending side of the transition have lesser depth.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Une profondeur d'au moins 30 po [762 mm] lorsque les girons du côté descendant de la transition ont une profondeur moindre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065926Z">
+        <seg>2.&lt;x1/&gt; Une profondeur d'au moins 30 po (762 mm) lorsque les girons du côté descendant de la transition ont une profondeur moindre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2021,13 +2018,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.767: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Dead-end aisles longer than 16 rows are permitted where seats beyond the 16th row dead-end aisle are not more than 24 seats from another aisle, measured along a row of seats having a minimum clear width of 12 inches (305 mm) plus 0.6 inch (15.2 mm) for each additional seat above seven in the row where seats have backrests or beyond 10 where seats are without backrests in the row.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2. Les allées&lt;x1/&gt; sans issue de plus de 16 rangées sont autorisées lorsque les sièges au-delà de la 16e rangée de l'allée sans issue ne sont pas à plus de 24 sièges d'une autre allée, mesurés le long d'une rangée de sièges ayant une largeur libre minimale de 12 po [305 mm] plus 0,6 po [15,2 mm] pour chaque siège supplémentaire au-delà de sept dans la rangée où les sièges ont des dossiers ou au-delà de 10 lorsque les sièges sont sans dossier dans la rangée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065525Z">
+        <seg>2. &lt;x1/&gt;Les allées sans issue de plus de 16 rangées sont autorisées lorsque les sièges situés au-delà de la 16e rangée de l’allée sans issue ne sont pas à plus de 24 sièges d’une autre allée, la distance étant mesurée le long d’une rangée de sièges ayant une largeur libre minimale de 12 po (305 mm), plus 0,6 po (15,2 mm) pour chaque siège supplémentaire au-delà de sept dans la rangée lorsque les sièges sont munis de dossiers, ou au-delà de 10 lorsque les sièges ne sont pas munis de dossiers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3131,13 +3127,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.755: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;For smoke-protected or open-air assembly seating, the dead-end aisle length of vertical aisles shall not exceed a distance of 21 rows.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Pour les SIÈGES de rassemblement protégés contre la fumée ou en plein air, la longueur de l'allée sans issue des allées verticales ne doit pas dépasser une distance de 21 rangées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065522Z">
+        <seg>3.&lt;x1/&gt; Pour les sièges pour assemblées protégés contre la fumée ou à l’air libre, la longueur d’une allée verticale sans issue ne doit pas dépasser une distance correspondant à 21 rangées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3750,13 +3745,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.719: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>4.&lt;x1/&gt;For smoke-protected or open-air assembly seating, a longer dead-end aisle is permitted where seats beyond the 21-row dead-end aisle are not more than 40 seats from another aisle, measured along a row of seats having an aisle accessway with a minimum clear width of 12 inches (305 mm) plus 0.3 inch (7.6 mm) for each additional seat above seven in the row where seats have backrests or beyond 10 where seats are without backrests in the row.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>4.&lt;x1/&gt; Pour les SIÈGES de rassemblement protégés contre la fumée ou en plein air, une allée en cul-de-sac plus longue est autorisée lorsque les SIÈGES au-delà de l'allée en cul-de-sac de 21 rangées ne sont pas à plus de 40 SIÈGES d'une autre allée, mesurée le long d'une rangée de SIÈGES ayant un passage d'accès à l'allée d'une largeur libre minimale de 12 po [305 mm] plus 0,3 po [7,6 mm] pour chaque SIÈGE supplémentaire au-delà de sept dans la rangée où les SIÈGES ont des dossiers ou au-delà de 10 lorsque les SIÈGES sont sans dossier dans la rangée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065547Z">
+        <seg>4.&lt;x1/&gt; Pour les sièges pour assemblées protégés contre la fumée ou à l’air libre, une allée sans issue plus longue est autorisée lorsque les sièges situés au-delà de l’allée sans issue de 21 rangées ne sont pas à plus de 40 sièges d’une autre allée, la distance étant mesurée le long d’une rangée de sièges comportant une voie d’accès à l’allée d’une largeur libre minimale de 12 po (305 mm), plus 0,3 po (7,6 mm) pour chaque siège supplémentaire au-delà de sept dans la rangée lorsque les sièges sont munis de dossiers, ou au-delà de 10 lorsque les sièges ne sont pas munis de dossiers dans la rangée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6893,13 +6887,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.806: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1030.10.2 Transitions to stairways that do not maintain stepped aisle riser and tread dimensions.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1030.10.2 Transitions vers des escaliers qui ne conservent pas les dimensions de la contremarche et du giron des allées en escalier.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065847Z">
+        <seg>&lt;g1&gt;1030.10.2 Transitions vers des escaliers qui ne conservent pas les dimensions de la contremarche et du giron des allées à gradins.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6943,13 +6936,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1030.11.1 Stepped aisles that change direction at vomitories.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1030.11.1 Allées en escalier qui changent de direction au niveau des vomitoires.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T070041Z">
+        <seg>&lt;g1&gt;1030.11.1 Allées à gradins qui changent de direction au niveau des vomitoires.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25152,13 +25144,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.836: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A stairway that connects a vomitory to a cross aisle or concourse shall be permitted to comply with the assembly aisle walking surface requirements of Section 1030.14.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un escalier qui relie un vomitoire à une allée transversale ou à un hall peut se conformer aux exigences de l'article 1030.14 relatives à la surface de marche de l'allée de réunion.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065721Z">
+        <seg>Un escalier reliant un vomitoire à une allée transversale ou à une aire de circulation peut être conforme aux exigences relatives à la surface de circulation des allées de sièges pour assemblées de la section 1030.14.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26045,13 +26036,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Aisles, stepped aisles and ramped aisles shall be built of materials consistent with the types permitted for the type of construction of the building.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les allées, les allées en escalier et les allées en rampe doivent être construites avec des matériaux conformes aux types autorisés pour le type de construction du bâtiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T070213Z">
+        <seg>Les allées, les allées à gradins et les allées en rampe doivent être construites avec des matériaux conformes aux types autorisés pour le type de construction du bâtiment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33825,13 +33815,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.782: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Handrails are permitted to project into the required width of stepped aisles and ramped aisles in accordance with Section 1014.8.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes peuvent faire saillie dans la largeur requise des allées en paliers et des allées en rampe selon la section 1014.8.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065645Z">
+        <seg>Les mains courantes peuvent faire saillie dans la largeur requise des allées en paliers et des allées en rampe selon la section 1014.8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35292,13 +35281,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In establishing catchment areas, the assumption shall be made that there is a balanced use of all means of egress, with the number of persons in proportion to egress capacity.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour établir les zones de desserte, il faut supposer qu'il y a une utilisation équilibrée de tous les moyens d'évacuation, le nombre de personnes étant proportionnel à la capacité d'évacuation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065332Z">
+        <seg>Pour établir les zones de captage, il faut supposer que tous les moyens d’évacuation sont utilisés de manière équilibrée, le nombre de personnes étant proportionnel à la capacité d’évacuation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41226,13 +41214,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.745: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Stepped aisle treads where the stepped aisle changes direction at a vomitory shall have a depth of not less than 11 inches (280 mm) or the stepped aisle tread depth, whichever is greater.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les pas de marche d'allée en escalier où l'allée en escalier change de direction au niveau d'un vomitoire doivent avoir une profondeur d'au moins 11 po [280 mm] ou la profondeur de pas de marche de l'allée en escalier, selon la valeur la plus élevée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T070100Z">
+        <seg>Les marches des allées à gradins, lorsque l’allée à gradins change de direction au niveau d’un vomitoire, doivent avoir une profondeur d’au moins 11 po (280 mm) ou égale à la profondeur des marches de l’allée à gradins, selon la plus grande de ces valeurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41249,8 +41236,8 @@
       <tuv lang="en">
         <seg>Stepped aisles that change direction at vomitories shall comply with Section 1030.11.1 Transitions between a stepped aisle above a vomitory and a stepped aisle to the side of a vomitory shall comply with Section 1030.11.2.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T041659Z">
-        <seg>Les allées en gradins qui changent de direction au niveau des vomitoires doivent être conformes à la section 1030.11.1. Les transitions entre une allée en gradins située au-dessus d’un vomitoire et une allée en gradins située à côté d’un vomitoire doivent être conformes à la section 1030.11.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T070030Z">
+        <seg>Les allées à gradins qui changent de direction au niveau des vomitoires doivent être conformes à la section 1030.11.1. Les transitions entre une allée à gradins située au-dessus d’un vomitoire et une allée à gradins située à côté d’un vomitoire doivent être conformes à la section 1030.11.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41276,8 +41263,8 @@
       <tuv lang="en">
         <seg>Stepped aisles, transitions and stairways that maintain the stepped aisle riser and tread dimensions shall comply with Section 1030.14 as one exit access component.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T041630Z">
-        <seg>Les allées en gradins, les transitions et les escaliers qui conservent les dimensions de la contremarche et de la marche de l'allée en gradins doivent être conformes à la section 1030.14 en tant qu'élément d'accès à l'issue.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065856Z">
+        <seg>Les allées en gradins, les transitions et les escaliers qui conservent les dimensions de la contremarche et de la marche de l'allée à gradins doivent être conformes à la section 1030.14 en tant qu'élément d'accès à l'issue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41554,13 +41541,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Such stripe shall be not less than 1 inch (25 mm), and not more than 2 inches (51 mm), wide.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Cette bande doit avoir une largeur d'au moins 1 po [25 mm] et d'au plus 2 po [51 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T070007Z">
+        <seg>Cette bande doit avoir une largeur d'au moins 1 po (25 mm) et d'au plus 2 po (51 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41988,13 +41974,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The aisle shall provide sufficient capacity for the number of persons accommodated by the catchment area served by the aisle.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'allée doit offrir une capacité suffisante pour le nombre de personnes que peut accueillir la zone de desserte desservie par l'allée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065316Z">
+        <seg>L’allée doit offrir une capacité suffisante pour le nombre de personnes prises en compte dans la zone de captage desservie par l’allée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42378,13 +42363,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The catchment area served by an aisle is that portion of the total space served by that section of the aisle.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La zone de desserte desservie par une allée est la portion de l'espace total desservie par cette section de l'allée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065326Z">
+        <seg>La zone de captage desservie par une allée correspond à la partie de l’espace total desservie par cette section de l’allée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42516,13 +42500,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.796: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The clear width for aisles shall be measured to walls, edges of seating and tread edges except for permitted projections.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La largeur libre des allées doit être mesurée jusqu'aux murs, aux bords des SIÈGES et aux bords des marches, à l'exception des saillies autorisées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065602Z">
+        <seg>La largeur libre des allées doit être mesurée jusqu'aux murs, aux bords des sièges et aux bords des marches, à l'exception des saillies autorisées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42545,13 +42528,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The clear width of aisles adjacent to seating at tables shall be permitted to be measured in accordance with Section 1030.13.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La largeur libre des allées adjacentes aux sièges à table peut être mesurée selon la section 1030.13.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065621Z">
+        <seg>La largeur libre des allées adjacentes aux sièges aux tables peut être mesurée selon la section 1030.13.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43691,13 +43673,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.814: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The height of a stepped aisle tread above a transition at a vomitory shall comply with Section 1030.14.2.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La hauteur d'une marche d'allée en escalier au-dessus d'une transition à un vomitoire doit se conformer à la section 1030.14.2.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T070132Z">
+        <seg>La hauteur d'une marche d'allée en escalier au-dessus d'une transition à un vomitoire doit être conforme à la section 1030.14.2.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45625,13 +45606,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.871: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The surface for stepped aisles shall comply with Section 1011.7.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La surface des allées à marches doit se conformer à la section 1011.7.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T070237Z">
+        <seg>La surface des allées à marches doit être conforme à la section 1011.7.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46994,13 +46974,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Transitions between stairways and stepped aisles having different riser and tread dimensions shall comply with Sections 1030.10.2.1 through 1030.10.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les transitions entre les escaliers et les allées en paliers ayant des dimensions de contremarche et de marche différentes doivent être conformes aux sections 1030.10.2.1 à 1030.10.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065838Z">
+        <seg>Les transitions entre les escaliers et les allées à gradins présentant des dimensions différentes de contremarches et de marches doivent être conformes aux sections 1030.10.2.1 à 1030.10.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47023,23 +47002,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Transitions between the stepped aisle above a vomitory and stepped aisles to the side of a vomitory shall have a depth of not less than 11 inches (280 mm) or the stepped aisle tread depth, whichever is greater.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les transitions entre le passage en paliers au-dessus d'un vomitoire et les passages en paliers sur le côté d'un vomitoire doivent avoir une profondeur d'au moins 11 po [280 mm] ou la profondeur de marche du passage en paliers, selon la valeur la plus élevée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T070153Z">
+        <seg>Les transitions entre l’allée à gradins située au-dessus d’un vomitoire et les allées à gradins situées sur les côtés d’un vomitoire doivent avoir une profondeur d’au moins 11 po (280 mm) ou égale à la profondeur des marches de l’allée à gradins, selon la plus grande de ces valeurs.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.758: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Transitions where the stairway changes direction from the stepped aisle shall have a minimum depth of 11 inches (280 mm) or the stepped aisle tread depth, whichever is greater, between the stepped aisle and stairway.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les transitions où l'escalier change de direction à partir de l'allée en escalier doivent avoir une profondeur minimale de 11 po [280 mm] ou la profondeur des pas de marche de l'allée en escalier, selon la plus grande des deux, entre l'allée en escalier et l'escalier.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065946Z">
+        <seg>Les transitions lorsque l’escalier change de direction par rapport à l’allée à gradins doivent avoir une profondeur minimale de 11 po (280 mm) ou égale à la profondeur des marches de l’allée à gradins, selon la plus grande de ces valeurs, entre l’allée à gradins et l’escalier.</seg>
       </tuv>
     </tu>
     <tu>
