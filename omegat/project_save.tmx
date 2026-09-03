@@ -1085,13 +1085,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.86: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;The exposed area of an individual pane is greater than 9 square feet (0.84 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; La surface exposée d'une vitre individuelle est supérieure à 9 pi2 [0,84 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T233118Z">
+        <seg>1.&lt;x1/&gt; La surface exposée d'une vitre individuelle est supérieure à 9 pi2 (0,84 m2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2380,13 +2379,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.885: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;The bottom edge of the glazing is less than 18 inches (457 mm) above the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Le bord inférieur du vitrage est à moins de 18 po [457 mm] au-dessus du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T233129Z">
+        <seg>2.&lt;x1/&gt; Le bord inférieur du vitrage est à moins de 18 po (457 mm) au-dessus du sol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2535,13 +2533,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.825: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Where a horizontal rail is installed on the accessible side(s) of the glazing 34 to 38 inches (864 to965 mm) above the walking surface.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Lorsqu'une main courante horizontale est installée sur le(s) côté(s) accessible(s) du vitrage, de 34 à 38 po [864 à 965 mm] au-dessus de la surface de marche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T233215Z">
+        <seg>2.&lt;x1/&gt; Lorsqu'une main courante horizontale est installée sur le(s) côté(s) accessible(s) du vitrage, de 34 à 38 po (864 à 965 mm) au-dessus de la surface de marche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3247,13 +3244,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;Outboard panes in insulating glass units or multiple glazing where the bottom exposed edge of the glass is 25 feet (7620 mm) or more above any grade, roof, walking surface or other horizontal or sloped (within 45 degrees of horizontal) (0.79 rad) surface adjacent to the glass exterior</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3. Vitres&lt;x1/&gt; extérieures dans des unités de verre isolant ou des vitrages multiples où le bord inférieur exposé du verre se trouve à 25 pi [7620 mm] ou plus au-dessus de tout niveau, toit, surface de circulation ou autre surface horizontale ou inclinée (à moins de 45 degrés de l'horizontale) (0,79 rad) adjacente à l'extérieur du verre</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T233303Z">
+        <seg>3. &lt;x1/&gt; Les vitrages extérieurs des vitrages isolants ou des vitrages multiples dont le bord inférieur exposé du verre se trouve à 25 pi (7 620 mm) ou plus au-dessus de tout niveau du sol, toit, surface de circulation ou autre surface horizontale ou inclinée (à moins de 45 degrés par rapport à l’horizontale) (0,79 rad) adjacente à la face extérieure du vitrage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3359,13 +3355,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.886: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;The top edge of the glazing is greater than 36 inches (914 mm) above the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Le bord supérieur du vitrage est à plus de 36 po [914 mm] au-dessus du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T233713Z">
+        <seg>3.&lt;x1/&gt; Le bord supérieur du vitrage est à plus de 36 po (914 mm) au-dessus du sol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3425,13 +3420,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;Where access through the door is to a closet or storage area 3 feet (914 mm) or less in depth.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Lorsque l'accès par la porte mène à un PLACARD ou à une zone d'ENTREPOSAGE d'une profondeur de 3 pi [914 mm] ou moins.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T233036Z">
+        <seg>3.&lt;x1/&gt; Lorsque l'accès par la porte mène à un placard ou à une zone d'entreposage d'une profondeur de 3 pi (914 mm) ou moins.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3775,13 +3769,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>4.&lt;x1/&gt;One or more walking surface(s) are within 36 inches (914 mm), measured horizontally and in a straight line, of the plane of the glazing.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>4.&lt;x1/&gt; Une ou plusieurs surfaces de marche se trouvent à moins de 36 po [914 mm], mesurées horizontalement et en ligne droite, du plan du vitrage.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T233151Z">
+        <seg>4.&lt;x1/&gt; Une ou plusieurs surfaces de marche se trouvent à moins de 36 po (914 mm), mesurées horizontalement et en ligne droite, du plan du vitrage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22765,23 +22758,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Glazing in an individual fixed or operable panel adjacent to a door where the nearest vertical edge of the glazing is within a 24-inch (610 mm) arc of either vertical edge of the door in a closed position and where the bottom exposed edge of the glazing is less than 60 inches (1524 mm) above the walking surface shall be considered to be a hazardous location.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Le vitrage dans un panneau individuel fixe ou ouvrant adjacent à une porte, lorsque le bord vertical le plus proche du vitrage se trouve dans un arc de 24 po [610 mm] de l'un ou l'autre bord vertical de la porte en position fermée et lorsque le bord inférieur exposé du vitrage est à moins de 60 po [1524 mm] au-dessus de la surface de circulation, doit être considéré comme un emplacement dangereux.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T233003Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les vitrages d’un panneau fixe ou mobile individuel adjacent à une porte, lorsque le bord vertical le plus proche du vitrage se trouve à l’intérieur d’un arc de 24 po (610 mm) de l’un ou l’autre des bords verticaux de la porte en position fermée et que le bord inférieur exposé du vitrage se trouve à moins de 60 po (1 524 mm) au-dessus de la surface de circulation, doivent être considérés comme étant situés dans un emplacement dangereux.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.774: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Glazing in guards and railings, including structural baluster panels and nonstructural in-fill panels, regardless of area or height above a walking surface shall be considered to be a hazardous location.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Le vitrage dans les garde-corps et les rampes, y compris les panneaux de balustrade structuraux et les panneaux de remplissage non structuraux, quelle que soit la surface ou la hauteur au-dessus d'une surface de marche, doit être considéré comme un emplacement dangereux.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T233748Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les vitrages des garde-corps et des rampes, y compris les panneaux de balustres structuraux et les panneaux de remplissage non structuraux, doivent être considérés comme étant situés dans un emplacement dangereux, quelle que soit leur superficie ou leur hauteur au-dessus d’une surface de circulation.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23477,13 +23468,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Glazing in walls, enclosures or fences containing or facing hot tubs, spas, whirlpools, saunas, steam rooms, bathtubs, showers and indoor or outdoor swimming pools where the bottom exposed edge of the glazing is less than 60 inches (1524 mm) measured vertically above any standing or walking surface shall be considered to be a hazardous location.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Le vitrage dans les murs, les enclos ou les clôtures contenant ou faisant face à des cuves thermales, des spas, des bains à remous, des saunas, des hammams, des baignoires, des douches et des piscines intérieures ou extérieures où le bord inférieur exposé du vitrage est à moins de 60 po [1524 mm], mesurés verticalement au-dessus de toute surface de station debout ou de marche, doit être considéré comme un endroit dangereux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T233818Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Les vitrages dans les murs, enceintes ou clôtures contenant des cuves thermales, spas, cuves à remous, saunas, bains de vapeur, baignoires et piscines intérieures ou extérieures, ou leur faisant face, lorsque le bord inférieur exposé du vitrage se trouve à moins de 60 po (1 524 mm), mesuré verticalement au-dessus de toute surface où l’on peut se tenir debout ou circuler, doivent être considérés comme étant situés dans un emplacement dangereux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33168,13 +33158,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.865: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Glazing in this application shall comply with Section 2406.4.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le vitrage dans cette application doit se conformer à la section 2406.4.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T233054Z">
+        <seg>Le vitrage dans cette application doit être conforme à la section 2406.4.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44647,13 +44636,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.867: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The rail shall be capable of withstanding a horizontal load of 50 pounds per linear foot (730 N/m) without contacting the glass and be not less than 11/2 inches (38 mm) in cross-sectional height.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La rampe doit pouvoir supporter une charge horizontale de 50 livres par pied linéaire (730 N/m) sans toucher la vitre et avoir une hauteur de section transversale d'au moins 11/2 po [38 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T233227Z">
+        <seg>La rampe doit pouvoir supporter une charge horizontale de 50 livres par pied linéaire (730 N/m) sans toucher la vitre et avoir une hauteur de section transversale d'au moins 11/2 po  (38 mm).</seg>
       </tuv>
     </tu>
     <tu>
