@@ -6764,13 +6764,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.887: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1027.6 Exterior exit stairway and ramp protection.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1027.6 Protection des escaliers et rampes d'issue extérieurs.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061423Z">
+        <seg>&lt;g1&gt;1027.6 Protection des escaliers et des rampes d'issue extérieurs.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26943,13 +26942,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.821: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An open side shall have not less than 35 square feet (3.3 m2) of aggregate open area adjacent to each floor level and the level of each intermediate landing.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un côté ouvert doit avoir au moins 35 pi2 [3,3 m2] d'aire ouverte totale adjacente à chaque niveau du sol et au niveau de chaque palier intermédiaire.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061247Z">
+        <seg>Un côté ouvert doit avoir au moins 35 pi2 (3,3 m2) d'aire ouverte totale adjacente à chaque niveau du sol et au niveau de chaque palier intermédiaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27229,13 +27227,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At any location in an open-ended corridor where a change of direction exceeding 45 degrees (0.79 rad) occurs, a clear opening of not less than 35 square feet (3.3 m2) or an exterior stairway or ramp shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>À tout endroit d'un couloir à extrémités ouvertes où il y a un changement de direction de plus de 45 degrés (0,79 rad), une ouverture libre d'au moins 35 pi2 [3,3 m2] ou un escalier ou une rampe extérieurs doivent être prévus.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061828Z">
+        <seg>À tout endroit d’un corridor ouvert à ses extrémités où un changement de direction de plus de 45 degrés (0,79 rad) se produit, une ouverture libre d’au moins 35 pi2 (3,3 m2) ou un escalier ou une rampe d’issue extérieur doit être prévu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30099,13 +30096,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Discharge of interior exit stairways and ramps shall be provided with a free and unobstructed path of travel to an exterior exit door and such exit is readily visible and identifiable from the point of termination of the enclosure.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'évacuation des escaliers et rampes d'issue intérieurs doit être dotée d'un chemin de circulation libre et non obstrué vers une porte d'issue extérieure et cette issue doit être facilement visible et identifiable à partir du point de terminaison de l'enceinte.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T062029Z">
+        <seg>L’évacuation des escaliers et rampes d’issue intérieurs doit se faire par un parcours libre et sans obstruction jusqu’à une porte d’issue extérieure, et cette issue doit être facilement visible et identifiable depuis le point où l’enceinte prend fin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32024,33 +32020,30 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exterior exit stairways and ramps serving individual dwelling units of Group R-3 shall have a minimum fire separation distance of 5 feet (1525 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les escaliers et rampes d'issue extérieurs desservant les logements individuels du groupe R-3 doivent avoir une distance minimale de séparation coupe-feu de 5 pi [1525 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061416Z">
+        <seg>Les escaliers et les rampes d'issue extérieurs desservant les logements individuels du groupe R-3 doivent avoir une distance minimale de séparation coupe-feu de 5 pi (1525 mm).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.879: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exterior exit stairways and ramps shall be separated from the interior of the building as required in Section 1023.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les escaliers et rampes d'issue extérieurs doivent être séparés de l'intérieur du bâtiment conformément à la section 1023.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061429Z">
+        <seg>Les escaliers et les rampes d'issue extérieurs doivent être séparés de l'intérieur du bâtiment conformément à la section 1023.2.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exterior exit stairways and ramps shall have a minimum fire separation distance of 10 feet (3048 mm) measured at right angles from the exterior edge of the stairway or ramps, including landings, to:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les escaliers et rampes d'issue extérieurs doivent avoir une distance minimale de séparation coupe-feu de 10 pi [3048 mm] mesurée perpendiculairement à partir du bord extérieur de l'escalier ou des rampes, y compris les paliers, jusqu'à :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061344Z">
+        <seg>Les escaliers et rampes d’issue extérieurs doivent avoir une distance minimale de séparation coupe-feu de 10 pi (3 048 mm), mesurée à angle droit depuis le bord extérieur de l’escalier ou des rampes, y compris les paliers, jusqu’à :</seg>
       </tuv>
     </tu>
     <tu>
@@ -34816,13 +34809,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.775: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group R-3 occupancies not more than four stories in height, exterior exit stairways and ramps serving individual dwelling units are not required to be separated from the interior of the building where the exterior exit stairway or ramp discharges directly to grade.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les usages du groupe R-3 d'une hauteur de quatre étages ou moins, les escaliers et rampes d'issue extérieurs desservant des logements individuels ne sont pas tenus d'être séparés de l'intérieur du bâtiment lorsque l'escalier ou la rampe d'issue extérieur se déverse directement au niveau du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061847Z">
+        <seg>Dans les usages du groupe R-3 ne comportant pas plus de quatre étages, les escaliers et rampes d’issue extérieurs desservant des logements individuels ne sont pas tenus d’être séparés de l’intérieur du bâtiment lorsque l’escalier ou la rampe d’issue extérieur donne directement au niveau du sol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37600,13 +37592,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Not more than 50 percent of the number and minimum width or required capacity of interior exit stairways and ramps is permitted to egress through areas, including atriums, on the level of discharge provided that all of the following conditions are met:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Au plus 50 pour cent du nombre et de la largeur minimale ou de la capacité requise des escaliers et rampes d'issue intérieurs peuvent être évacués par des zones, y compris des atriums, au niveau du lieu d'évacuation, à condition que toutes les conditions suivantes soient respectées :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T062015Z">
+        <seg>Au plus 50 % du nombre et de la largeur minimale ou de la capacité requise des escaliers et rampes d’issue intérieurs peuvent être évacués par des espaces, y compris des atriums, au niveau de l’issue, à condition que toutes les conditions suivantes soient respectées :</seg>
       </tuv>
     </tu>
     <tu>
@@ -38833,13 +38824,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Portions of the level of exit discharge with access to the egress path shall be either equipped throughout with an automatic sprinkler system installed in accordance with Section 903.3.1.1 or 903.3.1.2, or separated from the egress path in accordance with the requirements for the enclosure of interior exit stairways or ramps.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portions du niveau de l'issue d'évacuation donnant accès au chemin d'évacuation doivent être soit entièrement équipées d'un système d'extincteurs automatiques installé selon la section 903.3.1.1 ou 903.3.1.2, soit séparées du chemin d'évacuation conformément aux exigences relatives à l'enceinte des escaliers ou rampes d'issue intérieurs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T062147Z">
+        <seg>Les parties du niveau de l’issue ayant accès au chemin d’évacuation doivent être soit entièrement munies d’un système d’extincteurs automatiques installé conformément à la section 903.3.1.1 ou 903.3.1.2, soit séparées du chemin d’évacuation conformément aux exigences applicables à l’enceinte des escaliers ou rampes d’issue intérieurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40029,23 +40019,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Separation from the interior of the building is not required for occupancies, other than those in Group R-1 or R-2, in buildings that are not more than two stories above grade plane where a level of exit discharge serving such occupancies is the first story above grade plane.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La séparation de l'intérieur du bâtiment n'est pas exigée pour les usages autres que ceux du groupe R-1 ou R-2 dans les bâtiments de deux étages ou moins au-dessus du plan de référence lorsque le niveau de l'issue d'évacuation desservant ces usages est le premier étage au-dessus du plan de référence.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061604Z">
+        <seg>LLa séparation avec l’intérieur du bâtiment n’est pas exigée pour les usages autres que ceux des groupes R-1 ou R-2, dans les bâtiments ne comportant pas plus de deux étages au-dessus du plan de référence lorsque le niveau de l’issue desservant ces usages constitue le premier étage au-dessus du plan de référence.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Separation from the interior of the building is not required where the exterior exit stairway or ramp is served by an exterior exit ramp or balcony that connects two remote exterior exit stairways or other approved exits with a perimeter that is not less than 50 percent open.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La séparation de l'intérieur du bâtiment n'est pas requise lorsque l'escalier ou la rampe d'issue extérieure est desservi par une rampe d'issue extérieure ou un balcon qui relie deux escaliers d'issue extérieure éloignés ou d'autres issues approuvées dont le périmètre est ouvert à au moins 50 %.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061631Z">
+        <seg>La séparation avec l’intérieur du bâtiment n’est pas exigée lorsque l’escalier ou la rampe d’issue extérieur est desservi par une rampe d’issue extérieure ou un balcon extérieur qui relie deux escaliers d’issue extérieurs éloignés l’un de l’autre ou d’autres issues approuvées et dont le périmètre est ouvert à au moins 50 %.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43014,13 +43002,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.836: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The distance shall be measured in a straight line between the exit discharge door from the interior exit stairway or ramp and the last tread of the exit access stairway or termination of slope of the exit access ramp.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La distance doit être mesurée en ligne droite entre la porte d'issue d'évacuation de l'escalier ou de la rampe d'issue intérieurs et la dernière marche de l'escalier d'accès à l'issue ou l'extrémité de la pente de la rampe d'accès à l'issue.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T062240Z">
+        <seg>La distance doit être mesurée en ligne droite entre la porte d’issue au niveau de l’issue de l’escalier ou de la rampe d’issue intérieur et la dernière marche de l’escalier d’accès à l’issue ou l’extrémité de la pente de la rampe d’accès à l’issue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43159,13 +43146,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The entire area of the level of exit discharge is separated from areas below by construction conforming to the fire-resistance rating for the enclosure.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Toute la zone du niveau de l'issue d'évacuation est séparée des zones situées en dessous par une construction conforme au degré de résistance au feu du cloisonnement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T062038Z">
+        <seg>L’ensemble de la superficie du niveau de l’issue doit être séparé des espaces situés en dessous par une construction présentant le degré de résistance au feu exigé pour l’enceinte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43232,13 +43218,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The exit discharge shall be at grade or shall provide a direct path of egress travel to grade.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'issue d'évacuation doit être au niveau du sol ou doit fournir un chemin de retraite direct vers le niveau du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061919Z">
+        <seg>L’issue doit être au niveau du sol ou doit offrir un parcours d’évacuation direct jusqu’au niveau du sol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43318,13 +43303,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.864: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The exterior walls and openings adjacent to the exterior exit stairway or ramp comply with Section 1023.7.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les murs extérieurs et les ouvertures adjacents à l'escalier ou à la rampe d'issue extérieurs se conforment à la section 1023.7.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061737Z">
+        <seg>Les murs extérieurs et les ouvertures adjacents à l'escalier ou à la rampe d'issue extérieurs sont conformes à la section 1023.7.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44565,13 +44549,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The open areas adjoining exterior exit stairways or ramps shall be either yards, courts or public ways; the remaining sides are permitted to be enclosed by the exterior walls of the building.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les espaces ouverts adjacents aux escaliers ou rampes d'issue extérieurs doivent être soit des cours, soit des voies publiques; les côtés restants peuvent être encloisonnés par les murs extérieurs du bâtiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061323Z">
+        <seg>Les espaces ouverts adjacents aux escaliers et rampes d’issue extérieurs doivent être soit des cours, des courettes ou des voies publiques; les autres côtés peuvent être fermés par les murs extérieurs du bâtiment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44584,23 +44567,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The open-ended corridors are connected on each end to an exterior exit stairway or ramp complying with Section 1027.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les couloirs ouverts sont reliés à chaque extrémité à un escalier ou à une rampe d'issue extérieurs conformes à l'article 1027.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061723Z">
+        <seg>Les couloirs ouverts sont reliés à chaque extrémité à un escalier ou à une rampe d'issue extérieurs conformes à la section 1027.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The open-ended corridors comply with Section 1020.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les couloirs ouverts se conforment à la section 1020.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061705Z">
+        <seg>Les couloirs ouverts sont conformes à la section 1020.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45187,13 +45168,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.849: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The required open area shall be located not less than 42 inches (1067 mm) above the adjacent floor or landing level.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La zone ouverte exigée doit être située à au moins 42 po [1067 mm] au-dessus du niveau de l'étage ou du palier adjacent.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061256Z">
+        <seg>La zone ouverte exigée doit être située à au moins 42 po (1067 mm) au-dessus du niveau de l'étage ou du palier adjacent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46935,13 +46915,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>To be considered open, the opening shall be not less than 50 percent of the height of the enclosing wall, with the top of the openings not less than 7 feet (2134 mm) above the top of the balcony.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour être considérée comme ouverte, l'ouverture ne doit pas être inférieure à 50 pour cent de la hauteur du mur d'enceinte, le haut des ouvertures ne devant pas être inférieur à 7 pi [2134 mm] au-dessus du haut du balcon.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061536Z">
+        <seg>Pour être considérée comme ouverte, l'ouverture ne doit pas être inférieure à 50 pour cent de la hauteur du mur d'enceinte, le haut des ouvertures ne devant pas être inférieur à 7 pi (2134 mm) au-dessus du haut du balcon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48411,13 +48390,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.799: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a required interior exit stairway or ramp and an exit access stairway or ramp serve the same floor level and terminate at the same level of exit discharge, the termination of the exit access stairway or ramp and the exit discharge door of the interior exit stairway or ramp shall be separated by a distance of not less than 30 feet (9144 mm) or not less than one-fourth the length of the maximum overall diagonal dimension of the building, whichever is less.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un escalier ou une rampe d'issue intérieurs exigés et un escalier ou une rampe d'accès à l'issue desservent le même niveau du sol et se terminent au même niveau de l'issue d'évacuation, l'extrémité de l'escalier ou de la rampe d'accès à l'issue et la porte de l'issue d'évacuation de l'escalier ou de la rampe d'issue intérieurs doivent être séparés par une distance d'au moins 30 pi (9 144 mm) ou d'au moins le quart de la longueur de la diagonale totale maximale du bâtiment, selon la valeur la plus faible.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T062207Z">
+        <seg>Lorsque l’escalier ou la rampe d’issue intérieur exigé et l’escalier ou la rampe d’accès à l’issue desservent le même niveau d’étage et aboutissent au même niveau de l’issue, l’extrémité de l’escalier ou de la rampe d’accès à l’issue et la porte d’issue au niveau de l’issue de l’escalier ou de la rampe d’issue intérieur doivent être séparées par une distance d’au moins 30 pieds (9 144 mm) ou d’au moins le quart de la longueur de la plus grande dimension diagonale hors tout du bâtiment, selon la moindre de ces valeurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48863,13 +48841,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where clear openings are provided, they shall be located so as to minimize the accumulation of smoke or toxic gases.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des ouvertures libres sont prévues, elles doivent être situées de manière à minimiser l'accumulation de fumée ou de gaz toxiques.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T061839Z">
+        <seg>Lorsque des ouvertures libres sont prévues, elles doivent être situées de manière à réduire au minimum l’accumulation de fumée ou de gaz toxiques.</seg>
       </tuv>
     </tu>
     <tu>
