@@ -8425,13 +8425,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.81: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1103.2.10 Highway tollbooths.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1103.2.10 Cabines de péage routier.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T175838Z">
+        <seg>&lt;g1&gt;1103.2.10 Postes de péage autoroutier.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8445,13 +8444,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.882: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1103.2.12 Day care facilities.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1103.2.12 Établissements de soins de jour.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T182842Z">
+        <seg>&lt;g1&gt;1103.2.12 Garderies.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28100,13 +28098,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.793: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Buildings of Group R-1 containing not more than five sleeping units for rent or hire that are also occupied as the residence of the proprietor are not required to comply with this chapter.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les bâtiments du groupe R-1 ne contenant pas plus de cinq unités de couchage à louer ou à la journée ou à la semaine qui sont également occupés comme résidence du propriétaire ne sont pas tenus de se conformer au présent chapitre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T175907Z">
+        <seg>Les bâtiments du groupe R-1 qui ne contiennent pas plus de cinq unités de couchage offertes en location ou en location à bail et qui sont également occupés comme résidence par le propriétaire-exploitant ne sont pas tenus d’être conformes au présent chapitre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33979,13 +33976,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Highway tollbooths where the access is provided only by bridges above the vehicular traffic or underground tunnels are not required to comply with this chapter.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les postes de péage autoroutiers dont l'accès est assuré uniquement par des ponts au-dessus de la circulation automobile ou par des tunnels souterrains ne sont pas tenus de se conformer au présent chapitre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T175830Z">
+        <seg>Les postes de péage autoroutier dont l’accès est assuré uniquement par des passerelles situées au-dessus de la circulation des véhicules ou par des tunnels souterrains ne sont pas tenus d’être conformes au présent chapitre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38884,13 +38880,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.79: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Raised areas used primarily for purposes of security, life safety or fire safety including, but not limited to, observation galleries, prison guard towers, fire towers or lifeguard stands are not required to comply with this chapter.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les zones surélevées utilisées principalement à des fins de SÉCURITÉ, de protection des personnes ou de protection contre les incendies, notamment, mais sans s'y limiter, les galeries d'observation, les tours de garde des prisons, les tours d'incendie ou les postes de surveillance des sauveteurs, ne sont pas tenues de se conformer au présent chapitre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T175708Z">
+        <seg>Les zones surélevées utilisées principalement à des fins de sécurité, de sécurité des personnes ou de sécurité incendie, notamment, sans toutefois s’y limiter, les galeries d’observation, les miradors de gardiens de prison, les tours de guet contre les incendies ou les postes de sauveteurs, ne sont pas tenues d’être conformes au présent chapitre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38924,13 +38919,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.811: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Raised or lowered areas, or portions of areas, in places of religious worship that are less than 300 square feet (30 m2) in area and located 7 inches (178 mm) or more above or below the finished floor and used primarily for the performance of religious ceremonies are not required to comply with this chapter.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les aires surélevées ou abaissées, ou les parties d'aires, dans les lieux de culte religieux dont la superficie est inférieure à 300 pi2 [30 m2] et qui sont situées à 7 po [178 mm] ou plus au-dessus ou au-dessous du plancher fini et qui sont utilisées principalement pour la célébration de cérémonies religieuses ne sont pas tenues de se conformer au présent chapitre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T175742Z">
+        <seg>Les zones surélevées ou abaissées, ou les parties de ces zones, dans les lieux de culte, dont la superficie est inférieure à 300 pi² (30 m²), qui sont situées à 7 po (178 mm) ou plus au-dessus ou au-dessous du plancher fini et qui sont utilisées principalement pour la tenue de cérémonies religieuses, ne sont pas tenues d’être conformes au présent chapitre.</seg>
       </tuv>
     </tu>
     <tu>
