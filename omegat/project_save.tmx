@@ -820,13 +820,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.764: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Handrails are not required for ramped aisles with seating on both sides.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Les rampes ne sont pas exigées pour les allées en pente avec des SIÈGES des deux côtés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T165337Z">
+        <seg>1.&lt;x1/&gt; Les mains courantes ne sont pas exigées pour les allées en pente avec des sièges des deux côtés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2132,13 +2131,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Handrails are not required where, at the side of the aisle, there is a guard with a top surface that complies with the graspability requirements of handrails in accordance with Section 1014.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Les rampes ne sont pas exigées lorsque, sur le côté du passage, il y a un garde-corps dont la surface supérieure est conforme aux exigences de préhension des rampes selon la section 1014.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T165440Z">
+        <seg>2.&lt;x1/&gt; Les mains courantes ne sont pas exigées lorsque, sur le côté de l’allée, se trouve un garde-corps dont la surface supérieure est conforme aux exigences relatives à la préhension des mains courantes de la section 1014.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3162,13 +3160,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.776: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;Handrail extensions are not required at the top and bottom of stepped aisles and ramped aisles to permit crossovers within the aisles.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Des prolongements de rampes ne sont pas exigés en haut et en bas des passages ou allées en paliers et des passages ou allées en rampe pour permettre les croisements à l'intérieur des allées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T165433Z">
+        <seg>3.&lt;x1/&gt; Les prolongements des mains courantes ne sont pas exigés en haut et en bas des allées à gradins et des allées en pente pour permettre le franchissement transversal des allées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7169,33 +7166,30 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.851: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1030.16.1 Discontinuous mid-aisle handrails.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1030.16.1 Rampes discontinues au milieu de l'allée.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T165453Z">
+        <seg>&lt;g1&gt;1030.16.1 Mains courantes intermédiaires discontinues.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.89: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1030.16.2 Handrail termination.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1030.16.2 Extrémité de la rampe.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T165830Z">
+        <seg>&lt;g1&gt;1030.16.2 Fin des mains courantes.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.815: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1030.16.3 Mid-aisle termination.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1030.16.3 Extrémité au milieu de l'allée.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T165926Z">
+        <seg>&lt;g1&gt;1030.16.3 Fin de la main courante intermédiaire.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7209,13 +7203,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.801: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1030.17 Assembly guards.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1030.17 Garde-corps pour les réunions.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T170232Z">
+        <seg>&lt;g1&gt;1030.17 Garde-corps des espaces d’assemblée.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27194,13 +27187,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.745: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At bleachers, grandstands and folding and telescopic seating, guards must be provided where required by ICC 300 and Section 1030.17.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les gradins, les tribunes et les SIÈGES pliants et télescopiques, des garde-corps doivent être prévus lorsque l'ICC 300 et la section 1030.17.1 l'exigent.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T170258Z">
+        <seg>Dans les gradins, les tribunes et les sièges pliants et télescopiques, des garde-corps doivent être prévus lorsque l’exigent la norme ICC 300 et la section 1030.17.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33093,13 +33085,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.784: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Gaps or breaks shall be provided at intervals not exceeding five rows to facilitate access to seating and to permit crossing from one side of the aisle to the other.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des espaces ou des interruptions doivent être prévus à des intervalles ne dépassant pas cinq rangées pour faciliter l'accès aux SIÈGES et permettre de passer d'un côté à l'autre de l'allée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T165716Z">
+        <seg>Des espaces ou des interruptions doivent être prévus à des intervalles ne dépassant pas cinq rangées pour faciliter l'accès aux sièges et permettre de passer d'un côté à l'autre de l'allée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33621,13 +33612,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Guards adjacent to seating in a building, room or space used for assembly purposes shall be provided where required by Section 1015 and shall be constructed in accordance with Section 1015 except where provided in accordance with Sections 1030.17.1 through 1030.17.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des garde-corps adjacents aux sièges dans un bâtiment, une pièce ou une aire utilisée à des fins de réunions doivent être prévus lorsque la section 1015 l'exige et ils doivent être construits selon la section 1015, sauf lorsqu'ils sont prévus selon les sections 1030.17.1 à 1030.17.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T170242Z">
+        <seg>Des garde-corps adjacents aux sièges dans un bâtiment, une pièce ou un espace utilisé à des fins d’assemblée doivent être prévus lorsque l’exige la section 1015 et doivent être construits conformément à la section 1015, sauf lorsqu’ils sont prévus conformément aux sections 1030.17.1 à 1030.17.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33749,13 +33739,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Handrail extensions are not required.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les extensions de rampe ne sont pas exigées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T165943Z">
+        <seg>Les extensions de mains courantes ne sont pas exigées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33797,13 +33786,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.804: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Handrails located on the side of stepped aisles shall return to a wall, guard or the walking surface or shall be continuous to the handrail of an adjacent stepped aisle flight.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes situées sur le côté des allées en escalier doivent retourner à un mur, à un garde-corps ou à la surface de marche, ou elles doivent être un prolongement de la rampe d'une volée d'allée en escalier adjacente.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T165838Z">
+        <seg>Les mains courantes situées sur le côté des allées à gradins doivent revenir jusqu’à un mur, un garde-corps ou la surface de circulation, ou être continues jusqu’à la main courante de la volée adjacente de l’allée à gradins.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37034,23 +37022,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.798: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Mid-aisle handrails shall be permitted to extend beyond the lowest riser where the handrail extensions do not obstruct the width of the cross aisle.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes au milieu de l'allée peuvent se prolonger au-delà de la contremarche la plus basse lorsque le prolongement de la rampe n'obstrue pas la largeur de l'allée transversale.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T170022Z">
+        <seg>Les mains courantes intermédiaires de l’allée peuvent se prolonger au-delà de la contremarche la plus basse lorsque leurs prolongements n’obstruent pas la largeur de l’allée transversale requise.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Mid-aisle handrails shall not extend beyond the lowest riser and shall terminate within 18 inches (381 mm), measured horizontally, from the lowest riser.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes au milieu de l'allée ne doivent pas dépasser la contremarche la plus basse et doivent se terminer à moins de 18 po [381 mm], mesurés horizontalement, de la contremarche la plus basse.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T165937Z">
+        <seg>Les mains courantes intermédiaires de l’allée ne doivent pas se prolonger au-delà de la contremarche la plus basse et doivent se terminer à au plus 18 po (381 mm), mesurés horizontalement, de la contremarche la plus basse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44824,13 +44810,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.871: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The rail shall be adequate in strength and attachment in accordance with Section 1607.9.1.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La main courante doit se conformer à la section 1607.9.1.2 relativement à la résistance et à la fixation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T170131Z">
+        <seg>La rampe doit avoir une résistance et une fixation adéquates conformément à la section 1607.9.1.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46421,13 +46406,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>These gaps or breaks shall have a clear width of not less than 22 inches (559 mm) and not greater than 36 inches (914 mm), measured horizontally, and the mid-aisle handrail shall have rounded terminations or bends.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ces espaces ou interruptions doivent avoir une largeur libre d'au moins 22 po (559 mm) et d'au plus 36 po (914 mm), mesurée horizontalement, et la rampe au milieu de l'allée doit avoir des extrémités arrondies ou des coudes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T165755Z">
+        <seg>Ces écarts ou interruptions doivent avoir une largeur libre d’au moins 22 po (559 mm) et d’au plus 36 po (914 mm), mesurée horizontalement, et les mains courantes intermédiaires de l’allée doivent avoir des extrémités ou des coudes arrondis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48351,13 +48335,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.781: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a stepped aisle is required to have two handrails, the mid-aisle handrails shall be discontinuous.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un allée en escalier doit comporter deux rampes, les rampes au milieu de l'allée doivent être discontinues.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T165659Z">
+        <seg>Lorsqu’une allée à gradins doit être munie de deux mains courantes, les mains courantes intermédiaires de l’allée doivent être discontinues.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49002,13 +48985,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.743: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where mid-aisle handrails are provided in stepped aisles, there shall be an additional rail located approximately 12 inches (305 mm) below the handrail.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des rampes au milieu de l'allée sont prévues dans les allées à gradins, il doit y avoir une rampe supplémentaire située à environ 12 po [305 mm] sous la rampe.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T170106Z">
+        <seg>Lorsque des mains courantes intermédiaires sont prévues dans des allées à gradins, une main courante supplémentaire doit être installée à environ 12 po (305 mm) sous la main courante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50157,13 +50139,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.754: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where there is seating on both sides of the aisle, the mid-aisle handrails shall be discontinuous.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'il y a des sièges des deux côtés de l'allée, les rampes au milieu de l'allée doivent être discontinues.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T165515Z">
+        <seg>Lorsqu'il y a des sièges des deux côtés de l'allée, les mains courantes au milieu de l'allée doivent être discontinues.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50216,13 +50197,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where two handrails are required, one of the handrails shall be within 30 inches (762 mm) horizontally of the stepped aisle.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque deux rampes sont exigées, l'une des rampes doit se trouver à moins de 30 po [762 mm] horizontalement de l'allée à marches.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T165313Z">
+        <seg>Lorsque deux mains courantes sont exigées, l’une d’elles doit se trouver à au plus 30 po (762 mm) horizontalement de l’allée à gradins.</seg>
       </tuv>
     </tu>
     <tu>
