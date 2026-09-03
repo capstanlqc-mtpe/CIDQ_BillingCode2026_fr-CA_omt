@@ -22264,13 +22264,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.889: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 915.4.4 Combination alarms.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 915.4.4 Détecteurs combinés.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T015442Z">
+        <seg>&lt;g1&gt;[F] 915.4.4 Alarmes combinées.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28510,13 +28509,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Carbon monoxide alarms and carbon monoxide detection systems shall be maintained in accordance with the International Fire Code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les détecteurs de monoxyde de carbone et les systèmes de détection de monoxyde de carbone doivent être entretenus conformément à l'International Fire Code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T015645Z">
+        <seg>Les alarmes de monoxyde de carbone et les systèmes de détection de monoxyde de carbone doivent être entretenus conformément à l'International Fire Code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28530,13 +28528,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.881: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Carbon monoxide alarms shall be listed in accordance with UL 2034.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les détecteurs de monoxyde de carbone doivent être répertoriés conformément à la norme UL 2034.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T015356Z">
+        <seg>Les alarmes de monoxyde de carbone doivent être répertoriées conformément à la norme UL 2034.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28559,23 +28556,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.899: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Carbon monoxide alarms shall comply with Sections 915.4.1 through 915.4.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les détecteurs de monoxyde de carbone doivent être conformes aux sections 915.4.1 à 915.4.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T015245Z">
+        <seg>Les alarmes de monoxyde de carbone doivent être conformes aux sections 915.4.1 à 915.4.4.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Carbon monoxide alarms shall only be installed in dwelling units and in sleeping units.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les détecteurs de monoxyde de carbone ne doivent être installés que dans les logements et dans les unités de couchage.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T015420Z">
+        <seg>Les alarmes de monoxyde de carbone doivent être installés seulement dans les logements et dans les unités de couchage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28589,13 +28584,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Carbon monoxide alarms shall receive their primary power from the building wiring where such wiring is served from a commercial source, and when primary power is interrupted, shall receive power from a battery.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les détecteurs de monoxyde de carbone doivent être alimentés en électricité primaire par le câblage du bâtiment lorsque ce câblage est alimenté par une source commerciale et, en cas d'interruption de l'alimentation primaire, ils doivent être alimentés par une batterie.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T015311Z">
+        <seg>Les alarmes de monoxyde de carbone doivent recevoir leur alimentation électrique principale du câblage du bâtiment lorsque celui-ci est alimenté par une source commerciale et, lorsque l’alimentation principale est interrompue, elles doivent être alimentées par une pile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28703,13 +28697,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.868: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Carbon monoxide detection systems shall be an acceptable alternative to carbon monoxide alarms and shall comply with Sections 915.5.1 through 915.5.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les systèmes de détection de monoxyde de carbone doivent être une solution de rechange acceptable aux détecteurs de monoxyde de carbone et doivent être conformes aux sections 915.5.1 à 915.5.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T015542Z">
+        <seg>Les systèmes de détection de monoxyde de carbone doivent être une solution de rechange acceptable aux alarmes de monoxyde de carbone et doivent être conformes aux sections 915.5.1 à 915.5.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29337,33 +29330,30 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.825: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Combination carbon monoxide/smoke alarms shall be an acceptable alternative to carbon monoxide alarms.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les détecteurs combinés de monoxyde de carbone et de fumée sont une solution de rechange acceptable aux détecteurs de monoxyde de carbone.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T015513Z">
+        <seg>Les alarmes combinées de monoxyde de carbone et de fumée constituent une solution de remplacement acceptable aux alarmes de monoxyde de carbone.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Combination carbon monoxide/smoke alarms shall be listed in accordance with UL 217 and UL 2034.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les détecteurs combinés de monoxyde de carbone et de fumée doivent être répertoriés conformément aux normes UL 217 et UL 2034.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T015520Z">
+        <seg>Les alarmes combinées de monoxyde de carbone et de fumée doivent être homologuées conformément aux normes UL 217 et UL 2034.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Combination carbon monoxide/smoke detectors installed in carbon monoxide detection systems shall be an acceptable alternative to carbon monoxide detectors, provided that they are listed in accordance with UL 268 and UL 2075.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les détecteurs combinés de monoxyde de carbone et de fumée installés dans les systèmes de détection de monoxyde de carbone doivent être une alternative acceptable aux détecteurs de monoxyde de carbone, à condition qu'ils soient inscrits conformément aux normes UL 268 et UL 2075.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T015629Z">
+        <seg>Les détecteurs combinés de monoxyde de carbone et de fumée installés dans des systèmes de détection de monoxyde de carbone constituent une solution de remplacement acceptable aux détecteurs de monoxyde de carbone, à condition qu’ils soient homologués conformément aux normes UL 268 et UL 2075.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30256,13 +30246,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.871: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Documentation of the gas detection system design and equipment to be used that demonstrates compliance with the requirements of this code and the International Fire Code shall be provided with the application for permit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La documentation sur la conception du système de détection de gaz et sur l'équipement à utiliser qui démontre la conformité aux exigences du présent code et de l'International Fire Code doit être fournie avec la demande de permis.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T015742Z">
+        <seg>La documentation relative à la conception du système de détection de gaz et aux équipements à utiliser, démontrant la conformité aux exigences du présent code et de l’International Fire Code, doit être fournie avec la demande de permis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33296,13 +33285,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.883: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Gas detection system equipment shall be designed for use with the gases being detected and shall be installed in accordance with manufacturer's instructions.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'équipement du système de détection de gaz doit être conçu pour être utilisé avec les gaz détectés et doit être installé conformément aux directives du fabricant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T015820Z">
+        <seg>Les équipements des systèmes de détection de gaz doivent être conçus pour être utilisés avec les gaz détectés et doivent être installés conformément aux instructions du fabricant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33325,13 +33313,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Gas detection systems shall be permanently connected to the building electrical power supply or shall be permitted to be cord connected to an unswitched receptacle using an approved restraining means that secures the plug to the receptacle.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les systèmes de détection de gaz doivent être raccordés en permanence à l'alimentation électrique du bâtiment ou ils peuvent être raccordés par un cordon à une prise non commutée à l'aide d'un moyen de retenue approuvé qui fixe la fiche à la prise.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T015901Z">
+        <seg>Les systèmes de détection de gaz doivent être raccordés en permanence à l’alimentation électrique du bâtiment ou peuvent être raccordés par cordon à une prise de courant non commutée au moyen d’un dispositif de retenue approuvé qui fixe la fiche à la prise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38700,13 +38687,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Permits shall be required as set forth in Section 105.6.10 of the International Fire Code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des permis sont requis conformément à l'article 105.6.10 de l'International Fire Code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T015715Z">
+        <seg>Des permis doivent être exigés conformément à la section 105.6.10 de l’International Fire Code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41362,13 +41348,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Standby or emergency power shall be provided or the gas detection system shall initiate a trouble signal at an approved location if the power supply is interrupted.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une alimentation de secours ou d'urgence doit être prévue ou le système de détection de gaz doit déclencher un signal de panne à un emplacement approuvé en cas d'interruption de l'alimentation électrique.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T020622Z">
+        <seg>Une alimentation de secours ou d’urgence doit être prévue ou le système de détection de gaz doit déclencher un signal de dérangement à un endroit approuvé en cas d’interruption de l’alimentation électrique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46778,13 +46763,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.884: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>They shall not be installed in locations where the code requires carbon monoxide detectors to be used.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ils ne doivent pas être installés dans des endroits où le code exige l'utilisation de détecteurs de monoxyde de carbone.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T015431Z">
+        <seg>Elles ne doivent pas être installées dans des endroits où le code exige l'utilisation de détecteurs de monoxyde de carbone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49275,13 +49259,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.844: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where installed in buildings without commercial power, battery-powered carbon monoxide alarms shall be an acceptable alternative.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'ils sont installés dans des bâtiments sans alimentation commerciale, les détecteurs de monoxyde de carbone alimentés par batterie constituent une solution de rechange acceptable.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T015340Z">
+        <seg>Lorsqu'ils sont installés dans des bâtiments sans alimentation commerciale, les alarmes de monoxyde de carbone alimentées par batterie constituent une solution de rechange acceptable.</seg>
       </tuv>
     </tu>
     <tu>
