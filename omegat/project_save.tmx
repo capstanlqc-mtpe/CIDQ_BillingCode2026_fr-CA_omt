@@ -4425,13 +4425,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>6.&lt;x1/&gt;Electrical raceway serving the exit passageway and terminating at a steel box not exceeding 16 square inches (0.010 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>6. Chemin de câbles&lt;x1/&gt; électrique desservant le passage d'issue et se terminant à un boîtier en acier n'excédant pas 16 po2 [0,010 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055530Z">
+        <seg>6. Chemin de câbles&lt;x1/&gt; électrique desservant le passage d'issue et aboutissant à un boîtier en acier n'excédant pas 16 po2 [0,010 m2].</seg>
       </tuv>
     </tu>
     <tu>
@@ -6490,13 +6489,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.898: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1024.4 Termination.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1024.4 Terminaison.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055307Z">
+        <seg>&lt;g1&gt;1024.4 Aboutissement.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6590,13 +6588,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.912: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1025.2.3 Handrails.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1025.2.3 Rampes.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060100Z">
+        <seg>&lt;g1&gt;1025.2.3 Mains courantes.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27105,13 +27102,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.791: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Approved luminous egress path markings delineating the exit path shall be provided in high-rise buildings of Group A, B, E, I-1, M or R-1 occupancies in accordance with this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir des marquages lumineux approuvés délimitant le chemin de retraite dans les immeubles de grande hauteur des usages des groupes A, B, E, I-1, M ou R-1 conformément à la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055849Z">
+        <seg>Des marquages lumineux approuvés du chemin d’évacuation délimitant le parcours de l’issue doivent être installés dans les bâtiments de grande hauteur abritant des usages des groupes A, B, E, I-1, M ou R-1, conformément à la présente section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30936,13 +30932,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Egress path markings shall be provided in interior exit stairways, interior exit ramps and exit passageways, in accordance with Sections 1025.2.1 through 1025.2.6.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir des marquages de chemin d'évacuation dans les escaliers d'issue intérieurs, les rampes d'issue intérieures et les passages d'issue, selon les articles 1025.2.1 à 1025.2.6.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055934Z">
+        <seg>Les marquages du chemin d’évacuation doivent être installés dans les escaliers et rampes d’issue intérieurs et les passages d’issue, conformément aux sections 1025.2.1 à 1025.2.6.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31607,13 +31602,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Except as permitted in Section 402.8.7, openings in exit passageways other than unprotected exterior openings shall be limited to those necessary for exit access to the exit passageway from normally occupied spaces and for egress from the exit passageway.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Sauf dans les cas autorisés à l'article 402.8.7, les ouvertures dans les passages d'issue autres que les ouvertures extérieures non protégées doivent être limitées à celles qui sont nécessaires pour l'accès à l'issue vers le passage d'issue à partir des espaces normalement occupés et pour l'évacuation du passage d'issue.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055446Z">
+        <seg>Sauf dans les cas autorisés par la section 402.8.7, les ouvertures dans les passages d’issue, autres que les ouvertures extérieures non protégées, doivent être limitées à celles qui sont nécessaires pour permettre l’accès à l’issue depuis les espaces normalement occupés et pour permettre l’évacuation du passage d’issue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31806,13 +31800,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exit passageway opening protectives shall be in accordance with the requirements of Section 716.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La protection d'ouvertures des passages de sortie doit être conforme aux exigences de la section 716.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055426Z">
+        <seg>La protection d'ouvertures des passages d'issue doit être conforme aux exigences de la section 716.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31826,23 +31819,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.719: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exit passageways on other levels shall terminate at an exit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les passages d'issue aux autres niveaux doivent se terminer à une issue.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055402Z">
+        <seg>Les passages d'issue aux autres niveaux doivent aboutir à une issue.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.753: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exit passageways on the level of exit discharge shall terminate at an exit discharge.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les passages d'évacuation au niveau de l'issue d'évacuation doivent se terminer à une issue d'évacuation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055406Z">
+        <seg>Les passages d'issue au niveau de l'issue d'évacuation doivent aboutir à une issue d'évacuation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31855,13 +31846,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exit passageways shall be constructed as fire barriers in accordance with Section 707 or horizontal assemblies constructed in accordance with Section 711, or both.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les passages d'évacuation doivent être construits comme des barrières coupe-feu selon la section 707 ou des ensembles horizontaux construits selon la section 711 ou les deux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055257Z">
+        <seg>Les passages d'issue doivent être construits comme des barrières coupe-feu selon la section 707 ou des ensembles horizontaux construits selon la section 711 ou les deux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33871,13 +33861,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.847: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Handrails and handrail extensions shall be marked with a solid and continuous stripe having a minimum width of 1 inch (25 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes et les extensions de rampe doivent être marquées d'une bande pleine et continue d'une largeur minimale de 1 po [25 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060128Z">
+        <seg>Les mains courantes et les extensions de mains courantes doivent être marquées d'une bande pleine et continue d'une largeur minimale de 1 po (25 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36888,13 +36877,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Luminous egress path markings shall not be required on the level of exit discharge in lobbies that serve as part of the exit path in accordance with Section 1028.2, Exception 1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le marquage lumineux du chemin d'évacuation n'est pas exigé au niveau de l'issue d'évacuation dans les vestibules qui font partie du chemin d'évacuation selon la section 1028.2, Exception 1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055911Z">
+        <seg>Les marquages lumineux du chemin d’évacuation ne sont pas exigés au niveau de l’issue dans les halls qui font partie du parcours de l’issue conformément à la section 1028.2, exception 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37139,13 +37127,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Membrane penetrations shall be permitted on the outside of the exit passageway.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La pénétration de membrane est permise à l'extérieur du passage de sortie.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055543Z">
+        <seg>La pénétration de membrane est permise à l'extérieur du passage d'issue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38247,13 +38234,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.88: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Outlining stripes shall have a minimum horizontal width of 1 inch (25 mm) and a maximum width of 2 inches (51 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les bandes de délimitation doivent avoir une largeur horizontale minimale de 1 po [25 mm] et une largeur maximale de 2 po [51 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060008Z">
+        <seg>Les bandes de délimitation doivent avoir une largeur horizontale minimale de 1 po (25 mm) et une largeur maximale de 2 po (51 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43235,13 +43221,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The equipment and ductwork shall be located exterior to the building and shall be directly connected to the exit passageway by ductwork enclosed in construction as required for shafts.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'équipement et les conduits doivent être situés à l'extérieur du bâtiment et ils doivent être directement raccordés au chemin d'évacuation par des conduits encloisonnés dans la construction selon les exigences pour les puits.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055640Z">
+        <seg>Les équipements et les conduits doivent être situés à l’extérieur du bâtiment et doivent être directement raccordés au passage d’issue par des conduits enfermés dans une construction conforme aux exigences applicables aux puits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44113,13 +44098,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.857: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The leading edge of the stripe shall be placed not more than 1/2 inch (12.7 mm) from the leading edge of the step and the stripe shall not overlap the leading edge of the step by not more than 1/2 inch (12.7 mm) down the vertical face of the step.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le bord avant de la bande doit être placé à 1/2 po [12,7 mm] ou moins du bord avant de la marche et la bande ne doit pas chevaucher le bord avant de la marche de plus de 1/2 po [12,7 mm] vers le bas de la face verticale de la marche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060029Z">
+        <seg>Le bord avant de la bande doit être placé à 1/2 po (12,7 mm) ou moins du bord avant de la marche et la bande ne doit pas chevaucher le bord avant de la marche de plus de 1/2 po (12,7 mm) vers le bas de la face verticale de la marche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44475,13 +44459,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.874: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The minimum width of 1 inch (25 mm) shall not apply to outlining stripes listed in accordance with UL 1994.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La largeur minimale de 1 po [25 mm] ne s'applique pas aux bandes de délimitation inscrites conformément à la norme UL 1994.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060041Z">
+        <seg>La largeur minimale de 1 po (25 mm) ne s'applique pas aux bandes de délimitation inscrites conformément à la norme UL 1994.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45688,13 +45671,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The stripe shall be placed on the top surface of the handrail for the entire length of the handrail, including extensions and newel post caps.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La bande doit être placée sur la surface supérieure de la rampe sur toute la longueur de la rampe, y compris les prolongements et les chapeaux de poteau.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060207Z">
+        <seg>La bande doit être placée sur la surface supérieure de la main courante sur toute la longueur de la main courante, y compris les prolongements et les chapeaux de poteau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46716,13 +46698,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>This construction shall extend vertically from the ground to a point 10 feet (3048 mm) above the floor of the exit passageway, or to the roof line, whichever is lower.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Cette construction doit se prolonger verticalement depuis le sol jusqu'à un point situé à 10 pi [3048 mm] au-dessus du sol du passage d'issue, ou jusqu'à la ligne du toit, selon la valeur la plus basse.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055818Z">
+        <seg>Cette construction doit se prolonger verticalement depuis le sol jusqu'à un point situé à 10 pi (3048 mm) au-dessus du sol du passage d'issue, ou jusqu'à la ligne du toit, selon la valeur la plus basse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49103,13 +49084,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where handrails or handrail extensions bend or turn corners, the stripe shall not have a gap of more than 4 inches (102 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les rampes ou les extensions de rampe sont courbées ou tournent dans les coins, la bande ne doit pas comporter d'espace de plus de 4 po [102 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T060240Z">
+        <seg>Lorsque les mains courantes ou les extensions de mains courantes sont courbées ou tournent dans les coins, la bande ne doit pas comporter d'espace de plus de 4 po ^(102 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49177,13 +49157,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.863: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where located within the building, the equipment and ductwork shall be separated from the remainder of the building, including other mechanical equipment, with construction as required for shafts.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'ils sont situés à l'intérieur du bâtiment, l'équipement et les conduits doivent être séparés du reste du bâtiment, y compris des autres équipements mécaniques, par une construction conforme aux exigences relatives aux puits.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055718Z">
+        <seg>Lorsque les équipements et les conduits sont situés à l’intérieur du bâtiment, ils doivent être séparés du reste du bâtiment, y compris des autres équipements mécaniques, par une construction conforme aux exigences applicables aux puits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49275,13 +49254,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.825: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where nonrated walls or unprotected openings enclose the exterior of the exit passageway and the walls or openings are exposed by other parts of the building at an angle of less than 180 degrees (3.14 rad), the building exterior walls within 10 feet (3048 mm) horizontally of a nonrated wall or unprotected opening shall have a fire-resistance rating of not less than 1 hour.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des murs non cotés ou des ouvertures non protégées entourent l'extérieur du passage de sortie et que les murs ou les ouvertures sont exposés par d'autres parties du bâtiment à un angle inférieur à 180 degrés (3,14 rad), les murs extérieurs du bâtiment situés à moins de 10 pieds (3 048 mm) horizontalement d'un mur non coté ou d'une ouverture non protégée doivent offrir un degré de résistance au feu d'au moins une heure.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055758Z">
+        <seg>Lorsque des murs sans degré de résistance au feu ou des ouvertures non protégées forment l’enveloppe extérieure du passage d’issue et que ces murs ou ouvertures sont exposés à d’autres parties du bâtiment selon un angle inférieur à 180 degrés (3,14 rad), les murs extérieurs du bâtiment situés à moins de 10 pi (3 048 mm) horizontalement d’un mur sans degré de résistance au feu ou d’une ouverture non protégée doivent avoir un degré de résistance au feu d’au moins 1 heure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50034,13 +50012,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the equipment and ductwork is located within the exit passageway, the intake air shall be taken directly from the outdoors and the exhaust air shall be discharged directly to the outdoors, or the air shall be conveyed through ducts enclosed in construction as required for shafts.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque l'équipement et les conduits sont situés à l'intérieur du passage de l'issue, l'air d'admission doit être prélevé directement de l'extérieur et l'air d'évacuation doit être évacué directement vers l'extérieur, ou l'air doit être acheminé par des conduits encloisonnés dans la construction selon les exigences pour les puits.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T055703Z">
+        <seg>Lorsque les équipements et les conduits sont situés à l’intérieur du passage d’issue, l’air d’admission doit être prélevé directement de l’extérieur et l’air d’évacuation doit être rejeté directement à l’extérieur, ou l’air doit être acheminé par des conduits enfermés dans une construction conforme aux exigences applicables aux puits.</seg>
       </tuv>
     </tu>
     <tu>
