@@ -26080,23 +26080,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.792: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Aisles and aisle accessways serving as a portion of the exit access in the means of egress system shall comply with the requirements of this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les allées et les voies d'accès aux allées servant de portion de l'accès à l'issue dans le moyen d'évacuation doivent être conformes aux exigences de la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T045405Z">
+        <seg>Les allées et les voies d’accès aux allées qui servent de partie de l’accès à l’issue dans le système de moyens d’évacuation doivent être conformes aux exigences de la présente section.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.76: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Aisles or aisle accessways shall be provided from all occupied portions of the exit access that contain seats, tables, furnishings, displays and similar fixtures or equipment.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des allées ou des voies d'accès aux allées doivent être prévues à partir de toutes les parties occupées de l'accès à l'issue qui contiennent des sièges, des tables, du mobilier, des présentoirs et des appareils ou équipements similaires.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T045418Z">
+        <seg>Des allées ou des voies d’accès aux allées doivent être prévues à partir de toutes les parties occupées de l’accès à l’issue qui comportent des sièges, des tables, du mobilier, des présentoirs et des installations ou équipements similaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31500,13 +31498,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.797: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Encroachments complying with Section 1005.7.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Empiétements conformes à la Section 1005.7.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T045519Z">
+        <seg>Saillies conformes à la section 1005.7.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34613,13 +34610,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.812: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group B and M occupancies, the minimum clear aisle width shall be determined by Section 1005.1 for the occupant load served, but shall be not less than that required for corridors by Section 1020.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les locaux des groupes B et M, la largeur libre minimale de l'allée doit être déterminée par l'article 1005.1 pour la charge d'occupants desservie, mais elle ne doit pas être inférieure à celle qui est exigée pour les corridors par l'article 1020.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T045556Z">
+        <seg>Dans les usages des groupes B et M, la largeur libre minimale des allées doit être déterminée conformément à la section 1005.1 en fonction de la charge d’occupants desservie, mais ne doit pas être inférieure à celle exigée pour les corridors par la section 1020.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37555,13 +37551,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Nonpublic aisles serving less than 50 people and not required to be accessible by Chapter 11 need not exceed 28 inches (711 mm) in width.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les allées non publiques desservant moins de 50 personnes et qui ne doivent pas être accessibles en vertu du chapitre 11 n'ont pas besoin de dépasser 28 po [711 mm] de largeur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T050411Z">
+        <seg>Les allées non publiques desservant moins de 50 personnes et qui ne sont pas tenues d’être accessibles conformément au chapitre 11 n’ont pas à avoir une largeur supérieure à 28 pouces (711 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44561,13 +44556,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.777: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The minimum width or required capacity of aisles shall be unobstructed.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La largeur minimale ou la capacité requise des allées doit être Non obstruée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T045441Z">
+        <seg>La largeur libre minimale ou la capacité requise des allées doit être dégagée.</seg>
       </tuv>
     </tu>
     <tu>
