@@ -7541,8 +7541,8 @@
       <tuv lang="en">
         <seg>&lt;g1&gt;1031.5 Area wells.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T173814Z">
-        <seg>&lt;g1&gt;1031.5 Cuvettes de fenêtre.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T174206Z">
+        <seg>&lt;g1&gt;1031.5 Puits de fenêtre.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26736,13 +26736,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An emergency escape and rescue opening with the bottom of the clear opening below the adjacent grade shall be provided with an area well in accordance with Sections 1031.5.1 through 1031.5.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une ouverture d'évacuation et de sauvetage d'urgence dont le bas de l'ouverture libre se trouve au-dessous du niveau adjacent doit être pourvue d'un puits de zone selon les articles 1031.5.1 à 1031.5.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T174220Z">
+        <seg>Une ouverture d’évacuation d’urgence et de sauvetage dont le bas de l’ouverture libre est situé sous le niveau du sol adjacent doit être munie d’un puit de fenêtre conforme aux sections 1031.5.1 à 1031.5.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41967,13 +41966,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.806: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The area well shall allow the emergency escape and rescue opening to be fully opened.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le puits de zone doit permettre l'ouverture complète de l'ouverture d'évacuation et de sauvetage d'urgence.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T174305Z">
+        <seg>Le puits de fenêtre doit permettre l’ouverture complète de l’ouverture d’évacuation d’urgence et de sauvetage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43838,13 +43836,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.864: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The ladder or steps required by Section 1031.5.2 shall be permitted to encroach not more than 6 inches (152 mm) into the required dimensions of the area well.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'échelle ou les marches exigées à l'article 1031.5.2 peuvent empiéter d'au plus 6 po [152 mm] dans les dimensions exigées de la zone de sécurité.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T174356Z">
+        <seg>L’échelle ou les marches exigées par la section 1031.5.2 peuvent empiéter d’au plus 6 po (152 mm) sur les dimensions requises du puits de fenêtre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44156,13 +44153,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.873: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The minimum horizontal area of the area well shall be 9 square feet (0.84 m2), with a horizontal projection and width of not less than 36 inches (914 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La surface horizontale minimale du puits de zone doit être de 9 pieds carrés (0,84 m2), avec une projection horizontale et une largeur d'au moins 36 po (914 mm).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T174258Z">
+        <seg>La superficie horizontale minimale du puits de fenêtre doit être de 9 pi² (0,84 m²), avec une saillie horizontale et une largeur d’au moins 36 po (914 mm).</seg>
       </tuv>
     </tu>
     <tu>
