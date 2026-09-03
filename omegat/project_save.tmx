@@ -14817,13 +14817,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.889: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;1109.2.2 Water closet compartment.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;1109.2.2 Cabine de toilette.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T211500Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;1109.2.2 Compartiment de cabine de toilette.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23795,13 +23794,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.798: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Where water closet compartments are provided in a toilet room or bathing room, at least 5 percent of the total number of compartments shall be wheelchair &lt;g3&gt;accessible&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Lorsque des compartiments de toilette sont prévus dans une salle de toilettes ou une salle de bain, au moins 5 pour cent du nombre total de compartiments doivent être &lt;g3&gt;accessibles&lt;/g3&gt; aux chaises roulantes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T211520Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Lorsque des compartiments de cabine de toilette sont prévus dans une salle de toilettes ou une salle de bain, au moins 5 pour cent du nombre total de compartiments doivent être &lt;g3&gt;accessibles&lt;/g3&gt; aux chaises roulantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24290,13 +24288,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.806: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A difference in elevation between the minimum required floor elevation at the primary entrances and vehicular and pedestrian arrival points within 50 feet (15 240 mm) exceeding 30 inches (762 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une différence d'élévations entre l'élévation minimale requise du plancher aux entrées principales et les points d'arrivée des véhicules et des piétons à moins de 50 pi [15 240 mm] dépassant 30 po [762 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T210933Z">
+        <seg>Une différence d’élévation de plus de 30 po (762 mm) entre l’élévation minimale requise du plancher aux entrées principales et les points d’arrivée des véhicules et des piétons situés à moins de 50 pi (15 240 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25016,13 +25013,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A slope exceeding 10 percent between the minimum required floor elevation at the primary entrances and vehicular and pedestrian arrival points within 50 feet (15 240 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une pente supérieure à 10 % entre les élévations minimales requises du plancher aux entrées principales et les points d'arrivée des véhicules et des piétons à moins de 50 pi (15 240 mm).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T210939Z">
+        <seg>Une pente de plus de 10 % entre l’élévation minimale requise du plancher aux entrées principales et les points d’arrivée des véhicules et des piétons situés à moins de 50 pi (15 240 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -31470,13 +31466,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Except as provided for in Sections 1109.2.2 and 1109.2.3, at least one of each type of fixture, element, control or dispenser in each accessible toilet room and bathing room shall be &lt;g1&gt;accessible&lt;/g1&gt;.&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>À l'exception des dispositions contenues aux articles 1109.2.2 et 1109.2.3, chaque salle de toilette ou salle de bain accessible doit compter au moins un jeu &lt;g1&gt;accessible&lt;/g1&gt; d'appareil sanitaire, d'élément, de commande ou de distributeur.&lt;x2/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T211159Z">
+        <seg>À l'exception des dispositions contenues dans les sections 1109.2.2 et 1109.2.3, au moins un de chaque type d’appareil, d’élément, de dispositif de commande ou de distributeur dans chaque cabinet de toilette et salle de bain accessibles doit être  &lt;g1&gt;accessible&lt;/g1&gt;.&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37554,13 +37549,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>On a site with multiple nonelevator buildings, the number of units required by Section 1108.7.1 to be Type B units is permitted to be reduced to a percentage that is equal to the percentage of the entire site having grades, prior to development, that are less than 10 percent, provided that all of the following conditions are met:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Sur un site comportant plusieurs bâtiments sans ascenseur, le nombre de logements devant être des logements de type B conformément à la section 1108.7.1 peut être réduit à un pourcentage égal au pourcentage de l'ensemble du site ayant des pentes, avant l'aménagement, inférieures à 10 pour cent, à condition que toutes les conditions suivantes soient respectées :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T210733Z">
+        <seg>Sur un site comportant plusieurs bâtiments sans ascenseur, le nombre d’unités qui, conformément à la section 1108.7.1, doivent être des unités de type B peut être réduit à un pourcentage égal au pourcentage de la superficie totale du site dont les pentes, avant l’aménagement, sont inférieures à 10 %, à condition que toutes les conditions suivantes soient respectées :</seg>
       </tuv>
     </tu>
     <tu>
@@ -46558,12 +46552,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>This section is not applicable to toilet and bathing rooms that serve dwelling units or sleeping units that are not required to be accessible by Section 1107.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La présente section ne s’applique pas aux toilettes et salles de bain qui desservent les unités d’habitation ou les chambres qui ne doivent pas être accessibles en vertu de la section 1107.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T211252Z">
+        <seg>La présente section ne s’applique pas aux cabinets de toilette et salles de bain qui desservent des logements ou des unités de couchage qui ne sont pas tenus d’être accessibles conformément à la section 1107.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46718,12 +46711,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Toilet rooms or bathing rooms accessed only through a private office, not for common or public use and intended for use by a single occupant, shall be permitted to comply with the specific exceptions in ICC A117.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les toilettes ou les salles de bain à l’usage d’un seul occupant et non à usage commun ou public, et auxquelles on accède uniquement par un bureau privé peuvent se conformer aux exceptions particulières de la norme ICC A117.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T211245Z">
+        <seg>Les toilettes ou les salles de bain accessibles uniquement par un bureau privé, qui ne sont pas destinés à un usage commun ou public et qui sont destinés à être utilisés par un seul occupant, peuvent être conformes aux exceptions particulières prévues dans la norme ICC A117.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46737,12 +46729,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Toilet rooms or bathing rooms that are part of critical care or intensive care patient sleeping rooms serving Accessible units are not required to be accessible.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les salles de toilettes ou de bain qui font partie des chambres de patients en soins intensifs desservant des unités accessibles ne sont pas tenues d’être accessibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T211400Z">
+        <seg>Les salles de toilettes ou salles de bain qui font partie des chambres de patients en soins intensifs desservant des unités accessibles ne sont pas tenues d’être accessibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46985,13 +46976,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Type A units and Type B units shall not be required for buildings without elevator service that are located in flood hazard areas as established in Section 1612.3, where the minimum required elevation of the lowest floor or lowest supporting horizontal structural member, as applicable, results in all of the following:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les unités de type A et les unités de type B ne sont pas exigées pour les bâtiments sans service d'ascenseur qui sont situés dans des zones à risque d'inondation telles qu'établies à la section 1612.3, lorsque les élévations minimales exigées du plancher le plus bas ou de l'élément de structure horizontal porteur le plus bas, selon ce qui s'applique, entraînent toutes les conditions suivantes :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T210919Z">
+        <seg>Les unités de type A et les unités de type B ne sont pas exigées pour les bâtiments sans ascenseur situés dans des zones exposées aux inondations établies conformément à la section 1612.3, lorsque l’élévation minimale requise du plancher le plus bas ou, selon le cas, de l’élément structural horizontal porteur le plus bas donne lieu à toutes les situations suivantes :</seg>
       </tuv>
     </tu>
     <tu>
@@ -47062,23 +47052,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Units required by Section 1108.7.1, where an elevated walkway is planned between a building entrance serving the units on that story and a pedestrian or vehicular arrival point and the slope between them is 10 percent or less, are Type B units.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les logements requis par l'article 1108.7.1, lorsqu'une passerelle surélevée est prévue entre une entrée de bâtiment desservant les logements de cet étage et un point d'arrivée pour piétons ou véhicules et que la pente entre eux est de 10 % ou moins, sont des logements de type B.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T210830Z">
+        <seg>Les unités exigées par la section 1108.7.1, lorsqu’une passerelle surélevée est prévue entre une entrée du bâtiment desservant les unités situées à cet étage et un point d’arrivée des piétons ou des véhicules et que la pente entre ceux-ci est de 10 % ou moins, sont des unités de type B.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Units required by Section 1108.7.1, where the slope between the building entrance serving the units on that story and a pedestrian or vehicular arrival point is not greater than 8.33 percent, are Type B units.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les unités exigées en vertu de l'article 1108.7.1, lorsque la pente entre l'entrée du bâtiment desservant les unités de cet étage et un point d'arrivée pour les piétons ou les véhicules n'est pas supérieure à 8,33 %, sont des unités de type B.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T210814Z">
+        <seg>Les unités exigées par la section 1108.7.1, lorsque la pente entre l’entrée du bâtiment desservant les unités situées à cet étage et un point d’arrivée des piétons ou des véhicules n’est pas supérieure à 8,33 %, sont des unités de type B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48059,13 +48047,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.768: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a multistory unit is provided with external elevator service to only one floor, the floor provided with elevator service shall be the primary entry to the unit, shall comply with the requirements for a Type B unit and, where provided within the unit, a living area, a kitchen and a toilet facility shall be provided on that floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'une unité à plusieurs étages est dotée d'un service d'ascenseur externe desservant un seul étage, l'étage desservi par l'ascenseur doit être l'entrée principale de l'unité, doit être conforme aux exigences d'une unité de type B et, lorsqu'ils sont prévus dans l'unité, un salon, une cuisine et des installations sanitaires doivent être prévus à cet étage.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T210632Z">
+        <seg>Lorsqu’un logement à plusieurs étages est desservi par un ascenseur extérieur à un seul étage, l’étage desservi par l’ascenseur doit constituer l’entrée principale du logement, être conforme aux exigences applicables à une unité de type B et, lorsqu’ils sont prévus dans le logement, comporter à cet étage une aire de séjour, une cuisine et des toilettes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48655,13 +48642,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.776: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where elevator service in the building provides an accessible route only to the lowest story containing dwelling units or sleeping units intended to be occupied as a residence, only the units on that story that are intended to be occupied as a residence are required to be Type B units.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque le service d'ascenseur dans l'immeuble fournit un itinéraire accessible uniquement à l'étage le plus bas contenant des logements ou des unités de couchage destinés à être occupés comme résidence, seules les unités de cet étage destinées à être occupées comme résidence doivent être des unités de type B.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T210713Z">
+        <seg>Lorsque le service d’ascenseur du bâtiment permet un itinéraire accessible uniquement jusqu’à l’étage le plus bas comportant des logements ou des unités de couchage destinés à être occupés comme résidence, seuls les logements et les unités de couchage destinés à être occupés comme résidence situés à cet étage doivent être des unités de type B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48916,22 +48902,20 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Where multiple single-user toilet rooms or bathing rooms are clustered at a single location, at least 50 percent but not less than one room for each use at each cluster shall be accessible.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque plusieurs salles de toilette ou de bain à un seul utilisateur sont regroupées en un seul endroit, au moins 50 pour cent, mais pas moins d’une salle de chaque utilisation dans chaque regroupement, doivent être accessibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T211321Z">
+        <seg>Lorsque plusieurs toilettes ou salles de bain à un seul utilisateur sont regroupées en un seul endroit, au moins 50 pour cent, mais pas moins d’une salle de chaque utilisation dans chaque regroupement, doivent être accessibles.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.785: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where no more than one urinal is provided in a toilet room or bathing room, the urinal is not required to be accessible.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'il n'y a pas plus d'un urinoir dans une salle de toilettes ou une salle de bain, l'urinoir n'est pas tenu d'être accessible.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T211337Z">
+        <seg>Lorsqu'il n'y a pas plus d'un urinoir dans une toilette ou une salle de bain, l'urinoir n'est pas tenu d'être accessible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49495,13 +49479,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where such arrival points are not within 50 feet (15 240 mm) of the primary entrances, the closest arrival points shall be used.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque ces points d'arrivée ne se trouvent pas à moins de 50 pi [15 240 mm] des entrées principales, les points d'arrivée les plus proches doivent être utilisés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T211014Z">
+        <seg>Lorsque ces points d'arrivée ne se trouvent pas à moins de 50 pi (15 240 mm) des entrées principales, les points d'arrivée les plus proches doivent être utilisés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50047,13 +50030,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.747: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where toilet facilities are primarily for children’s use, required accessible water closets, toilet compartments and lavatories shall be permitted to comply with children’s provision of ICC A117.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les installations sanitaires sont principalement destinées aux enfants, les cabines de toilette, les cabines de toilette et les lavabos accessibles requis doivent pouvoir se conformer aux dispositions de la norme ICC A117.1 pour les enfants.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T211442Z">
+        <seg>Lorsque les installations sanitaires sont principalement destinées aux enfants, les cabines de toilette, les compartiments de toilette et les lavabos accessibles requis doivent pouvoir se conformer aux dispositions de la norme ICC A117.1 pour les enfants.</seg>
       </tuv>
     </tu>
     <tu>
