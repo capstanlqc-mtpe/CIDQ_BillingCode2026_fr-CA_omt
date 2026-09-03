@@ -423,23 +423,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;1.For areas serving less than 50 occupants, the common path of egress travel shall not exceed 75 feet (22 860 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; 1. Pour les zones desservant moins de 50 occupants, le parcours commun d'accès à l'issue ne doit pas dépasser 75 pi [22 860 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064837Z">
+        <seg>1.&lt;x1/&gt; 1. Pour les zones desservant moins de 50 occupants, le parcours commun d'accès à l'issue ne doit pas dépasser 75 pi (22 860 mm).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;1.In facilities with smoke-protected assembly seating, the total exit access travel distance shall be not greater than 400 feet (122 m).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; 1. Dans les installations dotées de sièges de rassemblement protégés contre la fumée, la distance de parcours totale ne doit pas dépasser 400 pieds (122 m).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064651Z">
+        <seg>1.&lt;x1/&gt; 1. Dans les installations dotées de sièges pour assemblées protégés contre la fumée, la distance de parcours totale ne doit pas dépasser 400 pieds (122 m).</seg>
       </tuv>
     </tu>
     <tu>
@@ -766,13 +764,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.794: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Forty-eight inches (1219 mm) for stepped aisles having seating on both sides.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Quarante-huit pouces (1219 mm) pour les allées en escalier ayant des SIÈGES des deux côtés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065038Z">
+        <seg>1.&lt;x1/&gt; Quarante-huit pouces (1219 mm) pour les allées en escalier ayant des sièges des deux côtés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1125,23 +1122,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.821: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;The floor area used for contests, performances or entertainment provided that the roof construction is more than 50 feet (15 240 mm) above the floor level and the use is restricted to low fire hazard uses.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; La surface de plancher utilisée pour les concours, les spectacles ou les divertissements, à condition que la construction du toit soit à plus de 50 pi [15 240 mm] au-dessus du niveau du sol et que l'usage soit limité aux usages à faible risque d'incendie.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064305Z">
+        <seg>1.&lt;x1/&gt; La surface de plancher utilisée pour les concours, les représentations ou les divertissements, à condition que la construction du toit soit située à plus de 50 pi (15 240 mm) au-dessus du niveau du plancher et que l’usage soit limité à des usages présentant un faible risque d’incendie.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;The floor area used for contests, performances or entertainment, provided that the roof construction is more than 50 feet (15 240 mm) above the floor level and the use is restricted to low fire hazard uses.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; La surface de plancher utilisée pour des concours, des spectacles ou des divertissements, à condition que la construction du toit se trouve à plus de 50 pi [15 240 mm] au-dessus du niveau du sol et que l'usage soit limité à des usages à faible risque d'incendie.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064508Z">
+        <seg>1.&lt;x1/&gt; La surface de plancher utilisée pour les concours, les représentations ou les divertissements, à condition que la construction du toit soit située à plus de 50 pi (15 240 mm) au-dessus du niveau du plancher et que l’usage soit limité à des usages présentant un faible risque d’incendie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1815,23 +1810,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.811: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;2.For smoke-protected or open-air assembly seating, the common path of egress travel shall not exceed 50 feet (15 240 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; 2. Pour les SIÈGES protégés contre la fumée ou en plein air, le chemin d'évacuation commun ne doit pas dépasser 50 pi (15 240 mm).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064904Z">
+        <seg>2.&lt;x1/&gt; 2. Pour les sièges protégés contre la fumée ou à l'air libre, le chemin d'évacuation commun ne doit pas dépasser 50 pi (15 240 mm).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.808: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;2.In facilities with open-air assembly seating of Type III, IV or V construction, the total exit access travel distance to one of the following shall not exceed 400 feet (122 m):</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; 2. Dans les installations dotées de sièges de rassemblement en plein air de construction de type III, IV ou V, la distance de parcours totale jusqu'à l'un des éléments suivants ne doit pas dépasser 400 pieds (122 m) :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064739Z">
+        <seg>2.&lt;x1/&gt; 2. Dans les installations de sièges pour assemblées à l’air libre de construction de type III, IV ou V, la distance totale de parcours d’accès à l’issue jusqu’à l’un des éléments suivants ne doit pas dépasser 400 pi (122 m) :</seg>
       </tuv>
     </tu>
     <tu>
@@ -2336,13 +2329,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.812: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Press boxes and storage facilities less than 1,000 square feet (93 m2) in area.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2. Tribunes&lt;x1/&gt; de presse et installations d'entreposage de moins de 1000 pi2 [93 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064250Z">
+        <seg>2. Tribunes&lt;x1/&gt; de presse et installations d'entreposage de moins de 1000 pi2 (93 m2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2531,13 +2523,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.795: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Thirty-six inches (914 mm) for stepped aisles having seating on only one side.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Trente-six pouces (914 mm) pour les allées en escalier ayant des SIÈGES d'un seul côté.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065101Z">
+        <seg>2.&lt;x1/&gt; Trente-six pouces (914 mm) pour les allées en escalier ayant des sièges d'un seul côté.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3024,13 +3015,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.811: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;3.In facilities with open-air assembly seating of Type I or II construction, the total exit access travel distance shall not be limited.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; 3. Dans les installations dotées de sièges en plein air de construction de type I ou II, la distance de parcours totale ne doit pas être limitée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064802Z">
+        <seg>3.&lt;x1/&gt; 3. Dans les installations dotées de sièges à l’air libre de construction de type I ou II, la distance de parcours totale ne doit pas être limitée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3249,13 +3239,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.725: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;Open-air assembly seating facilities where seating and the means of egress in the seating area are essentially open to the outside.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3. Installations de sièges&lt;x1/&gt; de rassemblement en plein air où les sièges et les moyens d'évacuation dans l'aire de sièges sont essentiellement ouverts sur l'extérieur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064609Z">
+        <seg>3. Installations de sièges&lt;x1/&gt; pour assemblées à l’air libre où les sièges et les moyens d’évacuation dans l’aire de sièges sont essentiellement ouverts sur l’extérieur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3411,13 +3400,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.792: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;Twenty-three inches (584 mm) between a stepped aisle handrail or guard and seating where the stepped aisle is subdivided by a mid-aisle handrail.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Vingt-trois pouces (584 mm) entre une rampe ou un garde-corps d'allée en escalier et les sièges lorsque l'allée en escalier est subdivisée par une rampe au milieu de l'allée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065145Z">
+        <seg>3.&lt;x1/&gt; Vingt-trois pouces (584 mm) entre une main courante ou un garde-corps d'allée en escalier et les sièges lorsque l'allée en escalier est subdivisée par une main courante au milieu de l'allée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3772,13 +3760,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.806: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>4.&lt;x1/&gt;Forty-two inches (1067 mm) for level or ramped aisles having seating on both sides.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>4.&lt;x1/&gt; Quarante-deux pouces (1067 mm) pour les allées de plain-pied ou en pente ayant des SIÈGES des deux côtés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065156Z">
+        <seg>4.&lt;x1/&gt; Quarante-deux pouces (1067 mm) pour les allées de plain-pied ou en pente ayant des sièges des deux côtés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4288,13 +4275,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.801: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>5.&lt;x1/&gt;Thirty-six inches (914 mm) for level or ramped aisles having seating on only one side.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>5.&lt;x1/&gt; Trente-six pouces (914 mm) pour les allées de plain-pied ou en pente ayant des SIÈGES d'un seul côté.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065212Z">
+        <seg>5.&lt;x1/&gt; Trente-six pouces (914 mm) pour les allées de plain-pied ou en pente ayant des sièges d'un seul côté.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7395,23 +7381,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1030.6.3 Open-air assembly seating.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1030.6.3 Places assises pour rassemblement en plein air.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064350Z">
+        <seg>&lt;g1&gt;1030.6.3 Sièges pour assemblées à l’air libre.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.908: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1030.6.3.1 Automatic sprinklers.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1030.6.3.1 Gicleurs automatiques.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064424Z">
+        <seg>&lt;g1&gt;1030.6.3.1 Extincteurs automatiques.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7435,13 +7419,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1030.9.2 Aisle catchment area.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1030.9.2 Zone de desserte de l'allée.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065305Z">
+        <seg>&lt;g1&gt;1030.9.2 Zone de captage de l’allée.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31345,13 +31328,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Enclosed areas with walls and ceilings in buildings or structures containing open-air assembly seating shall be protected with an approved automatic sprinkler system in accordance with Section 903.3.1.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les aires fermées avec murs et plafonds dans les bâtiments ou les structures contenant des sièges de rassemblement en plein air doivent être protégées par un système d'extincteurs automatiques approuvé selon la section 903.3.1.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064446Z">
+        <seg>Les espaces fermés par des murs et des plafonds dans les bâtiments ou les structures comportant des sièges pour assemblées à l’air libre doivent être protégés par un système d’extincteurs automatiques approuvé, installé conformément à la section 903.3.1.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31529,13 +31511,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Every occupied portion of any building, room or space used for assembly purposes that contains seats, tables, displays, similar fixtures or equipment shall be provided with aisles leading to exits or exit access doorways in accordance with this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Chaque partie occupée de tout bâtiment, pièce ou aire utilisée à des fins de réunions qui contient des sièges, des tables, des présentoirs, des appareils ou de l'équipement similaires doit être pourvue d'allées menant à des issues ou à des portes d'accès à l'issue conformément à la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065016Z">
+        <seg>Toute partie occupée d’un bâtiment, d’une salle ou d’un espace utilisé à des fins d’assemblée et contenant des sièges, des tables, des présentoirs, des installations similaires ou de l’équipement doit être pourvue d’allées menant aux issues ou aux baies de portes d’accès à l’issue, conformément à la présente section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32915,13 +32896,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.803: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>For smoke-protected or open-air assembly seating there shall be not more than 40 seats between the two aisles and the minimum clear width shall be 12 inches (305 mm) plus 0.3 inch (7.6 mm) for each additional seat.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les sièges de rassemblement protégés contre la fumée ou en plein air, il ne doit pas y avoir plus de 40 sièges entre les deux allées et la largeur libre minimale doit être de 12 po [305 mm] plus 0,3 po [7,6 mm] pour chaque siège supplémentaire.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064942Z">
+        <seg>Pour les sièges pour assemblées protégés contre la fumée ou à l’air libre, il ne doit pas y avoir plus de 40 sièges entre les deux allées, et la largeur libre minimale doit être de 12 po (305 mm), plus 0,3 po (7,6 mm) pour chaque siège supplémentaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35510,13 +35490,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.769: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In open-air assembly seating, the required capacity in inches (mm) of aisles shall be not less than the total occupant load served by the egress element multiplied by 0.08 (2.0 mm) where egress is by stepped aisle and multiplied by 0.06 (1.52 mm) where egress is by level aisles and ramped aisles.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les SIÈGES de rassemblement en plein air, la capacité requise en pouces [mm] des allées ne doit pas être inférieure au nombre de personnes total desservi par l'élément d'évacuation multiplié par 0,08 [2,0 mm] lorsque l'évacuation se fait par une allée à marches et multiplié par 0,06 [1,52 mm] lorsque l'évacuation se fait par des allées de plain-pied et des allées en pente.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064356Z">
+        <seg>Dans les aires de sièges pour assemblées à l’air libre, la capacité requise des allées, en pouces (mm), ne doit pas être inférieure à la charge d’occupation totale desservie par l’élément d’évacuation, multipliée par 0,08 (2,0 mm) lorsque l’évacuation se fait par une allée à gradins et multipliée par 0,06 (1,52 mm) lorsque l’évacuation se fait par des allées de niveau et des allées en pente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42672,13 +42651,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.81: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The common path of egress travel shall not exceed 30 feet (9144 mm) from any seat to a point where an occupant has a choice of two paths of egress travel to two exits.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le parcours commun d'accès à l'issue ne doit pas dépasser 30 pi [9144 mm] entre n'importe quel siège et un point où un occupant a le choix entre deux chemins de retraite vers deux issues.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064824Z">
+        <seg>Le parcours commun d'accès à l'issue ne doit pas dépasser 30 pi (9144 mm) entre n'importe quel siège et un point où un occupant a le choix entre deux chemins de retraite vers deux issues.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45034,13 +45012,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.801: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The required capacity in inches (mm) of aisles shall be permitted to comply with Section 1030.6.2 for the number of seats in the open-air assembly seating where Section 1030.6.2 permits less capacity.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La capacité requise en pouces [mm] des allées peut se conformer à la section 1030.6.2 pour le nombre de sièges dans les SIÈGES de réunion en plein air lorsque la section 1030.6.2 autorise une capacité moindre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064438Z">
+        <seg>La capacité requise des allées, en pouces (mm), peut être conforme à la section 1030.6.2 pour le nombre de sièges dans l’aire de sièges pour assemblées à l’air libre lorsque la section 1030.6.2 permet une capacité moindre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47086,13 +47063,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.794: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Twenty-three inches (584 mm) between a stepped aisle handrail and seating where a stepped aisle does not serve more than five rows on one side.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Vingt-trois pouces (584 mm) entre une rampe d'allée en escalier et des sièges lorsqu'une allée en escalier ne dessert pas plus de cinq rangées d'un côté.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T065125Z">
+        <seg>Vingt-trois pouces (584 mm) entre une main courante d'allée en escalier et des sièges lorsqu'une allée en escalier ne dessert pas plus de cinq rangées d'un côté.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48555,13 +48531,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.782: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where aisles are provided for seating, the distance shall be measured along the aisles and aisle accessways without travel over or on the seats.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des allées sont prévues pour les SIÈGES, la distance doit être mesurée le long des allées et des voies d'accès aux allées sans passer au-dessus ou sur les sièges.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064624Z">
+        <seg>Lorsque des allées sont prévues pour les sièges, la distance doit être mesurée le long des allées et des voies d'accès aux allées sans passer au-dessus ou sur les sièges.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49197,13 +49172,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.769: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where one of the two paths of travel is across the aisle through a row of seats to another aisle, there shall be not more than 24 seats between the two aisles, and the minimum clear width between rows for the row between the two aisles shall be 12 inches (305 mm) plus 0.6 inch (15.2 mm) for each additional seat above seven in the row between aisles.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque l'un des deux chemins de déplacement traverse l'allée en passant par une rangée de sièges jusqu'à une autre allée, il ne doit pas y avoir plus de 24 sièges entre les deux allées, et la largeur libre minimale entre les rangées pour la rangée située entre les deux allées doit être de 12 po [305 mm] plus 0,6 po [15,2 mm] pour chaque siège supplémentaire au-delà de sept dans la rangée située entre les allées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064924Z">
+        <seg>Lorsque l’un des deux parcours se fait à travers l’allée, en passant par une rangée de sièges jusqu’à une autre allée, il ne doit pas y avoir plus de 24 sièges entre les deux allées, et la largeur libre minimale entre les rangées pour la rangée située entre les deux allées doit être de 12 po (305 mm), plus 0,6 po (15,2 mm) pour chaque siège supplémentaire au-delà de sept dans la rangée située entre les allées.</seg>
       </tuv>
     </tu>
     <tu>
