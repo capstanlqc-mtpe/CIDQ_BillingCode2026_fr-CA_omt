@@ -4261,13 +4261,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>5.&lt;x1/&gt;Within individual dwelling and sleeping units in Groups R-2 and R-3, where the building is equipped throughout with an automatic sprinkler system installed in accordance with Section 903.3.1.1, 903.3.1.2 or 903.3.1.3, sleeping rooms in basements shall not be required to have emergency escape and rescue openings provided that the basement has one of the following:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>5.&lt;x1/&gt; Dans les unités d'habitation individuelles et les unités de couchage des groupes R-2 et R-3, lorsque le bâtiment est entièrement équipé d'un système d'extincteurs automatiques installé selon la section 903.3.1.1, 903.3.1.2 ou 903.3.1.3, les chambres au sous-sol ne sont pas tenues d'avoir des ouvertures d'évacuation et de sauvetage d'urgence, à condition que le sous-sol ait l'un des éléments suivants :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T172415Z">
+        <seg>5.&lt;x1/&gt; Dans les logements individuels et les unités de couchage des groupes R-2 et R-3, lorsque le bâtiment est entièrement muni d’un système d’extinction automatique installé conformément à la section 903.3.1.1, 903.3.1.2 ou 903.3.1.3, les chambres à coucher situées au sous-sol ne sont pas tenues d’avoir des ouvertures d’évacuation d’urgence et de sauvetage, à condition que le sous-sol comporte l’un des éléments suivants :</seg>
       </tuv>
     </tu>
     <tu>
@@ -7538,13 +7537,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.875: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1031.5 Area wells.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1031.5 Fosses de zone.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T173814Z">
+        <seg>&lt;g1&gt;1031.5 Cuvettes de fenêtre.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31220,23 +31218,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Emergency escape and rescue openings shall have a minimum net clear opening of 5.7 square feet (0.53 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures d'évacuation et de sauvetage d'urgence doivent avoir une ouverture libre nette minimale de 5,7 pi2 [0,53 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T172529Z">
+        <seg>Les ouvertures d'évacuation et de sauvetage d'urgence doivent avoir une ouverture libre nette minimale de 5,7 pi2 (0,53 m2).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Emergency escape and rescue openings shall have the bottom of the clear opening not greater than 44 inches (1118 mm) measured from the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le bas de l'ouverture libre des ouvertures d'évacuation d'urgence et de sauvetage ne doit pas être à plus de 44 po (1118 mm) du plancher.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T172814Z">
+        <seg>Les ouvertures d’évacuation d’urgence et de sauvetage doivent avoir leur partie inférieure située à une hauteur maximale de 44 po (1 118 mm) au-dessus du plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44190,23 +44186,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.85: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The minimum net clear opening height dimension shall be 24 inches (610 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La dimension minimale de la hauteur de l'ouverture libre nette doit être de 24 po [610 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T172550Z">
+        <seg>La dimension minimale de la hauteur de l'ouverture libre nette doit être de 24 po (610 mm).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.844: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The minimum net clear opening width dimension shall be 20 inches (508 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La dimension minimale de la largeur d'ouverture libre nette doit être de 20 po [508 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T172558Z">
+        <seg>La dimension minimale de la largeur d'ouverture libre nette doit être de 20 po (508 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -50304,13 +50298,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.786: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Window-opening control devices complying with ASTM F2090 shall be permitted for use on windows serving as a required emergency escape and rescue opening.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les dispositifs de commande d'ouverture de fenêtre conformes à la norme ASTM F2090 peuvent être utilisés sur les fenêtres servant d'ouverture d'évacuation et de sauvetage d'urgence exigée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T172502Z">
+        <seg>Les dispositifs de commande d’ouverture des fenêtres conformes à la norme ASTM F2090 peuvent être utilisés sur les fenêtres servant d’ouvertures d’évacuation d’urgence et de sauvetage requises.</seg>
       </tuv>
     </tu>
     <tu>
