@@ -20220,13 +20220,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;TOILET AND BATHROOM REQUIREMENTS&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;EXIGENCES RELATIVES AUX TOILETTES ET À LA SALLE DE BAIN&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T224717Z">
+        <seg>&lt;g1&gt;EXIGENCES RELATIVES AUX TOILETTES ET AUX SALLES DE BAINS&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22306,13 +22305,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.904: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[P] 1210.1 Required fixtures.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[P] 1210.1	Installations requises.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T224728Z">
+        <seg>&lt;g1&gt;[P] 1210.1 Installations requises.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22346,13 +22344,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.913: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[P] 1210.2.3 Showers.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[P] 1210.2.3	Douches.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T224931Z">
+        <seg>&lt;g1&gt;[P] 1210.2.3 Douches.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22386,13 +22383,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.862: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[P] 1210.3.2 Urinal partitions.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[P] 1210.3.2	Cloisons d'urinoir.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T225128Z">
+        <seg>&lt;g1&gt;[P] 1210.3.2 Cloisons d'urinoir.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23201,13 +23197,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Where one or more sides of any pane of glass are not firmly supported, or are subjected to unusual load conditions, detailed construction documents, detailed shop drawings and analysis or test data ensuring safe performance for the specific installation shall be prepared by a registered design professional.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Lorsqu'un ou plusieurs côtés d'une vitre ne sont pas solidement soutenus ou sont soumis à des conditions de charge inhabituelles, des documents de construction détaillés, des dessins d'atelier détaillés et des données d'analyse ou d'essai garantissant une performance sûre pour l'installation spécifique doivent être préparés par un professionnel de la conception agréé.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T231338Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Lorsque l’un des côtés ou plusieurs côtés d’une vitre ne sont pas fermement supportés, ou sont soumis à des conditions de charge inhabituelles, des documents de construction détaillés, des dessins d’atelier détaillés ainsi que des données d’analyse ou d’essais garantissant un comportement sécuritaire pour l’installation particulière doivent être préparés par un professionnel de la conception agréé.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23648,13 +23643,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.863: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;The provisions of this chapter shall govern the materials, design, construction and quality of glass, light-transmitting ceramic and light-transmitting plastic panels for exterior and interior use in both vertical and sloped applications in buildings and structures.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Les dispositions du présent chapitre régissent les matériaux, la conception, la construction et la qualité du verre, de la céramique translucide et des panneaux en plastique translucide destinés à un usage extérieur et intérieur dans des applications verticales et inclinées dans les bâtiments et les structures.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T225303Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Les dispositions du présent chapitre régissent les matériaux, la conception, la construction et la qualité des vitrages, des panneaux de céramique transmettant la lumière et des panneaux de plastique transmettant la lumière destinés à être utilisés à l’extérieur et à l’intérieur, dans les applications verticales et inclinées des bâtiments et des constructions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32721,13 +32715,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.769: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>For other than Accessible, Type A and Type B dwelling units, the unit shall be provided with a kitchen sink, cooking appliance and refrigerator, each having a clear working space of not less than 30 inches (762 mm) in front.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les logements autres que les logements accessibles, de type A et de type B, le logement doit être doté d'un évier de cuisine, d'un appareil de cuisson et d'un réfrigérateur, chacun ayant un espace de travail libre d'au moins 30 po [762 mm] devant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T224645Z">
+        <seg>Pour les logements autres que les logements accessibles et les logements de type A et de type B, le logement doit être pourvu d’un évier de cuisine, d’un appareil de cuisson et d’un réfrigérateur, chacun disposant d’un espace de travail libre d’au moins 30 po (762 mm) à l’avant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35407,13 +35400,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.79: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In other than dwelling units, toilet, bathing and shower room floor finish materials shall have a smooth, hard, nonabsorbent surface.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les autres usages que les logements, les matériaux de revêtement de sol des toilettes et salles de bain et douche doivent offrir une surface lisse, dure et non absorbante.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T224754Z">
+        <seg>Dans les usages autres que les logements, les matériaux de revêtement de sol des toilettes et salles de bain et douche doivent offrir une surface lisse, dure et non absorbante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36443,13 +36435,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.898: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Light-transmitting plastic glazing shall also meet the applicable requirements of Chapter 26.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le vitrage en plastique transmettant la lumière doit également satisfaire aux exigences applicables du chapitre 26.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T225341Z">
+        <seg>Les vitrages en plastique transmettant la lumière doivent également satisfaire aux exigences applicables du chapitre 26.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39917,13 +39908,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.801: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Shower compartments and walls above bathtubs with installed shower heads shall be finished with a smooth, nonabsorbent surface to a height not less than 72 inches (1829 mm) above the drain inlet.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les cabines de douche et les murs au-dessus des baignoires avec des têtes de mur installées doivent être finis avec une surface lisse et non absorbante jusqu'à une hauteur d'au moins 72 po [1829 mm] au-dessus de l'entrée du drain.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T224949Z">
+        <seg>Les cabines de douche et les murs au-dessus des baignoires munies de pommes de douche doivent être finis avec une surface lisse et non absorbante sur une hauteur d’au moins 72 po (1 829 mm) au-dessus de l’orifice d’évacuation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41553,13 +41543,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Tempered spandrel glass shall be provided with a removable paper marking by the manufacturer.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le verre trempé pour tympan doit être muni d'un marquage en papier amovible par le fabricant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T225506Z">
+        <seg>Le verre trempé pour tympan doit être muni d’un marquage sur papier amovible apposé par le fabricant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43563,13 +43552,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The identification shall not be omitted unless approved and an affidavit is furnished by the glazing contractor certifying that each light is glazed in accordance with approved construction documents that comply with the provisions of this chapter.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'identification ne doit pas être omise, sauf approbation et remise d'un affidavit par l'entrepreneur en vitrage certifiant que chaque baie est vitrée conformément aux documents de construction approuvés qui se conforment aux dispositions du présent chapitre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T225423Z">
+        <seg>L’identification ne doit pas être omise, sauf si cela est approuvé et qu’une déclaration sous serment est fournie par l’entrepreneur en vitrage attestant que chaque panneau vitré est vitré conformément aux documents de construction approuvés qui sont conformes aux dispositions du présent chapitre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43650,13 +43638,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The intersections of such floors with walls shall have a smooth, hard, nonabsorbent vertical base that extends upward onto the walls not less than 4 inches (102 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>À l'intersection de ces planchers avec les murs, il doit y avoir une base de mur verticale lisse, dure et non absorbante qui s'étend vers le haut sur les murs sur au moins 4 pouces (102 mm).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T224823Z">
+        <seg>Les intersections de ces planchers avec les murs doivent comporter une plinthe verticale lisse, dure et non absorbante qui remonte sur les murs sur au moins 4 pouces (102 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45726,23 +45713,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.789: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The unit shall be provided with a separate closet.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'unité doit être dotée d'un PLACARD séparé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T224627Z">
+        <seg>L'unité doit être dotée d'un placard séparé.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The unit shall have a living room of not less than 190 square feet (17.7 m2) of floor area.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le logement doit avoir un salon d'au moins 190 pi2 [17,7 m2] de surface de plancher.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T224615Z">
+        <seg>Le logement doit avoir un salon d'au moins 190 pi2 (17,7 m2) de surface de plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45926,13 +45911,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.821: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The walls or partitions shall extend from the wall surface at each side of the urinal not less than 18 inches (457 mm) or to a point not less than 6 inches (152 mm) beyond the outermost front lip of the urinal measured from the finished backwall surface, whichever is greater.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les murs ou les cloisons doivent se prolonger vers l'avant depuis la surface du mur arrière fini de chaque côté de l'urinoir jusqu'à au moins 18 po [457 mm] ou à un point d'au moins 6 po [152 mm] au-delà de la lèvre avant extérieure de l'urinoir, selon la valeur la plus élevée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T225214Z">
+        <seg>Les murs ou cloisons doivent s’étendre à partir de la surface du mur de chaque côté de l’urinoir sur au moins 18 po (457 mm), ou jusqu’à un point situé à au moins 6 po (152 mm) au-delà de la lèvre frontale la plus extérieure de l’urinoir, mesuré à partir de la surface finie du mur arrière, selon la plus grande de ces dimensions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46332,13 +46316,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.887: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>This Section does not apply to the following buildings and spaces:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Cet article ne s'applique pas aux bâtiments et aux aires suivants :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T224909Z">
+        <seg>Cet article ne s'applique pas aux bâtiments et aux espaces suivants :</seg>
       </tuv>
     </tu>
     <tu>
@@ -46471,13 +46454,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.857: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>This provision shall also apply where mirrors would compromise personal privacy.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Cette disposition s'applique également lorsque les miroirs compromettraient la vie privée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T225036Z">
+        <seg>Cette disposition s’applique également lorsque des miroirs compromettraient l’intimité des personnes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46659,12 +46641,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Toilet rooms located in child day care facilities and containing two or more water closets shall be permitted to have one water closet without an enclosing compartment.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les salles de toilettes situées dans les garderies d’enfants et contenant deux toilettes ou plus, il peut y avoir une toilette sans compartiment fermé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T225111Z">
+        <seg>Dans les salles de toilettes situées dans les garderies et contenant deux toilettes ou plus, il peut y avoir une toilette sans compartiment fermé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47141,13 +47122,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.733: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Urinal partitions shall not be required in a single-occupant or family or assisted-use toilet room with a lockable door.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des cloisons d'urinoir ne sont pas exigées dans une salle de toilette pour un seul occupant, une salle de toilette familiale ou une salle de toilette à usage assisté dotée d'une porte verrouillable.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T225229Z">
+        <seg>Les séparations entre urinoirs ne sont pas requises dans une toilette à usage individuel ou une toilette familiale ou à usage assisté munie d’une porte verrouillable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47475,13 +47455,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Walls and partitions within 2 feet (610 mm) of service sinks, urinals and water closets shall have a smooth, hard, nonabsorbent surface, to a height of not less than 4 feet (1219 mm) above the floor, and except for structural elements, the materials used in such walls shall be of a type that is not adversely affected by moisture.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les murs et les cloisons situés à moins de 2 pi (610 mm) des éviers de service, des urinoirs et des cabines de toilette doivent avoir une surface lisse, dure et non absorbante, à une hauteur d'au moins 4 pi (1 219 mm) au-dessus du sol, et, à l'exception des éléments de structure, les matériaux utilisés dans ces murs doivent être d'un type qui n'est pas affecté négativement par l'humidité.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T224855Z">
+        <seg>Les murs et cloisons situés à moins de 2 pi (610 mm) des éviers de service, des urinoirs et des cabinets d’aisances doivent avoir une surface lisse, dure et non absorbante sur une hauteur d’au moins 4 pi (1 219 mm) au-dessus du plancher et, à l’exception des éléments structuraux, les matériaux utilisés pour ces murs doivent être d’un type qui n’est pas altéré par l’humidité.</seg>
       </tuv>
     </tu>
     <tu>
