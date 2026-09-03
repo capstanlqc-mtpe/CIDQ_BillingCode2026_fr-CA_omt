@@ -568,13 +568,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Basements with a ceiling height of less than 80 inches (2032 mm) shall not be required to have emergency escape and rescue openings.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Les sous-sols dont la hauteur de plafond est inférieure à 80 po [2032 mm] ne sont pas tenus d'avoir des ouvertures d'évacuation et de sauvetage d'urgence.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T172207Z">
+        <seg>1.&lt;x1/&gt; Les sous-sols dont la hauteur sous plafond est inférieure à 80 po (2 032 mm) ne sont pas tenus d’avoir des ouvertures d’évacuation d’urgence et de sauvetage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -800,13 +799,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.814: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Group R-2 occupancies located in stories with only one exit or access to only one exit as permitted by Tables 1006.3.4(1) and 1006.3.4(2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1. Usages du&lt;x1/&gt; groupe R-2 situés dans des étages avec une seule issue ou un accès à une seule issue, comme le permettent les tableaux 1006.3.4(1) et 1006.3.4(2).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T172038Z">
+        <seg>1. Usages du&lt;x1/&gt; groupe R-2 situés dans des étages avec une seule issue ou un accès à une seule issue, tel que permis par les tableaux 1006.3.4(1) et 1006.3.4(2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2032,13 +2030,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.791: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Emergency escape and rescue openings are not required from basements or sleeping rooms that have an exit door or exit access door that opens directly into a public way or to a yard, court or exterior egress balcony that opens to a public way.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2. Les ouvertures d'évacuation et de sauvetage d'&lt;x1/&gt;urgence ne sont pas exigées dans les sous-sols ou les chambres à coucher qui ont une porte de sortie ou une porte d'accès à la sortie qui s'ouvre directement sur une voie publique ou sur une cour, un jardin ou un balcon d'évacuation extérieur qui s'ouvre sur une voie publique.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T172245Z">
+        <seg>2. Les ouvertures d'évacuation et de sauvetage&lt;x1/&gt;ne sont pas exigées dans les sous-sols ou les chambres à coucher qui comportent une porte d’issue ou une porte d’accès à l’issue donnant directement sur une voie publique ou sur une cour, un espace extérieur ou un balcon d’évacuation extérieur donnant sur une voie publique.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3041,13 +3038,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.796: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;Basements without habitable spaces and having not more than 200 square feet (18.6 m2) in floor area shall not be required to have emergency escape and rescue openings.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Les sous-sols sans espaces habitables et dont la surface de plancher est d'au plus 200 pi2 [18,6 m2] ne sont pas tenus d'avoir des ouvertures d'évacuation et de sauvetage d'urgence.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T172300Z">
+        <seg>3.&lt;x1/&gt; Les sous-sols sans espaces habitables et dont la superficie de plancher ne dépasse pas 200 pi2 (18,6 m2) ne sont pas tenus d’avoir des ouvertures d’évacuation d’urgence et de sauvetage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3828,13 +3824,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>4.&lt;x1/&gt;Storm shelters are not required to comply with this section where the shelter is constructed in accordance with ICC 500.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>4. Les abris contre les&lt;x1/&gt; intempéries ne sont pas tenus de se conformer à cette section lorsque l'abri est construit conformément à l'ICC 500.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T172406Z">
+        <seg>4.&lt;x1/&gt; Les abris contre les tempêtes ne sont pas tenus d’être conformes à la présente section lorsque l’abri est construit conformément à la norme ICC 500.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7229,13 +7224,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.783: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1030.17.3 Sightline-constrained guard heights.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1030.17.3 Hauteurs de garde-corps limitant la ligne de visée.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T171817Z">
+        <seg>&lt;g1&gt;1030.17.3 Hauteurs de garde-corps limitant la ligne de visibilité.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24363,13 +24357,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.844: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A fascia or railing system complying with the guard requirements of Section 1015 shall be provided for the full width of the aisle where the foot of the aisle is more than 30 inches (762 mm) above the floor or grade below.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système de bordure ou de garde-corps conforme aux exigences de garde-corps de la section 1015 doit être prévu sur toute la largeur de l'allée lorsque le bas de l'allée se trouve à plus de 30 po [762 mm] au-dessus du plancher ou du niveau du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T171851Z">
+        <seg>Un système de plinthe ou de garde-corps conforme aux exigences relatives aux garde-corps de la section 1015 doit être prévu sur toute la largeur de l’allée lorsque le pied de l’allée est situé à plus de 30 po (762 mm) au-dessus du plancher ou du sol situé en contrebas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29810,13 +29803,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.854: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Cross aisles located more than 30 inches (762 mm) above the floor or grade below shall have guards in accordance with Section 1015.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les allées transversales situées à plus de 30 po [762 mm] au-dessus du plancher ou du niveau du sol doivent être munies de garde-corps selon la section 1015.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T171713Z">
+        <seg>Les allées transversales situées à plus de 30 po (762 mm) au-dessus du plancher ou du sol situé en contrebas doivent être munies de garde-corps conformément à la section 1015.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43179,13 +43171,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The fascia or railing shall be not less than 36 inches (914 mm) high and shall provide not less than 42 inches (1067 mm) measured diagonally between the top of the rail and the nosing of the nearest tread.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La bordure ou la rampe doit avoir une hauteur d'au moins 36 po [914 mm] et doit fournir au moins 42 po [1067 mm] mesurés en diagonale entre le haut de la rampe et le nez de la marche la plus proche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T171901Z">
+        <seg>La plinthe ou le garde-corps doit avoir une hauteur d’au moins 36 po (914 mm) et doit assurer une distance d’au moins 42 po (1 067 mm), mesurée en diagonale entre le dessus de la main courante et le nez de marche du giron le plus proche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47251,13 +47242,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Unless subject to the requirements of Section 1030.17.4, a fascia or railing system in accordance with the guard requirements of Section 1015 and having a minimum height of 26 inches (660 mm) shall be provided where the floor or footboard elevation is more than 30 inches (762 mm) above the floor or grade below and the fascia or railing would otherwise interfere with the sightlines of immediately adjacent seating.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Sauf si les exigences de l'article 1030.17.4 s'appliquent, un système de bordure ou de garde-corps conforme aux exigences de l'article 1015 relatives aux garde-corps et d'une hauteur minimale de 26 po [660 mm] doit être prévu lorsque le plancher ou le marchepied se trouve à plus de 30 po [762 mm] au-dessus du plancher ou du niveau du sol et que la bordure ou le garde-corps gênerait autrement les lignes de visibilité des SIÈGES immédiatement adjacents.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T171812Z">
+        <seg>Sauf lorsqu’elles sont assujetties aux exigences de la section 1030.17.4, une plinthe ou un système de garde-corps conforme aux exigences relatives aux garde-corps de la section 1015 et ayant une hauteur minimale de 26 po (660 mm) doit être prévu lorsque le niveau du plancher ou du repose-pied est situé à plus de 30 po (762 mm) au-dessus du plancher ou du sol situé en contrebas et que la plinthe ou le système de garde-corps entraverait autrement les lignes de visibilité des sièges immédiatement adjacents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48512,13 +48502,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where an elevation change of 30 inches (762 mm) or less occurs between a cross aisle and the adjacent floor or grade below, guards not less than 26 inches (660 mm) above the aisle floor shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'il y a une différence de niveau de 30 po [762 mm] ou moins entre une allée transversale et le plancher adjacent ou le niveau du sol en dessous, il faut prévoir des garde-corps à au moins 26 po [660 mm] au-dessus du plancher de l'allée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T171721Z">
+        <seg>Lorsqu’une différence de niveau de 30 po (762 mm) ou moins existe entre une allée transversale et le plancher ou le sol adjacent situé en contrebas, des garde-corps d’au moins 26 po (660 mm) au-dessus du plancher de l’allée doivent être prévus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49651,13 +49640,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the backs of seats on the front of the cross aisle project 24 inches (610 mm) or more above the adjacent floor of the aisle, a guard need not be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les dossiers des sièges à l'avant de l'allée transversale dépassent de 24 po [610 mm] ou plus au-dessus du plancher adjacent de l'allée, il n'est pas nécessaire de prévoir un garde-corps.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T171758Z">
+        <seg>Lorsque les dossiers des sièges situés à l’avant de l’allée transversale dépassent de 24 po (610 mm) ou plus au-dessus du plancher adjacent de l’allée, un garde-corps n’est pas exigé.</seg>
       </tuv>
     </tu>
     <tu>
