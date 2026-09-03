@@ -26239,8 +26239,8 @@
       <tuv lang="en">
         <seg>An accessible route is not required to stories, mezzanines and occupied roofs that have an aggregate area of not more than 3,000 square feet (278.7 m2) and are located above and below accessible levels.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T190042Z">
-        <seg>Une voie accessible n’est pas exigée pour les étages, les mezzanines et les toitures occupées dont la superficie totale ne dépasse pas 3 000 pi² (278,7 m²) et qui sont situés au-dessus ou au-dessous de niveaux accessibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T190132Z">
+        <seg>Un itinéraire accessible n’est pas exigé pour les étages, les mezzanines et les toitures occupées dont la superficie totale ne dépasse pas 3 000 pi2 (278,7 m2) et qui sont situés au-dessus ou au-dessous de niveaux accessibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37129,13 +37129,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.808: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Multiple tenant facilities of Group M occupancies containing five or more tenant spaces used for the sales or rental of goods and where at least one such tenant space is located on a floor level above or below the accessible levels.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Installations à locataires multiples des occupations du groupe M contenant cinq locaux locatifs ou plus utilisés pour la vente ou la location de biens et où au moins un de ces locaux locatifs est situé à un niveau du sol au-dessus ou au-dessous des niveaux accessibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T190051Z">
+        <seg>Établissements à locataires multiples du groupe M comportant au moins cinq locaux de locataires utilisés pour la vente ou la location de marchandises et dont au moins un de ces locaux de locataires est situé à un niveau de plancher au-dessus ou au-dessous des niveaux accessibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41206,13 +41205,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.794: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Stories, mezzanines or occupied roofs that do not contain accessible elements or other spaces as determined by Section 1108 or 1109 are not required to be served by an accessible route from an accessible level.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les étages, mezzanines ou toits occupés qui ne contiennent pas d'éléments accessibles ou d'autres espaces tels que déterminés par la section 1108 ou 1109 ne sont pas tenus d'être desservis par un itinéraire accessible à partir d'un niveau accessible.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T190203Z">
+        <seg>Les étages, les mezzanines ou les toits occupés qui ne contiennent pas d'éléments accessibles ou d'autres espaces tels que déterminés par la section 1108 ou 1109 ne sont pas tenus d'être desservis par un itinéraire accessible à partir d'un niveau accessible.</seg>
       </tuv>
     </tu>
     <tu>
