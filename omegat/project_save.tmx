@@ -2162,13 +2162,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.724: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;In Group R-1, R-2 or R-3 occupancies, exit access stairways and ramps connecting four stories or less serving and contained within an individual dwelling unit or sleeping unit or live/work unit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Dans les usages des groupes R-1, R-2 ou R-3, les escaliers et rampes d'accès à l'issue reliant quatre étages ou moins desservant et contenus dans un logement individuel ou une unité de couchage ou une unité d'habitation/de travail.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T051643Z">
+        <seg>2.&lt;x1/&gt; Dans les usages des groupes R-1, R-2 ou R-3, les escaliers et rampes d’accès aux issues reliant au plus quatre étages, desservant une unité de logement individuelle, une unité de couchage individuelle ou une unité de travail et logement et étant situés à l’intérieur de cette unité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3147,13 +3146,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.763: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;Exit access stairways serving and contained within a Group R-3 congregate residence or a Group R-4 facility are not required to be enclosed.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3. Les escaliers d'&lt;x1/&gt;accès à l'issue desservant et contenus dans une résidence collective du groupe R-3 ou une installation du groupe R-4 ne sont pas tenus d'être fermés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T051431Z">
+        <seg>3. Les escaliers d'&lt;x1/&gt;accès aux issues desservant une résidence collective du groupe R-3 ou un établissement du groupe R-4 et étant situés à l’intérieur de celui-ci ne sont pas tenus d’être encloisonnés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3754,13 +3752,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>4.&lt;x1/&gt;Exit access stairways and ramps in buildings equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1, where the area of the vertical opening between stories does not exceed twice the horizontal projected area of the stairway or ramp and the opening is protected by a draft curtain and closely spaced sprinklers in accordance with NFPA 13.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>4. Escaliers et rampes d'&lt;x1/&gt;accès à l'issue dans les bâtiments entièrement équipés d'un système d'extincteurs automatiques selon la section 903.3.1.1, lorsque l'aire de l'ouverture verticale entre les étages ne dépasse pas le double de l'aire projetée horizontale de l'escalier ou de la rampe et que l'ouverture est protégée par un rideau anti-tirage et des extincteurs automatiques étroitement espacés selon la norme NFPA 13.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T051449Z">
+        <seg>4. Escaliers et rampes d'&lt;x1/&gt;accès aux issues dans les bâtiments entièrement équipés d’un système d’extincteurs automatiques conformément à la section 903.3.1.1 sont autorisés lorsque la superficie de l’ouverture verticale entre les étages ne dépasse pas deux fois la superficie horizontale projetée de l’escalier ou de la rampe et que l’ouverture est protégée par un écran de cantonnement des fumées et des extincteurs automatiques rapprochés conformément à la norme NFPA 13.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4293,13 +4290,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>5.&lt;x1/&gt;Exit access stairways and ramps within an atrium complying with the provisions of Section 404.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>5.&lt;x1/&gt; Escaliers et rampes d'accès à l'issue dans un ATRIUM conformes aux dispositions de la section 404.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T051702Z">
+        <seg>5.&lt;x1/&gt; Escaliers et rampes d'accès à l'issue dans un atrium conformes aux dispositions de la section 404.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4463,13 +4459,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.775: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>6.&lt;x1/&gt;Exit access stairways and ramps in open parking garages that serve only the parking garage.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>6.&lt;x1/&gt; Escaliers et rampes d'accès à l'issue dans les parcs de stationnement ouverts qui desservent uniquement le parc de stationnement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T051731Z">
+        <seg>6.&lt;x1/&gt; Escaliers et rampes d'accès à l'issue dans les garages de stationnement ouverts qui desservent uniquement le garage de stationnement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4582,13 +4577,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.717: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>7.&lt;x1/&gt;Exit access stairways and ramps serving smoke-protected or open-air assembly seating complying with the exit access travel distance requirements of Section 1030.7.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>7.&lt;x1/&gt; Escaliers et rampes d'accès à l'issue desservant des SIÈGES protégés contre la fumée ou en plein air conformes aux exigences de distance de parcours de l'accès à l'issue de la section 1030.7.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T051802Z">
+        <seg>7.&lt;x1/&gt; Les escaliers et les rampes d’accès aux issues desservant des places assises d’assemblée protégées contre la fumée ou à l’air libre et conformes aux exigences relatives à la distance de parcours jusqu’à l’issue de la section 1030.7.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4662,13 +4656,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.783: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>8.&lt;x1/&gt;Exit access stairways and ramps between the balcony, gallery or press box and the main assembly floor in occupancies such as theaters, places of religious worship, auditoriums and sports facilities.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>8.&lt;x1/&gt; Escaliers et rampes d'accès à l'issue entre le balcon, la galerie ou la loge de presse et l'étage principal du rassemblement dans des usages tels que les théâtres, les lieux de culte religieux, les auditoriums et les installations sportives.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T051816Z">
+        <seg>8.&lt;x1/&gt; Les escaliers et les rampes d’accès aux issues entre le balcon, la galerie ou la cabine de presse et la salle principale d’assemblée dans les usages tels que les théâtres, les lieux de culte, les auditoriums et les installations sportives.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17409,13 +17402,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.854: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;INTERIOR EXIT STAIRWAYS AND RAMPS&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;ESCALIERS ET RAMPES DE SORTIE INTÉRIEURS&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T052100Z">
+        <seg>&lt;g1&gt;ESCALIERS ET RAMPES D'ISSUE INTÉRIEURS&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28265,13 +28257,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.896: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Buildings or structures used for human occupancy shall have not less than one exterior door that meets the requirements of Section 1010.1.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les bâtiments ou les structures utilisés à des fins d'occupation humaine doivent avoir au moins une porte extérieure qui satisfait aux exigences de l'article 1010.1.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T051958Z">
+        <seg>Les bâtiments ou les structures destinés à l’occupation humaine doivent comporter au moins une porte extérieure conforme aux exigences de la section 1010.1.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31467,13 +31458,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Enclosures for interior exit stairways and ramps shall be constructed as fire barriers in accordance with Section 707 or horizontal assemblies constructed in accordance with Section 711, or both.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les escaliers et rampes d'issue intérieurs encloisonnés doivent être construits comme des barrières coupe-feu selon la section 707 ou des ensembles horizontaux construits selon la section 711, ou les deux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T052221Z">
+        <seg>Les encloisonnements des escaliers et rampes d’issue intérieurs doivent être construits comme des séparations coupe-feu conformément à la section 707 ou comme des assemblages horizontaux construits conformément à la section 711, ou les deux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32051,13 +32041,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.902: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exterior exit doors shall comply with the applicable requirements of Section 1010.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes de sortie extérieures doivent être conformes aux exigences applicables de l'article 1010.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T052021Z">
+        <seg>Les portes d'issue extérieures doivent être conformes aux exigences applicables de la section 1010.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34783,13 +34772,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.796: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group I-3 occupancies, exit access stairways or ramps constructed in accordance with Section 408 are not required to be enclosed.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les usages du groupe I-3, les escaliers ou rampes d'accès à l'issue construits selon la section 408 ne sont pas tenus d'être fermés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T051854Z">
+        <seg>Dans les usages du groupe I-3, les escaliers ou les rampes d'accès à l'issue construits selon la section 408 ne sont pas tenus d'être encloisonnés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36065,13 +36053,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Interior exit stairway and ramp enclosures shall have a fire-resistance rating of not less than 2 hours where connecting four stories or more and not less than 1 hour where connecting less than four stories.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les escaliers et rampes d'issue intérieurs encloisonnés doivent offrir un degré de résistance au feu d'au moins deux heures (2 h) lorsqu'ils relient quatre étages ou plus, et d'au moins une heure (1 h) lorsqu'ils relient moins de quatre étages.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T052245Z">
+        <seg>Les encloisonnements des escaliers et des rampes d’issue intérieurs doivent présenter un degré de résistance au feu d’au moins 2 heures lorsqu’ils relient quatre étages ou plus et d’au moins 1 heure lorsqu’ils relient moins de quatre étages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36085,23 +36072,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.836: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Interior exit stairways and ramps serving as an exit component in a means of egress system shall comply with the requirements of this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les escaliers et rampes d'issue intérieurs servant de composant d'issue dans un moyen d'évacuation doivent être conformes aux exigences de la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T052111Z">
+        <seg>Les escaliers et les rampes d'issue intérieurs servant de composant d'issue dans un moyen d'évacuation doivent être conformes aux exigences de la présente section.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.868: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Interior exit stairways and ramps shall be enclosed and lead directly to the exterior of the building or shall be extended to the exterior of the building with an exit passageway conforming to the requirements of Section 1024, except as permitted in Section 1028.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les escaliers et rampes d'issue intérieurs doivent être encloisonnés et mener directement à l'extérieur du bâtiment ou doivent être prolongés jusqu'à l'extérieur du bâtiment avec un passage d'issue conforme aux exigences de la section 1024, sauf dans les cas autorisés à la section 1028.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T052136Z">
+        <seg>Les escaliers et les rampes d’issue intérieurs doivent être encloisonnés et mener directement à l’extérieur du bâtiment ou être prolongés jusqu’à l’extérieur du bâtiment par un passage d’issue conforme aux exigences de la section 1024, sauf dans les cas autorisés par la section 1028.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41582,13 +41567,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.774: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Such interconnected stories shall not be open to other stories.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ces étages interconnectés ne doivent pas être ouverts sur d'autres étages.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T051235Z">
+        <seg>Ces étages interconnectés ne doivent pas être ouverts sur d’autres étages.</seg>
       </tuv>
     </tu>
     <tu>
