@@ -23128,13 +23128,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.843: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;To be considered firmly supported, the framing members for each individual pane of glass shall be designed so that the deflection of the edge of the glass perpendicular to the glass pane does not exceed 1/175 of the glass edge length where the glass edge length is not more than 13 feet 6 inches (4115 mm), or 1/240 of the glass edge length + 1/4 inch (6.4 mm) where the glass edge length is greater than 13 feet 6 inches (4115 mm), when subjected to the larger of the positive or negative load where loads are combined as specified in Section 1605..&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Pour être considérés comme solidement soutenus, les éléments de charpente de chaque panneau de verre individuel doivent être conçus de manière à ce que la déflexion du bord du verre perpendiculaire au panneau de verre ne dépasse pas 1/175 de la longueur du bord du verre lorsque la longueur du bord du verre n'est pas supérieure à 13 pi-6 po [4115 mm], ou 1/240 de la longueur du bord du verre + 1/4 po [6,4 mm] lorsque la longueur du bord du verre est supérieure à 13 pi-6 po [4115 mm], lorsqu'ils sont soumis à la plus grande des charges positive ou négative lorsque les charges sont combinées comme le spécifie l'article 1605.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T231350Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Pour être considérés comme fermement supportés, les éléments d’ossature de chaque vitre doivent être conçus de manière que la flèche du bord de la vitre, perpendiculairement au plan de la vitre, ne dépasse pas 1/175 de la longueur du bord de la vitre lorsque celle-ci ne dépasse pas 13 pi 6 po (4 115 mm), ou 1/240 de la longueur du bord de la vitre + 1/4 po (6,4 mm) lorsque la longueur du bord de la vitre est supérieure à 13 pi 6 po (4 115 mm), sous l’effet de la plus élevée des charges positive ou négative lorsque les charges sont combinées comme indiqué à la section 1605.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23177,13 +23176,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Where interior glazing is installed adjacent to a walking surface, the differential deflection of two adjacent unsupported edges shall be not greater than the thickness of the panels when a force of 50 pounds per linear foot (plf) (730 N/m) is applied horizontally to one panel at any point up to 42 inches (1067 mm) above the walking surface.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Lorsque du vitrage intérieur est installé à côté d'une surface de marche, la déflexion différentielle de deux bords adjacents non soutenus ne doit pas être supérieure à l'épaisseur des panneaux lorsqu'une force de 50 livres par pied linéaire (plf) (730 N/m) est appliquée horizontalement à un panneau en tout point jusqu'à 42 pouces (1067 mm) au-dessus de la surface de marche.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T231416Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Lorsque des vitrages intérieurs sont installés à proximité d’une surface de circulation, la différence de flèche entre deux bords adjacents non supportés ne doit pas être supérieure à l’épaisseur des panneaux lorsqu’une force de 50 lb par pied linéaire (plf) (730 N/m) est appliquée horizontalement sur un panneau, en tout point situé jusqu’à 42 po (1 067 mm) au-dessus de la surface de circulation.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23454,13 +23452,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Float, wired and patterned glass in louvered windows and jalousies shall be not thinner than nominal 3/16 inch (4.8 mm) and not longer than 48 inches (1219 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Le verre flotté, armé et à motifs dans les fenêtres à persiennes et les jalousies ne doit pas être plus mince que la valeur nominale de 3/16 po [4,8 mm] et ne doit pas dépasser 48 po [1219 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T231444Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Les vitrages flottés, armés et imprimés des fenêtres à lames et des fenêtres à jalousies ne doivent pas avoir une épaisseur nominale inférieure à 3/16 po (4,8 mm) ni une longueur supérieure à 48 po (1 219 mm).</seg>
       </tuv>
     </tu>
     <tu>
