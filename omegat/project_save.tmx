@@ -10266,13 +10266,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.891: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1202.5.1.1 Adjoining spaces.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1202.5.1.1 Locaux adjacents.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T220454Z">
+        <seg>&lt;g1&gt;1202.5.1.1 Espaces adjacents.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44336,13 +44335,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.85: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The openable area of the openings to the outdoors shall be not less than 4 percent of the floor area being ventilated.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La surface ouvrable des ouvertures donnant sur l'extérieur ne doit pas être inférieure à 4 pour cent de la surface de plancher ventilée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T220443Z">
+        <seg>La surface ouvrable des ouvertures donnant sur l'extérieur ne doit pas être inférieure à 4 % de la surface de plancher ventilée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48665,13 +48663,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.852: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where equivalent information is provided in an audible manner, variable message signs are not required to comply with ICC A117.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des informations équivalentes sont fournies de manière audible, les enseignes à message variable ne sont pas tenues de se conformer à la norme ICC A117.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T220351Z">
+        <seg>Lorsque des renseignements équivalents sont fournis de façon audible, les panneaux à messages variables ne sont pas tenus d’être conformes à la norme ICC A117.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49276,13 +49273,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where rooms and spaces without openings to the outdoors are ventilated through an adjoining room, the opening to the adjoining room shall be unobstructed and shall have an area of not less than 8 percent of the floor area of the interior room or space, but not less than 25 square feet (2.3 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les pièces et les espaces sans ouverture vers l'extérieur sont ventilés par une pièce attenante, l'ouverture vers la pièce attenante doit être non obstruée et doit avoir une surface d'au moins 8 pour cent de la surface de plancher de la pièce ou de l'espace intérieur, mais pas moins de 25 pi2 (2,3 m2).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T221233Z">
+        <seg>Lorsque des pièces et espaces sans ouverture sur l’extérieur sont ventilés par l’intermédiaire d’une pièce adjacente, l’ouverture donnant sur la pièce adjacente doit être libre de toute obstruction et avoir une superficie d’au moins 8 % de la superficie de plancher de la pièce ou de l’espace intérieur, sans toutefois être inférieure à 25 pi2 (2,3 m2).</seg>
       </tuv>
     </tu>
     <tu>
