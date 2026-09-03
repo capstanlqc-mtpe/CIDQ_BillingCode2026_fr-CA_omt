@@ -894,13 +894,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.744: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Not less than 0.3 inch (7.6 mm) of aisle capacity for each occupant served shall be provided on stepped aisles having riser heights 7 inches (178 mm) or less and tread depths 11 inches (279 mm) or greater, measured horizontally between tread nosings.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1. Il faut prévoir au&lt;x1/&gt; moins 0,3 po [7,6 mm] de capacité d'allée par occupant desservi dans les allées à gradins dont la hauteur de contremarche est de 7 po [178 mm] ou moins et la profondeur de pas de marche est de 11 po [279 mm] ou plus, mesurée horizontalement entre les nez de marches.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063356Z">
+        <seg>1.&lt;x1/&gt; Pour les allées à gradins dont la hauteur des contremarches est d’au plus 7 po (178 mm) et dont la profondeur des marches est d’au moins 11 po (279 mm), mesurée horizontalement entre les nez de marche, une capacité d’allée d’au moins 0,3 po (7,6 mm) par personne desservie doit être prévue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2281,13 +2280,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.785: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Not less than 0.005 inch (0.127 mm) of additional aisle capacity for each occupant shall be provided for each 0.10 inch (2.5 mm) of riser height above 7 inches (178 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Au moins 0,005 po [0,127 mm] de capacité d'allée supplémentaire par occupant doit être prévu pour chaque 0,10 po [2,5 mm] de hauteur de contremarche au-dessus de 7 po [178 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063454Z">
+        <seg>2.&lt;x1/&gt; Une capacité d'allée supplémentaire d'au moins 0,005 po (0,127 mm) de par occupant doit être prévu pour chaque 0,10 po (2,5 mm) de hauteur de contremarche au-dessus de 7 po (178 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3480,13 +3478,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.773: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;Where egress requires stepped aisle descent, not less than 0.075 inch (1.9 mm) of additional aisle capacity for each occupant shall be provided on those portions of aisle capacity that do not have a handrail within a horizontal distance of 30 inches (762 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Lorsque l'évacuation nécessite une descente en escalier dans l'allée, au moins 0,075 po [1,9 mm] de capacité supplémentaire de l'allée par occupant doit être prévu sur les parties de la capacité de l'allée qui n'ont pas de rampe à une distance horizontale de 30 po [762 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063536Z">
+        <seg>3.&lt;x1/&gt; Lorsque l'évacuation nécessite une descente en escalier dans l'allée, au moins 0,075 po [1,9 mm] de capacité supplémentaire de l'allée par occupant doit être prévu sur les parties de la capacité de l'allée qui n'ont pas de mains courantes à une distance horizontale de 30 po (762 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3844,13 +3841,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.773: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>4.&lt;x1/&gt;Ramped aisles, where slopes are steeper than one unit vertical in 12 units horizontal (8-percent slope), shall have not less than 0.22 inch (5.6 mm) of clear aisle capacity for each occupant served.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>4. Les allées&lt;x1/&gt; en pente, où les pentes sont plus fortes qu'une unité verticale sur 12 unités horizontales (pente de 8 pour cent), doivent avoir au moins 0,22 po [5,6 mm] de largeur libre d'allée pour chaque occupant desservi.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063551Z">
+        <seg>4. Les allées&lt;x1/&gt; en pente, où les pentes sont plus fortes qu'une unité verticale sur 12 unités horizontales (pente de 8 pour cent), doivent avoir au moins 0,22 po (5,6 mm) de largeur libre d'allée pour chaque occupant desservi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7361,13 +7357,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.789: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1030.6.2 Smoke-protected assembly seating.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1030.6.2 SIÈGES DE RÉUNION PROTÉGÉS CONTRE LA FUMÉE.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063643Z">
+        <seg>&lt;g1&gt;1030.6.2 Sièges pour assemblées protégés contre la fumée.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7391,13 +7386,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.909: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1030.6.2.3 Automatic sprinklers.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1030.6.2.3 Gicleurs automatiques.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064202Z">
+        <seg>&lt;g1&gt;1030.6.2.3 Extincteurs automatiques.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24730,13 +24724,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.83: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A life safety evaluation, complying with NFPA 101, shall be done for a facility utilizing the reduced width requirements of Table 1030.6.2 for smoke-protected assembly seating.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une évaluation de la sécurité des personnes, conforme à la norme NFPA 101, doit être effectuée pour une installation utilisant les exigences de largeur réduite du tableau 1030.6.2 pour les SIÈGES de rassemblement protégés contre la fumée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063733Z">
+        <seg>Une évaluation de la sécurité des personnes, conforme à la norme NFPA 101, doit être effectuée pour tout établissement utilisant les exigences de largeur réduite du tableau 1030.6.2 pour les sièges pour assemblées protégés contre la fumée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24935,13 +24928,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.747: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A roof canopy in an outdoor stadium shall be permitted to be less than 15 feet (4572 mm) above the highest aisle or aisle accessway provided that there are no objects less than 80 inches (2032 mm) above the highest aisle or aisle accessway.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un auvent de toit dans un stade extérieur peut être à moins de 15 pi [4572 mm] au-dessus de l'allée ou du passage d'accès à l'allée la plus haute, à condition qu'il n'y ait aucun objet à moins de 80 po [2032 mm] au-dessus de l'allée ou du passage d'accès à l'allée la plus haute.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064151Z">
+        <seg>Un auvent de toit dans un stade extérieur peut être situé à moins de 15 pi (4 572 mm) au-dessus de l’allée ou de la voie d’accès à l’allée située au niveau le plus élevé, à condition qu’aucun objet ne soit situé à moins de 80 po (2 032 mm) au-dessus de l’allée ou de la voie d’accès à l’allée située au niveau le plus élevé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25139,13 +25131,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.772: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A smoke-protected assembly seating area with a roof shall have the lowest portion of the roof deck not less than 15 feet (4572 mm) above the highest aisle or aisle accessway.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans une zone de SIÈGES de rassemblement protégée contre la fumée et dotée d'un toit, la partie la plus basse du platelage du toit doit se trouver à au moins 15 pi [4572 mm] au-dessus de l'allée ou de la voie d'accès à l'allée la plus haute.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064122Z">
+        <seg>Une aire de sièges pour assemblées protégée contre la fumée comportant un toit doit avoir la partie la plus basse du tablier de toit à au moins 15 pi (4 572 mm) au-dessus de l’allée ou de la voie d’accès à l’allée située au niveau le plus élevé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26024,13 +26015,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Aisles and aisle accessways serving a smoke-protected assembly seating area shall be provided with a smoke control system complying with Section 909 or natural ventilation designed to maintain the smoke level not less than 6 feet (1829 mm) above the floor of the means of egress.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les allées et les voies d'accès aux allées desservant une zone de SIÈGES de rassemblement protégée contre la fumée doivent être munies d'un système de contrôle de la fumée conforme à l'article 909 ou d'une ventilation naturelle conçue pour maintenir le niveau de fumée à au moins 6 pi [1829 mm] au-dessus du sol du moyen d'évacuation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064034Z">
+        <seg>Les allées et les voies d’accès aux allées desservant une aire de sièges pour assemblées protégée contre la fumée doivent être munies d’un système de contrôle de la fumée conforme à la section 909 ou d’un système de ventilation naturelle conçu pour maintenir le niveau de fumée à au moins 6 pi (1 829 mm) au-dessus du plancher du moyen d’évacuation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31365,13 +31355,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Enclosed areas with walls and ceilings in buildings or structures containing smoke-protected assembly seating shall be protected with an approved automatic sprinkler system in accordance with Section 903.3.1.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les aires fermées avec murs et plafonds dans les bâtiments ou les structures contenant des sièges de rassemblement protégés contre la fumée doivent être protégées par un système d'extincteurs automatiques approuvé selon la section 903.3.1.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T064219Z">
+        <seg>Les espaces fermés par des murs et des plafonds dans les bâtiments ou les structures comportant des sièges pour assemblées protégés contre la fumée doivent être protégés par un système d’extincteurs automatiques approuvé, installé conformément à la section 903.3.1.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34271,13 +34260,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.763: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>INCHES OF CAPACITY PER SEAT SERVED</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>POUCES DE CAPACITÉ PAR PLACE DESSERVIE</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063802Z">
+        <seg>POUCES DE CAPACITÉ PAR SIÈGE DESSERVI</seg>
       </tuv>
     </tu>
     <tu>
@@ -36595,23 +36583,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Level aisles or ramped aisles not steeper than 1 in 10 in slope</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Allées de plain-pied ou allées en pente d'au plus 1:10</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063929Z">
+        <seg>Allées de niveau ou allées en pente dont l’inclinaison ne dépasse pas 1:10.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.786: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Level or ramped aisles, where slopes are not steeper than one unit vertical in 12 units horizontal (8-percent slope), shall have not less than 0.20 inch (5.1 mm) of clear aisle capacity for each occupant served.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les allées de plain-pied ou en pente, lorsque les pentes ne sont pas supérieures à une unité verticale sur 12 unités horizontales (pente de 8 pour cent), doivent avoir une capacité d'allée libre d'au moins 0,20 po [5,1 mm] pour chaque occupant desservi.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063612Z">
+        <seg>Les allées de plain-pied ou en pente, lorsque les pentes ne sont pas supérieures à une unité verticale sur 12 unités horizontales (pente de 8 pour cent), doivent avoir une capacité d'allée libre d'au moins 0,20 po (5,1 mm) pour chaque occupant desservi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41289,23 +41275,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.749: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Stepped aisles with handrails within 30 inches</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Allées en escalier avec rampes à moins de 30 po</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063820Z">
+        <seg>Allées en escalier avec mains courantes à moins de 30 po</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.782: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Stepped aisles without handrails within 30 inches</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Allées en escalier sans rampes à moins de 30 po</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063837Z">
+        <seg>Allées en escalier sans mains courantes à moins de 30 po</seg>
       </tuv>
     </tu>
     <tu>
@@ -45060,33 +45044,30 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.814: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The required capacity in inches (mm) of the aisle for smoke-protected assembly seating shall be not less than the occupant load served by the egress element multiplied by the appropriate factor in Table 1030.6.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La capacité requise en pouces [mm] de l'allée pour les sièges d'un lieu de rassemblement protégé contre la fumée ne doit pas être inférieure à la charge d'occupants desservie par l'élément d'évacuation multipliée par le facteur approprié du tableau 1030.6.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063653Z">
+        <seg>La capacité requise de l’allée, en pouces (mm), ne doit pas être inférieure à la charge d’occupation desservie par l’élément d’évacuation, multipliée par le facteur approprié du tableau 1030.6.2.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.803: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The required capacity in inches (mm) of the aisles for assembly seating without smoke protection shall be not less than the occupant load served by the egress element in accordance with all of the following, as applicable:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La capacité requise en pouces (mm) des allées pour les SIÈGES de rassemblement sans protection contre la fumée ne doit pas être inférieure à la charge d'occupants desservie par l'élément d'évacuation conformément à tous les éléments suivants, selon le cas :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063333Z">
+        <seg>La capacité requise, en pouces (mm), des allées desservant des sièges pour assemblées sans protection contre la fumée ne doit pas être inférieure à celle déterminée en fonction de la charge d’occupation desservie par l’élément d’évacuation, conformément à toutes les dispositions suivantes, selon le cas :</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.808: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The required capacity of aisles shall be not less than that determined in accordance with Section 1030.6.1 where smoke-protected assembly seating is not provided, Section 1030.6.2 where smoke-protected assembly seating is provided and Section 1030.6.3 where open-air assembly seating is provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La capacité requise des allées ne doit pas être inférieure à celle déterminée selon la section 1030.6.1 lorsqu'il n'y a pas de sièges de rassemblement protégés contre la fumée, la section 1030.6.2 lorsqu'il y a des sièges de rassemblement protégés contre la fumée et la section 1030.6.3 lorsqu'il y a des sièges de rassemblement en plein air.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T063257Z">
+        <seg>La capacité requise des allées ne doit pas être inférieure à celle déterminée conformément à la section 1030.6.1 lorsqu’aucune aire de sièges pour assemblées protégée contre la fumée n’est prévue, à la section 1030.6.2 lorsqu’une aire de sièges pour assemblées protégée contre la fumée est prévue et à la section 1030.6.3 lorsqu’une aire de sièges pour assemblées à l’air libre est prévue.</seg>
       </tuv>
     </tu>
     <tu>
