@@ -719,13 +719,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.899: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;For HPM gases, sample analysis shall be performed at intervals not exceeding 30 minutes.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Pour les gaz HPM, l'analyse des échantillons doit être effectuée à des intervalles n'excédant pas 30 minutes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T020907Z">
+        <seg>1.&lt;x1/&gt; Pour les gaz HPM, l’analyse des échantillons doit être effectuée à des intervalles d’au plus 30 minutes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2102,13 +2101,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.893: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;For nonflammable gases, a gas concentration exceeding one-half of the IDLH, unless a different threshold is specified by the section of this code requiring a gas detection system.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Pour les gaz ininflammables, une concentration de gaz supérieure à la moitié de l'IDLH, à moins qu'un seuil différent ne soit spécifié par la section du présent code exigeant un système de détection de gaz.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T021300Z">
+        <seg>2.&lt;x1/&gt; Pour les gaz ininflammables, une concentration de gaz supérieure à la moitié de la valeur IDLH, à moins qu’un seuil différent ne soit spécifié par la section du présent code exigeant un système de détection de gaz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2132,13 +2130,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.88: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;For toxic gases that are not HPM, sample analysis shall be performed at intervals not exceeding 5 minutes in accordance with Section 6004.2.2.7 of the International Fire Code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Pour les gaz toxiques qui ne sont pas des HPM, l'analyse des échantillons doit être effectuée à des intervalles ne dépassant pas 5 minutes selon la section 6004.2.2.7 de l'International Fire Code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T020912Z">
+        <seg>2.&lt;x1/&gt; Pour les gaz toxiques qui ne sont pas des gaz HPM, l’analyse des échantillons doit être effectuée à des intervalles d’au plus 5 minutes conformément à la section 6004.2.2.7 de l’International Fire Code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3485,13 +3482,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;Where a less frequent or delayed sampling interval is approved.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Lorsqu'un intervalle d'échantillonnage moins fréquent ou retardé est approuvé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T020940Z">
+        <seg>3.&lt;x1/&gt; Lorsque l’intervalle d’échantillonnage moins fréquent ou retardé est approuvé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40143,13 +40139,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Sensors shall be installed in approved locations where leaking gases are expected to accumulate.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les capteurs doivent être installés à des endroits approuvés où les gaz qui fuient devraient s'accumuler.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T020824Z">
+        <seg>Les capteurs doivent être installés à des endroits approuvés où l’on s’attend à ce que les gaz qui fuient s’accumulent.</seg>
       </tuv>
     </tu>
     <tu>
