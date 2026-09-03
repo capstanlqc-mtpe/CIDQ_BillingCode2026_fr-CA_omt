@@ -7896,13 +7896,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1103.1 Where required.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1103.1 Endroits où elles sont exigées.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T174834Z">
+        <seg>&lt;g1&gt;1103.1 Endroits où l’accessibilité est requise.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24345,13 +24344,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.847: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A drainage system for area wells is not required where the foundation is on well-drained soil or sand-gravel mixture soils in accordance with the United Soil Classification System, Group I Soils, in accordance with Section 1803.5.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système de drainage pour les puits de captage n'est pas requis lorsque la fondation est sur un sol bien drainé ou sur des sols constitués d'un mélange de sable et de gravier selon le United Soil Classification System, Group I Soils, selon la section 1803.5.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T174553Z">
+        <seg>Un système de drainage des puits de fenêtre n’est pas exigé lorsque les fondations reposent sur un sol bien drainé ou sur un sol constitué d’un mélange de sable et de gravier conforme au système unifié de classification des sols, groupe I, conformément à la section 1803.5.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25475,13 +25473,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Accessibility is not required in buildings and facilities, or portions thereof, to the extent permitted by Sections 1104 through 1112.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'accessibilité n'est pas exigée dans les bâtiments et les installations, ou dans des parties de ceux-ci, dans la mesure permise par les articles 1104 à 1112.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T174944Z">
+        <seg>L’accessibilité n’est pas exigée dans les bâtiments et les installations, ou dans des parties de ceux-ci, dans la mesure permise par les sections 1104 à 1112.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27032,23 +27029,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Area wells shall be designed for proper drainage by connecting to the building's foundation drainage system required by Section 1805.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les puits de zone doivent être conçus pour un drainage adéquat en étant raccordés au système de drainage de la fondation du bâtiment, comme l'exige l'article 1805.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T174545Z">
+        <seg>Les puits de fenêtre doivent être conçus de manière à assurer un drainage adéquat en étant raccordés au système de drainage des fondations exigé par la section 1805.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Area wells with a vertical depth of more than 44 inches (1118 mm) shall be equipped with an approved permanently affixed ladder or steps.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les puits de zone d'une profondeur verticale supérieure à 44 po (1118 mm) doivent être équipés d'une échelle ou de marches approuvées fixées de façon permanente.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T174412Z">
+        <seg>Les puits de fenêtre dont la profondeur verticale est supérieure à 44 po (1 118 mm) doivent être munis d’une échelle ou de marches fixes permanentes approuvées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33566,13 +33561,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Group U occupancies are not required to comply with this chapter other than the following:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les occupations du groupe U ne sont pas tenues de se conformer à ce chapitre, sauf dans les cas suivants :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T175108Z">
+        <seg>Les usages du groupe U ne sont pas tenus d’être conformes au présent chapitre, à l’exception des éléments suivants :</seg>
       </tuv>
     </tu>
     <tu>
@@ -36297,23 +36291,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.81: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Ladders or rungs shall have an inside width of at least 12 inches (305 mm), shall project at least 3 inches (76 mm) from the wall and shall be spaced not more than 18 inches (457 mm) on center (o.c.) vertically for the full height of the area well.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les échelles ou les échelons doivent avoir une largeur intérieure d'au moins 12 po [305 mm], ils doivent empiéter d'au moins 3 po [76 mm] à partir du mur et ils doivent être espacés d'au plus 18 po [457 mm] d'axe en axe verticalement sur toute la hauteur de la cage.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T174505Z">
+        <seg>Les échelles ou les barreaux doivent avoir une largeur intérieure d’au moins 12 po (305 mm), faire saillie d’au moins 3 po (76 mm) par rapport au mur et être espacés verticalement d’au plus 18 po (457 mm), de centre à centre, sur toute la hauteur du puits de fenêtre.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.857: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Ladders or steps required by this section shall not be required to comply with Section 1011.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les échelles ou les marches requises par cette section ne sont pas tenues de se conformer à la section 1011.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T174426Z">
+        <seg> Les échelles ou les marches exigées par la présente section ne sont pas tenues d’être conformes à la section 1011.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38800,13 +38792,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.703: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Private garages or carports that contain required accessible parking.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Garages privés ou abris d'auto qui contiennent le STATIONNEMENT accessible requis.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T175135Z">
+        <seg>Garages privés ou abris d'auto qui contiennent le stationnement accessible requis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40350,23 +40341,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.892: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Sites, buildings, structures, facilities, elements and spaces shall be exempt from this chapter to the extent specified in this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les sites, bâtiments, structures, installations, éléments et espaces sont exemptés du présent chapitre dans la mesure spécifiée à la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T174858Z">
+        <seg>Les sites, les bâtiments, les constructions, les installations, les éléments et les espaces sont exemptés du présent chapitre dans la mesure spécifiée à la présente section.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.857: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Sites, buildings, structures, facilities, elements and spaces, temporary or permanent, shall be accessible to individuals with disabilities.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les sites, bâtiments, structures, installations, éléments et aires, temporaires ou permanents, doivent être accessibles aux personnes handicapées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T174739Z">
+        <seg>Les sites, les bâtiments, les constructions, les installations, les éléments et les espaces, temporaires ou permanents, doivent être accessibles aux personnes en situation d'handicap.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40674,13 +40663,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Spaces and elements within employee work areas shall only be required to comply with Sections 907.5.2.3.1, 1009 and 1104.3.1 and shall be designed and constructed so that individuals with disabilities can approach, enter and exit the work area.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les espaces et les éléments à l'intérieur des zones de travail des employés ne sont tenus de se conformer qu'aux sections 907.5.2.3.1, 1009 et 1104.3.1 et doivent être conçus et construits de manière à ce que les personnes handicapées puissent s'approcher de la zone de travail, y entrer et en sortir.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T174955Z">
+        <seg>Les espaces et les éléments situés dans les zones de travail des employés doivent uniquement être conformes aux sections 907.5.2.3.1, 1009 et 1104.3.1 et doivent être conçus et construits de manière à permettre aux personnes handicapées d’accéder à la zone de travail, d’y entrer et d’en sortir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41198,13 +41186,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Steps shall have an inside width of not less than 12 inches (305 mm), shall have treads greater than 5 inches (127 mm) in depth and a riser height not greater than 18 inches (457 mm) for the full height of the area well.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les marches doivent avoir une largeur intérieure d'au moins 12 po [305 mm], une profondeur de pas de marche supérieure à 5 po [127 mm] et une hauteur de contremarche d'au plus 18 po [457 mm] sur toute la hauteur du puits de secours.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T174514Z">
+        <seg>Les marches doivent avoir une largeur intérieure d’au moins 12 po (305 mm), des girons d’une profondeur supérieure à 5 po (127 mm) et des contremarches d’une hauteur d’au plus 18 po (457 mm), sur toute la hauteur du puits de fenêtre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41298,13 +41285,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Structures, sites and equipment directly associated with the actual processes of construction including, but not limited to, scaffolding, bridging, materials hoists, materials storage or construction trailers are not required to comply with this chapter.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les structures, les sites et l'équipement directement associés aux processus réels de construction, notamment, mais sans s'y limiter, les échafaudages, les passerelles, les monte-charges, l'entreposage de matériaux ou les roulottes de chantier, ne sont pas tenus de se conformer au présent chapitre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T175654Z">
+        <seg>Les structures, les sites et les équipements directement associés aux activités réelles de construction, notamment, sans toutefois s’y limiter, les échafaudages, les passerelles, les monte-matériaux, les aires d’entreposage des matériaux ou les roulottes de chantier, ne sont pas tenus d’être conformes au présent chapitre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43845,13 +43831,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The ladder or steps shall not be obstructed by the emergency escape and rescue opening when the window or door is in the open position.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'échelle ou les marches ne doivent pas être obstruées par l'ouverture d'évacuation et de sauvetage d'urgence lorsque la fenêtre ou la porte est en position ouverte.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T174420Z">
+        <seg>L’échelle ou les marches ne doivent pas être obstruées par l’ouverture d’évacuation d’urgence et de sauvetage lorsque la fenêtre ou la porte est en position ouverte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44720,13 +44705,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.893: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The provisions of this chapter shall control the design and construction of facilities for accessibility for individuals with disabilities.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les dispositions du présent chapitre régissent la conception et la construction d'installations accessibles aux personnes handicapées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T174614Z">
+        <seg>Les dispositions du présent chapitre régissent la conception et la construction d'installations accessibles aux personnes en situation d'handicap.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50469,13 +50453,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.836: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Work areas, or portions of work areas, other than raised courtroom stations in accordance with Section 1109.4.1.4, that are less than 300 square feet (30 m2) in area and located 7 inches (178 mm) or more above or below the ground or finished floor where the change in elevation is essential to the function of the space shall be exempt from all requirements.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les aires de travail, ou les parties d'aires de travail, autres que les postes surélevés dans les salles d'audience selon la section 1109.4.1.4, dont la superficie est inférieure à 300 pi2 [30 m2] et qui sont situées à 7 po [178 mm] ou plus au-dessus ou au-dessous du sol ou du plancher fini lorsque la différence de niveau est essentielle à la fonction de l'aire, sont exemptées de toutes les exigences.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T175004Z">
+        <seg>Les zones de travail, ou les parties de zones de travail, autres que les postes de juge surélevés conformément à la section 1109.4.1.4, dont la superficie est inférieure à 300 pi² (30 m²) et qui sont situées à 7 po (178 mm) ou plus au-dessus ou au-dessous du sol ou du plancher fini, lorsque la différence de niveau est essentielle à la fonction de l’espace, sont exemptées de toutes les exigences.</seg>
       </tuv>
     </tu>
     <tu>
