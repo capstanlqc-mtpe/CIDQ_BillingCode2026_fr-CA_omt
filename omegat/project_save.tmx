@@ -23798,8 +23798,8 @@
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Where water closet compartments are provided in a toilet room or bathing room, at least 5 percent of the total number of compartments shall be wheelchair &lt;g3&gt;accessible&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T211520Z">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Lorsque des compartiments de cabine de toilette sont prévus dans une salle de toilettes ou une salle de bain, au moins 5 pour cent du nombre total de compartiments doivent être &lt;g3&gt;accessibles&lt;/g3&gt; aux chaises roulantes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T211554Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Lorsque des compartiments de toilettes sont prévus dans une salle de toilettes ou une salle de bain, au moins 5 pour cent du nombre total de compartiments doivent être &lt;g3&gt;accessibles&lt;/g3&gt; aux chaises roulantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49644,13 +49644,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.79: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the combined total water closet compartments and urinals provided in a toilet room or bathing room is six or more, at least 5 percent of the total number of compartments shall be ambulatory &lt;g1&gt;accessible&lt;/g1&gt;, provided in addition to the wheelchair &lt;g2&gt;accessible &lt;/g2&gt;compartment.&lt;x3/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque le nombre total combiné des compartiments de toilette et des urinoirs fournis dans une salle de toilettes ou une salle de bain est de six ou plus, au moins 5 pour cent du nombre total de compartiments doivent être &lt;g1&gt;accessibles&lt;/g1&gt; sans fauteuil, en plus des compartiments &lt;g2&gt;accessibles &lt;/g2&gt;aux chaises roulantes.&lt;x3/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T211607Z">
+        <seg>Lorsque le nombre total combiné des compartiments de toilettes et des urinoirs fournis dans une salle de toilettes ou une salle de bain est de six ou plus, au moins 5 pour cent du nombre total de compartiments doivent être &lt;g1&gt;accessibles&lt;/g1&gt; sans fauteuil, en plus des compartiments &lt;g2&gt;accessibles &lt;/g2&gt;aux chaises roulantes.&lt;x3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
