@@ -39556,13 +39556,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.801: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Roll-in-type showers shall not be required to comply with ICC A117.1 where roll-in-type showers comply with Section 1110.2.3, in not more than 50 percent of Accessible units.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les douches de type à l'italienne ne sont pas tenues de se conformer à la norme ICC A117.1 lorsque les douches de type à l'italienne sont conformes à la section 1110.2.3, dans au plus 50 pour cent des logements accessibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T201801Z">
+        <seg>Les douches de type à accès de plain-pied ne sont pas tenues d’être conformes à la norme ICC A117.1 lorsqu’elles sont conformes à la section 1110.2.3, dans au plus 50 % des unités accessibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47641,13 +47640,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Water closets shall not be required to comply with ICC A117.1 where such water closets comply with Section 1110.2.2, in not more than 50 percent of Accessible units.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les cabines de toilette ne sont pas tenues de se conformer à la norme ICC A117.1 lorsque ces cabines de toilette sont conformes à la section 1110.2.2, dans au plus 50 pour cent des unités accessibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T201744Z">
+        <seg>Les cabines de toilette ne sont pas tenues d’être conformes à la norme ICC A117.1 lorsqu’elles sont conformes à la section 1110.2.2, dans au plus 50 % des unités accessibles.</seg>
       </tuv>
     </tu>
     <tu>
