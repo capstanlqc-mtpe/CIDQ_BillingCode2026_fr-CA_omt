@@ -27824,13 +27824,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Bedrooms in monasteries and convents shall be counted as units for the purpose of determining the number of units.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les chambres à coucher dans les monastères et les couvents sont comptées comme des unités aux fins de la détermination du nombre d'unités.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T205356Z">
+        <seg>Les chambres à coucher des monastères et des couvents doivent être comptées comme des unités aux fins de la détermination du nombre d’unités.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31572,13 +31571,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Existing structures on a site shall not contribute to the total number of units on a site.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les structures existantes sur un site ne doivent pas contribuer au nombre total d'unités sur un site.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T205743Z">
+        <seg>Les bâtiments existants sur un site ne doivent pas être pris en compte dans le nombre total d’unités sur le site.</seg>
       </tuv>
     </tu>
     <tu>
