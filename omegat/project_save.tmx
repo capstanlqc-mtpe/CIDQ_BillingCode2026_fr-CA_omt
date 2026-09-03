@@ -1408,13 +1408,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>10.&lt;x1/&gt;Exterior areas for assisted rescue complying with Section 1009.7 serving exits at the level of exit discharge.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>10. Zones&lt;x1/&gt; extérieures pour le sauvetage assisté conformes à l'article 1009.7 desservant les issues au niveau de l'issue d'évacuation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T022148Z">
+        <seg>10. Aires&lt;x1/&gt; extérieures de secours assisté conformes à la section 1009.7 desservant les issues au niveau d’évacuation menant à l’extérieur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2247,13 +2246,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Interior exit stairways complying with Sections 1009.3 and 1023.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2. Escaliers d'issue&lt;x1/&gt; intérieurs conformes à l'article 1009.3 et à la section 1023.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T021838Z">
+        <seg>2. Escaliers d'issue&lt;x1/&gt; intérieurs conformes aux sections 1009.3 et 1023.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4487,13 +4485,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.851: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>6.&lt;x1/&gt;Platform lifts complying with Section 1009.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>6.&lt;x1/&gt; Plates-formes élévatrices conformes à la Section 1009.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T022028Z">
+        <seg>6.&lt;x1/&gt; Plateformes élévatrices conformes à la Section 1009.5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22329,13 +22326,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.888: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 916.10 Fire alarm system connections.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 916.10 Connexions du système d'alarme incendie.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T021415Z">
+        <seg>&lt;g1&gt;[F] 916.10 Connexions du système d'alarme d'incendie.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27738,13 +27734,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.852: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Audible and visible alarm signals associated with a gas detection alarm shall be distinct from fire alarm and carbon monoxide alarm signals.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les signaux d'alarme sonores et visuels associés à une alarme de détection de gaz doivent être distincts des signaux d'alarme incendie et d'alarme de monoxyde de carbone.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T021336Z">
+        <seg>Les signaux d’alarme sonores et visuels associés à une alarme de détection de gaz doivent être distincts des signaux d’alarme d’incendie et des signaux d’alarme de monoxyde de carbone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33328,13 +33323,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.873: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Gas sensors and gas detection systems shall not be connected to fire alarm systems unless approved and connected in accordance with the fire alarm equipment manufacturer's instructions.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les capteurs de gaz et les systèmes de détection de gaz ne doivent pas être connectés aux systèmes d'alarme incendie, sauf s'ils sont approuvés et connectés conformément aux instructions du fabricant de l'équipement d'alarme incendie.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T021505Z">
+        <seg>Les capteurs de gaz et les systèmes de détection de gaz ne doivent pas être raccordés aux systèmes d’alarme d’incendie, sauf s’ils sont approuvés et raccordés conformément aux instructions du fabricant de l’équipement d’alarme d’incendie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35356,13 +35350,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In buildings where a required accessible floor or occupied roof is four or more stories above or below a level of exit discharge, not less than one required accessible means of egress shall be an elevator complying with Section 1009.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les bâtiments où un étage accessible exigé ou une toiture occupée se trouve à quatre étages ou plus au-dessus ou au-dessous d'un niveau d'issue d'évacuation, au moins un moyen d'évacuation accessible exigé doit être un ascenseur conforme à l'article 1009.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T022217Z">
+        <seg>Dans les bâtiments où un plancher accessible exigé ou un toit occupé se trouve à quatre étages ou plus au-dessus ou au-dessous d’un niveau d’évacuation menant à l’extérieur, au moins un des moyens d’évacuation accessibles exigés doit être un ascenseur conforme à la section 1009.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39022,13 +39015,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Prior to construction of a new building requiring a fire alarm system on a multiple-building college or university campus having a cumulative building occupant load of 1,000 or more, a mass notification risk analysis shall be conducted in accordance with NFPA 72.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Avant la construction d'un nouveau bâtiment nécessitant un système d'alarme incendie sur un campus collégial ou universitaire à bâtiments multiples ayant une charge d'occupants cumulée de 1 000 personnes ou plus, une analyse des risques liés à la notification de masse doit être effectuée conformément à la norme NFPA 72.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T021606Z">
+        <seg>Avant la construction d’un bâtiment neuf nécessitant un système d’alarme d’incendie sur un campus collégial ou universitaire comportant plusieurs bâtiments et dont la charge d’occupants cumulative est d’au moins 1 000 personnes, une analyse des risques liés à la notification de masse doit être effectuée conformément à la norme NFPA 72.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40562,13 +40554,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Signs shall be provided adjacent to gas detection system alarm signaling devices that advise occupants of the nature of the signals and actions to take in response to the signal.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des enseignes doivent être prévues à côté des dispositifs de signalisation d'alarme du système de détection de gaz pour informer les occupants de la nature des signaux et des mesures à prendre en réponse au signal.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T021404Z">
+        <seg>Des panneaux doivent être prévus à proximité des dispositifs de signalisation d’alarme du système de détection de gaz afin d’informer les occupants de la nature des signaux et des mesures à prendre en réponse au signal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47617,13 +47608,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.86: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Upon activation of a gas detection alarm, alarm signals or other required responses shall be as specified by the section of this code requiring a gas detection system.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lors de l'activation d'une alarme de détection de gaz, les signaux d'alarme ou autres réponses requises doivent être tels que spécifiés dans la section du présent code exigeant un système de détection de gaz.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T021331Z">
+        <seg>Lorsqu’une alarme de détection de gaz est activée, les signaux d’alarme ou autres mesures requises doivent être conformes aux exigences de la section du présent code qui exige un système de détection de gaz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49351,13 +49341,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where more than one means of egress is required by Section 1006.2 or 1006.3 from any accessible space, each accessible portion of the space shall be served by not less than two accessible means of egress.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque plus d'un moyen d'évacuation est exigé par l'article 1006.2 ou 1006.3 à partir d'une aire accessible quelconque, chaque partie accessible de l'aire doit être desservie par au moins deux moyens d'évacuation accessibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T021657Z">
+        <seg>Lorsque plus d’un moyen d’évacuation est exigé par la section 1006.2 ou 1006.3 à partir d’un espace accessible, chaque partie accessible de l’espace doit être desservie par au moins deux moyens d’évacuation accessibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50296,13 +50285,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.867: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the risk analysis determines a need for mass notification, an approved mass notification system shall be provided in accordance with the findings of the risk analysis.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque l'analyse des risques détermine un besoin de notification de masse, un système de notification de masse approuvé doit être prévu conformément aux conclusions de l'analyse des risques.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T021611Z">
+        <seg>Lorsque l’analyse des risques détermine qu’une notification de masse est nécessaire, un système de notification de masse approuvé doit être prévu conformément aux conclusions de l’analyse des risques.</seg>
       </tuv>
     </tu>
     <tu>
