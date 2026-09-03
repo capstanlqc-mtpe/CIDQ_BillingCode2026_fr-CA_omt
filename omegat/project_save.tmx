@@ -27315,13 +27315,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.787: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At least one accessible route within the site shall be provided from public transportation stops, accessible parking, accessible passenger loading zones, and public streets or sidewalks to the accessible building entrance served.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir au moins un itinéraire accessible sur le site à partir des arrêts de transport en commun, du stationnement accessible, des zones d'embarquement accessibles pour les passagers et des rues ou des trottoirs publics jusqu'à l'entrée accessible du bâtiment desservie.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T183528Z">
+        <seg>Au moins une voie accessible doit être aménagée sur le site depuis les arrêts de transport en commun, les stationnements accessibles, les zones accessibles de prise en charge des passagers et les rues ou trottoirs publics jusqu’à l’entrée accessible du bâtiment desservi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35185,13 +35184,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.796: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In detention and correctional facilities, common use areas that are used only by inmates or detainees and security personnel, and that do not serve holding cells or housing cells required to be Accessible units, are not required to comply with this chapter.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les établissements de détention et correctionnels, les espaces communs qui sont utilisés uniquement par les détenus ou les personnes en détention et le personnel de sécurité, et qui ne desservent pas les cellules de détention ou les cellules d'habitation devant être des unités accessibles, ne sont pas tenus de se conformer au présent chapitre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T182916Z">
+        <seg>Dans les établissements de détention et les établissements correctionnels, les aires à usage commun utilisées uniquement par les détenus ou les personnes incarcérées et le personnel de sécurité, et qui ne desservent pas de cellules de garde ou de cellules d’hébergement devant être des unités accessibles, ne sont pas tenues d’être conformes au présent chapitre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47543,13 +47541,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.785: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Walk-in cooler and freezer equipment accessed only from employee work areas is not required to comply with this chapter.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les chambres froides et les congélateurs-chambres accessibles uniquement depuis les zones de travail des employés ne sont pas tenus de se conformer à ce chapitre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T183139Z">
+        <seg>Les chambres froides et les congélateurs accessibles uniquement à partir des zones de travail des employés ne sont pas tenus d’être conformes au présent chapitre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47938,13 +47935,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a day care facility is part of a dwelling unit, only the portion of the structure utilized for the day care facility is required to comply with this chapter.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'une garderie fait partie d'une unité d'habitation, seule la partie de la structure utilisée pour la garderie est tenue de se conformer au présent chapitre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T182906Z">
+        <seg>Lorsqu’une garderie fait partie d’un logement, seule la partie de la construction utilisée pour la garderie doit être conforme au présent chapitre.</seg>
       </tuv>
     </tu>
     <tu>
