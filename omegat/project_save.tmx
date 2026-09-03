@@ -24854,13 +24854,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A manual fire alarm system that activates the occupant notification system in accordance with Section 907.5 shall be installed in Group I occupancies.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système d'alarme incendie manuel qui active le système d'avertissement des occupants selon la section 907.5 doit être installé dans les usages du groupe I.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T224427Z">
+        <seg>Un système d’alarme d’incendie manuel qui active le système de notification des occupants conformément à la section 907.5 doit être installé dans les usages du groupe I.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26571,23 +26570,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.889: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>An automatic smoke detection system shall be installed for highly toxic gases, organic peroxides and oxidizers in accordance with Chapters 60, 62 and 63, respectively, of the International Fire Code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système automatique de détection de fumée doit être installé pour les gaz hautement toxiques, les peroxydes organiques et les comburants conformément aux chapitres 60, 62 et 63, respectivement, de l'International Fire Code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T224322Z">
+        <seg>Un système automatique de détection de fumée doit être installé pour les gaz hautement toxiques, les peroxydes organiques et les oxydants conformément, respectivement, aux chapitres 60, 62 et 63 de l’International Fire Code.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.864: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An automatic smoke detection system that activates the occupant notification system in accordance with Section 907.5 shall be provided in accordance with Sections 907.2.6.1, 907.2.6.2 and 907.2.6.3.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un système automatique de détection de fumée qui active le système d'avertissement des occupants selon la section 907.5 doit être prévu conformément aux sections 907.2.6.1, 907.2.6.2 et 907.2.6.3.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T224436Z">
+        <seg>Un système automatique de détection de fumée qui active le système de notification des occupants conformément à la section 907.5 doit être prévu conformément aux sections 907.2.6.1, 907.2.6.2 et 907.2.6.3.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34686,13 +34683,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.825: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group I-1 occupancies, an automatic smoke detection system shall be installed in corridors, waiting areas open to corridors and habitable spaces other than sleeping units and kitchens.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les usages du groupe I-1, un système automatique de détection de fumée doit être installé dans les couloirs, les salles d'attente ouvertes sur les couloirs et les espaces habitables autres que les unités de couchage et les cuisines.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T224638Z">
+        <seg>Dans les usages du groupe I-1, un système automatique de détection de fumée doit être installé dans les corridors, les aires d’attente ouvertes sur les corridors et les espaces habitables autres que les unités de couchage et les cuisines.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37107,13 +37103,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.799: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Manual fire alarm boxes in sleeping units of Group I-1 and I-2 occupancies shall not be required at exits if located at all care providers’ control stations or other constantly attended staff locations, provided that such manual fire alarm boxes are visible and provided with ready access, and the distances of travel required in Section 907.4.2.1 are not exceeded.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des avertisseurs d’incendie à commande manuelle dans les unités de couchage des usages des groupes I-1 et I-2 ne sont pas exigés aux issues s’ils sont situés à tous les postes de contrôle des prestataires de soins ou à d’autres emplacements du personnel constamment occupés, à condition que ces avertisseurs d’incendie à commande manuelle soient visibles et munis d’un accès rapide, et que les distances de déplacement exigées à l’article 907.4.2.1 ne soient pas dépassées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T224549Z">
+        <seg>Les déclencheurs manuels d’alarme d’incendie dans les unités de couchage des usages des groupes I-1 et I-2 ne sont pas requis aux issues lorsqu’ils sont situés à tous les postes de commande des fournisseurs de soins ou à d’autres endroits du personnel constamment surveillés, à condition que ces déclencheurs manuels d’alarme d’incendie soient visibles et facilement accessibles et que les distances de parcours exigées à la section 907.4.2.1 ne soient pas dépassées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37859,13 +37854,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.798: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Occupant notification systems are not required to be activated where private mode signaling installed in accordance with NFPA 72 is approved by the fire code official and staff evacuation responsibilities are included in the fire safety and evacuation plan required by Section 404 of the International Fire Code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il n'est pas exigé d'activer les systèmes d'avertissement des occupants lorsque la signalisation en mode privé installée conformément à la norme NFPA 72 est approuvée par l'agent du code de prévention des incendies et que les responsabilités du personnel en matière d'évacuation sont incluses dans la vue en plan de sécurité incendie et d'évacuation requise par l'article 404 de l'International Fire Code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T224612Z">
+        <seg>Les systèmes de notification des occupants ne sont pas tenus d’être activés lorsque la signalisation en mode privé installée conformément à la norme NFPA 72 est approuvée par le responsable de la réglementation en matière d’incendie et que les responsabilités du personnel en matière d’évacuation sont incluses dans le plan de sécurité-incendie et d’évacuation exigé par la section 404 de l’International Fire Code.</seg>
       </tuv>
     </tu>
     <tu>
