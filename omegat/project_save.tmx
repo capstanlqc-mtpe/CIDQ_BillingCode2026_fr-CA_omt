@@ -590,13 +590,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.804: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Carbon monoxide detection shall not be required in dwelling units, sleeping units and classrooms without communicating openings between the fuel-burning appliance or fuel-burning fireplace and the dwelling unit, sleeping unit or classroom.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1. La détection de monoxyde de&lt;x1/&gt; carbone n'est pas exigée dans les logements, les unités de couchage et les salles de classe sans ouvertures communicantes entre l'appareil à combustion ou le foyer à combustion et le logement, l'unité de couchage ou la salle de classe.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T014113Z">
+        <seg>1. La détection de monoxyde de&lt;x1/&gt; carbone n’est pas requise dans les logements, les unités de couchage et les salles de classe qui ne comportent aucune ouverture communicante entre l’appareil à combustion ou le foyer à combustion et le logement, l’unité de couchage ou la salle de classe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1739,13 +1738,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.1.&lt;x1/&gt;In an approved location between the fuel-burning appliance or fuel-burning fireplace and the dwelling unit, sleeping unit or classroom.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.1.&lt;x1/&gt; Dans un emplacement approuvé entre l'appareil à combustion ou le foyer à combustion et l'unité d'habitation, l'unité de couchage ou la salle de classe.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T014213Z">
+        <seg>2.1.&lt;x1/&gt; Dans un emplacement approuvé entre l'appareil à combustion ou le foyer à combustion et le logements, l'unité de couchage ou la salle de classe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2026,13 +2024,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Carbon monoxide detection shall not be required in dwelling units, sleeping units and classrooms where a carbon monoxide detector is provided in one of the following locations:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2. La détection du monoxyde de&lt;x1/&gt; carbone n'est pas exigée dans les logements, les unités de couchage et les salles de classe où un détecteur de monoxyde de carbone est prévu à l'un des endroits suivants :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T014138Z">
+        <seg>2. La détection du monoxyde de&lt;x1/&gt; carbone n’est pas requise dans les logements, les unités de couchage et les salles de classe lorsqu’un détecteur de monoxyde de carbone est installé à l’un des endroits suivants :</seg>
       </tuv>
     </tu>
     <tu>
@@ -22154,33 +22151,30 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.881: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 915.1.2 Fuel-burning appliances and fuel-burning fireplaces.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 915.1.2 Appareils à combustion de combustible et foyers à combustion de combustible.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T013519Z">
+        <seg>&lt;g1&gt;[F] 915.1.2 Appareils à combustion et foyers à combustion.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.865: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 915.1.3 Fuel burning, forced-air furnaces.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 915.1.3	Foyers à air pulsé à combustion de combustible.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T013621Z">
+        <seg>&lt;g1&gt;[F] 915.1.3 Appareils de chauffage à air pulsé à combustion.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.861: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;[F] 915.1.4 Fuel-burning appliances outside of dwelling units, sleeping units and classrooms.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;[F] 915.1.4 Appareils à combustion à l'extérieur des logements, des unités de couchage et des salles de classe.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T014033Z">
+        <seg>&lt;g1&gt;[F] 915.1.4 Appareils à combustion situés à l’extérieur des logements, des unités de couchage et des salles de classe.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28661,13 +28655,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Carbon monoxide detection shall be provided in Group I-1, I-2, I-4 and R occupancies and in classrooms in Group E occupancies in the locations specified in Section 915.2 where any of the conditions in Sections 915.1.2 through 915.1.6 exist.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La détection du monoxyde de carbone doit être prévue dans les usages des groupes I-1, I-2, I-4 et R et dans les salles de cours dans les usages du groupe E aux emplacements spécifiés à l'article 915.2 lorsque l'une des conditions des articles 915.1.2 à 915.1.6 existe.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T013530Z">
+        <seg>La détection de monoxyde de carbone doit être prévue dans les usages des groupes I-1, I-2, I-4 et R ainsi que dans les salles de classe des usages du groupe E, aux endroits précisés à la section 915.2, lorsque l’une des conditions énoncées aux sections 915.1.2 à 915.1.6 est présente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28691,13 +28684,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.813: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Carbon monoxide detection shall be provided in dwelling units, sleeping units and classrooms served by a fuel-burning, forced-air furnace.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La détection de monoxyde de carbone doit être prévue dans les logements, les unités de couchage et les salles de classe desservis par une fournaise à air pulsé à combustion de combustible.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T013936Z">
+        <seg>La détection de monoxyde de carbone doit être prévue dans les logements, les unités de couchage et les salles de classe desservis par un appareil de chauffage à air pulsé à combustion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28711,13 +28703,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Carbon monoxide detection shall not be required in dwelling units, sleeping units and classrooms if a carbon monoxide detector is provided in the first room or area served by each main duct leaving the furnace, and the carbon monoxide alarm signals are automatically transmitted to an approved location.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La détection de monoxyde de carbone n'est pas exigée dans les logements, les unités de couchage et les salles de classe si un détecteur de monoxyde de carbone est prévu dans la première pièce ou zone desservie par chaque conduit principal sortant de la fournaise, et si les signaux d'alarme de monoxyde de carbone sont automatiquement transmis à un emplacement approuvé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T013945Z">
+        <seg>La détection de monoxyde de carbone n’est pas requise dans les logements, les unités de couchage et les salles de classe lorsqu’un détecteur de monoxyde de carbone est installé dans la première pièce ou aire desservie par chaque gaine principale sortant de l’appareil de chauffage et que les signaux d’alarme du détecteur de monoxyde de carbone sont automatiquement transmis à un endroit approuvé.</seg>
       </tuv>
     </tu>
     <tu>
