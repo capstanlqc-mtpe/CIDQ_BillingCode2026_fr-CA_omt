@@ -27372,13 +27372,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.811: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At least one story containing dwelling units or sleeping units intended to be occupied as a residence shall be provided with an accessible entrance from the exterior of the structure and all units intended to be occupied as a residence on that story shall be Type B units.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Au moins un étage contenant des logements ou des unités de couchage destinés à être occupés à titre de résidence doit être muni d'une entrée accessible depuis l'extérieur de la structure et toutes les unités destinées à être occupées à titre de résidence à cet étage doivent être des unités de type B.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T210340Z">
+        <seg>Au moins un étage comportant des logements ou des unités de couchage destinés à être occupés comme résidence doit comporter une entrée accessible depuis l’extérieur du bâtiment, et toutes les unités destinées à être occupées comme résidence situées à cet étage doivent être des unités de type B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27833,23 +27832,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.787: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Bedrooms within congregate living facilities, dormitories, sororities, fraternities and boarding houses shall be counted as sleeping units for the purpose of determining the number of units.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les chambres à coucher dans les établissements d'habitation collective, les dortoirs, les sororités, les fraternités et les pensions de famille sont comptées comme des unités de couchage aux fins de la détermination du nombre d'unités.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T205940Z">
+        <seg>Les chambres à coucher des établissements de vie collective, des dortoirs, des résidences universitaires pour femmes, des résidences universitaires pour hommes et des pensions doivent être comptées comme des unités de couchage aux fins de la détermination du nombre d’unités.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.781: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Bedrooms within congregate living facilities, dormitories, sororities, fraternities, and boarding houses shall be counted as sleeping units for the purpose of determining the number of units.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les chambres à coucher dans les établissements de vie en communauté, les dortoirs, les sororités, les fraternités et les pensions de famille sont comptées comme des unités de couchage aux fins de la détermination du nombre d'unités.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T210136Z">
+        <seg>Les chambres à coucher des établissements de vie collective, des dortoirs, des résidences universitaires pour femmes, des résidences universitaires pour hommes et des pensions doivent être comptées comme des unités de couchage aux fins de la détermination du nombre d’unités.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34641,13 +34638,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.814: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group R-2 occupancies, other than live/work units, apartment houses, monasteries and convents falling within the scope of Sections 1108.6.2.1 and 1108.6.2.2, Accessible units and Type B units shall be provided in accordance with Sections 1108.6.2.3.1 and 1108.6.2.3.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les usages du groupe R-2, autres que les unités d'habitation/de travail, les immeubles d'appartements, les monastères et les couvents entrant dans le champ d'application des sections 1108.6.2.1 et 1108.6.2.2, les unités accessibles et les unités de type B doivent être prévues selon les sections 1108.6.2.3.1 et 1108.6.2.3.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T205839Z">
+        <seg>Dans les usages du groupe R-2, autres que les unités combinées habitation-travail, les bâtiments d’habitation, les monastères et les couvents visés par les sections 1108.6.2.1 et 1108.6.2.2, des unités accessibles et des unités de type B doivent être prévues conformément aux sections 1108.6.2.3.1 et 1108.6.2.3.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34669,13 +34665,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.799: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group R-3 occupancies where there are four or more dwelling units or sleeping units intended to be occupied as a residence in a single structure, every dwelling unit and sleeping unit intended to be occupied as a residence shall be a Type B unit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les usages du groupe R-3 où il y a quatre logements ou unités de couchage ou plus destinés à être occupés comme résidence dans une même structure, chaque logement et chaque unité de couchage destinés à être occupés comme résidence doivent être des unités de type B.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T210114Z">
+        <seg>Dans les usages du groupe R-3 où un même bâtiment comporte quatre logements ou unités de couchage ou plus destinés à être occupés comme résidence, chaque logement et chaque unité de couchage destiné à être occupé comme résidence doit être une unité de type B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48494,13 +48489,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where arrival points are not within 50 feet (15 240 mm) of the entrance, the closest arrival point shall be used to determine access unless that arrival point serves the story required by Section 1108.7.1.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les points d'arrivée ne sont pas à moins de 50 pi [15 240 mm] de l'entrée, le point d'arrivée le plus proche doit être utilisé pour déterminer l'accès, à moins que ce point d'arrivée ne dessert l'étage requis par la section 1108.7.1.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T210534Z">
+        <seg>Lorsque les points d’arrivée ne sont pas situés à moins de 50 pi (15 240 mm) de l’entrée, le point d’arrivée le plus proche doit être utilisé pour déterminer l’accès, sauf si ce point d’arrivée dessert l’étage exigé par la section 1108.7.1.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48671,13 +48665,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where elevator service is not provided in a structure, only the dwelling units and sleeping units that are located on stories indicated in Sections 1108.7.1.1 and 1108.7.1.2 are required to be Type A units and Type B units, respectively.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'une structure n'est pas desservie par un ascenseur, seuls les logements et les unités de couchage situés aux étages indiqués aux articles 1108.7.1.1 et 1108.7.1.2 doivent être des unités de type A et des unités de type B, respectivement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T210255Z">
+        <seg>Lorsque aucun service d’ascenseur n’est prévu dans un bâtiment, seuls les logements et les unités de couchage situés aux étages indiqués aux sections 1108.7.1.1 et 1108.7.1.2 doivent respectivement être des unités de type A et des unités de type B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49493,13 +49486,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.759: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where stories have entrances not included in determining compliance with Section 1108.7.1.1, and such entrances are proximate to arrival points intended to serve units on that story, as indicated in Items 1 and 2, all dwelling units and sleeping units intended to be occupied as a residence served by that entrance on that story shall be Type B units.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les étages ont des entrées non incluses dans la détermination de la conformité à l'article 1108.7.1.1, et que ces entrées sont à proximité des points d'arrivée destinés à desservir les unités de cet étage, comme indiqué aux points 1 et 2, tous les logements et toutes les unités de couchage destinés à être occupés comme résidence desservis par cette entrée à cet étage doivent être des unités de type B.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T210350Z">
+        <seg>Lorsque des étages comportent des entrées qui ne sont pas prises en compte pour déterminer la conformité à la section 1108.7.1.1 et que ces entrées sont situées à proximité des points d’arrivée destinés à desservir les unités situées à cet étage, comme indiqué aux points 1 et 2, tous les logements et unités de couchage destinés à être occupés comme résidence desservis par cette entrée à cet étage doivent être des unités de type B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49562,13 +49554,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.721: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the bedrooms are grouped into dwelling or sleeping units, only one bedroom in each dwelling or sleeping unit shall be permitted to count toward the number of required Accessible units.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les chambres sont regroupées en unités d'habitation ou en unités de couchage, une seule chambre dans chaque unité d'habitation ou unité de couchage peut compter dans le nombre d'unités accessibles exigées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T205949Z">
+        <seg>Lorsque les chambres à coucher sont regroupées en logements ou en unités de couchage, une seule chambre à coucher de chaque logement ou unité de couchage peut être comptée dans le nombre d’unités accessibles requises.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49859,23 +49850,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the slopes of the planned finished grade measured between the entrance and all vehicular or pedestrian arrival points within 50 feet (15 240 mm) of the planned entrance are 10 percent or less.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les pentes du niveau fini prévu mesurées entre l'entrée et tous les points d'arrivée des véhicules ou des piétons à moins de 50 pi (15 240 mm) de l'entrée prévue sont de 10 % ou moins.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T210527Z">
+        <seg> Lorsque les pentes du niveau du sol fini prévu, mesurées entre l’entrée et tous les points d’arrivée des véhicules ou des piétons situés à moins de 50 pi (15 240 mm) de l’entrée prévue, sont de 10 % ou moins.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.852: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the slopes of the undisturbed site measured between the planned entrance and all vehicular or pedestrian arrival points within 50 feet (15 240 mm) of the planned entrance are 10 percent or less.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les pentes du site non perturbé mesurées entre l'entrée prévue et tous les points d'arrivée des véhicules ou des piétons à moins de 50 pi (15 240 mm) de l'entrée prévue sont de 10 % ou moins.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T210509Z">
+        <seg>Lorsque les pentes du niveau du sol existant, mesurées entre l’entrée prévue et tous les points d’arrivée des véhicules ou des piétons situés à moins de 50 pi (15 240 mm) de l’entrée prévue, sont de 10 % ou moins.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49983,23 +49972,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where there are four or more dwelling units or sleeping units intended to be occupied as a residence in a single structure, every dwelling unit and every sleeping unit intended to be occupied as a residence shall be a Type B unit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'il y a quatre logements ou unités de couchage ou plus destinés à être occupés comme résidence dans une même structure, chaque logement et chaque unité de couchage destinés à être occupés comme résidence doivent être des unités de type B.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T210020Z">
+        <seg>Lorsqu’un même bâtiment comporte quatre logements ou unités de couchage ou plus destinés à être occupés comme résidence, chaque logement et chaque unité de couchage destiné à être occupé comme résidence doit être une unité de type B.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.812: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where there are four or more dwelling units or sleeping units intended to be occupied as a residence in a single structure, every dwelling unit and sleeping unit intended to be occupied as a residence shall be a Type B unit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'il y a quatre logements ou unités de couchage ou plus destinés à être occupés à titre de résidence dans une même structure, chaque logement et chaque unité de couchage destinés à être occupés à titre de résidence doivent être des unités de type B.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T205822Z">
+        <seg>Lorsqu’un même bâtiment comporte quatre logements ou unités de couchage ou plus destinés à être occupés comme résidence, chaque logement et chaque unité de couchage destiné à être occupé comme résidence doit être une unité de type B.</seg>
       </tuv>
     </tu>
     <tu>
