@@ -28653,13 +28653,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Cells or rooms subject to this requirement include, but are not limited to, those used for purposes of orientation, protective custody, administrative or disciplinary detention or segregation, detoxification and medical isolation.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les cellules ou les pièces soumises à cette exigence comprennent, sans s'y limiter, celles utilisées à des fins d'orientation, de garde protectrice, de détention ou d'isolement administratif ou disciplinaire, de désintoxication et d'isolement médical.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T202807Z">
+        <seg>Les cellules ou les pièces visées par cette exigence comprennent notamment celles utilisées à des fins d’orientation, de garde préventive, de détention ou d’isolement administratif ou disciplinaire, de désintoxication et d’isolement médical.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34791,13 +34790,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.801: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In addition to the Accessible units required by Section 1108.5.5.1, where special holding cells or special housing cells or rooms are provided, at least one serving each purpose shall be an Accessible unit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>En plus des unités accessibles exigées par l'article 1108.5.5.1, lorsque des cellules de détention spéciales ou des cellules ou pièces d'habitation spéciales sont prévues, au moins une servant à chaque fin doit être une unité accessible.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T202743Z">
+        <seg>En plus des unités accessibles exigées par la section 1108.5.5.1, lorsque des cellules de garde ou des cellules ou pièces d’hébergement spéciales sont prévues, au moins une cellule ou pièce desservant chaque fonction doit être une unité accessible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38169,13 +38167,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.781: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Patient sleeping units or cells required to be Accessible units in medical care facilities shall be provided in addition to any medical isolation cells required to comply with Section 1108.5.5.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des unités de couchage ou des cellules pour patients devant être des unités accessibles dans les installations de soins médicaux doivent être prévues en plus de toute cellule d'isolement médical devant se conformer à la section 1108.5.5.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T202837Z">
+        <seg>Des chambres ou des cellules pour patients devant être des unités accessibles dans les installations de soins médicaux doivent être prévues en plus de toute cellule d'isolement médical devant se conformer à la section 1108.5.5.2.</seg>
       </tuv>
     </tu>
     <tu>
