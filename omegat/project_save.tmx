@@ -7051,13 +7051,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.776: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1030.14 Assembly aisle walking surfaces.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1030.14 Surfaces de circulation des allées de rassemblement.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T160401Z">
+        <seg>&lt;g1&gt;1030.14 Surfaces de circulation des allées d’assemblées.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20053,13 +20052,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.634: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;SMOKE-PROTECTED OR OPEN-AIR ASSEMBLY AISLE ACCESSWAYS&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;ALLÉES D'ACCÈS POUR LES RÉUNIONS PROTÉGÉES CONTRE LA FUMÉE OU EN PLEIN AIR&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T160047Z">
+        <seg>&lt;g1&gt;VOIES D’ACCÈS AUX ALLÉES DES SIÈGES D’ASSEMBLÉES PROTÉGÉS CONTRE LA FUMÉE OU À L’AIR LIBRE&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36795,13 +36793,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.754: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>MAXIMUM NUMBER OF SEATS PER ROW PERMITTED TO HAVE A MINIMUM 12-INCH CLEAR WIDTH AISLE ACCESSWAY</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>NOMBRE MAXIMAL DE SIÈGES PAR RANGÉE AUTORISÉ POUR AVOIR UNE LARGEUR LIBRE MINIMALE DE 12 POUCES POUR L'ACCÈS AUX ALLÉES</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T160149Z">
+        <seg>NOMBRE MAXIMAL DE SIÈGES PAR RANGÉE AUTORISÉ POUR UNE VOIE D’ACCÈS À UNE ALLÉE D’UNE LARGEUR LIBRE MINIMALE DE 12 PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -37272,13 +37269,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.746: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>NUMBER OF SEATS IN THE SMOKE-PROTECTED OR OPEN-AIR ASSEMBLY SEATING</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>NOMBRE DE SIÈGES DANS LES SIÈGES DE RÉUNION PROTÉGÉS CONTRE LA FUMÉE OU EN PLEIN AIR</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T160137Z">
+        <seg>NOMBRE DE SIÈGES DANS LES AIRES DE SIÈGES D’ASSEMBLÉES PROTÉGÉES CONTRE LA FUMÉE OU À L’AIR LIBRE</seg>
       </tuv>
     </tu>
     <tu>
