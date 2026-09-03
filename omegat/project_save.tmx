@@ -25708,23 +25708,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.806: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Accessible units and Type B units shall be provided in general-purpose hospitals, psychiatric facilities and detoxification facilities of Group I-2 occupancies in accordance with Sections 1108.5.3.1 and 1108.5.3.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des unités accessibles et des unités de type B doivent être prévues dans les hôpitaux polyvalents, les établissements psychiatriques et les établissements de désintoxication des usages du groupe I-2 selon les sections 1108.5.3.1 et 1108.5.3.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T200520Z">
+        <seg>Des unités accessibles et des unités de type B doivent être prévues dans les hôpitaux de soins généraux, les établissements psychiatriques et les établissements de désintoxication du groupe I-2, conformément aux sections 1108.5.3.1 et 1108.5.3.2.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.779: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Accessible units and Type B units shall be provided in nursing homes of Group I-2, Condition 1 occupancies in accordance with Sections 1108.5.2.1 and 1108.5.2.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des logements accessibles et des logements de type B doivent être prévus dans les maisons de soins infirmiers des usages du groupe I-2, condition 1, selon les sections 1108.5.2.1 et 1108.5.2.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T195609Z">
+        <seg>Des logements accessibles et des logements de type B doivent être prévus dans les centres d'hébergement et de soins de longue durée des usages du groupe I-2, condition 1, selon les sections 1108.5.2.1 et 1108.5.2.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39578,13 +39576,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Roll-in-type showers shall not be required to comply with ICC A117.1 where roll-in-type showers comply with Section 1110.2.3, in not more than 90 percent of the Accessible units.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les douches de type à l'italienne ne sont pas tenues de se conformer à la norme ICC A117.1 lorsqu'elles se conforment à la section 1110.2.3, dans au plus 90 pour cent des unités accessibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T200206Z">
+        <seg>Les douches de type à accès de plain-pied ne sont pas tenues d’être conformes à la norme ICC A117.1 lorsqu’elles sont conformes à la section 1110.2.3, dans au plus 90 % des unités accessibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47664,13 +47661,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Water closets shall not be required to comply with ICC A117.1 where such water closets comply with Section 1110.2.2, in not more than 90 percent of the Accessible units.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les cabines de toilette ne sont pas tenues de se conformer à la norme ICC A117.1 lorsqu'elles se conforment à la section 1110.2.2, dans au plus 90 pour cent des unités accessibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T200141Z">
+        <seg>Les cabines de toilette ne sont pas tenues d’être conformes à la norme ICC A117.1 lorsqu’elles sont conformes à la section 1110.2.2, dans au plus 90 % des unités accessibles.</seg>
       </tuv>
     </tu>
     <tu>
