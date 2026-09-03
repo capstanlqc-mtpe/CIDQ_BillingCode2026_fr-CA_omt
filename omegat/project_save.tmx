@@ -7013,13 +7013,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.752: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1030.13.1.2 Seating at table aisle accessway length.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1030.13.1.2 Longueur du passage d'accès à l'allée pour les SIÈGES à table.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T152400Z">
+        <seg>&lt;g1&gt;1030.13.1.2 Longueur de la voie d’accès à une allée desservant des sièges à des tables.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
