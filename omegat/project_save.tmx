@@ -34608,13 +34608,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.781: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group R-1, an accessible route is not required to connect stories or mezzanines within individual units, provided the accessible level meets the provisions for Accessible units and sleeping accommodations for two persons minimum and a toilet facility are provided on that level.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans le groupe R-1, un itinéraire accessible n'est pas exigé pour relier les étages ou les mezzanines à l'intérieur des unités individuelles, à condition que le niveau accessible soit conforme aux dispositions relatives aux unités accessibles et que des chambres pour au moins deux personnes et des installations sanitaires soient prévues à ce niveau.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T194232Z">
+        <seg>Dans les établissements du groupe R-1, un itinéraire accessible n’est pas exigé pour relier les étages ou les mezzanines à l’intérieur des logements individuels, à condition que le niveau accessible soit conforme aux dispositions relatives aux unités accessibles et qu’un hébergement pour au moins deux personnes et un cabinet de toilette soient prévus à ce niveau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34636,13 +34635,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In Group R-2 facilities with Type A units complying with Section 1108.6.2.2.1, an accessible route is not required to connect stories or mezzanines where Type A units, all common use areas serving Type A units and all public use areas are on an accessible route.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les établissements du groupe R-2 comportant des unités de type A conformes à l'article 1108.6.2.2.1, il n'est pas nécessaire de prévoir un itinéraire accessible pour relier les étages ou les mezzanines lorsque les unités de type A, toutes les aires à usage commun desservant les unités de type A et toutes les aires à usage public sont situées sur un itinéraire accessible.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T194112Z">
+        <seg>Dans les établissements du groupe R-2 comportant des unités de type A conformes à la section 1108.6.2.2.1, une voie accessible n’est pas exigée pour relier les étages ou les mezzanines lorsque les unités de type A, toutes les aires à usage commun desservant les unités de type A et toutes les aires à usage public sont desservies par un itinéraire accessible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35155,13 +35153,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.67: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In congregate residences in Groups R-3 and R-4, an accessible route is not required to connect stories or mezzanines where Accessible units or Type B units, all common use areas serving Accessible units and Type B units and all public use areas serving Accessible units and Type B units are on an accessible route.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les résidences collectives des groupes R-3 et R-4, un itinéraire accessible n'est pas requis pour relier les étages ou les mezzanines lorsque les unités accessibles ou les unités de type B, toutes les aires d'usage commun desservant les unités accessibles et les unités de type B et toutes les aires d'usage public desservant les unités accessibles et les unités de type B sont sur un itinéraire accessible.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T194242Z">
+        <seg>Dans les résidences collectives des groupes R-3 et R-4, un itinéraire accessible n’est pas exigé pour relier les étages ou les mezzanines lorsque les unités accessibles ou les unités de type B, toutes les aires à usage commun desservant les unités accessibles et les unités de type B et toutes les aires à usage public desservant les unités accessibles et les unités de type B sont desservies par un itinéraire accessible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35436,13 +35433,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.759: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In other than Group R-2 dormitory housing provided by places of education, in Group R-2 facilities with Accessible units complying with Section 1108.6.2.3.1, an accessible route is not required to connect stories or mezzanines where Accessible units, all common use areas serving Accessible units and all public use areas are on an accessible route.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les logements autres que les dortoirs du groupe R-2 fournis par des établissements d'enseignement, dans les établissements du groupe R-2 avec des unités accessibles conformes à l'article 1108.6.2.3.1, un itinéraire accessible n'est pas requis pour relier les étages ou les mezzanines lorsque les unités accessibles, toutes les zones à usage commun desservant les unités accessibles et toutes les zones à usage public sont sur un itinéraire accessible.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T194211Z">
+        <seg>Dans les établissements du groupe R-2 autres que les logements en dortoir fournis par des établissements d’enseignement, comportant des unités accessibles conformes à la section 1108.6.2.3.1, un itinéraire accessible n’est pas exigé pour relier les étages ou les mezzanines lorsque les unités accessibles, toutes les aires à usage commun desservant les unités accessibles et toutes les aires à usage public sont desservies par un itinéraire accessible.</seg>
       </tuv>
     </tu>
     <tu>
