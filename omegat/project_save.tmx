@@ -1647,13 +1647,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1&lt;x1/&gt;.The glazed areas need not be openable where the opening is not required by Section R310 and a whole-house mechanical ventilation system is installed in accordance with Section M1505.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1&lt;x1/&gt;. Les surfaces vitrées n'ont pas besoin d'être ouvrantes lorsque l'ouverture n'est pas requise par la section R310 et qu'un système de ventilation mécanique pour toute la maison est installé selon la section M1505.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T023955Z">
+        <seg>1&lt;x1/&gt;. Les surfaces vitrées n’ont pas besoin d’être ouvrantes lorsque l’ouverture n’est pas exigée par la section R310 et qu’un système de ventilation mécanique de l’ensemble du bâtiment est installé conformément à la section M1505.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2439,13 +2438,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;The glazed areas need not be installed in rooms where Exception 1 is satisfied and artificial light is provided that is capable of producing an average illumination of 6 footcandles (65 lux) over the area of the room at a height of 30 inches (762 mm) above the floor level.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Il n'est pas nécessaire d'installer des surfaces vitrées dans les pièces où l'exception 1 est satisfaite et où il y a un éclairage artificiel capable de produire un éclairement moyen de 6 foot-candles (65 lux) sur la surface de la pièce à une hauteur de 30 po [762 mm] au-dessus du niveau du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T024018Z">
+        <seg>2.&lt;x1/&gt; Les surfaces vitrées n’ont pas besoin d’être installées dans les pièces lorsque l’exception 1 est respectée et qu’un éclairage artificiel est fourni, capable de produire un éclairement moyen de 6 pieds-bougies (65 lux) sur la superficie de la pièce, à une hauteur de 30 po (762 mm) au-dessus du niveau du plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3376,13 +3374,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.814: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;Use of sunroom and patio covers, as defined in Section R202, shall be permitted for natural ventilation if in excess of 40 percent of the exterior sunroom walls are open, or are enclosed only by insect screening.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; L'utilisation de toits de véranda et de patio, tels que définis à la section R202, est autorisée pour la ventilation naturelle si plus de 40 pour cent des murs extérieurs de la véranda sont ouverts ou ne sont fermés que par des moustiquaires.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T024028Z">
+        <seg>3.&lt;x1/&gt; L’utilisation de vérandas et de couvertures de terrasse, telles qu’elles sont définies à la section R202, est autorisée pour assurer la ventilation naturelle si plus de 40 % des murs extérieurs de la véranda sont ouverts ou sont fermés uniquement par une moustiquaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27636,13 +27633,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.814: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Bathrooms, water closet compartments and other similar rooms shall be provided with aggregate glazing area in windows of not less than 3 square feet (0.3 m2), one-half of which shall be openable.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les salles de bain, les compartiments de toilette et les autres pièces similaires doivent être dotés d'une surface de vitrage totale dans les fenêtres d'au moins 3 pi2 [0,3 m2], dont la moitié doit pouvoir s'ouvrir.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T024158Z">
+        <seg>Les salles de bains, les cabinets d’aisances et les autres pièces similaires doivent être pourvus de fenêtres dont la superficie vitrée totale est d’au moins 3 pi2 (0,3 m2), dont la moitié doit être ouvrante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31431,13 +31427,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.756: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exhaust air from the space shall be exhausted directly to the outdoors.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'air évacué de l'espace doit être évacué directement à l'extérieur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T024842Z">
+        <seg>L'air évacué de l'espace doit être évacué directement vers l'extérieur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32743,13 +32738,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>For the purpose of determining light and ventilation requirements, rooms shall be considered to be a portion of an adjoining room where not less than one-half of the area of the common wall is open and unobstructed and provides an opening of not less than one-tenth of the floor area of the interior room and not less than 25 square feet (2.3 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Aux fins de la détermination des exigences en matière d'éclairage et de ventilation, les pièces doivent être considérées comme faisant partie d'une pièce attenante lorsque la moitié au moins de la surface du mur commun est ouverte et non obstruée et offre une ouverture d'au moins un dixième de la surface de plancher de la pièce intérieure et d'au moins 25 pi2 (2,3 m2).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T024051Z">
+        <seg>Aux fins de déterminer les exigences relatives à l’éclairage et à la ventilation, les pièces doivent être considérées comme faisant partie d’une pièce adjacente lorsqu’au moins la moitié de la superficie du mur commun est ouverte et libre de toute obstruction et comporte une ouverture d’une superficie d’au moins un dixième de la superficie de plancher de la pièce intérieure et d’au moins 25 pi2 (2,3 m2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37629,13 +37623,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Openings required for light or ventilation shall be permitted to open into a sunroom with thermal isolation or a patio cover, provided that there is an openable area between the adjoining room and the sunroom or patio cover of not less than one-tenth of the floor area of the interior room and not less than 20 square feet (2 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures requises pour la lumière ou la ventilation peuvent s'ouvrir dans un solarium avec isolation thermique ou une terrasse couverte, à condition qu'il y ait une zone ouvrable entre la pièce adjacente et le solarium ou la terrasse couverte d'au moins un dixième de la surface de plancher de la pièce intérieure et d'au moins 20 pi2 [2 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T024132Z">
+        <seg>Les ouvertures requises pour l’éclairage ou la ventilation peuvent donner sur une véranda avec isolation thermique ou sur une couverture de terrasse, pourvu qu’une superficie ouvrante entre la pièce adjacente et la véranda ou la couverture de terrasse soit d’au moins un dixième de la superficie de plancher de la pièce intérieure et d’au moins 20 pi2 (2 m2).</seg>
       </tuv>
     </tu>
     <tu>
