@@ -1931,13 +1931,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Bottom-hinged appliance doors, when in the open position, shall not be required to comply with Section 309.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2. Les portes d'appareils&lt;x1/&gt; à charnières inférieures, lorsqu'elles sont en position ouverte, ne sont pas tenues de se conformer à la section 309.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T133941Z">
+        <seg>2. Les portes d'appareils&lt;x1/&gt; à charnières inférieures, lorsqu'elles sont en position ouverte, ne sont pas tenus de respecter les exigences de la section 309.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2024,13 +2023,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.88: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Existing elevators shall not be required to comply with Section 407.2.2.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Les ascenseurs existants ne sont pas tenus de se conformer à la section 407.2.2.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T134211Z">
+        <seg>2.&lt;x1/&gt; Les ascenseurs existants ne sont pas tenus de respecter les exigences de la section 407.2.2.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16183,13 +16181,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.815: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;ASSEMBLY AREAS&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;ZONES DE RASSEMBLEMENT&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T134036Z">
+        <seg>&lt;g1&gt;ZONES D'ASSEMBLÉE&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -47172,13 +47169,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.774: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Wheelchair spaces and wheelchair space locations in assembly areas with spectator seating shall comply with Section 802.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les espaces pour fauteuils roulants et l'emplacement des espaces pour fauteuils roulants dans les aires de rassemblement avec des sièges pour spectateurs doivent être conformes à la section 802.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T134059Z">
+        <seg>Les espaces réservés aux fauteuils roulants et leur emplacement dans les aires d’assemblée comportant des sièges pour spectateurs doivent être conformes à la section 802.</seg>
       </tuv>
     </tu>
     <tu>
