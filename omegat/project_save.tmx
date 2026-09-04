@@ -731,13 +731,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.799: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;For other than fire service access elevators and occupant evacuation elevators, where machine rooms, machinery spaces, control rooms and control spaces do not abut and do not have openings to the hoistway enclosure they serve, the fire barriers constructed in accordance with Section 707 or horizontal assemblies constructed in accordance with Section 711, or both, shall be permitted to be reduced to a 1-hour fire-resistance rating.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Pour les ascenseurs autres que les ascenseurs d'accès pour les services d'incendie et les ascenseurs d'évacuation des occupants, lorsque les salles des machines, les locaux des machines, les salles de commande et les locaux de commande ne sont pas adjacents et n'ont pas d'ouvertures sur le puits encloisonné qu'ils desservent, les barrières coupe-feu construites selon la section 707 ou les ensembles horizontaux construits selon la section 711, ou les deux, peuvent être réduits à un degré de résistance au feu d'une (1) heure.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T023451Z">
+        <seg>1.&lt;x1/&gt; Pour les ascenseurs autres que les ascenseurs destinés à l’accès du service d’incendie et les ascenseurs destinés à l’évacuation des occupants, lorsque les locaux des machines, les locaux de machinerie, les locaux de commande et les espaces de commande ne sont pas attenants à l’enceinte du puits qu’ils desservent et ne comportent pas d’ouvertures donnant sur celle-ci, les séparations coupe-feu construites conformément à la section 707 ou les ensembles horizontaux construits conformément à la section 711, ou les deux, peuvent avoir un degré de résistance au feu réduit à 1 heure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15197,13 +15196,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.85: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;3005.4 Machine rooms, control rooms, machinery spaces, and control spaces.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;3005.4 Salles des machines, salles de commande, locaux des machines et espaces de commande.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T022240Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;3005.4 Salles des machines, salles de commande, locaux de machinerie et espaces de commande.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23030,13 +23028,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.783: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;The elevator machine room, control rooms or control space with openings into a pressurized elevator hoistway shall be pressurized upon activation of a heat or smoke detector located in the elevator machine room, control room or control space.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;La salle des machines de l'ascenseur, les salles de commande ou l'espace de commande avec des ouvertures dans une cage d'ascenseur pressurisée doivent être pressurisés lors de l'activation d'un détecteur de chaleur ou de fumée situé dans la salle des machines de l'ascenseur, la salle de commande ou l'espace de commande.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T022051Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Le local des machines d’ascenseur, les locaux ou espaces de commande comportant des ouvertures donnant sur un puits d’ascenseur pressurisé doivent être mis sous pression dès l’activation d’un détecteur de chaleur ou de fumée situé dans le local des machines d’ascenseur, le local de commande ou l’espace de commande.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23392,23 +23389,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Elevator machine rooms, control rooms, control spaces and machinery spaces outside of but attached to a hoistway that have openings into the hoistway shall be enclosed with fire barriers constructed in accordance with Section 707 or horizontal assemblies constructed in accordance with Section 711, or both.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Les salles des machines d'ascenseur, les salles de commande, les espaces de commande et les locaux de machines à l'extérieur d'une cage d'ascenseur, mais attenants à celle-ci, qui ont des ouvertures donnant sur la cage d'ascenseur, doivent être encloisonnés par des barrières coupe-feu construites selon la section 707 ou par des ensembles horizontaux construits selon la section 711, ou les deux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T022200Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Les locaux des machines d’ascenseur, les locaux de commande, les espaces de commande et les locaux de machinerie situés à l’extérieur d’un puits mais qui y sont attenants et qui comportent des ouvertures donnant sur le puits doivent être encloisonnés par des séparations coupe-feu construites conformément à la section 707 ou par des ensembles horizontaux construits conformément à la section 711, ou par les deux.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.812: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Elevator machine rooms, machinery spaces that contain the driving machine, and control rooms or spaces that contain the operation or motion controller for elevator operation shall be provided with an independent ventilation or air-conditioning system to protect against the overheating of the electrical equipment.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Les salles des machines d'ascenseur, les locaux des machines qui contiennent la machine d'entraînement et les salles de commande ou les locaux qui contiennent le contrôleur de fonctionnement ou de mouvement pour le fonctionnement de l'ascenseur doivent être équipés d'un système indépendant de ventilation ou de climatisation pour protéger l'équipement électrique contre la surchauffe.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T022013Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Les locaux des machines d’ascenseur, les locaux de machinerie qui abritent la machine d’entraînement et les locaux ou espaces de commande qui abritent le contrôleur de fonctionnement ou de mouvement des ascenseurs doivent être pourvus d’un système indépendant de ventilation ou de climatisation afin de protéger l’équipement électrique contre la surchauffe.</seg>
       </tuv>
     </tu>
     <tu>
