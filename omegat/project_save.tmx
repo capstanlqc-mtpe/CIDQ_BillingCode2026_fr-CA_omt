@@ -12262,33 +12262,30 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.866: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;505.10.1 Top and bottom extension at ramps.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;505.10.1 Prolongement supérieur et inférieur au niveau des rampes.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142406Z">
+        <seg>&lt;g1&gt;505.10.1 Prolongement supérieur et inférieur au niveau des mains courantes.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.864: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;505.10.2 Top extension at stairs.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;505.10.2 Rallonge supérieure dans les escaliers.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142606Z">
+        <seg>&lt;g1&gt;505.10.2 Prolongement supérieur aux escaliers.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.873: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;505.10.3 Bottom extension at stairs.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;505.10.3 Rallonge inférieure dans les escaliers.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142709Z">
+        <seg>&lt;g1&gt;505.10.3 Prolongement inférieur aux escaliers.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27241,23 +27238,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At the bottom of a stair flight, handrails shall extend at the slope of the stair flight for a horizontal distance equal to one tread depth beyond the bottom tread nosing.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Au bas d'une volée d'escalier, les rampes doivent se prolonger selon la pente de la volée d'escalier sur une distance horizontale égale à la profondeur d'un giron au-delà du nez de la marche inférieure.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142716Z">
+        <seg>Au bas d’une volée d’escalier, les mains courantes doivent se prolonger selon la pente de la volée d’escalier sur une distance horizontale correspondant à une profondeur de marche au-delà du nez de la marche inférieure.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.814: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At the top of a stair flight, handrails shall extend horizontally above the landing for 12 inches (305 mm) minimum beginning directly above the landing nosing.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Au sommet d'une volée d'escalier, les rampes doivent s'étendre horizontalement au-dessus du palier sur au moins 12 po [305 mm] en commençant directement au-dessus du nez de marche du palier.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142613Z">
+        <seg> Au sommet d’une volée d’escalier, les mains courantes doivent se prolonger horizontalement au-dessus du palier sur au moins 12 po (305 mm), à partir directement du nez de marche du palier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29272,13 +29267,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.777: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Continuous handrails at the inside turn of stairs and ramps.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Rampes continues au virage intérieur des escaliers et des rampes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142455Z">
+        <seg>Mains courantes continues dans la courbe intérieure des escaliers et des rampes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31504,23 +31498,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.768: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Extensions shall return to a wall, guard, or floor, or shall be continuous to the handrail of an adjacent ramp run.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les prolongements doivent retourner à un mur, à un garde-corps ou au plancher, ou ils doivent être un prolongement de la rampe d'une rampe adjacente.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142550Z">
+        <seg>Les prolongements doivent revenir jusqu’à un mur, un garde-corps ou le plancher, ou être continus jusqu’à la main courante d’un tronçon de rampe adjacent.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Extensions shall return to a wall, guard, or the landing surface, or shall be continuous to the handrail of an adjacent stair flight.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les prolongements doivent retourner à un mur, à un garde-corps ou à la surface du palier, ou ils doivent être continus avec la rampe d'une volée d'escalier adjacente.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142658Z">
+        <seg>Les prolongements doivent revenir jusqu’à un mur, un garde-corps ou la surface du palier, ou être continus jusqu’à la main courante d’une volée d’escalier adjacente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33346,13 +33338,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.74: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Handrail extensions shall not be required in aisles serving seating where the handrails are discontinuous to provide access to seating and to permit cross-overs within the aisle.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des prolongements de rampes ne sont pas exigés dans les allées desservant des SIÈGES où les rampes sont discontinues pour permettre l'accès aux SIÈGES et pour permettre les passages dans l'allée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142505Z">
+        <seg>Les prolongements des mains courantes ne sont pas exigés dans les allées desservant des sièges lorsque les mains courantes sont interrompues pour permettre l’accès aux sièges et les traversées dans l’allée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34562,13 +34553,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In alterations, full extensions of handrails shall not be required where such extensions would be hazardous due to plan configuration.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>En cas de modifications, le prolongement complet des rampes n'est pas exigé lorsque ce prolongement serait dangereux en raison de la configuration de la vue en plan.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142513Z">
+        <seg>Dans les travaux de transformation, les prolongements complets des mains courantes ne sont pas exigés lorsque de tels prolongements présenteraient un danger en raison de la configuration du plan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38439,13 +38429,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.798: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Ramp handrails shall extend horizontally above the landing 12 inches (305 mm) minimum beyond the top and bottom of ramp runs.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes doivent s'étendre horizontalement au-dessus du palier à au moins 12 po [305 mm] au-delà du haut et du bas des rampes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142541Z">
+        <seg>Les mains courantes des rampes doivent se prolonger horizontalement au-dessus du palier d’au moins 12 po (305 mm) au-delà des extrémités supérieure et inférieure des tronçons de rampes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48367,13 +48356,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.812: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where operable windows are required to provide natural ventilation or operable windows are required to provide an emergency escape and rescue opening, that window shall be the operable window that complies with Section 506.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des fenêtres ouvrantes sont requises pour assurer une ventilation naturelle ou que des fenêtres ouvrantes sont requises pour fournir une ouverture d'évacuation et de sauvetage d'urgence, cette fenêtre doit être la fenêtre ouvrante qui se conforme à la section 506.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142854Z">
+        <seg>Lorsque des fenêtres ouvrantes sont exigées pour assurer la ventilation naturelle ou pour servir d’ouverture d’évacuation et de sauvetage d’urgence, cette fenêtre doit être la fenêtre ouvrante conforme à la section 506.</seg>
       </tuv>
     </tu>
     <tu>
