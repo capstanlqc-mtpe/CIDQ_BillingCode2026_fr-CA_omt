@@ -24673,13 +24673,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.81: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A single wheelchair space shall be 36 inches (915 mm) minimum in width.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un espace pour fauteuil roulant unique doit avoir une largeur minimale de 36 po [915 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T184141Z">
+        <seg>Un espace pour fauteuil roulant unique doit avoir une largeur minimale de 36 po (915 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42546,13 +42545,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The floor surface of wheelchair space locations shall have a slope not steeper than 1:48 and shall comply with Section 302.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La surface de plancher des emplacements pour fauteuils roulants doit présenter une pente d'au plus 1:48 et se conformer à la section 302.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T184131Z">
+        <seg>La surface de plancher des emplacements pour fauteuils roulants doit présenter une pente d'au plus 1:48 et être conforme à la section 302.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49156,13 +49154,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.81: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where two adjacent wheelchair spaces are provided, each wheelchair space shall be 33 inches (840 mm) minimum in width.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque deux espaces adjacents pour fauteuils roulants sont prévus, chaque espace pour fauteuil roulant doit avoir une largeur minimale de 33 po [840 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T184150Z">
+        <seg>Lorsque deux espaces adjacents pour fauteuils roulants sont prévus, chaque espace pour fauteuil roulant doit avoir une largeur minimale de 33 po (840 mm).</seg>
       </tuv>
     </tu>
     <tu>
