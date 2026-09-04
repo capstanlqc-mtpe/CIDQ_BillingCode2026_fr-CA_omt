@@ -22915,13 +22915,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.872: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Power-operated conveyors, belts and other material-moving devices shall be equipped with automatic limit switches that will shut off the power in an emergency and automatically stop all operation of the device.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les convoyeurs, courroies et autres dispositifs de déplacement de matériaux à commande électrique doivent être équipés d'interrupteurs de fin de course automatiques qui couperont l'alimentation en cas d'urgence et arrêteront automatiquement tout fonctionnement du dispositif.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T015953Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les convoyeurs motorisés, les courroies et autres dispositifs de manutention des matériaux doivent être munis de fins de course automatiques qui coupent l’alimentation en cas d’urgence et arrêtent automatiquement tout fonctionnement du dispositif.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25757,13 +25756,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.859: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Additionally, the design of personnel hoists shall include provisions for field testing and maintenance that will demonstrate that the hoist device functions in accordance with the design.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>De plus, la conception des monte-personnes doit inclure des dispositions pour les essais sur le terrain et l'entretien qui démontreront que le dispositif de levage fonctionne conformément à la conception.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T020712Z">
+        <seg>De plus, la conception des monte-personnes doit prévoir des dispositions permettant d’effectuer des essais sur place et l’entretien afin de démontrer que l’appareil de levage fonctionne conformément à la conception.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38272,13 +38270,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.855: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Personnel and material hoists shall be designed utilizing an approved method that accounts for the conditions imposed during the intended operation of the hoist device.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les monte-personnes et les monte-matériaux doivent être conçus selon une méthode approuvée qui tient compte des conditions imposées pendant le fonctionnement prévu du dispositif de levage.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T020604Z">
+        <seg>Les monte-personnes et les monte-matériaux doivent être conçus selon une méthode approuvée qui tient compte des conditions imposées pendant le fonctionnement prévu de l’appareil de levage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42579,23 +42576,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.857: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The design shall account for the construction, installation, operation and inspection of the hoist tower, car, machinery and control equipment, guide members and hoisting mechanism.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La conception doit tenir compte de la construction, de l'installation, du fonctionnement et de l'inspection de la tour de levage, de la cabine, de la machinerie et de l'équipement de commande, des éléments de guidage et du mécanisme de levage.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T020643Z">
+        <seg>La conception doit tenir compte de la construction, de l’installation, du fonctionnement et de l’inspection de la tour de levage, de la cabine, de la machinerie et de l’équipement de commande, des éléments de guidage et du mécanisme de levage.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.861: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The design shall include, but is not limited to, anticipated loads, structural stability, impact, vibration, stresses and seismic restraint.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La conception doit inclure, sans s'y limiter, les charges prévues, la stabilité structurelle, les impacts, les vibrations, les contraintes et la résistance sismique.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T020632Z">
+        <seg>La conception doit tenir compte des charges prévues, de la stabilité structurale, des impacts, des vibrations, des contraintes et des dispositifs de retenue parasismiques.</seg>
       </tuv>
     </tu>
     <tu>
