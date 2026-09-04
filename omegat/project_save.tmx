@@ -5642,13 +5642,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.773: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;E3902.10 Kitchen &lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;dishwasher branch circuit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;E3902.10 Circuit de &lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;dérivation du lave-vaisselle de la CUISINE.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T052139Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;E3902.10 Circuit de &lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;dérivation du lave-vaisselle de la cuisine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14692,13 +14691,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.783: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;g2&gt;E3902.6 Kitchen receptacles&lt;/g2&gt;&lt;x4/&gt;.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;g2&gt;E3902.6 Prises de CUISINE&lt;/g2&gt;&lt;x4/&gt;.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T052050Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;E3902.6 Prises de cuisine&lt;/g2&gt;&lt;x4/&gt;.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15924,13 +15922,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;E3901.12 HVAC outlet.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;E3901.12 Prise CVC.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051854Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;E3901.12 Prise de courant pour les équipements de CVCA.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16014,13 +16011,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.888: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;E3901.8 Laundry areas.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;E3901.8 Buanderies.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051748Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;E3901.8 Aires de buanderie.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22643,13 +22639,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.836: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Foyers that are not part of a hallway in accordance with Section E3901.10 and that have an area that is greater than 60 square feet (5.57 m2) shall have a&lt;/g2&gt;&lt;x4/&gt;receptacle(s) located in each wall space that is 3 feet (914 mm) or more in width.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les foyers qui ne font pas partie d'un couloir selon la section E3901.10 et qui ont une superficie supérieure à 60 pi2 [5,57 m2] doivent avoir une ou plusieurs&lt;/g2&gt;&lt;x4/&gt; prises situées dans chaque espace mural d'une largeur de 3 pi [914 mm] ou plus.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051825Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les foyers qui ne font pas partie d'un couloir selon la section E3901.10 et qui ont une superficie supérieure à 60 pi2 (5,57 m2) doivent avoir une ou plusieurs&lt;/g2&gt;&lt;x4/&gt; prises situées dans chaque espace mural d'une largeur de 3 pi (914 mm) ou plus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22766,13 +22761,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Not less than one receptacle outlet shall be installed in areas designated for the installation of laundry equipment.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Au moins une prise de courant doit être installée dans les zones désignées pour l'installation d'équipement de buanderie.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051737Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Au moins une prise de courant doit être installée dans les aires désignées pour l’installation d’équipement de buanderie.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23150,13 +23144,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.813: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;125-volt, single-phase, 15- and 20-ampere receptacles installed in bathrooms shall have ground-fault circuit-interrupter protection for personnel.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Les prises de 125 volts, monophasées, de 15 et 20 ampères installées dans les salles de bain doivent être munies d'un disjoncteur de fuite à la terre pour la protection du personnel.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T052018Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Les prises de 125 volts, monophasées, de 15 et 20 ampères installées les salles de bain doivent être munies d'un disjoncteur de fuite à la terre pour la protection du personnel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23200,13 +23193,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.86: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;A 125-volt, single-phase, 15- or 20- ampere-rated receptacle outlet shall be installed at an accessible location for the servicing of heating, air-conditioning and refrigeration equipment.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Une prise de courant monophasée de 125 volts, de 15 ou 20 ampères, doit être installée à un endroit accessible pour l'entretien de l'équipement de chauffage, de climatisation et de réfrigération.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051909Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Une prise de courant de 125 volts, monophasée, de 15 ou 20 ampères doit être installée à un endroit accessible pour l’entretien des équipements de chauffage, de climatisation et de réfrigération.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23420,13 +23412,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.85: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Hallways of 10 feet (3048 mm) or more in length shall have at least one receptacle outlet.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Les couloirs d'une longueur de 10 pi [3048 mm] ou plus doivent avoir au moins une prise de courant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051758Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Les couloirs d'une longueur de 10 pi (3048 mm) ou plus doivent avoir au moins une prise de courant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44400,13 +44391,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The receptacle outlet shall not be connected to the load side of the HVAC equipment disconnecting means.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La prise de courant ne doit pas être connectée au côté charge du dispositif de déconnexion de l'équipement de CVC.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051931Z">
+        <seg>La prise de courant ne doit pas être connectée au côté charge du dispositif de déconnexion de l'équipement de CVCA.</seg>
       </tuv>
     </tu>
     <tu>
