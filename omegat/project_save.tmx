@@ -11090,13 +11090,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.875: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;408.2.2 Hall signals.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;408.2.2 Signaux de hall.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061723Z">
+        <seg>&lt;g1&gt;408.2.2 Signaux d’appel à l’étage.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11230,13 +11229,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.885: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;408.4.4 Leveling.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;408.4.4 Mise à niveau.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062204Z">
+        <seg>&lt;g1&gt;408.4.4 Nivellement.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28008,13 +28006,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Car doors shall be positioned at the narrow end of cars with a single door and on cars with doors on opposite ends.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes de la cabine doivent être placées à l'extrémité étroite des cabines à porte unique et sur les cabines dont les portes sont situées aux extrémités opposées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061853Z">
+        <seg>Les portes de cabine doivent être situées à l’extrémité étroite des cabines munies d’une seule porte et des cabines munies de portes à des extrémités opposées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28027,13 +28024,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.799: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Car doors that provide a clear opening width of 36 inches (915 mm) minimum shall be permitted to be located on adjacent sides of cars that provide a clear floor area of 51 inches (1295 mm) in width and 51 inches (1295 mm) in depth.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes de cabine qui offrent une largeur d'ouverture libre minimale de 36 po [915 mm] peuvent être situées sur les côtés adjacents des cabines qui offrent une surface de plancher libre de 51 po [1295 mm] de largeur et de 51 po [1295 mm] de profondeur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062000Z">
+        <seg>Les portes de cabine offrant une largeur libre d’ouverture d’au moins 36 po (915 mm) peuvent être situées sur des côtés adjacents des cabines offrant une superficie de plancher libre de 51 po (1 295 mm) de largeur sur 51 po (1 295 mm) de profondeur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29928,23 +29924,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Doors located on the long side shall provide a clear opening width of 42 inches (1065 mm) minimum and be located as far as practicable from the door on the narrow end.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes situées sur le côté long doivent fournir une largeur d'ouverture libre minimale de 42 po [1065 mm] et être situées aussi loin que possible de la porte située sur l'extrémité étroite.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061939Z">
+        <seg>Les portes situées sur le côté long doivent fournir une largeur d'ouverture libre minimale de 42 po (1065 mm) et être situées aussi loin que possible de la porte située sur l'extrémité étroite.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Doors located on the narrow end of cars shall provide a clear opening width of 36 inches (915 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes situées à l'extrémité étroite des cabines doivent offrir une largeur d'ouverture libre minimale de 36 po [915 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061923Z">
+        <seg>Les portes situées à l'extrémité étroite des cabines doivent offrir une largeur d'ouverture libre minimale de 36 po (915 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29996,13 +29990,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Doors shall provide a clear opening width of 32 inches (815 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes doivent offrir une largeur d'ouverture libre minimale de 32 po [815 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061901Z">
+        <seg>Les portes doivent offrir une largeur d'ouverture libre minimale de 32 po (815 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30701,13 +30694,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Elevator cars shall provide a clear floor width of 42 inches (1065 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les cabines d'ascenseur doivent offrir une largeur de plancher libre minimale de 42 po [1065 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062014Z">
+        <seg>Les cabines d'ascenseur doivent offrir une largeur de plancher libre minimale de 42 po (1065 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32418,23 +32410,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>For installations in existing buildings, elevator cars that provide a clear floor area of 15 square feet (1.4 m2) minimum, and provide a clear inside dimension of 36 inches (915 mm) minimum in width and 54 inches (1370 mm) minimum in depth, shall be permitted.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les installations dans des bâtiments existants, les cabines d'ascenseur qui offrent une surface de plancher libre d'au moins 15 pi2 [1,4 m2] et des dimensions intérieures libres d'au moins 36 po [915 mm] en largeur et 54 po [1370 mm] en profondeur sont autorisées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062059Z">
+        <seg>Pour les installations dans des bâtiments existants, les cabines d’ascenseur offrant une superficie de plancher libre d’au moins 15 pi² (1,4 m²), ainsi qu’une dimension intérieure libre d’au moins 36 po (915 mm) de largeur et d’au moins 54 po (1 370 mm) de profondeur, sont autorisées.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>For installations in existing buildings, elevator cars that provide a clear width of 51 inches (1295 mm) minimum, a clear depth of 51 inches (1295 mm) minimum and car doors providing a clear opening 36 inches (915 mm) wide minimum shall be permitted.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les installations dans des bâtiments existants, les cabines d'ascenseur qui offrent une largeur libre d'au moins 51 po [1295 mm], une profondeur libre d'au moins 51 po [1295 mm] et des portes de cabine offrant une ouverture libre d'au moins 36 po [915 mm] de largeur sont autorisées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062107Z">
+        <seg>Pour les installations dans des bâtiments existants, les cabines d’ascenseur offrant une largeur libre d’au moins 51 po (1 295 mm) et une profondeur libre d’au moins 51 po (1 295 mm), et dont les portes offrent une largeur libre d’ouverture d’au moins 36 po (915 mm), sont autorisées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41864,13 +41854,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.87: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The clear floor area shall not be less than 15.75 square feet (1.46 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La surface de plancher libre ne doit pas être inférieure à 15,75 pi2 [1,46 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062025Z">
+        <seg>La surface de plancher libre ne doit pas être inférieure à 15,75 pi2 (1,46 m2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42006,13 +41995,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The clearance between the car platform sill and the edge of any hoistway landing shall comply with ASME A17.1/CSA B44 listed in Section 106.2.8.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le dégagement entre le seuil de la plateforme de la cabine et le bord de tout palier de la gaine doit être conforme à la norme ASME A17.1/CSA B44 indiquée à la section 106.2.8.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062131Z">
+        <seg>L’espace libre entre le seuil de la plateforme de la cabine et le bord de tout palier de puits doit être conforme à la norme ASME A17.1/CSA B44 mentionnée à la section 106.2.8.</seg>
       </tuv>
     </tu>
     <tu>
