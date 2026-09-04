@@ -23678,13 +23678,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.758: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A 10-foot-candle (108 lux) minimum illumination during conditions of stair use</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un éclairage minimum de 10 pieds-bougies [108 lux] pendant les conditions d'utilisation de l'escalier</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T140514Z">
+        <seg>Un éclairage minimum de 10 pieds-bougies (108 lux) pendant les conditions d'utilisation de l'escalier</seg>
       </tuv>
     </tu>
     <tu>
@@ -30113,13 +30112,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Durable distinctive warning markings required by the adopted building code or ANSI safety standard.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Marquages d'avertissement distinctifs durables requis par le code du bâtiment adopté ou la norme de sécurité ANSI.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T140356Z">
+        <seg>Des marquages d’avertissement distinctifs et durables sont exigés par le code du bâtiment adopté ou une norme de sécurité ANSI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33891,13 +33889,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.821: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>If provided, occupancy-sensing automatic controls shall activate the stairway lighting so the illuminance level required by Section 504.9.1 is provided on the entrance landing, each stair flight adjacent to the entrance landing, and on the landings above and below the entrance landing prior to any step being used.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>S'ils sont prévus, les commandes automatiques à détection de présence doivent activer l'éclairage de l'escalier de sorte que le niveau d'éclairement exigé à l'article 504.9.1 soit fourni sur le palier d'entrée, sur chaque volée d'escalier adjacente au palier d'entrée et sur les paliers au-dessus et au-dessous du palier d'entrée avant l'utilisation de toute marche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T141205Z">
+        <seg>Lorsqu’ils sont prévus, les dispositifs de commande automatiques à détection de présence doivent activer l’éclairage des escaliers de manière à ce que le niveau d’éclairement exigé à la section 504.9.1 soit assuré sur le palier d’entrée, sur chaque volée d’escalier adjacente au palier d’entrée ainsi que sur les paliers situés au-dessus et au-dessous du palier d’entrée, avant que toute marche soit utilisée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36155,13 +36152,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.807: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Lighting facilities shall be capable of providing illuminance of stairs measured at the center of tread surfaces and on landing surfaces within 24 inches (610 mm) of step nosings as follows:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les installations d'éclairage doivent être capables de fournir un éclairement des escaliers, mesuré au centre des surfaces des marches et sur les surfaces des paliers à moins de 24 po [610 mm] des nez de marche, comme suit :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T140526Z">
+        <seg>Les installations d’éclairage doivent être capables de fournir les niveaux d’éclairement suivants dans les escaliers, mesurés au centre de la surface des marches et sur les surfaces des paliers situées à moins de 24 po (610 mm) des nez de marche :</seg>
       </tuv>
     </tu>
     <tu>
@@ -40468,13 +40464,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.86: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Stairs shall have handrails complying with Section 505.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les escaliers doivent avoir des rampes conformes à la section 505.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T140410Z">
+        <seg>Les escaliers doivent avoir des mains courantes conformes à la section 505.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45139,13 +45134,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The transition from 1 foot candle (10.8 lux) to 10 foot candle (108 lux) under conditions of stair use shall be permitted to be achieved by automatic, motion sensor-type lighting switches provided the switch controllers comply with all of the following:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La transition de 1 pied-bougie [10,8 lux] à 10 pieds-bougies [108 lux] dans des conditions d'utilisation de l'escalier peut être réalisée par des interrupteurs d'éclairage automatiques de type détecteur de mouvement, à condition que les commandes d'interrupteur soient conformes à toutes les conditions suivantes :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T140541Z">
+        <seg> La transition de 1 pied-bougie (10,8 lux) à 10 pieds-bougies (108 lux) dans les conditions d’utilisation de l’escalier peut être réalisée au moyen d’interrupteurs d’éclairage automatiques de type à détecteur de mouvement, pourvu que les dispositifs de commande des interrupteurs respectent toutes les exigences suivantes :</seg>
       </tuv>
     </tu>
     <tu>
