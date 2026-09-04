@@ -1655,8 +1655,8 @@
       <tuv lang="en">
         <seg>2 inches (51 mm), plus &lt;g1&gt;1&lt;/g1&gt;/8 inch (3.2 mm) per foot (305 mm) of viewing distance above 15 feet (4570 mm)</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174631Z">
-        <seg>2 po (51 mm), plus &lt;g1&gt;1&lt;/g1&gt;  &lt;g1&gt;/8&lt;/g1&gt; po (3,2 mm) par pied (305 mm) de distance de visualisation au-delà de 15 pi (4 570 mm)</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174732Z">
+        <seg>2 po (51 mm), plu s&lt;g1&gt;1&lt;/g1&gt;/8 po (3,2 mm) par pied (305 mm) de distance de visualisation au-delà de 15 pi (4 570 mm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2706,13 +2706,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.879: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>21 feet (6400 mm) and greater</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>21 pi [6400 mm] et plus</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174814Z">
+        <seg>Égale ou supérieure à 21 pi (6400 mm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2823,13 +2822,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3 inches (75 mm), plus &lt;g1&gt;1&lt;/g1&gt;/8 inch (3.2 mm) per foot (305 mm) of viewing distance above 21 feet (6400 mm)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3 po [75 mm], plus &lt;g1&gt;1/8&lt;/g1&gt; po [3,2 mm] par pied [305 mm] de distance de visualisation au-delà de 21 pi [6400 mm]</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174856Z">
+        <seg>3 po (75 mm), plus  &lt;g1&gt;1&lt;/g1&gt;/8 po (3,2 mm) par pied (305 mm) de distance de visualisation au-delà de 21 pi (6 400 mm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32979,13 +32977,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Greater than 120 inches (3050 mm)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Plus de 120 po [3050 mm]</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174746Z">
+        <seg>Supérieure à 120 po (3050 mm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34499,13 +34496,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.795: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In assembly seating where the maximum viewing distance is 100 feet (30.5 m) or greater, the height of the uppercase “I” of fonts shall be permitted to be 1 inch (25 mm) for every 30 feet (9145 mm) of viewing distance, provided the character height is 8 inches (205 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les SIÈGES d'assemblée où la distance de visualisation maximale est de 100 pi [30,5 m] ou plus, la hauteur du « I » majuscule des polices peut être de 1 po [25 mm] pour chaque 30 pi [9145 mm] de distance de visualisation, à condition que la hauteur des caractères soit d'au moins 8 po [205 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174923Z">
+        <seg>Dans les aires de sièges d’assemblée où la distance de visualisation maximale est d’au moins 100 pi (30,5 m), la hauteur de la lettre majuscule « I » des polices peut être de 1 po (25 mm) pour chaque tranche de 30 pi (9 145 mm) de distance de visualisation, pourvu que la hauteur des caractères soit d’au moins 8 po (205 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35861,13 +35857,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.865: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Less than 21 feet (6400 mm)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Moins de 21 pi [6400 mm]</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174757Z">
+        <seg>Inférieure à 21 pi (6400 mm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40043,13 +40038,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Spacing shall be measured between the two closest points of adjacent characters within a message, excluding word spaces.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'espacement doit être mesuré entre les deux points les plus proches de caractères adjacents dans un message, à l'exclusion des espaces entre les mots.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T175329Z">
+        <seg>L’espacement doit être mesuré entre les deux points les plus rapprochés des caractères adjacents dans un message, à l’exclusion des espaces entre les mots.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46615,13 +46609,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Viewing distance shall be measured as the horizontal distance between the character and where someone is expected to view the sign.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La distance de visualisation doit être mesurée comme la distance horizontale entre le caractère et l'endroit où une personne est censée voir l'enseigne.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174929Z">
+        <seg>La distance de visualisation doit être mesurée comme étant la distance horizontale entre le caractère et l’endroit où une personne est censée regarder le panneau.</seg>
       </tuv>
     </tu>
     <tu>
