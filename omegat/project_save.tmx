@@ -23736,13 +23736,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.811: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A clear floor space, positioned for a parallel or forward approach to the dishwasher, shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir une surface de plancher dégagée, positionnée pour une approche parallèle ou par l'avant du lave-vaisselle.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T213212Z">
+        <seg>Une surface de plancher dégagée, positionnée pour une approche parallèle ou de face du lave-vaisselle doit être prévue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38367,13 +38366,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.811: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Receptacle outlets serving a dedicated use.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Prises de courant desservant un usage dédié.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T213333Z">
+        <seg>Prises de courant servant à un usage dédié.</seg>
       </tuv>
     </tu>
     <tu>
