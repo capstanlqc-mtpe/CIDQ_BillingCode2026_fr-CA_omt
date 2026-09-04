@@ -12194,13 +12194,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.896: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;504.7 &lt;x2/&gt;Handrails.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;504.7 &lt;x2/&gt;Rampes.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T140310Z">
+        <seg>&lt;g1&gt;504.7 &lt;x2/&gt;Mains courantes.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22779,13 +22778,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Platform lifts with doors on adjacent sides shall provide a clear floor width of 42 inches (1065 mm) minimum and a clear floor depth of 60 inches (1525 mm) minimum.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les plates-formes élévatrices avec des portes sur les côtés adjacents doivent offrir une largeur libre au sol d'au moins 42 po [1065 mm] et une profondeur libre au sol d'au moins 60 po [1525 mm].&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T140018Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les élévateurs de plateforme munis de portes sur des côtés adjacents doivent avoir une largeur libre de plancher d’au moins 42 po (1 065 mm) et une profondeur libre de plancher d’au moins 60 po (1 525 mm).&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29346,13 +29344,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.862: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Controls for platform lifts shall comply with Section 309.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les commandes des plates-formes élévatrices doivent être conformes à la section 309.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T140036Z">
+        <seg>Les commandes des platesformes élévatrices doivent être conformes à la section 309.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33852,13 +33849,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.855: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>If beveled, the bevel at the leading edge shall slope at 45 degrees to the plane of the top surface of the tread and landing and extend for a horizontal distance of 1/2 inch (13 mm) maximum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>S'il est biseauté, le biseau au bord avant doit être incliné à 45 degrés par rapport au plan de la surface supérieure de la marche et du palier et s'étendre sur une distance horizontale maximale de 1/2 po [13 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T140205Z">
+        <seg>S'il est biseauté, le biseau au bord avant doit être incliné à 45 degrés par rapport au plan de la surface supérieure de la marche et du palier et s'étendre sur une distance horizontale maximale de 1/2 po (13 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34873,13 +34869,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In existing buildings, platform lifts with doors on adjacent sides shall be permitted to provide a clear floor width of 36 inches (915 mm) and a clear floor depth of 60 inches (1525 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les bâtiments existants, les plates-formes élévatrices avec des portes sur les côtés adjacents peuvent offrir une largeur libre au sol de 36 po [915 mm] et une profondeur libre au sol de 60 po [1525 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T140029Z">
+        <seg> Dans les bâtiments existants, les élévateurs de plateforme munis de portes sur des côtés adjacents peuvent avoir une largeur libre de plancher de 36 po (915 mm) et une profondeur libre de plancher de 60 po (1 525 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39092,23 +39087,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.855: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Risers shall be 4 inches (100 mm) minimum and 7 inches (180 mm) maximum in height.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les contremarches doivent avoir une hauteur minimale de 4 po [100 mm] et une hauteur maximale de 7 po [180 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T140120Z">
+        <seg>Les contremarches doivent avoir une hauteur minimale de 4 po (100 mm) et une hauteur maximale de 7 po (180 mm).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Risers shall be permitted to slope under the tread at an angle of 30 degrees maximum from vertical.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les contremarches peuvent être inclinées sous la marche à un angle d'au plus 30 degrés par rapport à la verticale.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T140212Z">
+        <seg>Les contremarches peuvent être inclinées sous la marche à un angle maximal de 30 degrés par rapport à la verticale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42106,13 +42099,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The contrasting marking shall be durable and shall extend from one side of each tread to the other side of each tread.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le marquage contrastant doit être durable et s'étendre d'un côté à l'autre de chaque marche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T140347Z">
+        <seg>Le marquage contrastant doit être durable et s’étendre d’un côté à l’autre de chaque marche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43320,13 +43312,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The leading 1 to 2 inches (25 to 51 mm) of every tread and landing, measured horizontally from the leading edge of the nosing, shall consist of a solid color having visual contrast of dark-on-light or light-on-dark from the remainder of the tread.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les 1 à 2 po [25 à 51 mm] avant de chaque marche et de chaque palier, mesurés horizontalement à partir du bord avant du nez de marche, doivent être d'une couleur unie présentant un contraste visuel foncé sur clair ou clair sur foncé par rapport au reste de la marche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T140334Z">
+        <seg>Les 1 à 2 po (25 à 51 mm) de la partie avant de chaque marche et de chaque palier, mesurés horizontalement à partir du bord avant du nez de marche, doivent être d’une couleur unie présentant un contraste visuel clair-foncé ou foncé-clair avec le reste de la marche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43996,13 +43987,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The permitted projection of the nosing shall be 11/2 inches (38 mm) maximum over the tread or floor below.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La saillie autorisée du nez de marche doit être de 11/2 po (38 mm) maximum au-dessus de la marche ou du plancher en dessous.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T140235Z">
+        <seg>La saillie autorisée du nez de marche doit être d’au plus 1 1/2 po (38 mm) au-dessus de la marche ou du plancher situé au-dessous.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46308,13 +46298,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Treads shall be 11 inches (280 mm) minimum in depth.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La profondeur minimale des marches doit être de 11 po [280 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T140127Z">
+        <seg>La profondeur minimale des marches doit être de 11 po (280 mm).</seg>
       </tuv>
     </tu>
     <tu>
