@@ -17552,13 +17552,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;R1001.10 Hearth extension dimensions.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;R1001.10 Dimensions de l'extension de foyer.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045947Z">
+        <seg>&lt;g1&gt;R1001.10 Dimensions de l'extension de l’âtre.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17719,33 +17718,30 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.855: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;R1001.9 Hearth and hearth extension.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;R1001.9 Foyer et extension de foyer.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045905Z">
+        <seg>&lt;g1&gt;R1001.9 Âtre et extension de l’âtre.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.843: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;R1001.9.1 Hearth thickness.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;R1001.9.1 Épaisseur du foyer.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045900Z">
+        <seg>&lt;g1&gt;R1001.9.1 Épaisseur de l’âtre.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;R1001.9.2 Hearth extension thickness.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;R1001.9.2 Épaisseur de l'extension de foyer.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045918Z">
+        <seg>&lt;g1&gt;R1001.9.2 Épaisseur de l'extension de l’âtre.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33686,13 +33682,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Hearth extensions shall extend not less than 16 inches (406 mm) in front of and not less than 8 inches (203 mm) beyond each side of the fireplace opening.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les extensions de foyer doivent se prolonger d'au moins 16 po [406 mm] devant et d'au moins 8 po [203 mm] au-delà de chaque côté de l'ouverture du foyer.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050025Z">
+        <seg>Les extensions de l’âtre doivent s’étendre d’au moins 16 po (406 mm) à l’avant de l’ouverture du foyer et d’au moins 8 po (203 mm) au-delà de chaque côté de l’ouverture du foyer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36561,13 +36556,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.797: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Masonry fireplace hearths and hearth extensions shall be constructed of concrete or masonry, supported by noncombustible materials, and reinforced to carry their own weight and all imposed loads.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les foyers de foyer en maçonnerie et les extensions de foyer doivent être construits en béton ou en maçonnerie, soutenus par des matériaux non combustibles et renforcés pour supporter leur propre poids et toutes les charges imposées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045740Z">
+        <seg>Les âtres des foyers en maçonnerie et leurs extensions doivent être construits en béton ou en maçonnerie, être supportés par des matériaux incombustibles et être armés de manière à supporter leur propre poids ainsi que toutes les charges appliquées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41530,13 +41524,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The airspace shall not be filled, except to provide fireblocking in accordance with Section R1001.12.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'espace d'espace d'air ne doit pas être rempli, sauf pour assurer un coupe-feu selon la section R1001.12.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050207Z">
+        <seg>L’espace d’air ne doit pas être rempli, sauf pour assurer le coupe-feu conformément à la section R1001.12.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43842,23 +43835,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The minimum thickness of fireplace hearths shall be 4 inches (102 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'épaisseur minimale des foyers de foyer doit être de 4 pouces (102 mm).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045839Z">
+        <seg>L’épaisseur minimale des âtres de foyer doit être de 4 pouces (102 mm).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The minimum thickness of hearth extensions shall be 2 inches (51 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'épaisseur minimale des extensions de foyer est de 2 po [51 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045930Z">
+        <seg>L'épaisseur minimale des extensions de l’âtre est de 2 po (51 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49180,13 +49171,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.805: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the bottom of the firebox opening is raised not less than 8 inches (203 mm) above the top of the hearth extension, a hearth extension of not less than 3/8-inch-thick (10 mm) brick, concrete, stone, tile or other approved noncombustible material is permitted.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque le bas de l'ouverture de la chambre de combustion est surélevé d'au moins 8 po [203 mm] au-dessus du dessus de l'extension de foyer, une extension de foyer en brique, en béton, en pierre, en carreaux ou en tout autre matériau non combustible approuvé d'au moins 3/8 po [10 mm] d'épaisseur est autorisée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045956Z">
+        <seg>Lorsque le bas de l’ouverture du foyer est surélevé d’au moins 8 po (203 mm) au-dessus du dessus de l’extension de l’âtre, une extension de l’âtre constituée de briques, de béton, de pierre, de carreaux ou d’un autre matériau incombustible approuvé d’une épaisseur d’au moins 3/8 po (10 mm) est autorisée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49306,13 +49296,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.821: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the fireplace opening is 6 square feet (0.6 m2) or larger, the hearth extension shall extend not less than 20 inches (508 mm) in front of and not less than 12 inches (305 mm) beyond each side of the fireplace opening.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque l'ouverture du foyer est de 6 pi2 [0,6 m2] ou plus, le prolongement de foyer doit s'étendre sur au moins 20 po [508 mm] devant l'ouverture du foyer et sur au moins 12 po [305 mm] au-delà de chaque côté de l'ouverture du foyer.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050038Z">
+        <seg>Lorsque l’ouverture du foyer a une superficie d’au moins 6 pi2 (0,6 m2), l’extension de l’âtre doit s’étendre d’au moins 20 po (508 mm) à l’avant de l’ouverture du foyer et d’au moins 12 po (305 mm) au-delà de chaque côté de l’ouverture du foyer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49944,13 +49933,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Wood beams, joists, studs and other combustible material shall have a clearance of not less than 2 inches (51 mm) from the front faces and sides of masonry fireplaces and not less than 4 inches (102 mm) from the back faces of masonry fireplaces.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les poutres en bois, les solives, les montants et les autres matériaux combustibles doivent avoir un dégagement d'au moins 2 po [51 mm] par rapport aux faces avant et aux côtés des foyers en maçonnerie et d'au moins 4 po [102 mm] par rapport aux faces arrière des foyers en maçonnerie.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050143Z">
+        <seg>Les poutres, solives, montants et autres matériaux combustibles en bois doivent être éloignés d’au moins 2 po (51 mm) des faces avant et latérales des foyers en maçonnerie et d’au moins 4 po (102 mm) des faces arrière des foyers en maçonnerie.</seg>
       </tuv>
     </tu>
     <tu>
