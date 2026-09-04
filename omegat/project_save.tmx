@@ -1571,13 +1571,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.72: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>16″ fireplace opening &lt; 6 square feet.20″ fireplace opening ≥ 6 square feet.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ouverture de foyer de 16 po &amp;lt; 6 pi2. Ouverture de foyer de 20 po ≥ 6 pi2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T043255Z">
+        <seg>Ouverture de foyer de 16 po &lt; 6 pi2. Ouverture de foyer de 20 po ≥ 6 pi2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4586,13 +4585,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.717: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>8″ fireplace opening &lt; 6 square feet.12″ fireplace opening ≥ 6 square feet.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ouverture du foyer de 8 po &amp;lt; 6 pi2. Ouverture du foyer de 12 po ≥ 6 pi2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T043239Z">
+        <seg>Ouverture du foyer de 8 po &lt; 6 pi2. Ouverture du foyer de 12 po ≥ 6 pi2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10567,13 +10565,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.921: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;3&lt;/g1&gt;/&lt;g2&gt;16&lt;/g2&gt;″ ×1″</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;3&lt;/g1&gt;/&lt;g2&gt;16&lt;/g2&gt;″ ×1″</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T043657Z">
+        <seg>&lt;g1&gt;3&lt;/g1&gt;/&lt;g2&gt;16&lt;/g2&gt;po ×1 po</seg>
       </tuv>
     </tu>
     <tu>
@@ -28661,13 +28658,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.755: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>ChimneyVertical reinforcing&lt;g1&gt;b&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Cheminée Renforcement vertical&lt;g1&gt; b&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T043411Z">
+        <seg>CheminéeRenforcement vertical&lt;g1&gt; b&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29877,13 +29873,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.893: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Distance from top of opening to throat</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Distance entre le haut de l'ouverture et la gueule</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T043353Z">
+        <seg>Distance entre le dessus de l’ouverture et le collet</seg>
       </tuv>
     </tu>
     <tu>
@@ -32725,13 +32720,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Four No. 4 full-length bars for chimney up to 40″ wide.Add two No. 4 bars for each additional 40″ or fraction ofwidth or each additional flue.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Quatre barres n° 4 pleine longueur pour une cheminée d'une largeur maximale de 40 po. Ajoutez deux barres n° 4 pour chaque 40 po ou fraction de largeur supplémentaire ou pour chaque conduit supplémentaire.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T043432Z">
+        <seg>Quatre barres no 4 sur toute la longueur pour une cheminée d’une largeur maximale de 40 po. Ajouter deux barres no 4 pour chaque largeur supplémentaire de 40 po ou fraction de 40 po, ou pour chaque conduit de fumée supplémentaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33881,13 +33875,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Horizontal reinforcing</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Renfort horizontal</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T043457Z">
+        <seg>Renforcement horizontal</seg>
       </tuv>
     </tu>
     <tu>
@@ -37001,13 +36994,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.859: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>No specified requirements.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>No exigences spécifiées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T043516Z">
+        <seg>Aucune exigence spécifiée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39508,43 +39500,39 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.902: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>See Section R1001.11, Exception 4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Voir l'article R1001.11, exception 4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T043629Z">
+        <seg>Voir la section R1001.11, exception 4.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.908: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>See Sections R1001.11 and R1003.18.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Voir les articles R1001.11 et R1003.18.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T043601Z">
+        <seg>Voir les sections R1001.11 et R1003.18.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.901: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>See &lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;&lt;b4/&gt;Section R1003.13&lt;e1/&gt;&lt;e2/&gt;&lt;e4/&gt;&lt;e3/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Voir &lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;&lt;b4/&gt;l'article R1003.13&lt;e1/&gt;&lt;e2/&gt;&lt;e4/&gt;&lt;e3/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T043535Z">
+        <seg>Voir &lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;&lt;b4/&gt;la section R1003.13&lt;e1/&gt;&lt;e2/&gt;&lt;e4/&gt;&lt;e3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.897: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>See &lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;&lt;b4/&gt;Section R1003.15&lt;e1/&gt;&lt;e2/&gt;&lt;e4/&gt;&lt;e3/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Voir &lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;&lt;b4/&gt;l'article R1003.15&lt;e1/&gt;&lt;e2/&gt;&lt;e4/&gt;&lt;e3/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T043551Z">
+        <seg>Voir &lt;b1/&gt;&lt;b2/&gt;&lt;b3/&gt;&lt;b4/&gt;la section R1003.15&lt;e1/&gt;&lt;e2/&gt;&lt;e4/&gt;&lt;e3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
