@@ -10453,23 +10453,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.923: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;302.2&lt;x2/&gt;Carpet.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;302.2&lt;x2/&gt;Carpet.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T054839Z">
+        <seg>&lt;g1&gt;302.2&lt;x2/&gt;Tapis.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.925: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;302.3&lt;x2/&gt;Openings.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;302.3&lt;x2/&gt;Openings.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T054950Z">
+        <seg>&lt;g1&gt;302.3&lt;x2/&gt;Ouvertures.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15179,13 +15177,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.927: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;303.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;303.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055022Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;303.1&lt;x3/&gt;Generalités.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15199,23 +15196,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.919: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;303.3&lt;x3/&gt;Beveled.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;303.3&lt;x3/&gt;Beveled.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055143Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;303.3&lt;x3/&gt;Biseauté.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.922: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;303.4&lt;x3/&gt;Ramps.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;303.4&lt;x3/&gt;Ramps.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055201Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;303.4&lt;x3/&gt;Rampes.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22447,23 +22442,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.851: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Changes in level greater than 1/2 inch (13 mm) in height shall be ramped and shall comply with Section 405 or 406.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les changements de niveau d'une hauteur supérieure à 1/2 po [13 mm] doivent être en rampe et se conformer à la section 405 ou 406.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055219Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les changements de niveau d'une hauteur supérieure à 1/2 po (13 mm) doivent être en rampe et être conformes à la section 405 ou 406.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Changes in level greater than 1/4 inch (6.4 mm) in height and not more than 1/2 inch (13 mm) maximum in height shall be beveled with a slope not steeper than 1:2.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les changements de niveau supérieurs à 1/4 po [6,4 mm] de hauteur et ne dépassant pas 1/2 po [13 mm] de hauteur maximale doivent être biseautés avec une pente d'au plus 1:2.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055156Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les changements de niveau supérieurs à 1/4 po (6,4 mm) de hauteur et ne dépassant pas 1/2 po (13 mm)  de hauteur maximale doivent être biseautés avec une pente maximale de 1:2.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22476,13 +22469,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.806: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Changes in level of 1/4 inch (6.4 mm) maximum in height shall be permitted to be vertical.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les changements de niveau d'une hauteur maximale de 1/4 po [6,4 mm] peuvent être verticaux.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055113Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les changements de niveau d'une hauteur maximale de 1/4 po (6,4 mm) peuvent être verticaux.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28409,23 +28401,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Carpet or carpet tile shall be securely attached and shall have a firm cushion, pad, or backing or no cushion or pad.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le tapis ou la dalle de moquette doit être solidement fixé et doit avoir un coussin, un rembourrage ou un support ferme, ou ne pas avoir de coussin ou de rembourrage.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T054901Z">
+        <seg>Les tapis ou carreaux de tapis doivent être solidement fixés et comporter une sous-couche, un coussin ou un support ferme, ou ne comporter aucune sous-couche ni aucun coussin.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.773: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Carpet or carpet tile shall have a level loop, textured loop, level cut pile, or level cut/uncut pile texture.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le tapis ou la dalle de moquette doit avoir une boucle plate, une boucle texturée, un poil coupé plat ou une texture de poil coupé plat/non coupé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T054908Z">
+        <seg>Les tapis ou carreaux de tapis doivent avoir une texture à boucles de niveau, à boucles texturées, à velours coupé de niveau ou à velours coupé/non coupé de niveau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31556,13 +31546,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exposed edges of carpet shall be fastened to the floor and shall have trim along the entire length of the exposed edge.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les bords exposés du tapis doivent être fixés au sol et doivent être garnis sur toute la longueur du bord exposé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T054939Z">
+        <seg>Les bords exposés des tapis doivent être fixés au plancher et comporter une garniture sur toute la longueur du bord exposé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37391,13 +37380,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.874: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Openings in floor surfaces shall be of a size that does not permit the passage of a 1/2 inch (13 mm) diameter sphere, except as allowed in Sections 407.4.3, 408.4.3, 409.4.3, 410.4, and 805.10.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures dans les surfaces de plancher doivent être d'une taille qui ne permet pas le passage d'une sphère de 1/2 po [13 mm] de diamètre, sauf dans les cas autorisés aux sections 407.4.3, 408.4.3, 409.4.3, 410.4 et 805.10.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055008Z">
+        <seg>Les ouvertures dans les surfaces de plancher doivent avoir une dimension qui ne permet pas le passage d’une sphère de 1/2 po (13 mm) de diamètre, sauf dans les cas permis aux sections 407.4.3, 408.4.3, 409.4.3, 410.4 et 805.10.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44120,13 +44108,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The pile shall be 1/2 inch (13 mm) maximum in height.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le poil doit être d'une hauteur maximale de 1/2 po [13 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T054916Z">
+        <seg>Le poil doit être d'une hauteur maximale de 1/2 po (13 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44189,13 +44176,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.89: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The provisions of Chapter 3 shall apply where required by the scoping provisions adopted by the administrative authority or by Chapters 4 through 11.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les dispositions du chapitre 3 s'appliquent lorsque les dispositions relatives au champ d'application adoptées par l'autorité administrative ou par les chapitres 4 à 11 l'exigent.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T054743Z">
+        <seg>Les dispositions du chapitre 3 s’appliquent lorsqu’elles sont exigées par les dispositions relatives au domaine d’application adoptées par l’autorité administrative ou par les chapitres 4 à 11.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46685,13 +46671,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.75: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Unless otherwise specified, clear floor spaces, clearances at fixtures, maneuvering clearances at doors, and turning spaces shall be permitted to overlap.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Sauf indication contraire, les surfaces de plancher dégagées, les dégagements au niveau des appareils sanitaires, les espaces de dégagement au niveau des portes et les espaces de rotation doivent pouvoir se chevaucher.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T054801Z">
+        <seg>Sauf indication contraire, les espaces libres au sol, les espaces libres devant les appareils sanitaires, les espaces libres de manœuvre devant les portes et les espaces de rotation peuvent se chevaucher.</seg>
       </tuv>
     </tu>
     <tu>
