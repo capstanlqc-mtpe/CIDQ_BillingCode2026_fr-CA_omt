@@ -12736,13 +12736,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.87: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;613.4.4 Maneuvering clearances.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;613.4.4 Zones de manœuvre.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T171217Z">
+        <seg>&lt;g1&gt;613.4.4 Espaces de dégagement.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24648,13 +24647,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.811: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A side maneuvering clearance 36 inches (914 mm) minimum in depth shall be provided at the adult changing surface along the open long side of the changing surface.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir un dégagement de manœuvre latéral d'une profondeur minimale de 36 po [914 mm] au niveau de la surface à langer pour adultes, le long du côté long ouvert de la surface à langer.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T171920Z">
+        <seg>Un espace libre de manœuvre latéral d’une profondeur d’au moins 36 po (914 mm) doit être prévu au niveau de la surface de changement pour adultes, le long du côté longitudinal ouvert de la surface de changement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36210,8 +36208,8 @@
       <tuv lang="en">
         <seg>Maneuvering clearances at the adult changing surface complying with Sections 613.4.4.1 and 613.4.4.2 shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T171041Z">
-        <seg>Des zones de manœuvre doivent être prévues au niveau de la surface de changement pour adultes conformément aux sections 613.4.4.1 et 613.4.4.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T171150Z">
+        <seg>Des espaces de dégagement doivent être prévus au niveau de la surface de changement pour adultes conformément aux sections 613.4.4.1 et 613.4.4.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40679,8 +40677,8 @@
       <tuv lang="en">
         <seg>Such maneuvering clearances shall be measured where the adult changing surface is in the operational position.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T171108Z">
-        <seg>Ces zones de manœuvre doivent être mesurées lorsque la surface de changement pour adultes est en position opérationnelle.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T171201Z">
+        <seg>Ces espaces de dégagement doivent être mesurés lorsque la surface de changement pour adultes est en position opérationnelle.</seg>
       </tuv>
     </tu>
     <tu>
