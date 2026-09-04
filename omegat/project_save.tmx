@@ -24580,13 +24580,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.794: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A permanent seat at the head end of the bathtub or a removable in-tub seat shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir un siège permanent à la tête de mur de la baignoire ou un siège amovible dans la baignoire.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T150511Z">
+        <seg>Un siège permanent à l’extrémité de la baignoire ou un siège amovible dans la baignoire doit être prévu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32253,13 +32252,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.851: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>For bathtubs with permanent seats, grab bars complying with Section 607.4.1 shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les baignoires avec sièges permanents, il faut prévoir des barres d'appui conformes à la section 607.4.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T150551Z">
+        <seg>Pour les baignoires avec sièges permanents, des barres d'appui conformes à la section 607.4.1 doivent être prévues.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47449,13 +47447,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a permanent seat is provided at the head end of the bathtub, the clearance shall extend 12 inches (305 mm) minimum beyond the wall at the head end of the bathtub.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un siège permanent est prévu à la tête de mur de la baignoire, le dégagement doit se prolonger d'au moins 12 po [305 mm] au-delà du mur à la tête de mur de la baignoire.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T150444Z">
+        <seg>Lorsqu’un siège permanent est prévu à l’extrémité de la baignoire, l’espace libre doit se prolonger d’au moins 12 po (305 mm) au-delà du mur situé à l’extrémité de la baignoire.</seg>
       </tuv>
     </tu>
     <tu>
