@@ -1184,13 +1184,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.83: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Where multiple lavatories are provided in a single toilet and bathing area such that travel between fixtures does not require travel through other parts of the unit, not more than one lavatory is required to comply with Section 1104.11.3.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Lorsque plusieurs lavabos sont prévus dans une seule salle de toilette et de bain de sorte que le déplacement entre les appareils sanitaires ne nécessite pas de traverser d'autres parties de l'unité, il n'est pas nécessaire que plus d'un lavabo soit conforme à la section 1104.11.3.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T211858Z">
+        <seg>1.&lt;x1/&gt; Lorsque plusieurs lavabos sont prévus dans une même aire de toilettes et de bain, de sorte que les déplacements entre les appareils sanitaires ne nécessitent pas de traverser d’autres parties du logement, au plus un lavabo doit être conforme à la section 1104.11.3.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1836,13 +1835,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;A lavatory and a water closet in a room containing only a lavatory and water closet, provided the room does not contain the only lavatory or water closet on the accessible level of the unit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Un lavabo et une cabine de toilette dans une pièce ne contenant qu'un lavabo et une cabine de toilette, à condition que la pièce ne contienne pas le seul lavabo ou la seule cabine de toilette à l'étage accessible du logement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T211906Z">
+        <seg>2.&lt;x1/&gt; Un lavabo et une toilette dans une pièce ne contenant qu’un lavabo et une toilette, à condition que la pièce ne contienne pas le seul lavabo ou la seule toilette du niveau accessible du logement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3513,13 +3511,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.814: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3&lt;x1/&gt;The walls behind and surrounding the cabinetry are finished.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Les murs derrière et autour de l'armoire sont finis.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T212049Z">
+        <seg>D3.&lt;x1/&gt; Les murs derrière et autour de l'armoire sont finis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23626,13 +23623,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A clear floor space positioned for a parallel approach shall be provided at a lavatory.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir une surface de plancher dégagée positionnée pour un accès parallèle au lavabo.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T211946Z">
+        <seg>Une surface de plancher dégagée, positionnée de manière à permettre une approche parallèle, doit être prévue au niveau d’un lavabo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28478,13 +28474,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.852: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Clear floor spaces required by Section 1104.11.3.1 (Option A) or 1104.11.3.2 (Option B) shall comply with Sections 1104.11.2 and 1104.1.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les surfaces de plancher dégagées exigées par la section 1104.11.3.1 (Option A) ou 1104.11.3.2 (Option B) doivent être conformes aux sections 1104.11.2 et 1104.1.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T211702Z">
+        <seg>Les surfaces de plancher dégagées requises par la section 1104.11.3.1 (Option A) ou 1104.11.3.2 (Option B) doivent être conformes aux sections 1104.11.2 et 1104.1.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28517,13 +28512,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.83: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Clearance around the water closet shall be 48 inches (1220 mm) minimum in width, measured perpendicular from the side of the clearance that is 16 inches (405 mm) minimum and 18 inches (455 mm) maximum from the water closet centerline.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le dégagement autour de la cabine de toilette doit avoir une largeur minimale de 48 po [1220 mm], mesurée perpendiculairement au côté du dégagement qui se trouve à une distance comprise entre 16 po [405 mm] et 18 po [455 mm] de la ligne d'axe de la cabine de toilette.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T212132Z">
+        <seg>Le dégagement autour de la toilette doit avoir une largeur d’au moins 48 po (1 220 mm), mesurée perpendiculairement à partir du côté du dégagement situé à au moins 16 po (405 mm) et à au plus 18 po (455 mm) de l’axe central de la toilette.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41399,13 +41393,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The centerline of the water closet shall be 16 inches (405 mm) minimum and 18 inches (455 mm) maximum from one side of the required clearance.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La ligne d'axe de la cabine de toilette doit se trouver à une distance comprise entre 16 po [405 mm] et 18 po [455 mm] d'un côté de l'espace libre requis.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T212108Z">
+        <seg>L’axe central de la toilette doit être situé à au moins 16 po (405 mm) et à au plus 18 po (455 mm) d’un côté du dégagement requis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46855,13 +46848,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.779: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a clear floor space, excluding knee and toe clearances under elements, is provided within the room beyond the arc of the door swing.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'une surface de plancher dégagée, à l'exclusion des espaces pour les genoux et les orteils sous les éléments, est prévue dans la pièce au-delà de l'arc d'ouverture de la porte.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T211818Z">
+        <seg>Lorsqu'une surface de plancher dégagée, à l’exclusion des dégagements pour les genoux et les orteils sous les éléments, est prévue à l’intérieur de la pièce au-delà de l’arc de rotation de la porte.</seg>
       </tuv>
     </tu>
     <tu>
