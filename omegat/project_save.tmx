@@ -24843,13 +24843,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.852: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A turning space between doors in a series as required by Section 404.2.5 is not required.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un espace de rotation entre les portes d'une série, comme l'exige l'article 404.2.5, n'est pas requis.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192840Z">
+        <seg>Un espace de rotation entre les portes d’une série, telle que requise par la section 404.2.5, n’est pas requis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24873,13 +24872,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.752: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A turning space is not required within closets or pantries that are 48 inches (1220 mm) maximum in depth.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un espace de rotation n'est pas exigé dans les PLACARDS ou les garde-mangers d'une profondeur maximale de 48 po [1220 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192657Z">
+        <seg>Une aire de plancher dégagée n’est pas requise à l’intérieur des placards ou des garde-manger dont la profondeur est d’au plus 48 po (1 220 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25237,13 +25235,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.843: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Accessible routes shall consist of one or more of the following elements: walking surfaces with a slope not steeper than 1:20, doors and doorways, ramps, elevators, and platform lifts.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les itinéraires accessibles doivent comporter un ou plusieurs des éléments suivants : surfaces de circulation de pente maximale de 1:20, portes et ouvertures de porte, rampes, ascenseurs et plateformes élévatrices.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192706Z">
+        <seg>Les itinéraires accessibles doivent comprendre un ou plusieurs des éléments suivants : des surfaces de circulation dont la pente n’est pas supérieure à 1:20, des portes et baies de portes, des rampes, des ascenseurs et des plateformes élévatrices.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27071,13 +27068,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.798: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At other than the primary entrance door, where exterior space dimensions of balconies are less than the required maneuvering clearance, door maneuvering clearance is not required on the exterior side of the door.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>À l'exception de la porte d'entrée principale, lorsque les dimensions de l'espace extérieur des balcons sont inférieures à l'espace de dégagement exigé, un espace de dégagement n'est pas exigé du côté extérieur de la porte.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192930Z">
+        <seg>À l’exception de la porte d’entrée principale, lorsque les dimensions de l’espace extérieur des balcons sont inférieures à l'espace de dégagement requis, l'espace de dégagement de la porte n’est pas requis du côté extérieur de la porte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31077,13 +31073,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Existing doors to hospital patient sleeping rooms shall be exempt from the requirement for space at the latch side provided the door is 44 inches (1120 mm) minimum in width.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes existantes des chambres de repos des patients d'un hôpital sont exemptées de l'exigence d'espace du côté de la serrure, à condition que la largeur minimale de la porte soit de 44 po [1120 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192758Z">
+        <seg>Les portes existantes des chambres de patients dans les établissements hospitaliers doivent être exemptées de l’exigence relative à l’espace du côté de la gâche, à condition que la porte ait une largeur d’au moins 44 po (1 120 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35017,13 +35012,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.79: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In toilet rooms and bathrooms not required to comply with Section 1102.11.2, maneuvering clearances required by Section 404.2.3 shall not be required on the toilet room or bathroom side of the door.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les salles de toilette et les salles de bain qui ne sont pas tenues de se conformer à la section 1102.11.2, les espaces de dégagement exigés par la section 404.2.3 ne sont pas exigés du côté de la salle de toilette ou de la salle de bain de la porte.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192815Z">
+        <seg>Dans les toilettes et les salles de bains qui ne sont pas tenues de se conformer à la section 1102.11.2, les dégagements de manœuvre requis par la section 404.2.3 ne sont pas requis du côté de la porte donnant sur les toilettes ou la salle de bains.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37839,8 +37833,8 @@
       <tuv lang="en">
         <seg>Platform lifts within the unit shall comply with Section 410.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T044632Z">
-        <seg>Les plates-formes élévatrices dans le logement doivent être conformes à la section 410.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192955Z">
+        <seg>Les platesformes élévatrices dans le logement doivent être conformes à la section 410.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43112,13 +43106,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.797: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The maneuvering clearances required by Section 404 shall not be required within a closet or pantry complying with Exception 2 of Section 1102.3.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les espaces de dégagement exigés par la section 404 ne sont pas exigés dans un PLACARD ou un garde-manger conforme à l'Exception 2 de la section 1102.3.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192944Z">
+        <seg>Les espaces de dégagement exigés par la section 404 ne sont pas exigés dans un placard ou un garde-manger conforme à l'Exception 2 de la section 1102.3.2.</seg>
       </tuv>
     </tu>
     <tu>
