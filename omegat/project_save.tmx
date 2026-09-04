@@ -36057,13 +36057,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.777: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Mailboxes serving Type B units shall be permitted an unobstructed side reach range at 54 inches (1370 mm) maximum above the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les boîtes aux lettres desservant les logements de type B peuvent avoir une portée latérale non obstruée d'au plus 54 po [1370 mm] au-dessus du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T203559Z">
+        <seg>Les boîtes aux lettres desservant les unités de type B peuvent avoir une plage de portée latérale dégagée située à au plus 54 po (1 370 mm) au-dessus du plancher.</seg>
       </tuv>
     </tu>
     <tu>
