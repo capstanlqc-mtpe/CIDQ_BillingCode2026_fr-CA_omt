@@ -15387,23 +15387,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.847: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;608.3.1.2&lt;x3/&gt;Vertical Grab Bar.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;608.3.1.2 Barre&lt;x3/&gt; d'appui verticale.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T160735Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;608.3.1.2 Barres&lt;x3/&gt; d'appui verticales.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.787: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;608.3.2&lt;x3/&gt;Standard Roll-in-Type Showers.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;608.3.2 Douches à l'italienne&lt;x3/&gt; standard.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161207Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;608.3.2 Douches de type à accès de plain-pied standard&lt;x3/&gt;.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22322,13 +22320,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;A vertical grab bar 18 inches (455 mm) minimum in length shall be provided on the control end wall 3 inches (75 mm) minimum and 6 inches (150 mm) maximum above the horizontal grab bar, and 4 inches (100 mm) maximum inward from the front edge of the shower.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Une barre d'appui verticale d'une longueur minimale de 18 po [455 mm] doit être prévue sur le mur du côté des commandes, à une hauteur comprise entre 3 po [75 mm] et 6 po [150 mm] au-dessus de la barre d'appui horizontale, et à une distance maximale de 4 po [100 mm] vers l'intérieur à partir du bord avant de la douche.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T160810Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Une barre d’appui verticale d’au moins 18 po (455 mm) de longueur doit être prévue sur le mur à l’extrémité où se trouvent les commandes, à au moins 3 po (75 mm) et à au plus 6 po (150 mm) au-dessus de la barre d’appui horizontale, et à au plus 4 po (100 mm) vers l’intérieur à partir du bord avant de la douche.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22642,13 +22639,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Horizontal grab bars shall be provided across the control wall and on the back wall to a point 18 inches (455 mm) from the control wall.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Il faut prévoir des barres d'appui horizontales sur le mur de commande et sur le mur arrière jusqu'à un point situé à 18 po [455 mm] du mur de commande.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T160749Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Des barres d’appui horizontales doivent être prévues sur toute la longueur du mur où se trouvent les commandes et sur le mur arrière jusqu’à un point situé à 18 po (455 mm) du mur où se trouvent les commandes.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24239,13 +24235,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A folding seat complying with Section 610 shall be provided on the seat wall opposite the back wall.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un siège pliant conforme à la section 610 doit être prévu sur le mur du siège opposé au mur arrière.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T160611Z">
+        <seg>Un siège rabattable conforme à la section 610 doit être prévu sur le mur du siège opposé au mur arrière.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32982,13 +32977,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.812: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Grab bars are not required to be installed in a shower for a single occupant, accessed only through a private office and not for common use or public use, provided reinforcement has been installed in walls and located so as to permit the installation of grab bars complying with Section 608.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il n'est pas nécessaire d'installer des barres d'appui dans une douche à l'usage d'un occupant unique et non à usage commun ou public, et à laquelle on accède uniquement par un bureau privé, à condition que les murs aient été renforcés aux endroits permettant l'installation de barres d'appui conformément à l'article 608.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T160703Z">
+        <seg>Il n’est pas nécessaire d’installer des barres d’appui dans une douche destinée à un seul occupant, accessible uniquement par l’intermédiaire d’un bureau privé et non destinée à un usage commun ou public, pourvu qu’un renforcement ait été installé dans les murs et soit situé de manière à permettre l’installation de barres d’appui conformes à la section 608.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48198,13 +48192,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where multiple grab bars are used, required horizontal grab bars shall be installed at the same height above the floor.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque plusieurs barres d'appui sont utilisées, les barres d'appui horizontales exigées doivent être installées à la même hauteur au-dessus du sol.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T160633Z">
+        <seg>Lorsque plusieurs barres d'appui sont utilisées, les barres d'appui horizontales exigées doivent être installées à la même hauteur au-dessus du plancher.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
