@@ -12253,13 +12253,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.894: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;505.10 Handrail extensions.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;505.10 Rallonges de rampe.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142326Z">
+        <seg>&lt;g1&gt;505.10 Prolongements des mains courantes.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30428,13 +30427,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.87: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Edges shall be rounded.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les arêtes doivent être arrondies.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142023Z">
+        <seg>Les bords sont arrondis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33330,13 +33328,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.868: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Handrail brackets or balusters attached to the bottom surface of the handrail shall not be considered obstructions, provided the brackets or balusters comply with the following criteria:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les supports de rampe ou les balustres fixés à la surface inférieure de la rampe ne doivent pas être considérés comme des obstacles, à condition que les supports ou les balustres soient conformes aux critères suivants :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T141931Z">
+        <seg>Les supports de mains courantes ou les balustres fixés à la face inférieure de la main courante ne doivent pas être considérés comme des obstacles, pourvu que les supports ou les balustres respectent les critères suivants :</seg>
       </tuv>
     </tu>
     <tu>
@@ -33440,23 +33437,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Handrails shall extend beyond and in the same direction of stair flights and ramp runs in accordance with Section 505.10.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes doivent se prolonger au-delà et dans la même direction que les volées d'escaliers et les rampes selon la section 505.10.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142334Z">
+        <seg>Les mains courantes doivent se prolonger au-delà des volées d’escalier et des tronçons de rampe et dans le même sens que ceux-ci, conformément à la section 505.10.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.875: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Handrails shall have a cross section complying with Section 505.7.1 or 505.7.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>En coupe transversale, les rampes doivent être conformes aux articles 505.7.1 ou 505.7.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142122Z">
+        <seg>En coupe transversale, les mains courantes doivent être conformes aux sections 505.7.1 ou 505.7.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33469,43 +33464,39 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.825: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Handrails shall not rotate within their fittings.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes ne doivent pas tourner dans leurs fixations.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142311Z">
+        <seg>Les mains courantes ne doivent pas tourner dans leurs raccords.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.864: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Handrails with a circular cross section shall have an outside diameter of 11/4 inches (32 mm) minimum and 2 inches (51 mm) maximum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le diamètre extérieur minimal et maximal des rampes à coupe transversale circulaire est de 11/4 po [32 mm] et 2 po [51 mm], respectivement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142141Z">
+        <seg>Le diamètre extérieur minimal et maximal des mains courantes à coupe transversale circulaire est de 11/4 po (32 mm) et 2 po (51 mm), respectivement.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Handrails with a noncircular cross section shall have a perimeter dimension of 4 inches (100 mm) minimum and 61/4 inches (160 mm) maximum, and a cross-section dimension of 21/4 inches (57 mm) maximum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans le cas des rampes dont la coupe transversale n'est pas circulaire, les dimensions minimale et maximale du périmètre de la rampe sont de 4 po [100 mm] et 61/4 po [160 mm], respectivement, et la dimension maximale en coupe est de 21/4 po [57 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142213Z">
+        <seg>Les mains courantes dont la section transversale n’est pas circulaire doivent avoir une dimension de périmètre d’au moins 4 po (100 mm) et d’au plus 6 1/4 po (160 mm), ainsi qu’une dimension de section transversale d’au plus 2 1/4 po (57 mm).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.882: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Handrails, and any wall or other surfaces adjacent to them, shall be free of any sharp or abrasive elements.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes et tout mur ou toute autre surface adjacente à celles-ci doivent être exempts d'éléments acérés ou abrasifs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142221Z">
+        <seg>Les mains courantes, ainsi que les murs ou autres surfaces adjacents, doivent être exempts de tout élément tranchant ou abrasif.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33714,13 +33705,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Horizontal projections beyond the sides of the handrail occur 11/2 inches (38 mm) minimum below the bottom of the handrail, and provided that for each 1/2 inch (13 mm) of additional handrail perimeter dimension above 4 inches (100 mm), the vertical clearance dimension of 11/2 inch (38 mm) shall be permitted to be reduced by 1/8 inch (3.2 mm), and</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les saillies horizontales au-delà des côtés de la rampe se situent au moins 11/2 po [38 mm] sous le bas de la rampe, et à condition que pour chaque 1/2 po [13 mm] de dimension supplémentaire du périmètre de la rampe au-dessus de 4 po [100 mm], la hauteur libre de 11/2 po [38 mm] puisse être réduite de 1/8 po [3,2 mm], et</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142014Z">
+        <seg>les saillies horizontales au-delà des côtés de la main courante se trouvent à au moins 1 1/2 po (38 mm) sous le dessous de la main courante, et, pour chaque 1/2 po (13 mm) supplémentaire de dimension du périmètre de la main courante au-delà de 4 po (100 mm), la dimension du dégagement vertical de 1 1/2 po (38 mm) peut être réduite de 1/8 po (3,2 mm), et</seg>
       </tuv>
     </tu>
     <tu>
@@ -36989,13 +36979,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Not more than 20 percent of the handrail length is obstructed,</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pas plus de 20 pour cent de la longueur de la rampe est obstruée,</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T141954Z">
+        <seg>Pas plus de 20 pour cent de la longueur de la main courante n’est obstruée,</seg>
       </tuv>
     </tu>
     <tu>
@@ -48132,13 +48121,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.804: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where handrails are provided along walking surfaces with slopes not steeper than 1:20, the bottoms of handrail gripping surfaces shall be permitted to be obstructed along their entire length where they are integral to crash rails or bumper guards.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des rampes sont prévues le long de surfaces de circulation dont la pente n'est pas supérieure à 1:20, le bas des surfaces de préhension des rampes peut être obstrué sur toute sa longueur lorsqu'il fait partie intégrante des barres de protection ou des garde-corps.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142103Z">
+        <seg>Lorsque des mains courantes sont prévues le long de surfaces de circulation dont la pente ne dépasse pas 1:20, le dessous des surfaces de préhension des mains courantes peut être obstrué sur toute leur longueur lorsqu’elles sont intégrées à des rails antichocs ou à des butoirs.</seg>
       </tuv>
     </tu>
     <tu>
