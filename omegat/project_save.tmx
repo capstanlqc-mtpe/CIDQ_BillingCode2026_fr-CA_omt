@@ -27522,13 +27522,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.813: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Bottom hinged door ovens shall have a countertop positioned adjacent to one side of the door.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les fours à porte à charnières inférieures doivent avoir un comptoir placé à côté d'un côté de la porte.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T202636Z">
+        <seg>Les fours à porte articulée vers le bas doivent être munis d’un comptoir situé à côté de l’un des côtés de la porte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28715,13 +28714,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.812: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Combination refrigerators and freezers shall have at least 50 percent of the freezer compartment shelves, including the bottom of the freezer 54 inches (1370 mm) maximum above the floor when the shelves are installed at the maximum heights possible in the compartment.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Au moins 50 pour cent des tablettes du compartiment congélateur des réfrigérateurs-congélateurs combinés, y compris le fond du congélateur, doivent se trouver à une hauteur maximale de 54 po [1370 mm] au-dessus du sol lorsque les tablettes sont installées à la hauteur maximale possible dans le compartiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T202712Z">
+        <seg>Les réfrigérateurs-congélateurs combinés doivent comporter au moins 50 % des tablettes du compartiment congélateur, y compris le fond du congélateur, à au plus 54 po (1 370 mm) au-dessus du plancher lorsque les tablettes sont installées aux hauteurs maximales possibles dans le compartiment.</seg>
       </tuv>
     </tu>
     <tu>
