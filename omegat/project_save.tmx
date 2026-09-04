@@ -23703,13 +23703,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A clear floor space, positioned adjacent to the dishwasher door, shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir une surface de plancher dégagée, positionnée à côté de la porte du lave-vaisselle.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T201834Z">
+        <seg>Une surface de plancher dégagée, positionnée de manière à permettre une approche parallèle à la porte du lave-vaisselle, doit être prévue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23786,13 +23785,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.777: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A clear floor space, positioned for a parallel or forward approach, shall be provided at each kitchen appliance.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir une surface de plancher dégagée, positionnée pour une approche parallèle ou par l'avant, à chaque appareil de cuisine.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T201805Z">
+        <seg>Une surface de plancher dégagée, positionnée de manière à permettre une approche parallèle ou frontale, doit être prévue à chaque appareil électroménager de cuisine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45279,13 +45277,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.852: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>There shall be no sharp or abrasive surfaces under sinks.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il ne doit pas y avoir de surfaces acérées ou abrasives sous les éviers.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T201720Z">
+        <seg>Il ne doit y avoir aucune surface coupante ou abrasive sous les éviers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46692,13 +46689,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Water supply and drain pipes under sinks shall be insulated or otherwise configured to protect against contact.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les tuyaux d'alimentation en eau et de vidange sous les éviers doivent être isolés ou configurés de manière à protéger les utilisateurs contre tout contact avec ceux-ci.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T201703Z">
+        <seg>Les tuyaux d’alimentation en eau et d’évacuation sous les éviers doivent être isolés ou configurés autrement de manière à prévenir tout contact.</seg>
       </tuv>
     </tu>
     <tu>
