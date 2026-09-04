@@ -11407,13 +11407,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.927: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;410.1&lt;x2/&gt;General.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;410.1&lt;x2/&gt;General.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062704Z">
+        <seg>&lt;g1&gt;410.1&lt;x2/&gt;Generalités.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17474,8 +17473,8 @@
       <tuv lang="en">
         <seg>&lt;g1&gt;Platform &lt;x2/&gt;&lt;/g1&gt;lifts shall comply with Section 410 and ASME A18.1 listed in Section 105.2.6.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T054248Z">
-        <seg>Les plates-formes&lt;g1&gt; &lt;x2/&gt;élévatrices&lt;/g1&gt; doivent être conformes à la section 410 et à la norme ASME A18.1 mentionnée à la section 105.2.6.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062710Z">
+        <seg>Les platesformes&lt;g1&gt; &lt;x2/&gt;élévatrices&lt;/g1&gt; doivent être conformes à la section 410 et à la norme ASME A18.1 mentionnée à la section 105.2.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27957,13 +27956,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Call buttons shall be 3/4 inch (19 mm) minimum in their smallest dimension.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les boutons d'appel doivent avoir une dimension minimale de 3/4 po [19 mm] dans leur plus petite dimension.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062254Z">
+        <seg>Les boutons d’appel doivent avoir une dimension minimale de 3/4 po (19 mm) dans leur plus petite dimension.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28043,13 +28041,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.85: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Car gates or doors positioned at a narrow end of the clear floor area required by Section 409.4.1 shall provide a clear opening width of 32 inches (815 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les barrières ou portes de cabine situées à une extrémité étroite de la surface de plancher libre requise par la section 409.4.1 doivent offrir une largeur d'ouverture libre minimale de 32 po [815 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062408Z">
+        <seg>Les barrières ou portes de cabine situées à une extrémité étroite de la surface de plancher libre requise par la section 409.4.1 doivent offrir une largeur d'ouverture libre minimale de 32 po (815 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29305,13 +29302,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Control buttons shall be 3/4 inch (19 mm) minimum in their smallest dimension.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les boutons de commande doivent avoir une dimension minimale de 3/4 po [19 mm] dans leur plus petite dimension.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062615Z">
+        <seg>Les boutons de commande doivent avoir une dimension minimale de 3/4 po  (19 mm) dans leur plus petite dimension.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29382,13 +29378,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.855: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Controls shall be on a sidewall, 12 inches (305 mm) minimum from any adjacent wall.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les commandes doivent être situées sur un mur latéral, à au moins 12 po [305 mm] de tout mur adjacent.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062637Z">
+        <seg>Les commandes doivent être situées sur un mur latéral, à au moins 12 po (305 mm) de tout mur adjacent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30221,13 +30216,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.806: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Each car shall automatically stop at a floor landing within a tolerance of 1/2 inch (13 mm) under rated loading to zero loading conditions.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Chaque cabine doit s'arrêter automatiquement à un palier d'étage avec une tolérance de 1/2 po (13 mm) dans des conditions de charge nominale à charge nulle.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062545Z">
+        <seg>Chaque cabine doit s’arrêter automatiquement à un palier avec une tolérance de 1/2 po (13 mm), dans des conditions de charge allant de la charge nominale à l’absence de charge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33637,13 +33631,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.812: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Hoistway doors or gates shall be permitted to be of the self-closing, manual type, where that door or gate provides access to a narrow end of the car that serves only one landing.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes ou portillons de la gaine peuvent être de type manuel à fermeture automatique, lorsque cette porte ou ce portillon donne accès à une extrémité étroite de la cabine qui ne dessert qu'un seul palier.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062355Z">
+        <seg>Les portes ou barrières de puits peuvent être du type à fermeture automatique et à commande manuelle lorsque la porte ou la barrière donne accès à l’extrémité étroite de la cabine qui ne dessert qu’un seul palier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34886,13 +34879,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In existing buildings, elevator cars shall provide a clear floor area 36 inches (915 mm) minimum in width and 48 inches (1220 mm) minimum in depth.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les bâtiments existants, les cabines d'ascenseur doivent offrir une surface de plancher libre d'au moins 36 po [915 mm] de largeur et d'au moins 48 po [1220 mm] de profondeur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062502Z">
+        <seg>Dans les bâtiments existants, les cabines d'ascenseur doivent offrir une surface de plancher libre d'au moins 36 po (915 mm) de largeur et d'au moins 48 po (1220 mm) de profondeur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35021,13 +35013,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In new buildings, elevator cars shall provide a clear floor area 36 inches (915 mm) minimum in width and 52 inches (1320 mm) minimum in depth.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les bâtiments neufs, les cabines d'ascenseur doivent offrir une surface de plancher libre d'au moins 36 po [915 mm] de largeur et d'au moins 52 po [1320 mm] de profondeur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062447Z">
+        <seg>Dans les bâtiments neufs, les cabines d'ascenseur doivent offrir une surface de plancher libre d'au moins 36 po (915 mm) de largeur et d'au moins 52 po (1320 mm) de profondeur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41985,13 +41976,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.825: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The clearance between the car platform sill and the edge of any hoistway landing shall be 11/4 inches (32 mm) maximum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le dégagement entre le seuil de la plateforme de la cabine et le bord de tout palier de la gaine doit être d'au plus 11/4 po [32 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062518Z">
+        <seg>Le dégagement entre le seuil de la plateforme de la cabine et le bord de tout palier de la gaine doit être d'au plus 11/4 po (32 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43399,13 +43389,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.789: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The level of illumination at the car controls, platform, and car threshold and landing sill shall be 5 foot-candles (54 lux) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le niveau d'éclairage au niveau des commandes de la cabine, de la plateforme, du seuil de la cabine et du seuil du palier doit être d'au moins 5 pieds-bougies [54 lux].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062557Z">
+        <seg>Le niveau d'éclairage au niveau des commandes de la cabine, de la plateforme, du seuil de la cabine et du seuil du palier doit être d'au moins 5 pieds-bougies (54 lux).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43477,13 +43466,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.807: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The maneuvering clearances required by Section 404.2.3 shall not apply for approaches to the push side of swinging doors.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les espaces de dégagement exigés par l'article 404.2.3 ne doivent pas s'appliquer aux approches du côté où l'on pousse les portes à charnières.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062320Z">
+        <seg>Les espaces libres de manœuvre exigés par la section 404.2.3 ne s’appliquent pas aux approches du côté poussant des portes battantes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45042,13 +45030,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.86: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The telephone cord shall be 29 inches (735 mm) minimum in length.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le cordon du téléphone doit avoir une longueur minimale de 29 po [735 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062657Z">
+        <seg>Le cordon du téléphone doit avoir une longueur minimale de 29 po (735 mm).</seg>
       </tuv>
     </tu>
     <tu>
