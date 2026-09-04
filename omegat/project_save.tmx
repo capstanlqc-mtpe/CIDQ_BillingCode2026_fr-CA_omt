@@ -32485,13 +32485,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.874: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>For all glazing types, the minimum nominal thickness shall be 1/4 inch (6.4 mm).&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour tous les types de vitrage, l'épaisseur nominale minimale doit être de 1/4 po [6,4 mm].&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T000317Z">
+        <seg>Pour tous les types de vitrage, l’épaisseur nominale minimale doit être de 1/4 po (6,4 mm).&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40146,13 +40145,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Single fully tempered glass complying with Category II of CPSC 16 CFR Part 1201 or Class A of ANSI Z97.1 shall be permitted to be used in handrails and guardrails where there is no walking surface beneath them or the walking surface is permanently protected from the risk of falling glass.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le verre simple entièrement trempé conforme à la catégorie II de la norme CPSC 16 CFR partie 1201 ou à la classe A de la norme ANSI Z97.1 peut être utilisé dans les rampes et les garde-corps lorsqu'il n'y a pas de surface de marche en dessous ou lorsque la surface de marche est protégée en permanence contre le risque de chute de verre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T000821Z">
+        <seg>Un verre monolithique entièrement trempé conforme à la catégorie II de la norme CPSC 16 CFR Part 1201 ou à la classe A de la norme ANSI Z97.1 peut être utilisé dans les mains courantes et les garde-corps lorsqu’aucune surface de circulation ne se trouve sous ceux-ci ou lorsque la surface de circulation est protégée en permanence contre le risque de chute de verre.</seg>
       </tuv>
     </tu>
     <tu>
