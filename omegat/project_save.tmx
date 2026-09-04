@@ -13899,43 +13899,39 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.855: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;802.9.1.1 Lines of sight over heads.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;802.9.1.1 Lignes de visibilité au-dessus des têtes de mur.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185901Z">
+        <seg>&lt;g1&gt;802.9.1.1 Lignes de visibilité au-dessus des têtes.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.882: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;802.9.1.2 Lines of sight between heads.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;802.9.1.2 Lignes de vue entre les têtes.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185925Z">
+        <seg>&lt;g1&gt;802.9.1.2 Lignes de visibilité entre les têtes.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.85: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;802.9.2 Line of sight over standing spectators.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;802.9.2 Champ de vision au-dessus des spectateurs debout.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185944Z">
+        <seg>&lt;g1&gt;802.9.2 Ligne de visibilité au-dessus des spectateurs debout.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.847: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;802.9.2.1 Distance from adjacent seating.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;802.9.2.1 Distance par rapport aux SIÈGES adjacents.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190001Z">
+        <seg>&lt;g1&gt;802.9.2.1 Distance par rapport aux sièges adjacents.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38956,13 +38952,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.771: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Rows over44 inches (1120 mm)&lt;g1&gt;2&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Rangées de plus de 44 po [1120 mm]&lt;g1&gt; 2&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190101Z">
+        <seg>Rangées de plus de 44 po (1120 mm)&lt;g1&gt; 2&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40027,23 +40022,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.745: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Spectators seated in a wheelchair space shall be afforded lines of sight over the heads of seated individuals in the first row in front of the wheelchair space location.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les spectateurs assis dans un espace pour fauteuil roulant doivent avoir des lignes de vue au-dessus de la tête des personnes assises dans la première rangée devant l'emplacement de l'espace pour fauteuil roulant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185915Z">
+        <seg>Les spectateurs assis dans un espace pour fauteuil roulant doivent bénéficier de lignes de visibilité au-dessus de la tête des personnes assises au premier rang devant l’espace pour fauteuil roulant.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.759: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Spectators seated in a wheelchair space shall be afforded lines of sight over the shoulders and between the heads of seated individuals in the first row in front of the wheelchair space location.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les spectateurs assis dans un espace pour fauteuil roulant doivent avoir des lignes de vue par-dessus les épaules et entre les têtes des personnes assises dans la première rangée devant l'emplacement de l'espace pour fauteuil roulant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185930Z">
+        <seg>Les spectateurs assis dans un espace pour fauteuil roulant doivent bénéficier de lignes de visibilité au-dessus des épaules et entre les têtes des personnes assises au premier rang devant l’espace pour fauteuil roulant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42621,13 +42614,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.814: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The front of the wheelchair space in a wheelchair space location shall be 12 inches (305 mm) maximum from the back of the chair or bench in front.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'avant de l'espace pour fauteuil roulant dans un emplacement pour fauteuil roulant doit être à une distance maximale de 12 po [305 mm] du dossier de la chaise ou de la banquette située devant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190016Z">
+        <seg>L’avant de l’espace pour fauteuil roulant dans une aire réservée aux espaces pour fauteuils roulants doit se trouver à au plus 12 po (305 mm) du dossier du fauteuil ou du banc situé devant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46900,13 +46892,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.79: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Wheelchair spaces required to provide a line of sight over standing spectators shall comply with Section 802.9.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les espaces pour fauteuils roulants devant offrir une ligne de vue au-dessus des spectateurs debout doivent être conformes à la section 802.9.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185955Z">
+        <seg>Les espaces pour fauteuils roulants devant offrir une ligne de visibilité au-dessus des spectateurs debout doivent être conformes à la section 802.9.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48458,13 +48449,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.75: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where seating provides lines of sight over heads, spectators in wheelchair space locations shall be afforded lines of sight complying with Section 802.9.1.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les SIÈGES offrent des lignes de vue au-dessus des têtes de mur, les spectateurs dans les emplacements pour fauteuils roulants doivent bénéficier de lignes de vue conformes à la section 802.9.1.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185756Z">
+        <seg>Lorsque les sièges offrent des lignes de visibilité au-dessus des têtes, les spectateurs dans les espaces pour fauteuils roulants doivent bénéficier de lignes de visibilité conformes à la section 802.9.1.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48539,33 +48529,30 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.781: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where spectators are expected to remain seated during events, spectators seated in a wheelchair space shall be provided with lines of sight to the performance area or playing field comparable to that provided to seated spectators in closest proximity to the wheelchair space location.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les spectateurs sont censés rester assis pendant les événements, les spectateurs assis dans un espace pour fauteuil roulant doivent disposer de lignes de visibilité vers la zone de spectacle ou le terrain de jeu comparables à celles dont disposent les spectateurs assis les plus proches de l'emplacement de l'espace pour fauteuil roulant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185748Z">
+        <seg>Lorsque les spectateurs sont censés demeurer assis pendant les événements, les spectateurs assis dans un espace pour fauteuil roulant doivent bénéficier de lignes de visibilité vers l’aire de représentation ou le terrain de jeu comparables à celles dont bénéficient les spectateurs assis à proximité immédiate de l’espace pour fauteuil roulant.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.79: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where spectators are expected to remain seated for purposes of viewing events, spectators in wheelchair space locations shall be provided with a line of sight in accordance with Section 802.9.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les spectateurs sont censés rester assis pour regarder les événements, les spectateurs situés dans les emplacements pour fauteuils roulants doivent disposer d'une ligne de visibilité selon la section 802.9.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185707Z">
+        <seg>Lorsque les spectateurs sont censés demeurer assis pour regarder les événements, les spectateurs occupant des espaces pour fauteuils roulants doivent bénéficier d’une ligne de visibilité conforme à la section 802.9.1.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.764: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where spectators in front of the wheelchair space locations will be expected to stand at their seats for purposes of viewing events, spectators in wheelchair space locations shall be provided with a line of sight in accordance with Section 802.9.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les spectateurs devant les emplacements d'espace pour fauteuil roulant devront se tenir debout à leur place pour regarder les événements, les spectateurs dans les emplacements d'espace pour fauteuil roulant doivent disposer d'une ligne de vue selon la section 802.9.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185715Z">
+        <seg>Lorsque les spectateurs se trouvant devant les espaces pour fauteuils roulants sont censés se tenir debout à leur siège pour regarder les événements, les spectateurs occupant des espaces pour fauteuils roulants doivent bénéficier d’une ligne de visibilité conforme à la section 802.9.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49197,13 +49184,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.775: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where wheelchair space locations provide lines of sight over the shoulder and between heads, spectators in wheelchair space locations shall be afforded lines of sight complying with Section 802.9.1.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les emplacements pour fauteuils roulants offrent des lignes de visibilité par-dessus l'épaule et entre les têtes, les spectateurs dans les emplacements pour fauteuils roulants doivent bénéficier de lignes de visibilité conformes à la section 802.9.1.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185804Z">
+        <seg>Lorsque les espaces pour fauteuils roulants offrent des lignes de visibilité au-dessus de l’épaule et entre les têtes, les spectateurs dans les espaces pour fauteuils roulants doivent bénéficier de lignes de visibilité conformes à la section 802.9.1.2.</seg>
       </tuv>
     </tu>
     <tu>
