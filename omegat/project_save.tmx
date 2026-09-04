@@ -1268,13 +1268,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.857: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.Ionization smoke alarms shall not be installed less than 20 feet (6096 mm) horizontally from a permanently installed cooking appliance.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1. Les détecteurs de fumée à ionisation ne doivent pas être installés à moins de 20 pieds [6096 mm] horizontalement d'un appareil de cuisson installé de façon permanente.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042107Z">
+        <seg>1. Les avertisseurs de fumée à ionisation ne doivent pas être installés à moins de 20 pieds (6096 mm) horizontalement d'un appareil de cuisson installé de façon permanente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2648,13 +2647,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.Ionization smoke alarms with an alarm-silencing switch shall not be installed less than 10 feet (3048 mm) horizontally from a permanently installed cooking appliance.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2. Les détecteurs de fumée à ionisation dotés d'un interrupteur de mise en sourdine de l'alarme ne doivent pas être installés à moins de 10 pieds (3 048 mm) horizontalement d'un appareil de cuisson installé de façon permanente.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042126Z">
+        <seg>2. Les avertisseurs de fumée à ionisation dotés d'un interrupteur de mise en sourdine de l'alarme ne doivent pas être installés à moins de 10 pieds (3 048 mm) horizontalement d'un appareil de cuisson installé de façon permanente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3453,13 +3451,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.854: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.Photoelectric smoke alarms shall not be installed less than 6 feet (1828 mm) horizontally from a permanently installed cooking appliance.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3. Les détecteurs de fumée photoélectriques ne doivent pas être installés à moins de 6 pieds (1 828 mm) horizontalement d'un appareil de cuisson installé de façon permanente.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042133Z">
+        <seg>3. Les avertisseurs de fumée photoélectriques ne doivent pas être installés à moins de 6 pieds (1 828 mm) horizontalement d'un appareil de cuisson installé de façon permanente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3610,13 +3607,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.862: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>4.&lt;x1/&gt;&lt;x2/&gt;Smoke alarms shall be installed not less than 3 feet (914 mm) horizontally from the door or opening of a bathroom that contains a bathtub or shower unless this would prevent placement of a smoke alarm required by this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>4. Les détecteurs&lt;x1/&gt;&lt;x2/&gt; de fumée doivent être installés à au moins 3 pieds (914 mm) horizontalement de la porte ou de l'ouverture d'une salle de bain qui contient une baignoire ou une douche, à moins que cela n'empêche l'installation d'un détecteur de fumée requis par cette section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042036Z">
+        <seg>4. Les avertisseurs&lt;x1/&gt;&lt;x2/&gt; de fumée doivent être installés à au moins 3 pieds (914 mm) horizontalement de la porte ou de l'ouverture d'une salle de bain qui contient une baignoire ou une douche, à moins que cela n'empêche l'installation d'un détecteur de fumée requis par cette section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18386,8 +18382,8 @@
       <tuv lang="en">
         <seg>&lt;g1&gt;R314.2 Where required.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041629Z">
-        <seg>&lt;g1&gt;R314.2 Endroits où elles sont exigées.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041839Z">
+        <seg>&lt;g1&gt;R314.2 Endroits où ils sont exigés.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19931,8 +19927,8 @@
       <tuv lang="en">
         <seg>&lt;g1&gt;SMOKE ALARMS&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041515Z">
-        <seg>&lt;g1&gt;ALARMES DE FUMÉE&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041824Z">
+        <seg>&lt;g1&gt;AVERTISSEURS DE FUMÉE&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29059,8 +29055,8 @@
       <tuv lang="en">
         <seg>Combination smoke and carbon monoxide alarms shall be listed in accordance with UL 217 and UL 2034.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041621Z">
-        <seg>Les alarmes combinées de fumée et de monoxyde de carbone doivent être répertoriées conformément aux normes UL 217 et UL 2034.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041753Z">
+        <seg>Les avertisseurs combinés de fumée et de monoxyde de carbone doivent être répertoriés conformément aux normes UL 217 et UL 2034.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34975,13 +34971,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In dwellings or dwelling units with split levels and without an intervening door between the adjacent levels, a smoke alarm installed on the upper level shall suffice for the adjacent lower level provided that the lower level is less than one full story below the upper level.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les logements à niveaux fractionnés et sans porte entre les niveaux adjacents, un détecteur de fumée installé au niveau supérieur est suffisant pour le niveau inférieur adjacent, à condition que le niveau inférieur soit à moins d'un étage complet en dessous du niveau supérieur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042025Z">
+        <seg>Dans les logements ou les unités d’habitation à niveaux décalés, sans porte intermédiaire entre les niveaux adjacents, un avertisseur de fumée installé au niveau supérieur est suffisant pour le niveau inférieur adjacent, pourvu que le niveau inférieur soit situé à moins d’un étage complet sous le niveau supérieur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40102,13 +40097,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.891: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke alarms shall be installed in the following locations:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des détecteurs de fumée doivent être installés aux endroits suivants :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041925Z">
+        <seg>Des avertisseurs de fumée doivent être installés aux endroits suivants :</seg>
       </tuv>
     </tu>
     <tu>
@@ -40116,8 +40110,8 @@
       <tuv lang="en">
         <seg>Smoke alarms shall be listed in accordance with UL 217.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041608Z">
-        <seg>Les alarmes de fumée doivent être répertoriées conformément à la norme UL 217.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041805Z">
+        <seg>Les avertisseurs de fumée doivent être répertoriés conformément à la norme UL 217.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40125,8 +40119,8 @@
       <tuv lang="en">
         <seg>Smoke alarms shall be provided in accordance with this section.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041638Z">
-        <seg>Des alarmes de fumée doivent être prévues conformément à la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041745Z">
+        <seg>Des avertisseurs de fumée doivent être prévus conformément à la présente section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40143,18 +40137,17 @@
       <tuv lang="en">
         <seg>Smoke alarms shall comply with NFPA 72 and Section R314.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041535Z">
-        <seg>Les alarmes de fumée doivent être conformes à la norme NFPA 72 et à la section R314.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041814Z">
+        <seg>Les avertisseurs de fumée doivent être conformes à la norme NFPA 72 et à la section R314.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.871: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke alarms shall not be installed in the following locations unless this would prevent placement of a smoke alarm in a location required by Section R314.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les détecteurs de fumée ne doivent pas être installés aux endroits suivants, sauf si cela empêcherait le placement d'un détecteur de fumée à un endroit requis par la section R314.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042051Z">
+        <seg>Les avertisseurs de fumée ne doivent pas être installés aux endroits suivants, sauf si cela empêcherait le placement d'un avertisseur de fumée à un endroit requis par la section R314.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48076,13 +48069,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.793: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where alterations, repairs or additions requiring a permit occur, the individual dwelling unit shall be equipped with smoke alarms located as required for new dwellings.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des modifications, des réparations ou des ajouts nécessitant un permis sont effectués, le logement individuel doit être équipé de détecteurs de fumée situés conformément aux exigences pour les logements neufs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041901Z">
+        <seg>Lorsque des modifications, des réparations ou des ajouts nécessitant un permis sont effectués, le logement individuel doit être équipé d' avertisseurs de fumée situés conformément aux exigences pour les logements neufs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48607,13 +48599,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.844: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where more than one smoke alarm is required to be installed within an individual dwelling unit in accordance with Section R314.3, the alarm devices shall be interconnected in such a manner that the actuation of one alarm will activate all of the alarms in the individual dwelling unit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'il est exigé d'installer plus d'un détecteur de fumée dans un logement individuel selon la section R314.3, les dispositifs d'alarme doivent être interconnectés de manière à ce que le déclenchement d'un détecteur active tous les détecteurs du logement individuel.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042208Z">
+        <seg>Lorsque plus d’un avertisseur de fumée doit être installé dans une unité d’habitation individuelle conformément à la section R314.3, les avertisseurs doivent être interconnectés de manière que le déclenchement d’un avertisseur active tous les avertisseurs de l’unité d’habitation individuelle.</seg>
       </tuv>
     </tu>
     <tu>
