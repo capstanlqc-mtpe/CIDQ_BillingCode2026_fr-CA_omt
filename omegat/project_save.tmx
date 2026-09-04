@@ -499,13 +499,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.813: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;A seat is not required to be installed in a shower for a single occupant accessed only through a private office and not for common use or public use, provided reinforcement has been installed in walls and located so as to permit the installation of a shower seat.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Il n'est pas nécessaire d'installer un siège dans une douche à l'usage d'un occupant unique et non à usage commun ou public, et à laquelle on accède uniquement par un bureau privé, à condition que les murs aient été renforcés aux endroits permettant l'installation d'un siège de douche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T160403Z">
+        <seg>1.&lt;x1/&gt; Il n’est pas nécessaire d’installer un siège dans une douche destinée à un seul occupant, accessible uniquement par l’intermédiaire d’un bureau privé et non destinée à un usage commun ou public, pourvu qu’un renforcement ait été installé dans les murs et soit situé de manière à permettre l’installation d’un siège de douche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5011,13 +5010,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.926: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;608.2.2.3&lt;x3/&gt;Seat&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;608.2.2.3&lt;x3/&gt;Seat&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T160233Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;608.2.2.3&lt;x3/&gt;Siège&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5030,33 +5028,30 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.932: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;608.2.3.1&lt;x3/&gt;Size&lt;e1/&gt;&lt;e2/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;608.2.3.1&lt;x3/&gt;Size&lt;e1/&gt;&lt;e2/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T160425Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;608.2.3.1&lt;x3/&gt;Dimensions&lt;e1/&gt;&lt;e2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.926: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;608.2.3.2&lt;x3/&gt;Seat&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;608.2.3.2&lt;x3/&gt;Seat&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T160547Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;608.2.3.2&lt;x3/&gt;Siège&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.755: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;608.2.3&lt;x3/&gt;Alternate Roll-in-type Shower &lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;Compartments.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;608.2.3 &lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;Compartiments de douche&lt;x3/&gt; alternatifs de type à accès de plain-pied.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T160343Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;608.2.3 &lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;Cabines de douche de type à accès de plain-pied de remplacement&lt;x3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24235,13 +24230,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A folding seat complying with Section 610 shall be provided on an end wall.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un siège pliant conforme à la section 610 doit être prévu sur un mur d'extrémité.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T160250Z">
+        <seg>Un siège rabattable conforme à la section 610 doit être prévu sur un mur d’extrémité.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24660,13 +24654,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A seat wall, 24 inches (610 mm) minimum and 36 inches (915 mm) maximum in length, shall be provided on the entry side of the compartment.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un mur de siège, d'une longueur minimale de 24 po [610 mm] et maximale de 36 po [915 mm], doit être prévu du côté de l'entrée du compartiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T160531Z">
+        <seg>Un mur de siège d’une longueur d’au moins 24 po (610 mm) et d’au plus 36 po (915 mm) doit être prévu du côté de l’entrée de la cabine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25853,13 +25846,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Alternate roll-in shower compartments shall have a clear inside dimension of 60 inches (1525 mm) minimum in width, and 36 inches (915 mm) in depth, measured at the center point of opposing sides.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les compartiments de douche à accès de plain-pied alternatifs doivent avoir des dimensions intérieures libres d'au moins 60 po [1525 mm] en largeur et de 36 po [915 mm] en profondeur, mesurées au point central des côtés opposés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T160505Z">
+        <seg>Les cabines de douche de type à accès de plain-pied de remplacement doivent avoir une dimension intérieure libre d’au moins 60 po (1 525 mm) de largeur et de 36 po (915 mm) de profondeur, mesurée au point central des côtés opposés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25867,8 +25859,8 @@
       <tuv lang="en">
         <seg>Alternate roll-in-type shower compartments shall comply with Section 608.2.3.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T032900Z">
-        <seg>Les cabines de douche de type fauteuil roulant de rechange doivent être conformes à la section 608.2.3.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T160414Z">
+        <seg>Les cabines de douche de type à accès de plain-pied de remplacement doivent être conformes à la section 608.2.3.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26512,13 +26504,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An entry 36 inches (915 mm) minimum in width shall be provided at one end of the 60-inch (1525 mm) width of the compartment.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir une entrée d'une largeur minimale de 36 po [915 mm] à une extrémité de la largeur de 60 po [1525 mm] du compartiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T160523Z">
+        <seg>Une entrée d’au moins 36 po (915 mm) de largeur doit être prévue à une extrémité de la largeur de 60 po (1 525 mm) de la cabine.</seg>
       </tuv>
     </tu>
     <tu>
