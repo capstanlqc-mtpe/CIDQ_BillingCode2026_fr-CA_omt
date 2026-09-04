@@ -1122,13 +1122,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.797: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;The requirement for knee and toe clearance shall not apply to more than one bowl of a multi-bowl sink.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; L'exigence de dégagement pour les genoux et l'espace pour les orteils ne doit s'appliquer qu'à une seule cuve dans une unité d'évier à cuves multiples.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T201419Z">
+        <seg>1.&lt;x1/&gt; L’exigence relative au dégagement pour les genoux et les orteils ne doit pas s’appliquer à plus d’un bac d’un évier à bacs multiples.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2945,13 +2944,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.791: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;A clear floor space providing a parallel approach and centered on the sink shall be permitted at a kitchen sink in a space where a cook top or conventional range is not provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Une surface de plancher dégagée offrant un accès parallèle et centrée sur l'évier doit être autorisée pour un évier de cuisine dans une pièce où il n'y a aucun plan de cuisson ni de cuisinière classique.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T201434Z">
+        <seg>3.&lt;x1/&gt; Une surface de plancher dégagée permettant une approche parallèle et centrée sur l’évier est autorisée au niveau d’un évier de cuisine dans un espace où aucune table de cuisson ni cuisinière conventionnelle n’est prévue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3594,13 +3592,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.788: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>4.&lt;x1/&gt;A clear floor space providing a parallel approach and centered on the sink shall be permitted at wet bars.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>4.&lt;x1/&gt; Une surface de plancher dégagée offrant un accès parallèle et centrée sur l'évier doit être autorisée pour les minibars.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T201510Z">
+        <seg>4.&lt;x1/&gt; Une surface de plancher dégagée permettant une approche parallèle et centrée sur l’évier est autorisée au niveau des bars avec évier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23716,13 +23713,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.794: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A clear floor space, positioned for a forward approach to the sink, shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir une surface de plancher dégagée, positionnée pour une approche de l'évier par l'avant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T201321Z">
+        <seg>Une surface de plancher dégagée, positionnée de manière à permettre une approche frontale de l’évier, doit être prévue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23913,13 +23909,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.798: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A counter that is adjustable to provide a work surface at variable heights 29 inches (735 mm) minimum and 36 inches (915 mm) maximum above the floor, or that can be relocated within that range without cutting the counter or damaging adjacent cabinets, walls, doors, and structural elements, shall be permitted.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un comptoir réglable pour fournir une surface de travail à des hauteurs variables comprises entre 29 po [735 mm] et 36 po [915 mm] au-dessus du sol, ou qui peut être déplacé dans cette plage sans couper le comptoir ou endommager les armoires, les murs, les portes et les éléments de structure adjacents, est autorisé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T201229Z">
+        <seg>Un comptoir réglable permettant de fournir une surface de travail à des hauteurs variables d’au moins 29 po (735 mm) et d’au plus 36 po (915 mm) au-dessus du plancher, ou pouvant être déplacé dans cette plage sans couper le comptoir ni endommager les armoires, murs, portes et éléments structuraux adjacents, est autorisé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24650,13 +24645,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.785: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A sink and counter that is adjustable to variable heights 29 inches (735 mm) minimum and 36 inches (915 mm) maximum above the floor, or that can be relocated within that range without cutting the counter or damaging adjacent cabinets, walls, doors and structural elements, provided rough-in plumbing permits connections of supply and drain pipes for sinks mounted at the height of 29 inches (735 mm), shall be permitted.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un évier et un comptoir réglables à des hauteurs variables comprises entre 29 po [735 mm] et 36 po [915 mm] au-dessus du sol, ou qui peuvent être déplacés dans cette plage sans couper le comptoir ou endommager les armoires, les murs, les portes et les éléments de structure adjacents, à condition que la plomberie brute permette le raccordement des tuyaux d'alimentation et de vidange pour les éviers installés à une hauteur de 29 po [735 mm], sont autorisés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T201556Z">
+        <seg>Un évier et un comptoir réglables permettant des hauteurs variables d’au moins 29 po (735 mm) et d’au plus 36 po (915 mm) au-dessus du plancher, ou pouvant être déplacés dans cette plage sans couper le comptoir ni endommager les armoires, murs, portes et éléments structuraux adjacents, sont autorisés, à condition que la plomberie brute permette le raccordement des tuyaux d’alimentation et d’évacuation pour les éviers installés à une hauteur de 29 po (735 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35588,13 +35582,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.779: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Knee and toe clearance complying with Section 306 shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir un espace pour les genoux et les orteils conformément à la section 306.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T201130Z">
+        <seg>Un dégagement pour les genoux et les orteils conforme à la section 306 doit être prévu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42514,13 +42507,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.801: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The front of the sink shall be 34 inches (865 mm) maximum above the floor, measured to the higher of the rim or counter surface.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'avant de l'évier doit se situer à une hauteur maximale au-dessus du sol de 34 po [865 mm], mesuré à la bordure de l'évier ou la surface du comptoir, selon la valeur la plus élevée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T201545Z">
+        <seg>L’avant de l’évier doit se trouver à au plus 34 po (865 mm) au-dessus du plancher, la mesure étant prise jusqu’au point le plus élevé du rebord ou de la surface du comptoir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45240,13 +45232,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.867: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The work surface shall be 34 inches (865 mm) maximum above the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La surface de travail doit se situer à une hauteur maximale au-dessus du sol de 34 po [865 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T201221Z">
+        <seg>La surface de travail doit se trouver à au plus 34 po (865 mm) au-dessus du plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45298,13 +45289,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>There shall be no sharp or abrasive surfaces under the exposed portions of work surface counters.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il ne doit pas y avoir de surfaces acérées ou abrasives sous les parties exposées des comptoirs de surface de travail.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T201251Z">
+        <seg>Il ne doit y avoir aucune surface coupante ou abrasive sous les parties exposées des comptoirs servant de surfaces de travail.</seg>
       </tuv>
     </tu>
     <tu>
