@@ -13850,13 +13850,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;802.8 Designated aisle seats.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;802.8 Sièges côté allée désignés.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185524Z">
+        <seg>&lt;g1&gt;802.8 Sièges désignés dans les allées.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24994,13 +24993,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A wheelchair space shall not overlap the required width of an aisle.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un espace pour fauteuil roulant ne doit pas chevaucher la largeur exigée d'une allée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185329Z">
+        <seg>Un espace pour fauteuil roulant ne doit pas empiéter sur la largeur requise d’une allée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28983,13 +28981,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.745: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Companion seat alignment shall not be required in tiered seating that includes dining surfaces or work surfaces.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'alignement du siège d'accompagnateur n'est pas exigé dans les SIÈGES en gradins qui comprennent des surfaces de restauration ou des surfaces de travail.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185517Z">
+        <seg>L’alignement du siège d’accompagnement n’est pas requis dans les gradins comportant des surfaces de repas ou des surfaces de travail.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30076,13 +30073,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.794: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Each designated aisle seat shall be identified by a sign or marker.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Chaque siège d'allée désigné doit être identifié par une enseigne ou un marqueur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185655Z">
+        <seg>Chaque siège désigné dans l’allée doit être identifié au moyen d’un panneau ou d’un repère.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34658,13 +34654,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In existing buildings and facilities, where a wheelchair space is entered from the front or rear, the wheelchair space shall be 48 inches (1220 mm) minimum in depth.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les bâtiments et les installations existants, lorsqu'un espace pour fauteuil roulant est accessible par l'avant ou par l'arrière, l'espace pour fauteuil roulant doit avoir une profondeur minimale de 48 po [1220 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185243Z">
+        <seg>Dans les bâtiments et installations existants, lorsqu’un espace pour fauteuil roulant est accessible par l’avant ou l’arrière, sa profondeur doit être d’au moins 48 po (1 220 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34788,23 +34783,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In new buildings and facilities, the depth of a wheelchair space shall be permitted to overlap the required aisle width a maximum of 4 inches (100 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les nouveaux bâtiments et installations, la profondeur d'un espace pour fauteuil roulant peut empiéter sur la largeur requise de l'allée d'au plus 4 po [100 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185341Z">
+        <seg>Dans les nouveaux bâtiments et installations, la profondeur d'un espace pour fauteuil roulant peut empiéter sur la largeur requise de l'allée d'au plus 4 po (100 mm).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In new buildings and facilities, where a wheelchair space is entered from the front or rear, the wheelchair space shall be 52 inches (1320 mm) minimum in depth.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les nouveaux bâtiments et installations, lorsqu'un espace pour fauteuil roulant est accessible par l'avant ou par l'arrière, la profondeur minimale de cet espace doit être de 52 po [1320 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185217Z">
+        <seg>Dans les bâtiments et installations neufs, lorsqu’un espace pour fauteuil roulant est accessible par l’avant ou l’arrière, sa profondeur doit être d’au moins 52 po (1 320 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34963,13 +34956,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.774: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In row seating, the companion seat shall be located to provide shoulder alignment with the wheelchair space occupant.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les SIÈGES en rangée, le siège d'accompagnateur doit être situé de manière à permettre l'alignement des épaules avec l'occupant de l'espace pour fauteuil roulant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185429Z">
+        <seg>Dans une rangée de sièges, le siège d’accompagnement doit être situé de manière à assurer l’alignement des épaules avec l’occupant de l’espace pour fauteuil roulant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42526,13 +42518,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The floor surface for the companion seat shall be at the same elevation as the wheelchair space floor surface.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La surface de plancher du siège d'accompagnateur doit être à la même élévation que la surface de plancher de l'espace pour fauteuil roulant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185445Z">
+        <seg>La surface de plancher du siège d’accompagnement doit être à la même élévation que la surface de plancher de l’espace pour fauteuil roulant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44237,13 +44228,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The shoulder of the wheelchair space occupant is considered to be 36 inches (915 mm) or more from the front and 12 inches (305 mm) or more from the rear of the wheelchair space.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'épaule de l'occupant de l'espace pour fauteuil roulant est considérée comme étant à 36 po [915 mm] ou plus de l'avant et à 12 po [305 mm] ou plus de l'arrière de l'espace pour fauteuil roulant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185439Z">
+        <seg>L’épaule de l’occupant de l’espace pour fauteuil roulant est considérée comme étant à au moins 36 po (915 mm) de l’avant et à au moins 12 po (305 mm) de l’arrière de l’espace pour fauteuil roulant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47432,13 +47422,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a wheelchair space is only entered from the side, the wheelchair space shall be 60 inches (1525 mm) minimum in depth.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un espace pour fauteuil roulant est accessible uniquement par le côté, l'espace pour fauteuil roulant doit avoir une profondeur minimale de 60 po [1525 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185224Z">
+        <seg>Lorsqu’un espace pour fauteuil roulant est accessible uniquement par le côté, sa profondeur doit être d’au moins 60 po (1 525 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -47624,13 +47613,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.745: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where armrests are provided on seating in the immediate area of designated aisle seats, folding or retractable armrests shall be provided on the aisle side of the designated aisle seat.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des accoudoirs sont prévus sur les SIÈGES situés à proximité immédiate des SIÈGES D'ALLÉE DÉSIGNÉS, il faut prévoir des accoudoirs rabattables ou rétractables du côté allée du SIÈGE D'ALLÉE DÉSIGNÉ.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T185557Z">
+        <seg>Lorsque des accoudoirs sont prévus sur les sièges à proximité immédiate des sièges désignés dans les allées, des accoudoirs rabattables ou escamotables doivent être prévus du côté de l’allée du siège désigné dans l’allée.</seg>
       </tuv>
     </tu>
     <tu>
