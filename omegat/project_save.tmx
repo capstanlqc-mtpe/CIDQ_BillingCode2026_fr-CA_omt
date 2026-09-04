@@ -33174,13 +33174,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.804: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Glazing installed in in-fill panels or balusters in windborne debris regions shall comply with the following:&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le vitrage installé dans les panneaux de remplissage ou les balustres dans les zones de débris transportés par le vent doit être conforme à ce qui suit :&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T004631Z">
+        <seg>Le vitrage installé dans les panneaux de remplissage ou les balustres dans les régions exposées aux débris transportés par le vent doit être conforme à ce qui suit :&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
