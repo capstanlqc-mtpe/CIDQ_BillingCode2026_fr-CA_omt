@@ -4994,13 +4994,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;608.2.1&lt;x3/&gt;Transfer-type Shower Compartments&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;608.2.1 Compartiments&lt;x3/&gt; de douche de type transfert&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T155413Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;608.2.1 Cabines&lt;x3/&gt; de douche de type transfert&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15359,23 +15358,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.932: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;608.2.1.1&lt;x3/&gt;Size.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;608.2.1.1&lt;x3/&gt;Size.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T155259Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;608.2.1.1&lt;x3/&gt;Taille.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.923: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;608.2.1.2&lt;x3/&gt;Clearance.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;608.2.1.2&lt;x3/&gt;Clearance.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T155332Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;608.2.1.2&lt;x3/&gt;Dégagement.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22325,13 +22322,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.849: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;A clearance of 48 inches (1220 mm) minimum in length measured perpendicular from the control wall, and 36 inches (915 mm) minimum in depth shall be provided adjacent to the open face of the compartment.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Il faut prévoir un dégagement d'au moins 48 po [1220 mm] en longueur, mesurée perpendiculairement au mur de commande, et d'au moins 36 po [915 mm] en profondeur, adjacent à la face ouverte du compartiment.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T155516Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Un espace libre d’au moins 48 po (1 220 mm) de longueur, mesuré perpendiculairement au mur où se trouvent les commandes, et d’au moins 36 po (915 mm) de profondeur doit être prévu à côté de la face ouverte de la cabine.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23514,13 +23510,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Transfer-type shower compartments shall have a clear inside dimension of 36 inches (915 mm) in width and 36 inches (915 mm) in depth, measured at the center point of opposing sides.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Les compartiments de douche de type transfert doivent avoir des dimensions intérieures libres de 36 po [915 mm] de largeur et de 36 po [915 mm] de profondeur, mesurées au point central des côtés opposés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T155345Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Les cabines de douche de type transfert doivent avoir une dimension intérieure libre d’au moins 36 po (915 mm) de largeur et d’au moins 36 po (915 mm) de profondeur, mesurée au point central des côtés opposés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26535,13 +26530,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.797: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An entry 36 inches (915 mm) minimum in width shall be provided.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une entrée d'une largeur minimale de 36 po [915 mm] doit être prévue.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T155356Z">
+        <seg>Une entrée d’au moins 36 po (915 mm) de largeur doit être prévue.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27521,13 +27515,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Bathtubs shall deliver water that is 120°F (49°C) maximum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les baignoires doivent fournir de l'eau à une température maximale de 120 °F (49 °C).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T155212Z">
+        <seg>Les baignoires doivent fournir de l’eau à une température maximale de 120 °F (49 °C).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30961,13 +30954,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.805: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Enclosures for bathtubs shall not obstruct controls, faucets, shower and spray units or obstruct transfer from wheelchairs onto bathtub seats or into bathtubs.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les parois de baignoire ne doivent pas obstruer les commandes, les robinets, les douches et les pulvérisateurs, ni obstruer le transfert des fauteuils roulants vers les sièges de baignoire ou dans les baignoires.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T155134Z">
+        <seg>Les enceintes des baignoires ne doivent pas obstruer les commandes, les robinets, les unités de douche et de pulvérisation, ni entraver le transfert d’un fauteuil roulant vers les sièges de baignoire ou dans les baignoires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30989,13 +30981,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Enclosures on bathtubs shall not have tracks installed on the rim of the bathtub.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les parois de baignoire ne doivent pas comporter de rails installés sur la bordure de la baignoire.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T155141Z">
+        <seg>Les enceintes des baignoires ne doivent pas comporter de rails installés sur le rebord de la baignoire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34912,13 +34903,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.861: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In new buildings and facilities, a clearance of 52 inches (1320 mm) minimum in length and 36 inches (915 mm) minimum in depth shall be provided adjacent to the open face of the compartment.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les nouveaux bâtiments et installations, un dégagement d'au moins 52 po [1320 mm] en longueur et d'au moins 36 po [915 mm] en profondeur doit être prévu à côté de la face ouverte du compartiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T155537Z">
+        <seg>Dans les bâtiments et installations neufs, un espace libre d’au moins 52 po (1 320 mm) de longueur et d’au moins 36 po (915 mm) de profondeur doit être prévu à côté de la face ouverte de la cabine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39499,13 +39489,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Shower compartments shall have sizes, clearances and seats complying with Section 608.2.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les compartiments de douche doivent avoir des dimensions, des dégagements et des sièges conformes à l'article 608.2.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T155239Z">
+        <seg>Les cabines de douche doivent avoir des dimensions, des espaces libres et des sièges conformes à la section 608.2.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -43277,13 +43266,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.872: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The length of the clear floor space shall be measured perpendicular from either the control wall or from 4 inches (100 mm) behind the control wall.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La longueur de la surface de plancher dégagée doit être mesurée perpendiculairement au mur de commande ou à 4 po [100 mm] derrière le mur de commande.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T155549Z">
+        <seg>La longueur de l’espace libre au sol doit être mesurée perpendiculairement soit au mur où se trouvent les commandes, soit à 4 po (100 mm) derrière ce mur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46171,8 +46159,8 @@
       <tuv lang="en">
         <seg>Transfer-type shower compartments shall comply with Section 608.2.1.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T013308Z">
-        <seg>Les compartiments de douche de type transfert doivent être conformes à la section 608.2.1.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T155404Z">
+        <seg>Les cabines de douche de type transfert doivent être conformes à la section 608.2.1.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
