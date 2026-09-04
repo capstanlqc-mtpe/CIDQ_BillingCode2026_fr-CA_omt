@@ -7577,13 +7577,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1102.11.2.1 Vanity countertop space.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1102.11.2.1 Comptoir de toilette.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T194502Z">
+        <seg>&lt;g1&gt;1102.11.2.1 Espace de comptoir de meuble-lavabo.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33751,13 +33750,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.77: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>If vanity countertop space is provided in dwelling or sleeping units not required to be Accessible units within the same facility, equivalent vanity countertop space, in terms of size and proximity to the lavatory, shall also be provided in Accessible units.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Si un espace de comptoir de toilette est prévu dans des unités d'habitation ou des unités de couchage qui ne doivent pas être des unités accessibles dans la même installation, un espace de comptoir de toilette équivalent, en termes de taille et de proximité du lavabo, doit également être prévu dans les unités accessibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T194446Z">
+        <seg>Si un espace de comptoir de meuble-lavabo est prévu dans des logements ou des unités de couchage qui ne sont pas tenus d’être des unités accessibles au sein du même établissement, un espace de comptoir de meuble-lavabo équivalent, en termes de dimensions et de proximité par rapport au lavabo, doit également être prévu dans les unités accessibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34451,13 +34449,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.785: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In at least one sleeping area, a minimum of five percent, but not less than one bed shall comply with Section 1102.15.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans au moins un espace de couchage, un minimum de cinq pour cent des lits, mais pas moins d'un lit, doit être conforme à la section 1102.15.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T194614Z">
+        <seg>Dans au moins une aire de couchage, au moins 5 %, mais pas moins d’un lit, doivent être conformes à la section 1102.15.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36359,13 +36356,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.836: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Mirrors above lavatories required to comply with Section 606 shall have the bottom edge of the reflecting surface 40 inches (1015 mm) maximum above the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le bord inférieur de la surface réfléchissante des miroirs au-dessus des lavabos tenus de se conformer à la section 606 doit se trouver à une hauteur maximale de 40 po [1015 mm] au-dessus du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T194522Z">
+        <seg>Les miroirs situés au-dessus des lavabos qui sont tenus de se conformer à la section 606 doivent avoir le bord inférieur de la surface réfléchissante à au plus 40 po (1 015 mm) au-dessus du plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45442,13 +45438,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>These toilet and bathing fixtures shall be in a single toilet/bathing area, such that travel between fixtures does not require travel through other parts of the unit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ces appareils sanitaires de toilettes et de salle de bain doivent se trouver dans une seule zone de toilettes/salle de bain, de sorte que le déplacement entre les appareils ne nécessite pas de traverser d'autres parties de l'unité.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T194431Z">
+        <seg>Ces appareils sanitaires et de bain doivent être regroupés dans une même aire de toilettes et de bain, de sorte que les déplacements entre les appareils sanitaires et de bain ne nécessitent pas de traverser d’autres parties de l’unité.</seg>
       </tuv>
     </tu>
     <tu>
