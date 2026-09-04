@@ -22649,13 +22649,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Escalator floor openings shall be enclosed with shaft enclosures complying with Section 713.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les ouvertures au sol des escaliers mécaniques doivent être encloisonnées dans des puits encloisonnés conformes à la section 713.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T014950Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les ouvertures de plancher des escaliers mécaniques doivent être encloisonnées par des puits encloisonnés conformes à la section 713.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -46401,13 +46400,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>This requirement shall not apply to electrical equipment, wiring, wheels, handrails and the use of 1/28-inch (0.9 mm) wood veneers on balustrades backed up with non-combustible materials.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Cette exigence ne doit pas s'appliquer à l'équipement électrique, au câblage, aux roues, aux rampes et à l'utilisation de placages de bois de 1/28 pouce (0,9 mm) sur des balustrades soutenues par des matériaux incombustibles.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T011943Z">
+        <seg>Cette exigence ne s’applique pas au matériel électrique, au câblage, aux roues, aux mains courantes ni à l’utilisation de placages de bois de 1/28 po (0,9 mm) sur des balustrades dont le support est constitué de matériaux incombustibles.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
