@@ -1286,13 +1286,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.Smoke alarms shall be permitted to be battery operated where installed in buildings without commercial power.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1. Les détecteurs de fumée peuvent fonctionner sur batterie lorsqu'ils sont installés dans des bâtiments sans alimentation commerciale.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042357Z">
+        <seg>1. Les avertisseurs de fumée peuvent fonctionner sur batterie lorsqu'ils sont installés dans des bâtiments sans alimentation commerciale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1335,13 +1334,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.Work involving the exterior surfaces of dwellings, such as the replacement of roofing or siding, or the addition or replacement of windows or doors, or the addition of a porch or deck.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1. Les travaux concernant les surfaces extérieures des habitations, tels que le remplacement de la toiture ou du revêtement, ou l'ajout ou le remplacement de fenêtres ou de portes, ou l'ajout d'un porche ou d'une terrasse.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042625Z">
+        <seg>1. Travaux portant sur les surfaces extérieures des logements, tels que le remplacement de la couverture ou du revêtement extérieur, l’ajout ou le remplacement de fenêtres ou de portes, ou l’ajout d’une véranda ou d’une terrasse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2656,13 +2654,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.877: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.Smoke alarms installed in accordance with Section R314.2.2 shall be permitted to be battery powered.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2. Les détecteurs de fumée installés selon la section R314.2.2 peuvent être alimentés par batterie.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042359Z">
+        <seg>2. Les avertisseurs de fumée installés selon la section R314.2.2 peuvent être alimentés par batterie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5731,8 +5728,8 @@
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;[F] 420.5 Fire alarm systems and smoke alarms&lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T160857Z">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;[F] 420.5 Systèmes d'alarme d'incendie et détecteurs de fumée&lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042346Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;[F] 420.5 Systèmes d'alarme d'incendie et avertisseurs de fumée&lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18437,13 +18434,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;R314.5 Combination alarms.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;R314.5 Détecteurs combinés.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042226Z">
+        <seg>&lt;g1&gt;R314.5 Avertisseurs combinés.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18457,13 +18453,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.881: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;R314.7 Fire alarm systems.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;R314.7 Systèmes d'alarme incendie.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042457Z">
+        <seg>&lt;g1&gt;R314.7 Systèmes d'alarme d'incendie.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28194,13 +28189,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Carbon monoxide alarms in dwelling units shall be installed outside of each separate sleeping area in the immediate vicinity of the bedrooms.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les détecteurs de monoxyde de carbone dans les logements doivent être installés à l'extérieur de chaque espace de couchage séparé, à proximité immédiate des chambres à coucher.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042655Z">
+        <seg>Les avertisseurs de monoxyde de carbone dans les logements doivent être installés à l'extérieur de chaque espace de couchage séparé, à proximité immédiate des chambres à coucher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29060,13 +29054,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Combination smoke and carbon monoxide alarms shall be permitted to be used in lieu of smoke alarms.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les détecteurs combinés de fumée et de monoxyde de carbone peuvent être utilisés à la place des détecteurs de fumée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042241Z">
+        <seg>Les avertisseurs combinés de fumée et de monoxyde de carbone peuvent être utilisés à la place des avertisseurs de fumée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31946,18 +31939,17 @@
       <tuv lang="en">
         <seg>Fire alarm systems and smoke alarms shall be provided in Group I-1, R- 1 and R-2 occupancies in accordance with Sections 907.2.6, 907.2.8 and 907.2.9, respectively.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260831T160907Z">
-        <seg>Des systèmes d'alarme d'incendie et des détecteurs de fumée doivent être prévus dans les usages des groupes I-1, R-1 et R-2 selon les sections 907.2.6, 907.2.8 et 907.2.9, respectivement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042350Z">
+        <seg>Des systèmes d'alarme d'incendie et des avertisseurs de fumée doivent être prévus dans les usages des groupes I-1, R-1 et R-2 selon les sections 907.2.6, 907.2.8 et 907.2.9, respectivement.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.871: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Fire alarm systems shall be permitted to be used in lieu of smoke alarms and shall comply with Sections R314.7.1 through R314.7.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les systèmes d'alarme incendie peuvent être utilisés à la place des détecteurs de fumée et doivent être conformes aux sections R314.7.1 à R314.7.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042400Z">
+        <seg>Les systèmes d'alarme incendie peuvent être utilisés à la place des avertisseurs de fumée et doivent être conformes aux sections R314.7.1 à R314.7.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35614,13 +35606,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.872: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Interior corridors are protected by smoke detectors.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les corridors intérieurs sont protégés par des détecteurs de fumée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042356Z">
+        <seg>Les corridors intérieurs sont protégés par des avertisseurs de fumée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38190,13 +38181,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Physical interconnection of smoke alarms shall not be required where listed wireless alarms are installed and all alarms sound upon activation of one alarm.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'interconnexion physique des détecteurs de fumée n'est pas exigée lorsque des détecteurs sans fil homologués sont installés et que tous les détecteurs sonnent lors de l'activation d'un détecteur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042213Z">
+        <seg>L’interconnexion physique des avertisseurs de fumée n’est pas requise lorsque des avertisseurs sans fil homologués sont installés et que tous les avertisseurs se déclenchent lors de l’activation de l’un d’eux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40021,13 +40011,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.859: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Single- or multiple-station smoke alarms shall be provided in Groups I-1, R-2, R-3 and R-4 in accordance with Section 907.2.11.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des détecteurs de fumée à poste unique ou à postes multiples doivent être prévus dans les groupes I-1, R-2, R-3 et R-4 selon la section 907.2.11.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042352Z">
+        <seg>Des avertisseurs de fumée à poste unique ou à postes multiples doivent être prévus dans les groupes I-1, R-2, R-3 et R-4 selon la section 907.2.11.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40151,13 +40140,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke alarms shall receive their primary power from the building wiring where such wiring is served from a commercial source and, where primary power is interrupted, shall receive power from a battery.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les détecteurs de fumée doivent être alimentés en électricité primaire par le câblage du bâtiment lorsque ce câblage est alimenté par une source commerciale et, en cas d'interruption de l'alimentation primaire, ils doivent être alimentés par une batterie.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042302Z">
+        <seg>Les avertisseurs de fumée doivent être alimentés principalement par le câblage électrique du bâtiment lorsque celui-ci est alimenté par une source commerciale et, lorsque l’alimentation principale est interrompue, doivent être alimentés par une pile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40263,12 +40251,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.885: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke detectors shall be listed in accordance with UL 268.</seg>
       </tuv>
-      <tuv lang="fr-CA">
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042422Z">
         <seg>Les détecteurs de fumée doivent être répertoriés conformément à la norme UL 268.</seg>
       </tuv>
     </tu>
@@ -47673,13 +47660,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a fuel-burning appliance is located within a bedroom or its attached bathroom, a carbon monoxide alarm shall be installed within the bedroom.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un appareil à combustible est situé dans une chambre à coucher ou dans sa salle de bain attenante, un détecteur de monoxyde de carbone doit être installé dans la chambre à coucher.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042701Z">
+        <seg>Lorsqu'un appareil à combustible est situé dans une chambre à coucher ou dans sa salle de bain attenante, un avertisseurs de monoxyde de carbone doit être installé dans la chambre à coucher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47711,13 +47697,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.793: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a household fire alarm system is installed, it shall become a permanent fixture of the occupancy, owned by the homeowner.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un système d'alarme incendie domestique est installé, il doit devenir un équipement permanent de l'occupation, appartenant au propriétaire.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042519Z">
+        <seg>Lorsqu'un système d'alarme d'incendie domestique est installé, il doit devenir un équipement permanent de l'occupation, appartenant au propriétaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48059,13 +48044,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.795: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where alterations, repairs or additions requiring a permit occur, the individual dwelling unit shall be equipped with carbon monoxide alarms located as required for new dwellings.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des modifications, des réparations ou des ajouts nécessitant un permis sont effectués, le logement individuel doit être équipé de détecteurs de monoxyde de carbone situés conformément aux exigences pour les logements neufs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042618Z">
+        <seg>Lorsque des travaux de transformation, de réparation ou d’agrandissement nécessitant un permis sont effectués, l’unité d’habitation individuelle doit être équipée d’avertisseurs de monoxyde de carbone installés aux endroits exigés pour les constructions résidentielles neuves.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48220,8 +48204,8 @@
       <tuv lang="en">
         <seg>Where automatic sprinkler systems or smoke detectors are installed, such systems or detectors shall be connected to the building fire alarm system.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260902T223604Z">
-        <seg>Lorsque des systèmes d’extincteurs automatiques ou des détecteurs de fumée sont installés, ces systèmes ou détecteurs doivent être raccordés au système d’alarme d’incendie du bâtiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042354Z">
+        <seg>Lorsque des systèmes d’extincteurs automatiques ou des avertisseurs de fumée sont installés, ces systèmes ou détecteurs doivent être raccordés au système d’alarme d’incendie du bâtiment.</seg>
       </tuv>
     </tu>
     <tu>
