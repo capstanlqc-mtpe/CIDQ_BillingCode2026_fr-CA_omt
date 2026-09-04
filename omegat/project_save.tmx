@@ -3434,13 +3434,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.919: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>30 inches (760 mm)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>30 pouces (760 mm)</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190123Z">
+        <seg>30 po (760 mm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3483,13 +3482,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.921: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>35 inches (890 mm)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>35 pouces (890 mm)</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190131Z">
+        <seg>35 po (890 mm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10313,13 +10311,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.811: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1&lt;/g1&gt;The height of the wheelchair space location is the vertical distance from the tread of the row of seats directly in front of the wheelchair space location to the tread of the wheelchair space location.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1&lt;/g1&gt;La hauteur de l'emplacement de l'espace pour fauteuil roulant est la distance verticale entre le coussin de la rangée de sièges directement devant l'emplacement de l'espace pour fauteuil roulant et le coussin de l'emplacement de l'espace pour fauteuil roulant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190245Z">
+        <seg>&lt;g1&gt;1&lt;/g1&gt;La hauteur de l’aire réservée aux espaces pour fauteuils roulants correspond à la distance verticale entre le giron de la rangée de sièges située directement devant l’aire réservée aux espaces pour fauteuils roulants et le giron de cette aire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10361,13 +10358,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;2&lt;/g1&gt;The row spacing is the back-to-back horizontal distance between the rows of seats in front of the wheelchair space location.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;2&lt;/g1&gt;L'espacement des rangées est la distance horizontale dos à dos entre les rangées de sièges devant l'emplacement de l'espace pour fauteuil roulant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190256Z">
+        <seg>&lt;g1&gt;2&lt;/g1&gt;L’espacement entre les rangées correspond à la distance horizontale, dos à dos, entre les rangées de sièges situées devant l’aire réservée aux espaces pour fauteuils roulants.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10518,13 +10514,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.763: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;3&lt;/g1&gt;Seating treads less than 33 inches (840 mm) in depth shall not be permitted with risers greater than 18 inches (455 mm) in height.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;3 Les&lt;/g1&gt; SIÈGES d'une profondeur inférieure à 33 po [840 mm] ne sont pas autorisés avec des contremarches d'une hauteur supérieure à 18 po [455 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190312Z">
+        <seg>&lt;g1&gt;3 Les&lt;/g1&gt; girons de sièges d’une profondeur inférieure à 33 po (840 mm) ne sont pas autorisés lorsque les contremarches ont une hauteur supérieure à 18 po (455 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12008,13 +12003,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.772: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;4&lt;/g1&gt;Seating treads less than 44 inches (1120 mm) in depth shall not be permitted with risers greater than 27 inches (685 mm) in height.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;4&lt;/g1&gt;Les SIÈGES d'une profondeur inférieure à 44 po [1120 mm] ne sont pas autorisés avec des contremarches d'une hauteur supérieure à 27 po [685 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190319Z">
+        <seg>&lt;g1&gt;4&lt;/g1&gt;Les girons de sièges d’une profondeur inférieure à 44 po (1 120 mm) ne sont pas autorisés lorsque les contremarches ont une hauteur supérieure à 27 po (685 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15292,13 +15286,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.771: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;5&lt;/g1&gt;Table 802.9.2.2 is based on providing a spectator in a wheelchair a line of sight over the head of a spectator two rows in front of the wheelchair space location using average anthropometrical data.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;5&lt;/g1&gt;Le tableau 802.9.2.2 est basé sur le fait de fournir à un spectateur en fauteuil roulant une ligne de visée au-dessus de la tête d'un spectateur deux rangées devant l'emplacement de l'espace pour fauteuil roulant en utilisant des données anthropométriques moyennes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190354Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;5&lt;/g1&gt;Le tableau 802.9.2.2 est fondé sur l’obtention, pour un spectateur en fauteuil roulant, d’une ligne de visibilité au-dessus de la tête d’un spectateur situé deux rangées devant l’aire réservée aux espaces pour fauteuils roulants, au moyen de données anthropométriques moyennes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33506,13 +33499,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.821: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Horizontal dispersion shall not be required in assembly areas with 300 or fewer seats if the wheelchair space locations are located within the 2nd and 3rd quartile of the row length.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La dispersion horizontale n'est pas exigée dans les zones de réunion de 300 places ou moins si les emplacements pour fauteuils roulants se trouvent dans les 2e et 3e quartiles de la longueur de la rangée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190621Z">
+        <seg>La dispersion horizontale ne doit pas être requise dans les aires d’assemblée comptant 300 sièges ou moins si les emplacements réservés aux espaces pour fauteuils roulants sont situés dans le 2e et le 3e quartile de la longueur de la rangée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36993,13 +36985,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.803: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Once the required number of wheelchair space locations has been met, further dispersion shall not be required.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une fois que le nombre requis d'emplacements pour fauteuils roulants a été atteint, une répartition supplémentaire n'est pas exigée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190454Z">
+        <seg>Une fois que le nombre requis d’aires réservées aux espaces pour fauteuils roulants a été atteint, aucune dispersion supplémentaire n’est requise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41481,13 +41472,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.759: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The calculation is based on the front of the wheelchair space location being located 12 inches (305 mm) from the back of the seating tread directly in front and the eye of the standing spectator being set back 8 inches (205 mm) from the riser&lt;x1/&gt;&lt;g2&gt;.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le calcul est basé sur le fait que l'avant de l'emplacement pour fauteuil roulant est situé à 12 po [305 mm] de l'arrière du pas de marche des SIÈGES directement devant et que l'œil du spectateur debout est en retrait de 8 po [205 mm] de la contremarche&lt;x1/&gt;&lt;g2&gt;.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190412Z">
+        <seg>Le calcul est fondé sur le fait que l’avant de l’aire réservée aux espaces pour fauteuils roulants est situé à 12 po (305 mm) du dos du giron de siège situé directement devant et que les yeux du spectateur debout sont situés à 8 po (205 mm) en retrait de la contremarche&lt;x1/&gt;&lt;g2&gt;.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44719,13 +44709,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The table is based on the following calculation: [(2X+34)(Y-2.25)/X]+(20.2-Y) where Y is the riser height of the rows in front of the wheelchair space location and X is the tread depth of the rows in front of the wheelchair space location.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le tableau est basé sur le calcul suivant : [(2X+34)(Y-2,25)/X]+(20,2-Y) où Y est la hauteur de la contremarche des rangées devant l'emplacement de l'espace pour fauteuil roulant et X est la profondeur du giron des rangées devant l'emplacement de l'espace pour fauteuil roulant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190405Z">
+        <seg>Le tableau est fondé sur le calcul suivant : [(2X + 34)(Y - 2,25)/X] + (20,2 - Y), où Y correspond à la hauteur de la contremarche des rangées situées devant l’aire réservée aux espaces pour fauteuils roulants et X correspond à la profondeur du giron des rangées situées devant l’aire réservée aux espaces pour fauteuils roulants.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46125,13 +46114,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.783: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Two wheelchair spaces shall be permitted to be located side-by-side.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Deux espaces pour fauteuils roulants peuvent être situés côte à côte.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190546Z">
+        <seg>Deux espaces pour fauteuils roulants sont autorisés à être situés côte à côte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48421,13 +48409,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.791: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where seating encircles the stage or field, in whole or in part, horizontal dispersion shall include the entire seating area.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les SIÈGES entourent la scène ou le terrain, en tout ou en partie, la dispersion horizontale doit inclure toute la zone des SIÈGES.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190541Z">
+        <seg>Lorsque les sièges entourent la scène ou le terrain, en totalité ou en partie, la dispersion horizontale doit comprendre l’ensemble de l’aire de sièges.</seg>
       </tuv>
     </tu>
     <tu>
