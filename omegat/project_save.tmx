@@ -12785,13 +12785,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.901: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;613.4.5.2 Rail positioning.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;613.4.5.2 Positionnement des barrières.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T172846Z">
+        <seg>&lt;g1&gt;613.4.5.2 Positionnement des barres.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26435,23 +26434,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.804: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An end maneuvering clearance 24 inches (610 mm) minimum in width shall be permitted where a clear floor space complying with Section 305.3 is provided within the room beyond the maneuvering clearances for the changing surface.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un espace de dégagement d'extrémité d'au moins 24 po [610 mm] de largeur est autorisé lorsqu'une surface de plancher dégagée conforme à la section 305.3 est prévue dans la pièce au-delà des espaces de dégagement pour la surface à langer.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T171947Z">
+        <seg>Un espace libre de manœuvre à l’extrémité d’une largeur d’au moins 24 po (610 mm) peut être prévu lorsqu’un espace libre au sol conforme à la section 305.3 est prévu dans la pièce, au-delà des espaces libres de manœuvre requis pour la surface de changement.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.814: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An end maneuvering clearance 36 inches minimum in width shall be provided along the depth of one end of the changing surface.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un espace de manœuvre d'extrémité d'une largeur minimale de 36 pouces doit être prévu le long de la profondeur d'une extrémité de la surface à langer.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T171932Z">
+        <seg>Un espace de manœuvre d'extrémité d'une largeur minimale de 36 pouces doit être prévu le long de la profondeur d'une extrémité de la surface de changement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39438,13 +39435,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.855: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Side rails shall be a minimum of 2/3 of the length of the changing surface and shall be centered +/- 3 inch (75 mm) along the long open sides of the changing surface.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les barrières latérales doivent avoir au moins 2/3 de la longueur de la surface à langer et doivent être centrées à +/- 3 pouces [75 mm] le long des longs côtés ouverts de la surface à langer.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T172047Z">
+        <seg>Les barres latérales doivent avoir au moins 2/3 de la longueur de la surface de changement et doivent être centrées à +/- 3 pouces (75 mm) le long des longs côtés ouverts de la surface de changement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42017,13 +42013,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The depth of the end maneuvering clearance shall extend the depth of the changing surface and the side maneuvering clearance.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La profondeur de l'espace de dégagement d'extrémité doit se prolonger sur la profondeur de la surface à langer et de l'espace de dégagement latéral.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T171941Z">
+        <seg>La profondeur de l'espace de dégagement d'extrémité doit se prolonger sur la profondeur de la surface de changement et de l'espace de dégagement latéral.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48588,13 +48583,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.866: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where side rails are provided at the changing surface they shall comply with Sections 613.4.5.1 and 613.4.5.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des barrières latérales sont prévues au niveau de la surface à langer, elles doivent être conformes aux sections 613.4.5.1 et 613.4.5.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T172018Z">
+        <seg>Lorsque des barres latérales sont prévues au niveau de la surface de changement, elles doivent être conformes aux sections 613.4.5.1 et 613.4.5.2.</seg>
       </tuv>
     </tu>
     <tu>
