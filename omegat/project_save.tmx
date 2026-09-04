@@ -1258,13 +1258,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.Carbon monoxide alarms shall be permitted to be battery operated where installed in buildings without commercial power.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1. Les détecteurs de monoxyde de carbone peuvent fonctionner sur batterie lorsqu'ils sont installés dans des bâtiments sans alimentation commerciale.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042949Z">
+        <seg>1. Les avertisseurs de monoxyde de carbone peuvent être alimentés par une pile lorsqu’ils sont installés dans des bâtiments dépourvus d’alimentation électrique commerciale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2616,13 +2615,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.885: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.Carbon monoxide alarms installed in accordance with Section R315.2.2 shall be permitted to be battery powered.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2. Les détecteurs de monoxyde de carbone installés selon la section R315.2.2 peuvent être alimentés par batterie.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042955Z">
+        <seg>2. Les avertisseurs de monoxyde de carbone installés conformément à la section R315.2.2 peuvent être alimentés par une pile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18562,13 +18560,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;R315.4 Combination alarms.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;R315.4 Détecteurs combinés.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042707Z">
+        <seg>&lt;g1&gt;R315.4 Avertisseurs combinés.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28244,13 +28241,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Carbon monoxide alarms shall receive their primary power from the building wiring where such wiring is served from a commercial source and, where primary power is interrupted, shall receive power from a battery.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les détecteurs de monoxyde de carbone doivent être alimentés en électricité primaire par le câblage du bâtiment lorsque ce câblage est alimenté par une source commerciale et, en cas d'interruption de l'alimentation primaire, ils doivent être alimentés par une batterie.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042921Z">
+        <seg>Les avertisseurs de monoxyde de carbone doivent être alimentés principalement par le câblage électrique du bâtiment lorsque celui-ci est alimenté par une source commerciale et, lorsque l’alimentation principale est interrompue, doivent être alimentés par une pile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28978,23 +28974,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Combination carbon monoxide and smoke alarms shall be permitted to be used in lieu of carbon monoxide alarms.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les détecteurs combinés de monoxyde de carbone et de fumée peuvent être utilisés à la place des détecteurs de monoxyde de carbone.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042712Z">
+        <seg>Les avertisseurs combinés de monoxyde de carbone et de fumée peuvent être utilisés à la place des détecteurs de monoxyde de carbone.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Combination carbon monoxide and smoke detectors installed in carbon monoxide detection systems in lieu of carbon monoxide detectors shall be listed in accordance with UL 2075 and UL 268.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les détecteurs combinés de monoxyde de carbone et de fumée installés dans les systèmes de détection de monoxyde de carbone au lieu des détecteurs de monoxyde de carbone doivent être inscrits conformément aux normes UL 2075 et UL 268.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T043105Z">
+        <seg>Les détecteurs combinés de monoxyde de carbone et de fumée installés dans les systèmes de détection de monoxyde de carbone en remplacement des détecteurs de monoxyde de carbone doivent être homologués conformément aux normes UL 2075 et UL 268.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32279,13 +32273,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Footings for masonry fireplaces and their chimneys shall be constructed of concrete or solid masonry not less than 12 inches (305 mm) thick and shall extend not less than 6 inches (152 mm) beyond the face of the fireplace or foundation wall on all sides.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les semelles des foyers en maçonnerie et de leurs cheminées doivent être construites en béton ou en maçonnerie pleine d'au moins 12 po [305 mm] d'épaisseur et doivent se prolonger d'au moins 6 po [152 mm] au-delà de la face du foyer ou du mur de fondation de tous les côtés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T043137Z">
+        <seg>Les semelles des foyers en maçonnerie et de leurs cheminées doivent être construites en béton ou en maçonnerie pleine d’une épaisseur d’au moins 12 po (305 mm) et doivent dépasser d’au moins 6 po (152 mm) la face du foyer ou du mur de fondation sur tous les côtés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34770,13 +34763,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.851: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In areas not subjected to freezing, footings shall be not less than 12 inches (305 mm) below finished grade.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les zones non soumises au gel, les semelles doivent être à au moins 12 po [305 mm] au-dessous du niveau fini.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T043147Z">
+        <seg>Dans les zones non soumises au gel, les semelles doivent être à au moins 12 po (305 mm) au-dessous du niveau fini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35586,13 +35578,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Interconnection of carbon monoxide alarms in existing areas shall not be required where alterations or repairs do not result in removal of interior wall or ceiling finishes exposing the structure, unless there is an attic, crawl space or basement available that could provide access for interconnection without the removal of interior finishes.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'interconnexion des détecteurs de monoxyde de carbone dans les zones existantes n'est pas exigée lorsque les modifications ou les réparations n'entraînent pas le retrait des revêtements intérieurs des murs ou des plafonds exposant la structure, à moins qu'il n'y ait un comble, un vide sanitaire ou un sous-sol disponible qui pourrait fournir un accès pour l'interconnexion sans le retrait des revêtements intérieurs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042905Z">
+        <seg>L’interconnexion des avertisseurs de monoxyde de carbone dans les zones existantes n’est pas requise lorsque les travaux de transformation ou de réparation n’entraînent pas la dépose des revêtements intérieurs des murs ou des plafonds exposant la structure, sauf lorsqu’un comble, un vide sanitaire ou un sous-sol accessible permettrait d’effectuer l’interconnexion sans déposer les revêtements intérieurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38171,13 +38162,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.825: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Physical interconnection of carbon monoxide alarms shall not be required where listed wireless alarms are installed and all alarms sound upon activation of one alarm.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'interconnexion physique des détecteurs de monoxyde de carbone n'est pas exigée lorsque des détecteurs sans fil homologués sont installés et que tous les détecteurs sonnent lors de l'activation d'un détecteur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042858Z">
+        <seg>L’interconnexion physique des avertisseurs de monoxyde de carbone n’est pas requise lorsque des avertisseurs sans fil homologués sont installés et que tous les avertisseurs se déclenchent lors de l’activation de l’un d’eux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48564,13 +48554,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.849: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where more than one carbon monoxide alarm is required to be installed within an individual dwelling unit in accordance with Section R315.3, the alarm devices shall be interconnected in such a manner that the actuation of one alarm will activate all of the alarms in the individual dwelling unit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'il est exigé d'installer plus d'un détecteur de monoxyde de carbone dans un logement individuel selon la section R315.3, les dispositifs d'alarme doivent être interconnectés de manière à ce que le déclenchement d'un détecteur active tous les détecteurs du logement individuel.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T042833Z">
+        <seg>Lorsque plus d’un avertisseur de monoxyde de carbone doit être installé dans une unité d’habitation individuelle conformément à la section R315.3, les avertisseurs doivent être interconnectés de manière que le déclenchement d’un avertisseur active tous les avertisseurs de l’unité d’habitation individuelle.</seg>
       </tuv>
     </tu>
     <tu>
