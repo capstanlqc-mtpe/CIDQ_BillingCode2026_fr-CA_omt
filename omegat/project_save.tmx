@@ -23939,13 +23939,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.851: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A coat hook located in close proximity to the changing surface.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un porte-manteau situé à proximité de la surface à langer.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T164937Z">
+        <seg>Un crochet à vêtements situé à proximité immédiate de la surface de changement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39533,23 +39532,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Signage indicating the weight capacity and instructions for operation of the changing station within the room.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une affiche indiquant la capacité de poids et les instructions d'utilisation de la station à langer dans la pièce.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T165033Z">
+        <seg>Une signalisation indiquant la capacité de charge et les instructions d’utilisation du poste de changement doit être prévue dans la pièce.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.784: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Signage indicating “Adult Changing Station” provided at the entrance to the room and complying with the visual character requirements in Section 703.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une signalisation indiquant « Table à langer pour adultes à l'entrée de la pièce et conforme aux exigences de caractère visuel de l'article 703.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T165022Z">
+        <seg>Une signalisation indiquant « Poste de changement pour adultes », prévue à l’entrée de la pièce et conforme aux exigences relatives aux caractères visuels de la section 703.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47537,13 +47534,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.836: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where adult changing stations are provided in a multiuser toilet or bathing room, the adult changing station shall be located in a compartment that includes all of the following components:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des tables à langer pour adultes sont prévues dans une salle de toilettes ou une salle de bain à utilisateurs multiples, la table à langer pour adultes doit être située dans un compartiment qui comprend tous les éléments suivants :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T165053Z">
+        <seg>Lorsque des postes de changement pour adultes sont prévus dans une toilette ou une salle de bain à plusieurs utilisateurs, le poste de changement pour adultes doit être situé dans une cabine comportant tous les éléments suivants :</seg>
       </tuv>
     </tu>
     <tu>
@@ -47557,13 +47553,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where adult changing stations are provided in a toilet room with only one water closet and one lavatory, or in a family or assisted-use toilet or bathing room, the room shall provide all of the following components:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des tables à langer pour adultes sont prévues dans une salle de toilettes avec une seule cabine de toilette et un seul lavabo, ou dans une toilette ou une salle de bain familiale ou à usage assisté, la pièce doit comporter tous les éléments suivants :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T164627Z">
+        <seg>Lorsque des postes de changement pour adultes sont prévus dans une toilette comportant un seul cabinet d’aisances et un seul lavabo, ou dans une toilette ou une salle de bain familiale ou à usage assisté, la pièce doit comporter tous les éléments suivants :</seg>
       </tuv>
     </tu>
     <tu>
