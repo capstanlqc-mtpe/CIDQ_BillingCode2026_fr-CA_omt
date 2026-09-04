@@ -5158,13 +5158,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.923: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;701.1&lt;x3/&gt;Scope&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;701.1&lt;x3/&gt;Scope&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T172956Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;701.1&lt;x3/&gt;Portée&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15490,13 +15489,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.926: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;703.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;703.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T173021Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;703.1&lt;x3/&gt;Generalités.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29011,13 +29009,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Communications elements and features required to be accessible by the scoping provisions adopted by the administrative authority shall comply with the applicable provisions of Chapter 7.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les éléments et caractéristiques de communication qui doivent être accessibles en vertu des dispositions de portée adoptées par l'autorité administrative doivent être conformes aux dispositions applicables du chapitre 7.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T173013Z">
+        <seg>Les éléments et les caractéristiques de communication qui doivent être accessibles en vertu des dispositions de portée adoptées par l'autorité administrative doivent être conformes aux dispositions applicables du chapitre 7.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39444,13 +39441,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.855: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Side rails shall be capable of being raised and lowered.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les garde-corps latéraux doivent pouvoir être relevés et abaissés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T172900Z">
+        <seg>Les barres latérales doivent pouvoir être relevées et abaissées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40925,13 +40921,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Tactile signs shall contain both raised characters and braille.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les enseignes tactiles doivent contenir à la fois des caractères en relief et du braille.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T173654Z">
+        <seg>Les panneaux tactiles doivent comporter à la fois des caractères en relief et du braille.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44351,13 +44346,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The side rail shall be fixed in place when in the raised position.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La barrière latérale doit être fixée en place lorsqu'elle est en position relevée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T172922Z">
+        <seg>La barre latérale doit être fixée en place lorsqu'elle est en position relevée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44881,13 +44875,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.867: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The top of the side rail shall extend 5 inches (127mm) minimum above the top of the changing surface.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le haut de la barrière latérale doit dépasser d'au moins 5 po [127 mm] au-dessus du haut de la surface à langer.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T172938Z">
+        <seg>Le haut de la barre latérale doit dépasser d'au moins 5 po (127mm) au-dessus du haut de la surface de changement.</seg>
       </tuv>
     </tu>
     <tu>
