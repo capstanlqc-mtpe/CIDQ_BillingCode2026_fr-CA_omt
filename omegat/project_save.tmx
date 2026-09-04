@@ -1064,13 +1064,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;The emergency sign shall not be required for elevators that are part of an accessible means of egress complying with Section 1009.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Le panneau d'urgence n'est pas exigé pour les ascenseurs qui font partie d'un moyen d'évacuation accessible conforme à l'article 1009.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T010314Z">
+        <seg>1.&lt;x1/&gt; Le panneau d'urgence n'est pas exigé pour les ascenseurs qui font partie d'un moyen d'évacuation accessible conforme à la section 1009.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2394,13 +2393,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.843: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;The emergency sign shall not be required for elevators that are used for occupant self-evacuation in accordance with Section 3008.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; L'enseigne d'urgence n'est pas exigée pour les ascenseurs utilisés pour l'auto-évacuation des occupants selon la section 3008.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T010342Z">
+        <seg>2.&lt;x1/&gt; Le panneau d'urgence n'est pas exigé pour les ascenseurs utilisés pour l'auto-évacuation des occupants selon la section 3008.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23724,13 +23722,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.805: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Where elevators are provided in buildings four or more stories above or four or more stories below, grade plane, not fewer than one elevator shall be provided for fire department emergency access to all floors.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Lorsque des ascenseurs sont prévus dans des bâtiments de quatre étages ou plus au-dessus ou de quatre étages ou plus en dessous du plan de référence, il faut prévoir au moins un ascenseur pour l'accès d'urgence des services d'incendie à tous les étages.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T010428Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Lorsque des ascenseurs sont prévus dans des bâtiments situés à quatre étages ou plus au-dessus ou à quatre étages ou plus au-dessous du plan de référence du sol, au moins un ascenseur doit être prévu pour permettre l’accès d’urgence du service d’incendie à tous les étages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26295,13 +26292,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An approved pictorial sign of a standardized design shall be posted adjacent to each elevator call station on all floors instructing occupants to use the exit stairways and not to use the elevators in case of fire.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une enseigne picturale approuvée de conception normalisée doit être affichée à côté de chaque poste d'appel d'ascenseur à tous les étages, indiquant aux occupants d'utiliser les escaliers d'issue et de ne pas utiliser les ascenseurs en cas d'incendie.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T010246Z">
+        <seg>Un panneau pictographique approuvé de conception normalisée doit être installé à côté de chaque poste d’appel d’ascenseur à tous les étages pour indiquer aux occupants d’utiliser les escaliers d’issue et de ne pas utiliser les ascenseurs en cas d’incendie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30942,13 +30938,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Elevator, dumbwaiter and other hoistway enclosures shall be shaft enclosures complying with Sections 712 and 713.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les puits d'ascenseur, de monte-plats et autres cages d'ascenseur doivent être des puits encloisonnés conformes aux sections 712 et 713.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T010037Z">
+        <seg>Les puits d’ascenseur, de monte-plats et autres puits doivent être des puits encloisonnés conformes aux sections 712 et 713.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33785,13 +33780,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Hardware on opening protectives shall be of an approved type installed as tested, except that approved interlocks, mechanical locks and electric contacts, door and gate electric contacts and door-operating mechanisms shall be exempt from the fire test requirements.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La quincaillerie de la protection d'ouvertures doit être d'un type approuvé et installée telle qu'elle a été testée, sauf que les dispositifs de verrouillage, les serrures mécaniques et les contacts électriques approuvés, les contacts électriques de porte et de barrière et les mécanismes de manœuvre de porte sont exemptés des exigences d'essai au feu.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T010207Z">
+        <seg>La quincaillerie des protections d'ouvertures doit être d’un type approuvé et installée conformément aux résultats des essais, à l’exception des dispositifs d’interverrouillage approuvés, des verrous mécaniques et des contacts électriques, des contacts électriques des portes et des barrières, ainsi que des mécanismes de commande des portes, qui sont exemptés des exigences relatives aux essais au feu.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38411,13 +38405,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.798: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Platform lifts, stairway chairlifts, wheelchair lifts</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Plateformes élévatrices, monte-escaliers, monte-fauteuils roulants</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T005858Z">
+        <seg>Élévateurs de plateforme, monte-escaliers, élévateurs pour fauteuils roulants</seg>
       </tuv>
     </tu>
     <tu>
@@ -42773,23 +42766,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The elevator car doors and the associated hoistway enclosure doors at the floor level designated for recall in accordance with Section 3003.2 shall be permitted to remain open during Phase I Emergency Recall Operation.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes de la cabine d'ascenseur et les portes associées du puits d'ascenseur encloisonné au niveau du sol désigné pour le rappel selon la section 3003.2 peuvent rester ouvertes pendant l'opération de rappel d'urgence de phase I.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T010123Z">
+        <seg>Les portes de la cabine d’ascenseur et les portes correspondantes de l’enceinte de la gaine d’ascenseur au niveau de plancher désigné pour le rappel conformément à la section 3003.2 peuvent rester ouvertes pendant le fonctionnement de rappel d’urgence de phase I.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.821: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The elevator car shall be of such a size and arrangement to accommodate an ambulance stretcher 24 inches by 84 inches (610 mm by 2134 mm) with not less than 5-inch (127 mm) radius corners in the horizontal, open position and shall be identified by the international symbol for emergency medical services (star of life).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La cabine d'ascenseur doit être d'une taille et d'une disposition permettant d'accueillir une civière d'ambulance de 24 po sur 84 po [610 mm sur 2134 mm] avec des coins d'un rayon d'au moins 5 po [127 mm] en position horizontale ouverte, et doit être identifiée par le symbole international des services médicaux d'urgence (étoile de vie).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T010438Z">
+        <seg>La cabine d’ascenseur doit être de dimensions et d’agencement permettant d’accueillir une civière d’ambulance de 24 po sur 84 po (610 mm sur 2 134 mm), avec des coins d’un rayon d’au moins 5 po (127 mm), en position horizontale et ouverte, et doit être identifiée au moyen du symbole international des services médicaux d’urgence (étoile de vie).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45362,13 +45353,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The symbol shall be not less than 3 inches (76 mm) in height and shall be placed inside on both sides of the hoistway door frame.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le symbole doit avoir une hauteur d'au moins 3 po [76 mm] et doit être placé à l'intérieur, des deux côtés du cadre de la porte de la gaine.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T010526Z">
+        <seg>Le symbole doit avoir une hauteur d'au moins 3 po (76 mm) et doit être placé à l'intérieur, des deux côtés du cadre de la porte du puits.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
