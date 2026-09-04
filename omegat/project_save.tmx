@@ -29755,12 +29755,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Doors shall not swing into the clear floor space or clearance for any fixture.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes ne doivent pas s’ouvrir dans l’espace libre au sol ni dans le dégagement exigé pour tout appareil sanitaire.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T195853Z">
+        <seg>Les portes ne doivent pas s’ouvrir dans l’aire de plancher dégagée ou le dégagement d’un appareil sanitaire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36340,13 +36339,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.85: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Mirrors above lavatories required to comply with Section 1103.11.2.2 shall have the bottom edge of the reflecting surface 40 inches (1015 mm) maximum above the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le bord inférieur de la surface réfléchissante des miroirs au-dessus des lavabos tenus de se conformer à la section 1103.11.2.2 doit se trouver à une hauteur maximale de 40 po [1015 mm] au-dessus du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T200018Z">
+        <seg>Les miroirs situés au-dessus des lavabos qui sont tenus de se conformer à la section 1103.11.2.2 doivent avoir le bord inférieur de la surface réfléchissante à au plus 40 po (1 015 mm) au-dessus du plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38517,13 +38515,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Reinforcement for the water closet side wall vertical grab bar component required by Section 604.5 is not required.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le renforcement de la barre d'appui verticale de la paroi latérale de la cabine de toilette requis par la section 604.5 n'est pas requis.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T195712Z">
+        <seg>Le renforcement de la barre d'appui verticale du mur latéral de la cabine de toilette requis par la section 604.5 n'est pas requis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41404,13 +41401,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The cabinetry can be removed without removal or replacement of the lavatory;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'armoire peut être retirée sans qu'il soit nécessaire de retirer ou de remplacer le lavabo;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T195942Z">
+        <seg>Les armoires peuvent être retirées sans qu’il soit nécessaire de retirer ou de remplacer le lavabo;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42402,13 +42398,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.798: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The floor finish extends under the cabinetry; and</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La finition du plancher s'étend sous l'armoire; et</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T195951Z">
+        <seg>Le revêtement de sol se prolonge sous les armoires; et</seg>
       </tuv>
     </tu>
     <tu>
@@ -45061,13 +45056,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.83: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The walls behind and surrounding the cabinetry are finished.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les murs derrière et autour de l'armoire sont finis.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T195958Z">
+        <seg>Les murs derrière et autour des armoires sont finis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45147,13 +45141,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The water closet shall be positioned with a wall to the rear and to one side.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il doit y avoir un mur à l'arrière et sur un côté de la cabine de toilette.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T200223Z">
+        <seg>La cabine de toilette doit être positionnée avec un mur à l’arrière et sur un côté.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46911,13 +46904,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.808: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a clear floor space is provided within the room beyond the arc of the door swing.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'une surface de plancher dégagée est prévue dans la pièce au-delà de l'arc d'ouverture de la porte.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T195900Z">
+        <seg>Lorsqu’une aire de plancher dégagée est prévue à l’intérieur de la pièce, au-delà de l’arc de rotation de la porte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48768,13 +48760,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the lavatory overlaps the water closet clearance in accordance with the exception to Section 1103.11.2.4.4 reinforcement at the water closet rear wall for a 24-inch (610 mm) minimum length grab bar, centered on the water closet, shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque le lavabo empiète sur l'espace libre de la cabine de toilette conformément à l'exception de la section 1103.11.2.4.4, il faut prévoir un renforcement au mur arrière de la cabine de toilette pour une barre d'appui d'une longueur minimale de 24 po [610 mm], centrée sur la cabine de toilette.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T195802Z">
+        <seg>Lorsque le lavabo empiète sur le dégagement de la cabine de toilette conformément à l’exception de la section 1103.11.2.4.4, un renforcement doit être prévu sur le mur arrière de la cabine de toilette pour une barre d’appui d’une longueur d’au moins 24 po (610 mm), centrée par rapport à la cabine de toilette.</seg>
       </tuv>
     </tu>
     <tu>
