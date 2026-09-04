@@ -23976,13 +23976,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A clear floor space, positioned for a parallel approach to the sink, shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir une surface de plancher dégagée, positionnée pour un accès parallèle à l'évier.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T034140Z">
+        <seg>Un espace libre au sol, positionné de manière à permettre une approche parallèle à l’évier, doit être prévu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24033,13 +24032,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A clearance 48 inches (1220 mm) minimum in length measured perpendicular from the control end of the bathtub, and 30 inches (760 mm) minimum in width shall be provided in front of bathtubs.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un dégagement d'au moins 48 po [1220 mm] en longueur, mesuré perpendiculairement à l'extrémité de commande de la baignoire, et d'au moins 30 po [760 mm] en largeur doit être prévu devant les baignoires.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T034048Z">
+        <seg>Un dégagement d'au moins 48 po (1220 mm) en longueur, mesuré perpendiculairement à l'extrémité de commande de la baignoire, et d'au moins 30 po (760 mm) en largeur doit être prévu devant les baignoires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24813,13 +24811,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.887: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>A shower compartment shall comply with Section 1104.11.3.1.3.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un compartiment de douche doit se conformer à la section 1104.11.3.1.3.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T034105Z">
+        <seg>Un compartiment de douche doit être conforme à la section 1104.11.3.1.3.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25165,13 +25162,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.821: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A vanity or other obstruction 24 inches (610 mm) maximum in depth, measured perpendicular from the rear wall, shall be permitted to overlap the required clearance, provided the width of the remaining clearance at the water closet is 33 inches (840 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un meuble-lavabo ou un autre obstacle d'une profondeur maximale de 24 po [610 mm], mesurée perpendiculairement au mur arrière, peut chevaucher le dégagement exigé, à condition que la largeur du dégagement restant au niveau de la cabine de toilette soit d'au moins 33 po [840 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T034223Z">
+        <seg>Un meuble-lavabo ou un autre obstacle d’une profondeur maximale de 24 po (610 mm), mesurée perpendiculairement à partir du mur arrière, peut empiéter sur l’espace libre exigé, pourvu que la largeur de l’espace libre restant au niveau du cabinet d’aisances soit d’au moins 33 po (840 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30411,13 +30407,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.882: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Each fixture provided shall comply with Section 1104.11.3.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Chaque appareil sanitaire prévu doit se conformer à la section 1104.11.3.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T034356Z">
+        <seg>Chaque appareil sanitaire prévu doit être conforme à la section 1104.11.3.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30796,13 +30791,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Elevator car leveling shall comply with Section 407.4.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le nivellement de la cabine d'ascenseur doit se conformer à la section 407.4.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T034338Z">
+        <seg>Le nivellement de la cabine d'ascenseur doit être conforme à la section 407.4.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34133,13 +34127,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.89: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>If the device is in a closed compartment, the compartment door hardware shall comply with Section 309.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Si le dispositif se trouve dans un compartiment fermé, la quincaillerie de la porte du compartiment doit se conformer à la section 309.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T034343Z">
+        <seg>Si le dispositif se trouve dans un compartiment fermé, la quincaillerie de la porte du compartiment doit être conforme à la section 309.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35463,13 +35456,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In toilet rooms and bathrooms not required to comply with Section 1103.11.2, maneuvering clearances required by Section 404.2.3 shall not be required on the toilet room or bathroom side of the door.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les salles de toilette et les salles de bain qui ne sont pas tenues de se conformer à la section 1103.11.2, les espaces de dégagement exigés par la section 404.2.3 ne sont pas exigés du côté de la porte donnant sur la salle de toilette ou la salle de bain.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T034634Z">
+        <seg>Dans les salles de toilette et les salles de bain qui ne sont pas tenues de se conformer à la section 1102.11.2, les espaces de dégagement exigés par la section 404.2.3 ne sont pas exigés du côté de la salle de toilette ou de la salle de bain de la porte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36342,13 +36334,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Lighting controls, electrical panelboards, electrical switches and receptacle outlets, environmental controls, appliance controls, plumbing fixture controls, and user controls for security or intercom systems shall comply with Section 309.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les commandes d'éclairage, les panneaux de distribution électrique, les interrupteurs et les prises de courant, les commandes environnementales, les commandes d'appareils, les commandes d'appareils de plomberie et les commandes d'utilisateur pour les systèmes de sécurité ou d'interphone doivent être conformes à la section 309.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T034529Z">
+        <seg>Les commandes d’éclairage, les panneaux électriques, les interrupteurs électriques et les prises de courant, les commandes environnementales, les commandes d’appareils, les commandes d’appareils sanitaires et les commandes utilisateur des systèmes de sécurité ou d’interphone doivent être conformes à la section 309.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37453,13 +37444,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.867: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>One of each type of fixture provided shall comply with Section 1104.11.3.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un appareil sanitaire de chaque type fourni doit se conformer à la section 1104.11.3.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T034401Z">
+        <seg>Un appareil sanitaire de chaque type fourni doit être conforme à la section 1104.11.3.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42195,13 +42185,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.861: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The clear width of an accessible route shall comply with Section 403.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La largeur libre d'un itinéraire accessible doit se conformer à la section 403.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T034354Z">
+        <seg>La largeur libre d'un itinéraire accessible doit être conforme à la section 403.5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44586,13 +44575,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.898: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The refrigerator/freezer shall comply with Section 1104.12.2.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le réfrigérateur/congélateur doit se conformer à la section 1104.12.2.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T034403Z">
+        <seg>Le réfrigérateur/congélateur doit être conforme à la section 1104.12.2.5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44925,13 +44913,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.9: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The sink shall comply with Section 606.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'évier doit se conformer à la section 606.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T034346Z">
+        <seg>L'évier doit être conforme à la section 606.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46398,13 +46385,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Thresholds at exterior sliding doors shall be permitted to be 3/4 inch (19 mm) maximum in height, provided they are beveled with a slope not greater than 1:2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les seuils des portes coulissantes extérieures peuvent avoir une hauteur maximale de 3/4 po [19 mm], à condition qu'ils soient biseautés avec une pente maximale de 1:2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T034652Z">
+        <seg>Les seuils des portes coulissantes extérieures peuvent avoir une hauteur maximale de 3/4 po (19 mm), à condition qu'ils soient biseautés avec une pente maximale de 1:2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47629,8 +47615,8 @@
       <tuv lang="en">
         <seg>Where a closed-circuit communication system is provided, the public or common-use system interface shall comply with Section 1106.6.1, and the unit system interface in units required to have communication features shall comply with Section 1106.6.2.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260827T145131Z">
-        <seg>Lorsqu'un système de communication en circuit fermé est prévu, l'interface du système public ou à usage commun doit se conformer à la section 1106.6.1, et l'interface du système de l'unité dans les unités devant être dotées de fonctions de communication doit se conformer à la section 1106.6.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T034408Z">
+        <seg>Lorsqu'un système de communication en circuit fermé est prévu, l'interface du système public ou à usage commun doit être conforme à la section 1106.6.1, et l'interface du système de l'unité dans les unités devant être dotées de fonctions de communication doit être conforme à la section 1106.6.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48183,13 +48169,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where an interior exit stairway or ramp is extended to an exit discharge or a public way by an exit passageway, the exit passageway shall comply with Section 1023.3.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un escalier ou une rampe d'issue intérieurs sont prolongés jusqu'à une issue d'évacuation ou une voie publique par un passage d'issue, le passage d'issue doit se conformer à la section 1023.3.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T034334Z">
+        <seg>Lorsqu'un escalier ou une rampe d'issue intérieurs sont prolongés jusqu'à une issue d'évacuation ou une voie publique par un passage d'issue, le passage d'issue doit être conforme à la section 1023.3.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48894,13 +48879,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where provided, a bathtub shall comply with Section 1104.11.3.1.3.1 or 1104.11.3.1.3.2 and a shower compartment shall comply with Section 1104.11.3.1.3.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'elle est prévue, une baignoire doit se conformer à la section 1104.11.3.1.3.1 ou 1104.11.3.1.3.2 et un compartiment de douche doit se conformer à la section 1104.11.3.1.3.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T034359Z">
+        <seg>Lorsqu'elle est prévue, une baignoire doit être conforme à la section 1104.11.3.1.3.1 ou 1104.11.3.1.3.2 et un compartiment de douche doit être conforme à la section 1104.11.3.1.3.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49225,13 +49209,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.863: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where storage facilities are provided, at least one of each type shall comply with Section 905.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des installations d'entreposage sont prévues, au moins une de chaque type doit se conformer à la section 905.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T034351Z">
+        <seg>Lorsque des installations d'entreposage sont prévues, au moins une de chaque type doit être conforme à la section 905.</seg>
       </tuv>
     </tu>
     <tu>
