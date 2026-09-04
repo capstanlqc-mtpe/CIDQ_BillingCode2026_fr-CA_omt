@@ -873,13 +873,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.783: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Is a visual and text-based and a video-based 24/7 live interactive system.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Est un système interactif en direct 24 heures sur 24, 7 jours sur 7, visuel, textuel et vidéo.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T005454Z">
+        <seg>1.&lt;x1/&gt; Est un système interactif en direct, accessible 24 heures sur 24, 7 jours sur 7, utilisant des éléments visuels et textuels ainsi que la vidéo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22673,13 +22672,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.882: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Except as otherwise, provided for in this code, the design, construction, installation, alteration, repair and maintenance of elevators and conveying systems and their components shall conform to the applicable standard specified in Table 3001.3 and ASCE 24 for construction in flood hazard areas established in Section 1612.3.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Sauf disposition contraire dans le présent code, la conception, la construction, l'installation, la modification, la réparation et l'entretien des ascenseurs et des systèmes de transport et de leurs éléments doivent être conformes à la norme applicable spécifiée au tableau 3001.3 et à la norme ASCE 24 pour la construction dans les zones à risque d'inondation établies à l'article 1612.3.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T005724Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Sauf disposition contraire du présent code, la conception, la construction, l’installation, la modification, la réparation et l’entretien des ascenseurs et des systèmes de transport vertical, ainsi que de leurs composants, doivent être conformes à la norme applicable indiquée au tableau 3001.3 et à la norme ASCE 24 pour les constructions situées dans les zones présentant un risque d’inondation établies à la section 1612.3.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23879,13 +23877,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.808: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A change in use of an elevator from freight to passenger, passenger to freight, or from one freight class to another freight class shall comply with Section 8.7 of ASME A17.1/CSA B44.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un changement d'utilisation d'un ascenseur de fret à passagers, de passagers à fret ou d'une classe de fret à une autre classe de fret doit se conformer à la section 8.7 de la norme ASME A17.1/CSA B44.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T005758Z">
+        <seg>Toute modification de l’usage d’un ascenseur, de transport de marchandises à transport de passagers, de transport de passagers à transport de marchandises ou d’une classe de transport de marchandises à une autre doit être conforme à la section 8.7 de la norme ASME A17.1/CSA B44.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31041,13 +31038,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Elevators, escalators, dumbwaiters, moving walks, material lifts</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ascenseurs, escaliers roulants, monte-plats, trottoirs roulants, monte-matériaux</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T005832Z">
+        <seg>Ascenseurs, escaliers mécaniques, monte-plats, trottoirs roulants, élévateurs de matériaux</seg>
       </tuv>
     </tu>
     <tu>
@@ -33057,13 +33053,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Glass installed in exterior railing in-fill panels or balusters shall be laminated glass complying with Category II of CPSC 16 CFR Part 1201 or Class A of ANSI Z97.1.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le verre installé dans les panneaux de remplissage ou les balustres des garde-corps extérieurs doit être du verre feuilleté conforme à la catégorie II de la norme CPSC 16 CFR partie 1201 ou à la classe A de la norme ANSI Z97.1.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T005256Z">
+        <seg>Le verre utilisé dans les panneaux de remplissage des rampes extérieures ou dans les balustres doit être du verre feuilleté conforme à la catégorie II de la norme CPSC 16 CFR Part 1201 ou à la classe A de la norme ANSI Z97.1.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -49781,13 +49776,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.867: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the top rail is supported by glass, the assembly shall be tested according to the impact requirements of Section 1609.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque la rampe supérieure est soutenue par du verre, l'ensemble doit être testé conformément aux exigences d'impact de l'article 1609.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T005326Z">
+        <seg>Lorsque la lisse supérieure est supportée par du verre, l’ensemble doit être soumis à des essais conformément aux exigences relatives aux essais d’impact de la section 1609.2.</seg>
       </tuv>
     </tu>
     <tu>
