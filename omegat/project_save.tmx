@@ -740,13 +740,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;For other than tempered glass, manufacturer’s designations are not required provided that the building official approves the use of a certificate, affidavit or other evidence confirming compliance with this code.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Pour le verre autre que le verre trempé, les désignations du fabricant ne sont pas exigées à condition que le responsable de la construction approuve l'utilisation d'un certificat, d'un affidavit ou de toute autre preuve confirmant la conformité au présent code.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T030954Z">
+        <seg>1.&lt;x1/&gt; Pour les vitrages autres que les vitrages trempés, la désignation du fabricant n’est pas requise, pourvu que le responsable de la construction approuve l’utilisation d’un certificat, d’une déclaration sous serment ou d’une autre preuve confirmant la conformité au présent code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1231,13 +1230,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.863: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Where the glazing is within 24 inches (610 mm) of either side of the door in the plane of the door in a closed position.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Lorsque le vitrage est situé à moins de 24 po [610 mm] de chaque côté de la porte dans le plan de la porte en position fermée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T031541Z">
+        <seg>1.&lt;x1/&gt; Lorsque le vitrage est situé à moins de 24 po (610 mm) de chaque côté de la porte dans le plan de la porte en position fermée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1635,13 +1633,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.87: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>1&lt;x1/&gt;.The exposed area of an individual pane is larger than 9 square feet (0.836 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1&lt;x1/&gt;. La surface exposée d'une vitre individuelle est supérieure à 9 pi2 [0,836 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T031751Z">
+        <seg>1&lt;x1/&gt;. La surface exposée d'une vitre individuelle est supérieure à 9 pi2 (0,836 m2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2540,13 +2537,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Where glazing is adjacent to a walking surface and a horizontal rail is installed 34 to 38 inches (864 to 965 mm) above the walking surface.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Lorsque le vitrage est adjacent à une surface de marche et qu'une rampe horizontale est installée de 34 à 38 po [864 à 965 mm] au-dessus de la surface de marche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T032039Z">
+        <seg>2.&lt;x1/&gt; Lorsque le vitrage est adjacent à une surface de marche et qu'une rampe horizontale est installée de 34 à 38 po (864 à 965 mm) au-dessus de la surface de marche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2587,13 +2583,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Where the glazing is on a wall less than 180 degrees (3.14 rad) from the plane of the door in a closed position and within 24 inches (610 mm) of the hinge side of an in-swinging door.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Lorsque le vitrage est sur un mur à moins de 180 degrés (3,14 rad) du plan de la porte en position fermée et à moins de 24 po [610 mm] du côté charnière d'une porte battante vers l'intérieur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T031608Z">
+        <seg>2.&lt;x1/&gt; Lorsque le vitrage est sur un mur à moins de 180 degrés (3,14 rad) du plan de la porte en position fermée et à moins de 24 po (610 mm)  du côté charnière d'une porte battante vers l'intérieur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3558,13 +3553,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.894: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>3&lt;x1/&gt;.The top edge of the glazing is more than 36 inches (914 mm) above the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3&lt;x1/&gt;. Le bord supérieur du vitrage se trouve à plus de 36 po [914 mm] au-dessus du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T031806Z">
+        <seg>3&lt;x1/&gt;. Le bord supérieur du vitrage se trouve à plus de 36 po (914 mm) au-dessus du sol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3761,13 +3755,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.825: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>4.&lt;x1/&gt;One or more walking surfaces are within 36 inches (914 mm), measured horizontally and in a straight line, of the glazing.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>4.&lt;x1/&gt; Une ou plusieurs surfaces de circulation se trouvent à moins de 36 po [914 mm], mesurés horizontalement et en ligne droite, du vitrage.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T031814Z">
+        <seg>4.&lt;x1/&gt; Une ou plusieurs surfaces de circulation se trouvent à moins de 36 po (914 mm), mesurés horizontalement et en ligne droite, du vitrage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24501,13 +24494,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.849: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A label shall be permitted in lieu of the manufacturer’s designation.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une étiquette est autorisée en lieu et place de la désignation du fabricant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T030905Z">
+        <seg>Une étiquette est autorisée à la place de la désignation du fabricant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29733,13 +29725,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>DOORS AND ENCLOSURES REGULATEDBY &lt;g1&gt;SECTION R308.4.5&lt;/g1&gt;a(Category Class)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>PORTES ET ENCEINTES RÉGLEMENTÉES PAR LA &lt;g1&gt;SECTION R308.4.5&lt;/g1&gt; a (Classe de catégorie)</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T031355Z">
+        <seg>PORTES ET ENCEINTES RÉGIS PAR LA &lt;g1&gt;SECTION R308.4.5&lt;/g1&gt; a (Classe de catégorie)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32856,43 +32847,39 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.813: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>GLAZED PANELS REGULATED BY&lt;g1&gt;SECTION R308.4.3&lt;/g1&gt;(Category Class)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>PANNEAUX VITRÉS RÉGLEMENTÉS PAR LA&lt;g1&gt; SECTION R308.4.3&lt;/g1&gt; (Classe de catégorie)</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T031342Z">
+        <seg>PANNEAUX VITRÉS RÉGIS PAR LA&lt;g1&gt; SECTION R308.4.3&lt;/g1&gt; (Classe de catégorie)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.794: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>GLAZED PANELSREGULATED BY&lt;g1&gt;&lt;g2&gt;SECTION R308.4.2&lt;/g2&gt;&lt;/g1&gt;(Category Class)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>PANNEAUX VITRÉS RÉGLEMENTÉS PAR LA&lt;g1&gt;&lt;g2&gt; SECTION R308.4.2&lt;/g2&gt;&lt;/g1&gt; (Classe de catégorie)</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T031301Z">
+        <seg>PANNEAUX VITRÉS RÉGIS PAR LA&lt;g1&gt;&lt;g2&gt; SECTION R308.4.2&lt;/g2&gt;&lt;/g1&gt; (Classe de catégorie)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.795: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>GLAZED PANELSREGULATED BY&lt;g1&gt;&lt;g2&gt;SECTION R308.4.3&lt;/g2&gt;&lt;/g1&gt;(Category Class)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>PANNEAUX VITRÉS RÉGLEMENTÉS PAR LA&lt;g1&gt;&lt;g2&gt; SECTION R308.4.3&lt;/g2&gt;&lt;/g1&gt; (Classe de catégorie)</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T031244Z">
+        <seg>PANNEAUX VITRÉS RÉGIS PAR LA&lt;g1&gt;&lt;g2&gt; SECTION R308.4.3&lt;/g2&gt;&lt;/g1&gt; (Classe de catégorie)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.758: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>GLAZING INDOORS ANDENCLOSURESREGULATED BY&lt;g1&gt;&lt;g2&gt;SECTION 308.4.5&lt;/g2&gt;&lt;/g1&gt;(Category Class)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>VITRAGE À L'INTÉRIEUR ET ENCEINTES RÉGLEMENTÉS PAR LA&lt;g1&gt;&lt;g2&gt; SECTION 308.4.5&lt;/g2&gt;&lt;/g1&gt; (Classe de catégorie)</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T031309Z">
+        <seg>VITRAGE À L'INTÉRIEUR ET ENCEINTES RÉGIS PAR LA&lt;g1&gt;&lt;g2&gt; SECTION 308.4.5&lt;/g2&gt;&lt;/g1&gt; (Classe de catégorie)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33037,13 +33024,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Glazing in an individual fixed or operable panel adjacent to a door shall be considered to be a hazardous location where the bottom exposed edge of the glazing is less than 60 inches (1524 mm) above the floor or walking surface and it meets either of the following conditions:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le vitrage d'un panneau individuel fixe ou ouvrant adjacent à une porte doit être considéré comme un emplacement dangereux lorsque le bord inférieur exposé du vitrage est à moins de 60 po [1524 mm] au-dessus du sol ou de la surface de circulation et qu'il satisfait à l'une des conditions suivantes :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T031553Z">
+        <seg>Les vitrages d’un panneau fixe ou mobile individuel adjacent à une porte doivent être considérés comme étant situés dans un emplacement dangereux lorsque le bord inférieur exposé du vitrage se trouve à moins de 60 po (1 524 mm) au-dessus du plancher ou de la surface de circulation et que l’une ou l’autre des conditions suivantes est remplie :</seg>
       </tuv>
     </tu>
     <tu>
@@ -33105,13 +33091,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.876: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Glazing in this application shall comply with Section R308.4.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le vitrage dans cette application doit se conformer à la section R308.4.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T031633Z">
+        <seg>Le vitrage dans cette application doit être conforme à la section R308.4.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35567,13 +35552,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Individual glazed areas, including glass mirrors in hazardous locations such as those indicated as defined in Section R308.4, shall pass the test requirements of Section R308.3.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les surfaces vitrées individuelles, y compris les miroirs en verre dans les endroits dangereux tels que ceux indiqués comme définis à l'article R308.4, doivent satisfaire aux exigences d'essai de l'article R308.3.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T031128Z">
+        <seg>Les surfaces vitrées individuelles, y compris les miroirs en verre, situées dans des emplacements dangereux tels que ceux indiqués à la section R308.4, doivent satisfaire aux exigences d’essai de la section R308.3.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36935,13 +36919,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Multipane assemblies having individual panes not exceeding 1 square foot (0.09 m2) in exposed area shall have not less than one pane in the assembly identified in accordance with Section R308.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les assemblages à vitres multiples dont les vitres individuelles ne dépassent pas 1 pi2 [0,09 m2] de surface exposée doivent avoir au moins une vitre dans l'assemblage identifiée selon la section R308.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T031025Z">
+        <seg>Les ensembles à vitrages multiples dont les vitres individuelles ont une superficie exposée d’au plus 1 pi2 (0,09 m2) doivent comporter au moins une vitre identifiée conformément à la section R308.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39048,13 +39031,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Regular, float, wired or patterned glass in jalousies and louvered windows shall be not less than nominal 3/16 inch (5 mm) thick and not more than 48 inches (1219 mm) in length.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le verre ordinaire, flotté, armé ou à motifs dans les jalousies et les fenêtres à persiennes ne doit pas avoir une épaisseur nominale inférieure à 3/16 po [5 mm] ni une longueur supérieure à 48 po [1219 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T031051Z">
+        <seg>Le verre ordinaire, flotté, armé ou imprimé des fenêtres à jalousies et des fenêtres à lames doit avoir une épaisseur nominale d’au moins 3/16 po (5 mm) et une longueur d’au plus 48 po (1 219 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43747,13 +43729,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.87: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The locations specified in Sections R308.4.1 through R308.4.7 shall be considered to be specific hazardous locations for the purposes of glazing.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les emplacements spécifiés aux articles R308.4.1 à R308.4.7 doivent être considérés comme des emplacements dangereux spécifiques aux fins du vitrage.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T031457Z">
+        <seg>Les emplacements spécifiés dans les sections R308.4.1 à R308.4.7 doivent être considérés comme des emplacements dangereux spécifiques aux fins du vitrage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47026,13 +47007,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Use is permitted only by the exception to &lt;g1&gt;Section R308.3.1&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'utilisation n'est autorisée que par l'exception à l'&lt;g1&gt;article R308.3.1&lt;/g1&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T031430Z">
+        <seg>L'utilisation n'est autorisée que par l'exception à la &lt;g1&gt;Section R308.3.1&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
