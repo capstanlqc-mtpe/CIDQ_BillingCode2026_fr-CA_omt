@@ -26817,13 +26817,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At fixtures in toilet and bathing facilities not required to comply with Section 1102.11.2, reinforcement in accordance with Section 1104.11.1 shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Au niveau des appareils sanitaires dans les toilettes et les salles de bain qui ne sont pas tenus de se conformer à la section 1102.11.2, il faut prévoir un renforcement selon la section 1104.11.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T193855Z">
+        <seg>Au niveau des appareils sanitaires dans les toilettes et les salles de bain qui ne sont pas tenus de se conformer à la section 1102.11.2, un renforcement selon la section 1104.11.1 doit être prévu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38548,13 +38547,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Reinforcement is not required where Type B units are not provided in the structure.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le renforcement n'est pas exigé lorsqu'il n'y a pas d'unités de type B dans la structure.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T193922Z">
+        <seg>Le renforcement n’est pas requis lorsque des unités de type B ne sont pas prévues dans le bâtiment.</seg>
       </tuv>
     </tu>
     <tu>
