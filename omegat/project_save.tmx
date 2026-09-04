@@ -1896,8 +1896,8 @@
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;At water closets reinforcement for the side wall vertical grab bar component required by Section 604.5 is not required.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T210507Z">
-        <seg>2.&lt;x1/&gt; Dans les cabines de toilette, aucun renforcement n’est requis pour le composant vertical de la barre d’appui sur le mur latéral exigé par la section 604.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T210756Z">
+        <seg>2.&lt;x1/&gt; Aux toilettes, aucun renforcement n’est requis pour le composant vertical de la barre d’appui sur le mur latéral exigé par la section 604.5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2958,8 +2958,8 @@
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;At water closets where wall space will not permit a grab bar complying with Section 604.5.2, reinforcement for a rear wall grab bar 24 inches (610 mm) minimum in length centered on the water closet shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T210527Z">
-        <seg>3.&lt;x1/&gt; Dans les cabines de toilette où l’espace mural ne permet pas l’installation d’une barre d’appui conforme à la section 604.5.2, un renforcement doit être prévu pour une barre d’appui sur le mur arrière d’une longueur d’au moins 24 po (610 mm), centrée par rapport à la cabine de toilette.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T210746Z">
+        <seg>3.&lt;x1/&gt; Aux toilettes où l’espace mural ne permet pas l’installation d’une barre d’appui conforme à la section 604.5.2, un renforcement doit être prévu pour une barre d’appui sur le mur arrière d’une longueur d’au moins 24 po (610 mm), centrée par rapport à la cabine de toilette.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4076,13 +4076,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>5.&lt;x1/&gt;At water closets where a side wall is not available for a 42-inch (1065 mm) grab bar complying with Section 604.5.1 reinforcement for a swing-up grab bar complying with Section 1104.11.1.1 shall be permitted.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>5.&lt;x1/&gt; Dans les cabines de toilette où il n'y a pas de paroi latérale disponible pour une barre d'appui de 42 po (1065 mm) conforme à la section 604.5.1, le renforcement d'une barre d'appui pivotante conforme à la section 1104.11.1.1 est autorisé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T210651Z">
+        <seg>5.&lt;x1/&gt;Aux toilettes, lorsqu’un mur latéral n’est pas disponible pour une barre d’appui de 42 po (1 065 mm) conforme à la section 604.5.1, un renforcement pour une barre d’appui relevable conforme à la section 1104.11.1.1 est autorisé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4257,13 +4256,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.811: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>6.&lt;x1/&gt;At water closets where a side wall is not available for a 42-inch (1065 mm) grab bar complying with Section 604.5.1 reinforcement for two swing-up grab bars complying with Section 1104.11.1.1 shall be permitted to be installed in lieu of reinforcement for rear wall and side wall grab bars.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>6.&lt;x1/&gt; Dans les cabines de toilette où il n'y a pas de paroi latérale pour une barre d'appui de 42 po (1 065 mm) conforme à la section 604.5.1, il est permis d'installer un renforcement pour deux barres d'appui relevables conformes à la section 1104.11.1.1 au lieu d'un renforcement pour des barres d'appui de mur arrière et de paroi latérale.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T210703Z">
+        <seg>6.&lt;x1/&gt; Aux toilettes, lorsqu’un mur latéral n’est pas disponible pour une barre d’appui de 42 po (1 065 mm) conforme à la section 604.5.1, un renforcement pour deux barres d’appui relevables conformes à la section 1104.11.1.1 peut être installé au lieu du renforcement pour les barres d’appui du mur arrière et du mur latéral.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4430,13 +4428,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>7.&lt;x1/&gt;In shower compartments larger than 36 inches (915 mm) in width and 36 inches (915 mm) in depth reinforcement for a shower seat is not required</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>7.&lt;x1/&gt; Dans les compartiments de douche d'une largeur supérieure à 36 po [915 mm] et d'une profondeur supérieure à 36 po [915 mm], le renforcement pour un siège de douche n'est pas exigé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T210720Z">
+        <seg>7.&lt;x1/&gt; Dans les cabines de douche de plus de 36 po (915 mm) de largeur et de 36 po (915 mm) de profondeur, aucun renforcement pour un siège de douche n’est requis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23815,13 +23812,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.813: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A clearance of 18 inches (455 mm) minimum from the centerline of the water closet to any side wall or obstruction shall be provided where reinforcement for swing–up grab bars is provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un dégagement d'au moins 18 po [455 mm] entre la ligne d'axe de la cabine de toilette et toute paroi latérale ou obstruction doit être prévu lorsqu'un renforcement pour des barres d'appui relevables est prévu.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T211549Z">
+        <seg>Un dégagement d’au moins 18 po (455 mm) entre l’axe central de la toilette et tout mur latéral ou obstacle doit être prévu lorsque le renforcement pour des barres d’appui relevables est prévu.</seg>
       </tuv>
     </tu>
     <tu>
