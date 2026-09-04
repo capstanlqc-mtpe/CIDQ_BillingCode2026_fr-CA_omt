@@ -22882,13 +22882,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Receptacle outlets shall be located not more than 20 inches (508 mm) above the&lt;/g2&gt;&lt;x4/&gt;countertop or work surface.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;Les&lt;g2&gt; prises de courant doivent être situées à une hauteur maximale de 20 po [508 mm] au-dessus du&lt;/g2&gt;&lt;x4/&gt; comptoir ou de la surface de travail.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051259Z">
+        <seg>&lt;x1/&gt;Les&lt;g2&gt; prises de courant doivent être situées à une hauteur maximale de 20 po (508 mm) au-dessus du&lt;/g2&gt;&lt;x4/&gt; comptoir ou de la surface de travail.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23240,13 +23239,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Appliance receptacle outlets installed for specific appliances, such as laundry equipment, shall be installed within 6 feet (1829 mm) of the intended location of the appliance.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Les prises de courant pour appareils installées pour des appareils spécifiques, tels que l'équipement de buanderie, doivent être installées à moins de 6 pieds [1829 mm] de l'emplacement prévu de l'appareil.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051453Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Les prises de courant pour appareils installées pour des appareils spécifiques, tels que l'équipement de lavage, doivent être installées à moins de 6 pieds (1829 mm) de l'emplacement prévu de l'appareil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23260,13 +23258,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;At least one receptacle outlet shall be installed in bathrooms and such outlet shall be located within 36 inches (914 mm) of the outside edge of each lavatory basin.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Au moins une prise de courant doit être installée dans les salles de bain et cette prise doit être située à moins de 36 po [914 mm] du bord extérieur de chaque lavabo.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051508Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Au moins une prise de courant doit être installée dans les salles de bain et cette prise doit être située à moins de 36 po (914 mm) du bord extérieur de chaque lavabo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23463,13 +23460,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Not less than one receptacle outlet that is readily accessible from grade level and located not more than 6 feet, 6 inches (1981 mm) above grade, shall be installed outdoors at the front and back of each dwelling unit having direct access to grade level.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Au moins une prise de courant facilement accessible depuis le niveau du sol et située à moins de 6 pi 6 po (1981 mm) au-dessus du sol doit être installée à l'extérieur à l'avant et à l'arrière de chaque logement ayant un accès direct au niveau du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051632Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Au moins une prise de courant facilement accessible depuis le niveau du sol et située à au plus 6 pi 6 po (1 981 mm) au-dessus du niveau du sol doit être installée à l’extérieur, à l’avant et à l’arrière de chaque unité d’habitation ayant un accès direct au niveau du sol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27497,13 +27493,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Balconies, decks, and porches that are accessible from inside of the dwelling unit shall have at least one receptacle outlet installed within the perimeter of the balcony, deck, or porch.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les balcons, les terrasses et les porches accessibles depuis l'intérieur de l'unité d'habitation doivent avoir au moins une prise de courant installée dans le périmètre du balcon, de la terrasse ou du porche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051638Z">
+        <seg>Les balcons, les terrasses et les vérandas accessibles depuis l’intérieur de l’unité d’habitation doivent comporter au moins une prise de courant installée à l’intérieur du périmètre du balcon, de la terrasse ou de la véranda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30409,13 +30404,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.844: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Each separate countertop space shall comply with the applicable requirements of this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Chaque espace de comptoir séparé doit être conforme aux exigences applicables du présent article.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051248Z">
+        <seg>Chaque espace de comptoir séparé doit être conforme aux exigences applicables de la présente section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38790,23 +38784,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.808: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Receptacle outlet assemblies installed in countertops and work surfaces shall be listed for use in countertops or work surfaces.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ensembles de prises de courant installés dans les comptoirs et les surfaces de travail doivent être répertoriés pour une utilisation dans les comptoirs ou les surfaces de travail.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051334Z">
+        <seg>Les ensembles de prises de courant installés dans les comptoirs et les surfaces de travail doivent être homologués pour être utilisés dans les comptoirs ou les surfaces de travail.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Receptacle outlet assemblies installed in countertops shall be listed for the application.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ensembles de prises de courant installés dans les comptoirs doivent être répertoriés pour l'application.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051555Z">
+        <seg>Les ensembles de prises de courant installés dans les comptoirs doivent être homologués pour l’application prévue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38828,13 +38820,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Receptacle outlets rendered not readily accessible by appliances fastened in place, appliance garages, sinks or range tops as addressed in   the   exception   to   Section   E3901.4.1,   or appliances&lt;x1/&gt;occupying dedicated space shall not be considered as these required outlets.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les prises de courant rendues difficilement accessibles par des appareils fixés en place, des compartiments pour appareils, des éviers ou des dessus de cuisinière, comme indiqué dans l'exception à la section E3901.4.1, ou par des appareils&lt;x1/&gt; occupant un espace dédié, ne doivent pas être considérées comme ces prises requises.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051350Z">
+        <seg>Les prises de courant qui ne sont pas facilement accessibles en raison d’appareils fixés en place, de garages pour appareils, d’éviers ou de dessus de cuisinière, comme prévu dans l’exception à la section E3901.4.1, ou d’appareils occupant un espace réservé, ne doivent pas être considérées comme les prises de courant exigées.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38857,13 +38848,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.806: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Receptacle outlets shall be permitted to be mounted not more than 12 inches (305 mm) below the countertop or work surface in construction designed for the physically impaired and for island and peninsular countertops or work surface where the surface is flat across its entire surface and there are no means to mount a receptacle within 20 inches (508 mm) above the countertop, such as in an overhead cabinet.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les prises de courant peuvent être installées à au plus 12 po [305 mm] au-dessous du comptoir ou de la surface de travail dans les constructions conçues pour les personnes à mobilité réduite et pour les comptoirs ou surfaces de travail en îlot ou en péninsule où la surface est plane sur toute sa surface et où il n'y a aucun moyen d'installer une prise à moins de 20 po [508 mm] au-dessus du comptoir, comme dans une armoire suspendue.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051421Z">
+        <seg>Les prises de courant peuvent être installées à au plus 12 po (305 mm) sous le comptoir ou la surface de travail dans les constructions conçues pour les personnes ayant une déficience physique, ainsi que pour les comptoirs ou surfaces de travail d’îlot et de péninsule lorsque la surface est plane sur toute sa superficie et qu’aucun moyen ne permet d’installer une prise de courant à 20 po (508 mm) ou moins au-dessus du comptoir, notamment dans une armoire suspendue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38886,13 +38876,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Receptacles mounted below the countertop or work surface in accordance with this exception shall not be located where the countertop or work surface extends more than 6 inches (152 mm) beyond its support base.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les prises de courant montées sous le comptoir ou la surface de travail conformément à cette exception ne doivent pas être situées là où le comptoir ou la surface de travail se prolonge de plus de 6 po [152 mm] au-delà de sa base de mur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051427Z">
+        <seg>Les prises de courant installées sous le comptoir ou la surface de travail conformément à la présente exception ne doivent pas être situées à un endroit où le comptoir ou la surface de travail fait saillie de plus de 6 po (152 mm) au-delà de sa base de support.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44421,23 +44410,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.879: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The receptacle shall be located not more than 12 inches (305 mm) below the top of the basin or basin countertop.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La prise de courant doit être située à au plus 12 po [305 mm] sous le bord supérieur du lavabo ou du comptoir du lavabo.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051523Z">
+        <seg>La prise de courant doit être située à au plus 12 po (305 mm) sous le bord supérieur du lavabo ou du comptoir du lavabo.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The receptacle shall be located not more than 6 feet, 6 inches (1981 mm) above the balcony, deck, or porch surface.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La prise de courant doit être située à au plus 6 pi-6 po [1981 mm] au-dessus de la surface du balcon, de la terrasse ou du porche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051700Z">
+        <seg>La prise de courant doit être située à au plus 6 pi 6 po (1981 mm) au-dessus de la surface du balcon, de la terrasse ou de la véranda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47723,13 +47710,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.785: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a range, counter-mounted cooking unit, or sink is installed in an island or peninsular countertop and the depth of the countertop behind the range, counter-mounted cooking unit, or sink is less than 12 inches (305 mm), the range, counter-mounted cooking unit, or sink has divided the countertop space into two separate countertop spaces as defined in Section E3901.4.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'une cuisinière, une unité de cuisson montée sur le comptoir ou un évier est installé sur un îlot ou un comptoir en forme de péninsule et que la profondeur du comptoir derrière la cuisinière, l'unité de cuisson montée sur le comptoir ou l'évier est inférieure à 12 po [305 mm], la cuisinière, l'unité de cuisson montée sur le comptoir ou l'évier a divisé l'espace du comptoir en deux espaces de comptoir séparés, tels que définis à la section E3901.4.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051234Z">
+        <seg>Lorsqu’une cuisinière, une unité de cuisson encastrée dans le comptoir ou un évier est installé dans un comptoir d’îlot ou de péninsule et que la profondeur du comptoir derrière la cuisinière, l’unité de cuisson encastrée dans le comptoir ou l’évier est inférieure à 12 po (305 mm), la cuisinière, l’unité de cuisson encastrée dans le comptoir ou l’évier a divisé l’espace de comptoir en deux espaces de comptoir distincts tels que définis à la section E3901.4.4.</seg>
       </tuv>
     </tu>
     <tu>
