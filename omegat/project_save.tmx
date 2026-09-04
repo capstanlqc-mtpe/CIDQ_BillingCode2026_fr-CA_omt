@@ -17112,13 +17112,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.759: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;HANDRAILS&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;RAMPES&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T141450Z">
+        <seg>&lt;g1&gt;MAINS COURANTES&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28775,13 +28774,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.86: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Clearance between handrail gripping surface and adjacent surfaces shall be 11/2 inches (38 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'espacement entre la surface de préhension de la rampe et les surfaces adjacentes doit être d'au moins 11/2 po (38 mm).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T141835Z">
+        <seg>L'espacement entre la surface de préhension des mains courantes et les surfaces adjacentes doit être d'au moins 11/2 po (38 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33397,43 +33395,39 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.805: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Handrails required by Section 405.8 for ramps, Section 504.7 for stairs, Section 1009.3.3 for pool sloped entries and Section 1009.6.2 for pool stairs shall comply with Section 505.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes exigées par l'article 405.8 pour les rampes, l'article 504.7 pour les escaliers, l'article 1009.3.3 pour les entrées en pente de piscine et l'article 1009.6.2 pour les escaliers de piscine doivent être conformes à la section 505.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T141517Z">
+        <seg>Les mains courantes exigées par la section 405.8 pour les rampes, par la section 504.7 pour les escaliers, par la section 1009.3.3 pour les accès inclinés aux piscines et par la section 1009.6.2 pour les escaliers de piscine doivent être conformes à la section 505.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.797: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Handrails shall be at a consistent height above stair nosings, ramp surfaces and walking surfaces.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes doivent être à une hauteur constante au-dessus des nez de marche, des surfaces de rampe et des surfaces de circulation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T141805Z">
+        <seg>Les mains courantes doivent être à une hauteur uniforme au-dessus des nez de marche, des surfaces des rampes et des surfaces de circulation.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.792: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Handrails shall be continuous within the full length of each stair flight or ramp run.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes doivent être continues sur toute la longueur de chaque volée d'escalier ou course de rampe.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T141645Z">
+        <seg>Les mains courantes doivent être continues sur toute la longueur de chaque volée d’escalier ou de chaque tronçon de rampes.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.777: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Handrails shall be provided on both sides of stairs and ramps.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir des rampes des deux côtés des escaliers et des rampes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T141538Z">
+        <seg>Des mains courantes doivent être prévues des deux côtés des escaliers et des rampes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33466,13 +33460,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.689: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Handrails shall not be required to be continuous in aisles serving seating where handrails are discontinuous to provide access to seating and to permit crossovers within the aisles.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes ne sont pas tenues d'être continues dans les allées desservant des sièges où les rampes sont discontinues pour permettre l'accès aux sièges et pour permettre les croisements dans les allées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T141731Z">
+        <seg>Les mains courantes ne sont pas tenues d’être continues dans les allées desservant des sièges lorsque les mains courantes sont interrompues pour permettre l’accès aux sièges et les traversées dans les allées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34627,23 +34620,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.731: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In assembly seating areas, handrails shall not be required on both sides along aisle stairs, provided with a handrail either at the side or within the aisle.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les zones de sièges de rassemblement, des rampes ne sont pas exigées des deux côtés le long des escaliers d'allée, à condition qu'il y ait une rampe soit sur le côté, soit dans l'allée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T141618Z">
+        <seg>Dans les aires de sièges d’assemblée, les mains courantes ne sont pas exigées des deux côtés des escaliers d’allée, pourvu qu’une main courante soit prévue soit sur le côté, soit dans l’allée.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.693: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In assembly seating areas, handrails shall not be required on the sides of ramped aisles serving seats.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les aires de sièges de rassemblement, les rampes ne sont pas exigées sur les côtés des allées en rampe desservant les sièges.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T141624Z">
+        <seg>Dans les aires de sièges d’assemblée, les mains courantes ne sont pas exigées sur les côtés des allées en pente desservant des sièges.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35355,13 +35346,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.71: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Inside handrails on switchback or dogleg stairs or ramps shall be continuous between flights or runs.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes intérieures sur les escaliers ou les rampes en lacets ou en coude doivent être continues entre les volées ou les tronçons.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T141700Z">
+        <seg>Les mains courantes intérieures des escaliers ou des rampes à volées en sens inverse ou à volées perpendiculaires doivent être continues entre les volées ou les tronçons.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37543,13 +37533,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.897: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Other handrails shall comply with Sections 505.10 and 307.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les autres rampes doivent être conformes aux sections 505.10 et 307.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T141707Z">
+        <seg>Les autres mains courantes doivent être conformes aux sections 505.10 et 307.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46205,13 +46194,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.814: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Top of gripping surfaces of handrails shall be 34 inches (865 mm) minimum and 38 inches (965 mm) maximum vertically above stair nosings, ramp surfaces and walking surfaces.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le haut des surfaces de préhension des rampes doit se situer entre 34 po [865 mm] et 38 po [965 mm] verticalement au-dessus des nez de marche, des surfaces de rampe et des surfaces de circulation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T141758Z">
+        <seg>Le dessus des surfaces de préhension des mains courantes doit être situé à au moins 34 po (865 mm) et à au plus 38 po (965 mm) à la verticale au-dessus des nez de marche, des surfaces des rampes et des surfaces de circulation.</seg>
       </tuv>
     </tu>
     <tu>
