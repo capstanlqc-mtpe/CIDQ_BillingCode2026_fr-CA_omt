@@ -12575,13 +12575,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.799: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;607.7 Bathtub enclosures.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;607.7 Parois de baignoire.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T155121Z">
+        <seg>&lt;g1&gt;607.7 Enceintes des baignoires.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48494,8 +48493,8 @@
       <tuv lang="en">
         <seg>Where provided, an adjustable-height hand shower mounted on a vertical bar shall be installed so as to not obstruct the use of grab bars.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T153541Z">
-        <seg>Lorsqu’une douchette à main réglable en hauteur montée sur une barre verticale est prévue, elle doit être installée de manière à ne pas entraver l’utilisation des barres d’appui..</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T153551Z">
+        <seg>Lorsqu’une douchette à main réglable en hauteur montée sur une barre verticale est prévue, elle doit être installée de manière à ne pas entraver l’utilisation des barres d’appui.</seg>
       </tuv>
     </tu>
     <tu>
