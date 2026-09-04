@@ -12862,13 +12862,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.93: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;703.6.3&lt;x2/&gt;Symbols.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;703.6.3&lt;x2/&gt;Symbols.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T184012Z">
+        <seg>&lt;g1&gt;703.6.3&lt;x2/&gt;Symboles.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15679,13 +15678,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.928: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;703.6.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;703.6.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T183952Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;703.6.1&lt;x3/&gt;Generalités.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26749,13 +26747,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Assistive listening systems shall be identified by the International Symbol of Access for Hearing Loss complying with Figure 703.6.3.3.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les systèmes d'aide à l'audition doivent être identifiés par le Symbole international d'accès pour les personnes malentendantes conforme à la figure 703.6.3.3.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T184044Z">
+        <seg>Les systèmes d'aide à l'écoute doivent être identifiés par le Symbole international d'accès pour les personnes malentendantes conforme à la figure 703.6.3.3.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40020,13 +40017,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Special rooms and spaces required to be accessible by the scoping provisions adopted by the administrative authority shall comply with the applicable provisions of Chapter 8.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les salles et espaces spéciaux qui doivent être accessibles en vertu des dispositions de portée adoptées par l'autorité administrative doivent être conformes aux dispositions applicables du chapitre 8.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T184107Z">
+        <seg>Les salles et les espaces spéciaux qui doivent être accessibles en vertu des dispositions de portée adoptées par l'autorité administrative doivent être conformes aux dispositions applicables du chapitre 8.</seg>
       </tuv>
     </tu>
     <tu>
