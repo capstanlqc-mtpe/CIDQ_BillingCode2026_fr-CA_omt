@@ -38498,23 +38498,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Reinforcement shall accommodate a swing-up grab bar with a height in the down position of 33 inches (840 mm) minimum and 36 inches (915 mm) maximum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le renforcement doit pouvoir accueillir une barre d'appui pivotante dont la hauteur en position abaissée est comprise entre 33 po [840 mm] et 36 po [915 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T211616Z">
+        <seg>Le renforcement doit permettre l’installation d’une barre d’appui relevable dont la hauteur, en position abaissée, est d’au moins 33 po (840 mm) et d’au plus 36 po (915 mm).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Reinforcement shall accommodate a swing–up grab bar centered 153/4 inches (400 mm) from the centerline of the water closet and 28 inches (710 mm) minimum in length, measured from the wall to the end of the horizontal portion of the grab bar.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le renforcement doit permettre l'installation d'une barre d'appui pivotante centrée à 153/4 po [400 mm] de la ligne d'axe de la cabine de toilette et d'une longueur minimale de 28 po [710 mm], mesurée du mur à l'extrémité de la partie horizontale de la barre d'appui.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T211609Z">
+        <seg>Le renforcement doit permettre l’installation d’une barre d’appui relevable centrée à 15 3/4 po (400 mm) de l’axe central de la toilette et d’une longueur d’au moins 28 po (710 mm), mesurée du mur jusqu’à l’extrémité de la partie horizontale de la barre d’appui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46775,13 +46773,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>When the approach to the water closet is from the side, the 18 inches (455 mm) minimum shall be on the side opposite the direction of approach.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque l'approche de la cabine de toilette se fait par le côté, le minimum de 18 po [455 mm] doit être du côté opposé à la direction d'approche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T211600Z">
+        <seg>Lorsque l’approche de la toilette se fait par le côté, le dégagement d’au moins 18 po (455 mm) doit être prévu du côté opposé au sens de l’approche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47255,13 +47252,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a water closet is positioned with a wall to the rear and to one side, the centerline of the water closet shall be 16 inches (405 mm) minimum and 18 inches (455 mm) maximum from the sidewall.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'il y a un mur à l'arrière et sur un côté de la cabine de toilette, la ligne d'axe de la cabine de toilette doit se trouver à une distance comprise entre 16 po [405 mm] et 18 po [455 mm] du mur latéral.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T211645Z">
+        <seg>Lorsque la toilette est positionnée avec un mur à l’arrière et sur un côté, son axe central doit être situé à au moins 16 po (405 mm) et à au plus 18 po (455 mm) du mur latéral.</seg>
       </tuv>
     </tu>
     <tu>
