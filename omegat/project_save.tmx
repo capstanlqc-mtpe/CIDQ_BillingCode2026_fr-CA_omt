@@ -26821,13 +26821,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.847: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At fixtures not required to comply with Section 1103.11.2, reinforcement in accordance with Section 1104.11.1 shall be permitted.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Au niveau des appareils sanitaires non tenus de se conformer à la section 1103.11.2, le renforcement selon la section 1104.11.1 est autorisé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T195545Z">
+        <seg>Aux appareils sanitaires qui ne sont pas tenus de se conformer à la section 1103.11.2, un renforcement conforme à la section 1104.11.1 est autorisé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38528,13 +38527,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Reinforcement is not required in a room containing only a lavatory and a water closet, provided the room does not contain the only lavatory or water closet on the accessible level of the dwelling unit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le renforcement n'est pas exigé dans une pièce ne contenant qu'un lavabo et une cabine de toilette, à condition que la pièce ne contienne pas le seul lavabo ou la seule cabine de toilette au niveau accessible de l'unité d'habitation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T195625Z">
+        <seg>Aucun renforcement n’est requis dans une pièce qui ne contient qu’un lavabo et un cabinet d’aisances, à condition que cette pièce ne contienne pas le seul lavabo ou la seule cabine de toilette du niveau accessible du logement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38596,13 +38594,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Reinforcement shall be provided for the future installation of grab bars complying with Section 604.5 at water closets; grab bars complying with Section 607.4 at bathtubs; and for grab bars and shower seats complying with Sections 608.3, 608.2.1.3, 608.2.2.3 and 608.2.3.2 at shower compartments.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir un renforcement pour l'installation future de barres d'appui conformes à la section 604.5 dans les cabines de toilette; de barres d'appui conformes à la section 607.4 dans les baignoires; et de barres d'appui et de sièges de douche conformes aux sections 608.3, 608.2.1.3, 608.2.2.3 et 608.2.3.2 dans les compartiments de douche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T195535Z">
+        <seg>Un renforcement doit être prévu pour l’installation ultérieure de barres d’appui conformes à la section 604.5 aux cabinets d’aisances, de barres d’appui conformes à la section 607.4 aux baignoires, ainsi que de barres d’appui et de sièges de douche conformes aux sections 608.3, 608.2.1.3, 608.2.2.3 et 608.2.3.2 dans les cabines de douche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43102,13 +43099,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.797: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The maneuvering clearances required by Section 404 shall not be required within a closet or pantry complying with Exception 2 of Section 1103.3.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les espaces de dégagement exigés par la section 404 ne sont pas exigés dans un PLACARD ou un garde-manger conforme à l'exception 2 de la section 1103.3.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T195426Z">
+        <seg>Les espaces de dégagement exigés par la section 404 ne sont pas exigés dans un placard ou un garde-manger conforme à l'Exception 2 de la section 1103.3.2.</seg>
       </tuv>
     </tu>
     <tu>
