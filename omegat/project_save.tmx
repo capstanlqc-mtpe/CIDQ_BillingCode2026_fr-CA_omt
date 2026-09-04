@@ -20223,9 +20223,13 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
       <note>0.89</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;Table of Contents&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="fr-CA">
+        <seg>&lt;g1&gt;Table des matières&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
