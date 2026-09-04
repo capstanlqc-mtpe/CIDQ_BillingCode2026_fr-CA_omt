@@ -28754,13 +28754,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.79: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Cleanout openings located within foundation walls below fireboxes, where provided, shall be equipped with ferrous metal or masonry doors and frames constructed to remain tightly closed except when in use.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures de nettoyage situées dans les murs de fondation sous les foyers, lorsqu'elles sont prévues, doivent être équipées de portes et de cadres en métal ferreux ou en maçonnerie construits de manière à rester hermétiquement fermés, sauf lorsqu'ils sont utilisés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T044529Z">
+        <seg>Les ouvertures de ramonage situées dans les murs de fondation sous les foyers, lorsqu’elles sont prévues, doivent être munies de portes et de cadres en métal ferreux ou en maçonnerie conçus pour rester hermétiquement fermés, sauf pendant leur utilisation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46296,13 +46295,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.857: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>This table provides a summary of major requirements for the construction of masonry chimneys and fireplaces.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ce tableau fournit un résumé des principales exigences pour la construction de cheminées et de foyers en maçonnerie.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T043803Z">
+        <seg>Ce tableau résume les principales exigences relatives à la construction des cheminées et des foyers en maçonnerie.</seg>
       </tuv>
     </tu>
     <tu>
