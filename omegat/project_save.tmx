@@ -12488,13 +12488,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;607.4.1.2 Control end wall.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;607.4.1.2 Mur de l'extrémité de commande.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T150711Z">
+        <seg>&lt;g1&gt;607.4.1.2 Mur à l’extrémité où se trouvent les commandes.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12538,13 +12537,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.86: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;607.4.2.2 Control end wall.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;607.4.2.2 Mur du côté des commandes.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T151019Z">
+        <seg>&lt;g1&gt;607.4.2.2 Mur à l’extrémité où se trouvent les commandes.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24354,13 +24352,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.83: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A horizontal grab bar 24 inches (610 mm) minimum in length shall be provided on the control end wall beginning near the front edge of the bathtub and extending toward the inside corner of the bathtub.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir une barre d'appui horizontale d'une longueur minimale de 24 po [610 mm] sur le mur de l'extrémité de commande, commençant près du bord avant de la baignoire et se prolongeant vers le coin intérieur de la baignoire.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T150802Z">
+        <seg>Une barre d’appui horizontale d’au moins 24 po (610 mm) de longueur doit être prévue sur le mur à l’extrémité où se trouvent les commandes, en commençant près du bord avant de la baignoire et en se prolongeant vers le coin intérieur de la baignoire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25059,13 +25056,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.804: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A vertical grab bar 18 inches (455 mm) minimum I&lt;x1/&gt;n length shall be provided on the control end wall 3 inches (75 mm) minimum and 6 inches (150 mm) maximum above the horizontal grab bar, and 4 inches (100 mm) maximum inward from the front edge of the bathtub.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une barre d'appui verticale d'une longueur minimale de 18 po [455 mm]&lt;x1/&gt; doit être prévue sur le mur de l'extrémité de commande, à une hauteur comprise entre 3 po [75 mm] et 6 po [150 mm] au-dessus de la barre d'appui horizontale, et à une distance maximale de 4 po [100 mm] vers l'intérieur à partir du bord avant de la baignoire.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T150948Z">
+        <seg>Une barre d’appui verticale d’au &lt;x1/&gt;moins 18 po (455 mm) de longueur doit être prévue sur le mur à l’extrémité où se trouvent les commandes, à au moins 3 po (75 mm) et à au plus 6 po (150 mm) au-dessus de la barre d’appui horizontale et à au plus 4 po (100 mm) vers l’intérieur à partir du bord avant de la baignoire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25940,13 +25936,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An L-shaped continuous grab bar of equivalent dimensions and positioning shall be permitted to serve the function of separate vertical and horizontal grab bars.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une barre d'appui continue en forme de L de dimensions et de positionnement équivalents peut servir de barres d'appui verticales et horizontales séparées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T150751Z">
+        <seg>Une barre d’appui continue en L de dimensions et de positionnement équivalents peut être utilisée pour remplir la fonction de barres d’appui verticales et horizontales distinctes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29296,8 +29291,8 @@
       <tuv lang="en">
         <seg>Control end wall grab bars shall comply with Section 607.4.1.2.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T190908Z">
-        <seg>Les barres d'appui du mur d'extrémité de commande doivent être conformes à la section 607.4.1.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T150732Z">
+        <seg>Les barres d'appui du mur d'extrémité où se trouvent les commandes doivent être conformes à la section 607.4.1.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30249,23 +30244,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Each grab bar shall be 24 inches (610 mm) minimum in length, located 24 inches (610 mm) maximum from the head end wall and extend to 12 inches (305 mm) maximum from the control end wall.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Chaque barre d'appui doit avoir une longueur minimale de 24 po [610 mm], être située à une distance maximale de 24 po [610 mm] de la tête de mur et se prolonger jusqu'à une distance maximale de 12 po [305 mm] du mur de l'extrémité de commande.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T151030Z">
+        <seg>Chaque barre d’appui doit avoir une longueur d’au moins 24 po (610 mm), être située à au plus 24 po (610 mm) du mur à l’extrémité de la baignoire et se prolonger jusqu’à au plus 12 po (305 mm) du mur à l’extrémité où se trouvent les commandes.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Each grab bar shall be located 15 inches (380 mm) maximum from the head end wall and extend to 12 inches (305 mm) maximum from the control end wall.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Chaque barre d'appui doit être située à une distance maximale de 15 po [380 mm] de la tête de mur et se prolonger jusqu'à une distance maximale de 12 po [305 mm] du mur du côté des commandes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T150652Z">
+        <seg>Chaque barre d’appui doit être située à au plus 15 po (380 mm) du mur à l’extrémité de la baignoire et se prolonger jusqu’à au plus 12 po (305 mm) du mur à l’extrémité où se trouvent les commandes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32261,13 +32254,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.859: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>For bathtubs with removable seats, grab bars complying with Section 607.4.2 shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les baignoires à sièges amovibles, il faut prévoir des barres d'appui conformes à la section 607.4.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T150932Z">
+        <seg>Pour les baignoires munies de sièges amovibles, des barres d’appui conformes à la section 607.4.2 doivent être prévues.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33071,13 +33063,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.807: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Grab bars shall not be required to be installed in a bathing facility for a single occupant accessed only through a private office and not for common use or public use, provided reinforcement has been installed in walls and located so as to permit the installation of grab bars complying with Section 607.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il n'est pas nécessaire d'installer des barres d'appui dans une installation de bain à l'usage d'un occupant unique et non à usage commun ou public, et à laquelle on accède uniquement par un bureau privé, à condition que les murs aient été renforcés aux endroits permettant l'installation de barres d'appui conformément à l'article 607.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T150605Z">
+        <seg>Les barres d’appui ne sont pas tenues d’être installées dans une installation de bain destinée à un seul occupant, accessible uniquement par l’intermédiaire d’un bureau privé et non destinée à un usage commun ou public, pourvu qu’un renforcement ait été installé dans les murs et soit situé de manière à permettre l’installation de barres d’appui conformes à la section 607.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46291,13 +46282,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.859: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Two horizontal grab bars shall be provided on the back wall, one complying with Section 609.4 and the other located 8 inches (205 mm) minimum and 10 inches (255 mm) maximum above the rim of the bathtub.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir deux barres d'appui horizontales sur la paroi arrière, l'une conforme à la section 609.4 et l'autre située à une hauteur comprise entre 8 po [205 mm] et 10 po [255 mm] au-dessus du rebord de la baignoire.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T150643Z">
+        <seg>Deux barres d’appui horizontales doivent être prévues sur le mur arrière, l’une conforme à la section 609.4 et l’autre située à au moins 8 po (205 mm) et à au plus 10 po (255 mm) au-dessus du rebord de la baignoire.</seg>
       </tuv>
     </tu>
     <tu>
