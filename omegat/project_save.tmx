@@ -18382,13 +18382,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.759: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;R314.2 Where required.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;R314.2 Endroits où ils sont exigés.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041629Z">
+        <seg>&lt;g1&gt;R314.2 Endroits où elles sont exigées.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19928,13 +19927,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;SMOKE ALARMS&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;DÉTECTEURS DE FUMÉE&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041515Z">
+        <seg>&lt;g1&gt;ALARMES DE FUMÉE&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24663,23 +24661,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A nosing projection is not required where the tread depth is not less than 11 inches (279 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une saillie de nez de marche n'est pas exigée lorsque la profondeur du giron est d'au moins 11 po [279 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041353Z">
+        <seg>Une saillie de nez de marche n'est pas exigée lorsque la profondeur du giron est d'au moins 11 po (279 mm).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A nosing projection not less than 3/4 inch (19 mm) and not more than 11/4 inches (32 mm) shall be provided on stairways.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une saillie du nez de marche d'au moins 3/4 po [19 mm] et d'au plus 11/4 po [32 mm] doit être prévue sur les escaliers.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041332Z">
+        <seg>Une saillie du nez de marche d'au moins 3/4 po (19 mm) et d'au plus 11/4 po (32 mm) doit être prévue sur les escaliers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29059,13 +29055,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.854: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Combination smoke and carbon monoxide alarms shall be listed in accordance with UL 217 and UL 2034.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les détecteurs combinés de fumée et de monoxyde de carbone doivent être répertoriés conformément aux normes UL 217 et UL 2034.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041621Z">
+        <seg>Les alarmes combinées de fumée et de monoxyde de carbone doivent être répertoriées conformément aux normes UL 217 et UL 2034.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29331,13 +29326,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.779: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Consistently shaped winders at the walkline shall be allowed within the same flight of stairs as rectangular treads and shall not be required to be within 3/8 inch (9.5 mm) of the rectangular tread depth.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les marches biseautées de même forme au niveau de la ligne de foulée sont autorisées dans la même volée de marches que les marches rectangulaires et ne sont pas tenues d'être à moins de 3/8 po [9,5 mm] de la profondeur des marches rectangulaires.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041251Z">
+        <seg>Des marches balancées de forme uniforme au niveau de la ligne de foulée sont autorisées dans la même volée d’escalier que des marches rectangulaires et ne sont pas tenues de se situer à moins de 3/8 po (9,5 mm) de la profondeur des marches rectangulaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32581,13 +32575,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.874: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>For landings of shapes other than square or rectangular, the depth at the walk line and the total area shall be not less than that of a quarter circle with a radius equal to the required landing width.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les paliers de formes autres que carrées ou rectangulaires, la profondeur au niveau de la ligne de marche et la superficie totale ne doivent pas être inférieures à celles d'un quart de cercle dont le rayon est égal à la largeur requise du palier.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041422Z">
+        <seg>Pour les paliers de formes autres que carrées ou rectangulaires, la profondeur au niveau de la ligne de foulée et la superficie totale ne doivent pas être inférieures à celles d’un quart de cercle dont le rayon est égal à la largeur de palier exigée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37106,13 +37099,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Nosings at treads, landings and floors of stairways shall have a radius of curvature at the nosing not greater than 9/16 inch (14 mm) or a bevel not greater than 1/2 inch (12.7 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les nez de marche, de palier et de plancher d'escalier doivent avoir un rayon de courbure au nez d'au plus 9/16 po [14 mm] ou un biseau d'au plus 1/2 po [12,7 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041317Z">
+        <seg>Les nez de marche, de palier et de plancher d'escalier doivent avoir un rayon de courbure au nez d'au plus 9/16 po (14 mm) ou un biseau d'au plus 1/2 po (12,7 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40120,43 +40112,39 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.87: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke alarms shall be listed in accordance with UL 217.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les détecteurs de fumée doivent être répertoriés conformément à la norme UL 217.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041608Z">
+        <seg>Les alarmes de fumée doivent être répertoriées conformément à la norme UL 217.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.879: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke alarms shall be provided in accordance with this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des détecteurs de fumée doivent être prévus conformément à la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041638Z">
+        <seg>Des alarmes de fumée doivent être prévues conformément à la présente section.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke alarms shall be provided in dwelling units.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des détecteurs de fumée doivent être prévus dans les logements.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041736Z">
+        <seg>Des avertisseurs de fumée doivent être prévus dans les logements.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.882: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke alarms shall comply with NFPA 72 and Section R314.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les détecteurs de fumée doivent être conformes à la norme NFPA 72 et à la section R314.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041535Z">
+        <seg>Les alarmes de fumée doivent être conformes à la norme NFPA 72 et à la section R314.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43229,13 +43217,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.805: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The greatest nosing projection shall not exceed the smallest nosing projection by more than 3/8 inch (9.5 mm) within a stairway.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La plus grande saillie de nez de marche ne doit pas dépasser la plus petite saillie de nez de marche de plus de 3/8 pouce (9,5 mm) dans un escalier.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041343Z">
+        <seg>La plus grande saillie de nez de marche ne doit pas dépasser la plus petite saillie de nez de marche de plus de 3/8 pouce (9,5 mm) dans un escalier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45628,13 +45615,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The walking surface of treads and landings of stairways shall be sloped not steeper than one unit vertical in 48 inches horizontal (2-percent slope).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La surface de marche des marches et des paliers des escaliers doit présenter une pente d'au plus une unité verticale sur 48 po horizontales (pente de 2 pour cent).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041454Z">
+        <seg>La surface de marche des marches et des paliers des escaliers doit présenter une pente d'au plus une unité verticale sur 48 po horizontales (pente de 2 %).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49606,13 +49592,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.878: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the stairway has a straight run, the depth in the direction of travel shall be not less than 36 inches (914 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque l'escalier est droit, la profondeur dans le sens de la marche ne doit pas être inférieure à 36 po [914 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041429Z">
+        <seg>Lorsque l'escalier est droit, la profondeur dans le sens de la marche ne doit pas être inférieure à 36 po (914 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49887,13 +49872,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.812: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Winder treads shall have a tread depth of not less than 6 inches (152 mm) at any point within the clear width of the stair.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les marches balancées doivent avoir une profondeur de pas d'au moins 6 po [152 mm] en tout point de la largeur libre de l'escalier.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041240Z">
+        <seg>Les marches balancées doivent avoir une profondeur de marche d’au moins 6 po (152 mm) en tout point situé dans la largeur libre de l’escalier.</seg>
       </tuv>
     </tu>
     <tu>
