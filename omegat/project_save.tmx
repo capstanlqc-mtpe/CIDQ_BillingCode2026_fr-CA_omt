@@ -1608,13 +1608,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.851: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1&lt;x1/&gt;.For rooms with sloped ceilings, the required floor area of the room shall have a ceiling height of not less than 5 feet (1524 mm) and not less than 50 percent of the required floor area shall have a ceiling height of not less than 7 feet (2134 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1&lt;x1/&gt;. Pour les pièces à plafond incliné, la hauteur de plafond de la surface de plancher requise de la pièce ne doit pas être inférieure à 5 pi [1524 mm] et la hauteur de plafond d'au moins 50 pour cent de la surface de plancher requise ne doit pas être inférieure à 7 pi [2134 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T030408Z">
+        <seg>1&lt;x1/&gt;. Pour les pièces dont le plafond est incliné, la superficie de plancher exigée de la pièce doit avoir une hauteur sous plafond d’au moins 5 pi (1 524 mm), et au moins 50 % de la superficie de plancher exigée doit avoir une hauteur sous plafond d’au moins 7 pi (2 134 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2637,13 +2636,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.806: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.Eave projections shall not be considered as obstructing the clear open space of a yard or court.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2. Les saillies d'avant-toit ne doivent pas être considérées comme obstruant l'espace libre d'une cour ou d'un jardin.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T025926Z">
+        <seg>2. Les débords de toit ne doivent pas être considérés comme obstruant l’espace libre d’une cour ou d’un espace ouvert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3031,13 +3029,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;Beams, girders, ducts or other obstructions in basements containing habitable space shall be permitted to project to within 6 feet 4 inches (1931 mm) of the finished floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Les poutres, les longerons, les conduits ou autres obstructions dans les sous-sols contenant des lieux habitables peuvent faire saillie jusqu'à 6 pi-4 po [1931 mm] au-dessus du sol fini.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T030521Z">
+        <seg>3.&lt;x1/&gt; Les poutres, les poutres maîtresses, les conduits ou les autres obstacles dans les sous-sols contenant un espace habitable peuvent être en saillie jusqu’à une hauteur de 6 pi 4 po (1 931 mm) au-dessus du plancher fini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3473,13 +3470,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.Required glazed openings that face into the area under a deck, balcony, bay or floor cantilever where a clear vertical space not less than 36 inches (914 mm) in height is provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3. Les ouvertures vitrées requises qui donnent sur la zone située sous une terrasse, un balcon, une baie ou un porte-à-faux de plancher où un espace vertical libre d'au moins 36 po [914 mm] de hauteur est prévu.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T025933Z">
+        <seg>3. Les ouvertures vitrées requises donnant sur l’espace situé sous une terrasse, un balcon, une baie ou un plancher en porte-à-faux lorsqu’un espace vertical libre d’au moins 36 po (914 mm) de hauteur est prévu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22411,13 +22407,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.857: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;2.&lt;x2/&gt;The ceiling height above bathroom and toilet room fixtures shall be such that the fixture is capable of being used for its intended purpose.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;2.&lt;x2/&gt; La hauteur du plafond au-dessus des appareils sanitaires de la salle de bain et des toilettes doit être telle que l'appareil puisse être utilisé aux fins prévues.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T030423Z">
+        <seg>&lt;x1/&gt;2.&lt;x2/&gt; La hauteur sous plafond au-dessus des appareils sanitaires des salles de bains et des cabinets d’aisances doit être suffisante pour permettre l’utilisation de l’appareil conformément à sa fonction prévue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24838,13 +24833,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.811: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A shower or tub equipped with a showerhead shall have a ceiling height of not less than 6 feet 8 inches (2032 mm) above an area of not less than 30 inches (762 mm) by 30 inches (762 mm) at the showerhead.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La hauteur de plafond au-dessus d'une douche ou d'une baignoire équipée d'une pomme de douche ne doit pas être inférieure à 6 pi-8 po [2032 mm] au-dessus d'une zone d'au moins 30 po [762 mm] sur 30 po [762 mm] au niveau de la pomme de douche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T030432Z">
+        <seg>Une douche ou une baignoire équipée d’une pomme de douche doit avoir une hauteur sous plafond d’au moins 6 pi 8 po (2 032 mm) au-dessus d’une superficie d’au moins 30 po (762 mm) sur 30 po (762 mm) au niveau de la pomme de douche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27053,13 +27047,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.86: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At beams, girders, ducts or other obstructions, the ceiling height shall be not less than 6 feet 4 inches (1931 mm) from the finished floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Au niveau des poutres, des longerons, des conduits ou d'autres obstacles, la hauteur de plafond ne doit pas être inférieure à 6 pi-4 po [1931 mm] au-dessus du sol fini.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T030553Z">
+        <seg>Au niveau des poutres, des longerons, des conduits ou d'autres obstacles, la hauteur de plafond ne doit pas être inférieure à 6 pi 4 po (1931 mm) au-dessus du sol fini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27609,13 +27602,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.857: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Bathrooms, toilet rooms and laundry rooms shall have a ceiling height of not less than 6 feet 8 inches (2032 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La hauteur de plafond dans les salles de bain, les toilettes et les buanderies ne doit pas être inférieure à 6 pi-8 po [2032 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T030323Z">
+        <seg>La hauteur de plafond dans les salles de bain, les toilettes et les salles de lavage ne doit pas être inférieure à 6 pi 8 po (2032 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27637,13 +27629,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.8: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Bathtub and shower floors and walls above bathtubs with installed shower heads and in shower compartments shall be finished with a nonabsorbent surface.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les planchers de baignoire et de douche et les murs au-dessus des baignoires avec des têtes de mur de douche installées et dans les compartiments de douche doivent être revêtus d'une surface non absorbante.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T030801Z">
+        <seg>Les planchers des baignoires et des douches ainsi que les murs au-dessus des baignoires munies de pommes de douche et dans les cabines de douche doivent être finis avec une surface non absorbante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31347,13 +31338,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.854: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Except as indicated in Section R308.1.1 each pane of glazing installed in hazardous locations as defined in Section R308.4 shall be provided with a manufacturer’s designation specifying who applied the designation, the type of glass and the safety glazing standard with which it complies, and that is visible in the final installation.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Sauf indication contraire à l’article R308.1.1, chaque panneau de vitrage installé dans des endroits dangereux tels que définis à l’article R308.4 doit être muni d’une désignation du fabricant précisant qui a apposé la désignation, le type de verre et la norme de verre de sécurité à laquelle il se conforme, et qui est visible dans l’installation finale.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T030837Z">
+        <seg>Sauf dans les cas indiqués à la section R308.1.1, chaque vitre d’un vitrage installé dans un emplacement dangereux tel que défini à la section R308.4 doit être munie d’une désignation du fabricant précisant qui a apposé la désignation, le type de verre et la norme relative aux vitrages de sécurité à laquelle le vitrage est conforme, et qui doit être visible une fois l’installation terminée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32112,13 +32102,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.895: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Fixtures shall be spaced in accordance with Figure R307.1, and in accordance with the requirements of Section P2705.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les appareils sanitaires doivent être espacés conformément à la figure R307.1 et aux exigences de l'article P2705.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T030737Z">
+        <seg>Les appareils sanitaires doivent être espacés conformément à la figure R307.1 et aux exigences de la section P2705.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33471,23 +33460,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.854: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Habitable rooms shall be not less than 7 feet (2134 mm) in any horizontal dimension.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les pièces habitables ne doivent pas avoir de dimension horizontale inférieure à 7 pi [2134 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T030122Z">
+        <seg>Les pièces habitables doivent avoir au moins 7 pi (2 134 mm) dans toute dimension horizontale.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Habitable rooms shall have a floor area of not less than 70 square feet (6.5 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les pièces habitables doivent avoir une surface de plancher d'au moins 70 pi2 [6,5 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T030056Z">
+        <seg>Les pièces habitables doivent avoir une surface de plancher d'au moins 70 pi2 (6.5 m2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33501,13 +33488,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Habitable space, hallways and portions of basements containing these spaces shall have a ceiling height of not less than 7 feet (2134 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La hauteur de plafond dans les lieux habitables, les corridors et les parties de sous-sol contenant ces lieux ne doit pas être inférieure à 7 pi [2134 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T030225Z">
+        <seg>La hauteur de plafond dans les lieux habitables, les corridors et les parties de sous-sol contenant ces lieux ne doit pas être inférieure à 7 pi (2134 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38471,13 +38457,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.852: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Portions of a room with a sloping ceiling measuring less than 5 feet (1524 mm) or a furred ceiling measuring less than 7 feet (2134 mm) from the finished floor to the finished ceiling shall not be considered as contributing to the minimum required habitable area for that room.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les parties d'une pièce dont le plafond incliné mesure moins de 5 pi [1524 mm] ou dont le plafond à ossature de bois mesure moins de 7 pi [2134 mm] du sol fini au plafond fini ne doivent pas être considérées comme contribuant à la surface habitable minimale requise pour cette pièce.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T030150Z">
+        <seg>Les parties d’une pièce dont le plafond est incliné et dont la hauteur est inférieure à 5 pi (1 524 mm), ou dont le plafond suspendu a une hauteur inférieure à 7 pi (2 134 mm) entre le plancher fini et le plafond fini, ne doivent pas être considérées comme contribuant à la superficie habitable minimale exigée pour cette pièce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38490,13 +38475,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.808: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Portions of basements that do not contain habitable space or hallways shall have a ceiling height of not less than 6 feet 8 inches (2032 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La hauteur de plafond dans les parties de sous-sol qui ne contiennent pas de lieu habitable ou de corridor ne doit pas être inférieure à 6 pi-8 po [2032 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T030538Z">
+        <seg>La hauteur de plafond dans les parties de sous-sol qui ne contiennent pas de lieu habitable ou de corridor ne doit pas être inférieure à 6 pi 8 po (2032 mm)..</seg>
       </tuv>
     </tu>
     <tu>
@@ -39247,13 +39231,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.778: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Required glazed openings shall be permitted to open into sunroom additions or patio covers that abut a street, yard or court if in excess of 40 percent of the exterior sunroom walls are open, or are enclosed only by insect screening, and the ceiling height of the sunroom is not less than 7 feet (2134 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures vitrées requises peuvent s'ouvrir dans des solariums ajoutés ou des terrasses couvertes qui sont adjacents à une rue, une cour ou un patio si plus de 40 % des murs extérieurs du solarium sont ouverts ou sont fermés uniquement par une moustiquaire, et si la hauteur de plafond du solarium n'est pas inférieure à 7 pi [2134 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T025954Z">
+        <seg>Les ouvertures vitrées requises peuvent donner sur des agrandissements formant véranda ou sur des couvertures de terrasse adjacents à une rue, une cour ou un espace ouvert, pourvu que plus de 40 % des murs extérieurs de la véranda soient ouverts ou soient fermés uniquement par une moustiquaire et que la hauteur sous plafond de la véranda soit d’au moins 7 pi (2 134 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41274,13 +41257,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.873: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Such wall surfaces shall extend to a height of not less than 6 feet (1829 mm) above the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ces surfaces murales doivent se prolonger jusqu'à une hauteur d'au moins 6 pi [1829 mm] au-dessus du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T030810Z">
+        <seg>Ces surfaces murales doivent se prolonger jusqu'à une hauteur d'au moins 6 pi (1829 mm) au-dessus du sol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43512,13 +43494,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.83: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The installation of one or more portable space heaters shall not be used to achieve compliance with this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'installation d'un ou de plusieurs appareils de chauffage portatifs ne doit pas être utilisée pour se conformer à la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T030038Z">
+        <seg>L’installation d’un ou de plusieurs appareils de chauffage autonomes portatifs ne doit pas être utilisée pour satisfaire aux exigences de la présente section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49773,13 +49754,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the winter design temperature in Table R301.2(1) is below 60°F (16°C), every dwelling unit shall be provided with heating facilities capable of maintaining a room temperature of not less than 68°F (20°C) at a point 3 feet (914 mm) above the floor and 2 feet (610 mm) from exterior walls in habitable rooms at the design temperature.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque la température de calcul hivernale indiquée dans le tableau R301.2(1) est inférieure à 60 °F (16 °C), chaque logement doit être équipé d'installations de chauffage capables de maintenir une température ambiante d'au moins 68 °F (20 °C) à un point situé à 3 pi (914 mm) au-dessus du sol et à 2 pi (610 mm) des murs extérieurs dans les pièces habitables à la température de calcul.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T030017Z">
+        <seg>Lorsque la température de calcul hivernale indiquée au tableau R301.2(1) est inférieure à 60 °F (16 °C), chaque logement doit être pourvu d’installations de chauffage capables de maintenir une température ambiante d’au moins 68 °F (20 °C) en un point situé à 3 pi (914 mm) au-dessus du plancher et à 2 pi (610 mm) des murs extérieurs dans les pièces habitables, à la température de calcul.</seg>
       </tuv>
     </tu>
     <tu>
