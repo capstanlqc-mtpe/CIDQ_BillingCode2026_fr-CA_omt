@@ -15536,23 +15536,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.879: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;703.3.10&lt;x3/&gt;Height above Floor.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;703.3.10&lt;x3/&gt; Hauteur au-dessus du sol.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T181043Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;703.3.10&lt;x3/&gt; Hauteur au-dessus du plancher.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.924: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;703.3.11&lt;x3/&gt;Location.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;703.3.11&lt;x3/&gt;Location.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T181110Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;703.3.11&lt;x3/&gt;Emplacement.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22883,13 +22881,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;The stroke width shall be 15 percent maximum of the height of the uppercase letter “I” measured at the top surface of the character, and 30 percent maximum of the height of the uppercase letter “I” measured at the base of the character.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;La largeur de trait doit être d'au plus 15 % de la hauteur de la lettre majuscule « I » mesurée à la surface supérieure du caractère et d'au plus 30 % de la hauteur de la lettre majuscule « I » mesurée à la base de mur du caractère.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T180628Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;La largeur du trait doit être d’au plus 15 % de la hauteur de la lettre majuscule « I », mesurée à la surface supérieure du caractère, et d’au plus 30 % de la hauteur de la lettre majuscule « I », mesurée à la base du caractère.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28331,13 +28328,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.821: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Character spacing shall be measured between the two closest points of adjacent raised characters within a message, excluding word spaces.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'espacement des caractères doit être mesuré entre les deux points les plus proches de caractères en relief adjacents dans un message, à l'exclusion des espaces entre les mots.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T181011Z">
+        <seg>L’espacement des caractères doit être mesuré entre les deux points les plus rapprochés de caractères en relief adjacents dans un message, à l’exclusion des espaces entre les mots.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28371,13 +28367,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.797: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Characters shall be separated from raised borders and decorative elements 3/8 inch (9.5 mm) minimum.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les caractères doivent être séparés des bordures en relief et des éléments décoratifs d'au moins 3/8 po [9,5 mm].&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T181026Z">
+        <seg>Les caractères doivent être séparés des bordures en relief et des éléments décoratifs d’au moins 3/8 po (9,5 mm).&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40020,13 +40015,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Spacing between individual raised characters shall be 1/8 inch (3.2 mm) minimum measured at the top surface of the characters, 1/16 inch (1.6 mm) minimum measured at the base of the characters, and four times the raised character stroke width maximum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'espacement entre les caractères individuels en relief doit être d'au moins 1/8 po [3,2 mm] mesuré à la surface supérieure des caractères, d'au moins 1/16 po [1,6 mm] mesuré à la base des caractères, et d'au plus quatre fois la largeur de trait du caractère en relief.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T181020Z">
+        <seg>L’espacement entre les caractères en relief individuels doit être d’au moins 1/8 po (3,2 mm), mesuré à la surface supérieure des caractères, d’au moins 1/16 po (1,6 mm), mesuré à la base des caractères, et d’au plus quatre fois la largeur du trait du caractère en relief.</seg>
       </tuv>
     </tu>
     <tu>
