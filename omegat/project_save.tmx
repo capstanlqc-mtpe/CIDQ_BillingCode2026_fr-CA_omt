@@ -11143,13 +11143,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.907: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;408.3.2.1 Power operation.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;408.3.2.1 Fonctionnement électrique.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T134620Z">
+        <seg>&lt;g1&gt;408.3.2.1 Fonctionnement motorisé.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23058,13 +23057,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.792: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Where signs indicate that elevators do not serve all landings, signs in raised characters and braille complying with Sections 703.3 and 703.4 shall be provided above the hall call button or keypad.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Lorsque des panneaux indiquent que les ascenseurs ne desservent pas tous les paliers, des panneaux en caractères en relief et en braille conformes aux sections 703.3 et 703.4 doivent être prévus au-dessus du bouton d'appel du hall ou du clavier.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T134506Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Lorsque des panneaux indiquent que les ascenseurs ne desservent pas tous les paliers, des panneaux en caractères en relief et en braille conformes aux sections 703.3 et 703.4 doivent être prévus au-dessus du bouton d'appel d'étage ou du clavier.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38261,13 +38259,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.849: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Power-operated swinging doors shall remain open for 20 seconds minimum when activated.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes à charnières à commande électrique doivent demeurer ouvertes pendant au moins 20 secondes lorsqu'elles sont activées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T134656Z">
+        <seg>Les portes à charnières à fonctionnement motorisé doivent demeurer ouvertes pendant au moins 20 secondes lorsqu'elles sont activées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41010,13 +41007,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.86: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Swinging doors shall be power-operated and shall comply with ANSI/BHMA A156.19 listed in Section 106.2.6.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes battantes doivent être à commande électrique et être conformes à la norme ANSI/BHMA A156.19 mentionnée à la section 106.2.6.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T134640Z">
+        <seg>Les portes battantes doivent être à fonctionnement motorisé et être conformes à la norme ANSI/BHMA A156.19 mentionnée à la section 106.2.6.</seg>
       </tuv>
     </tu>
     <tu>
