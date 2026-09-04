@@ -15556,23 +15556,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.928: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;703.3.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;703.3.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T175653Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;703.3.1&lt;x3/&gt;Generalités.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.924: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;703.3.3&lt;x3/&gt;Case.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;703.3.3&lt;x3/&gt;Case.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T175722Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;703.3.3&lt;x3/&gt;Casse.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38265,13 +38263,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.813: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Raised characters shall be raised 1/32 inch (0.8 mm) minimum above their background.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les caractères en relief doivent être surélevés d'au moins 1/32 po [0,8 mm] au-dessus de leur fond.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T175718Z">
+        <seg>Les caractères en relief doivent être en saillie d’au moins 1/32 po (0,8 mm) par rapport à leur arrière-plan.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42878,13 +42875,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The height of the uppercase letter “I” of the font, measured vertically from the baseline of the character, shall be 5/8 inch (16 mm) minimum, and 2 inches (51 mm) maximum.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La hauteur de la lettre majuscule « I » de la police, mesurée verticalement à partir de la ligne de base du caractère, doit être d'au moins 5/8 po [16 mm] et d'au plus 2 po [51 mm].&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T175752Z">
+        <seg>La hauteur de la lettre majuscule « I » de la police, mesurée verticalement à partir de la ligne de base du caractère, doit être d'au moins 5/8 po (16 mm) et d'au plus 2 po (51 mm).&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48528,13 +48524,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.789: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where separate raised and visual characters with the same information are provided, the height of the raised uppercase letter “I” shall be permitted to be 1/2 inch (13 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des caractères en relief et visuels distincts contenant les mêmes informations sont fournis, la hauteur de la lettre majuscule « I » en relief peut être d'au moins 1/2 po [13 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T175815Z">
+        <seg>Lorsque des caractères en relief et des caractères visuels distincts contenant les mêmes renseignements sont fournis, la hauteur de la lettre majuscule en relief « I » doit être d’au moins 1/2 po (13 mm).</seg>
       </tuv>
     </tu>
     <tu>
