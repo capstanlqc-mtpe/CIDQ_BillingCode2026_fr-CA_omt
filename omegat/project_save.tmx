@@ -3822,13 +3822,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.871: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>40 inches (1015 mm) to less than or equal to 70 inches (1780 mm)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>40 po [1015 mm] à 70 po [1780 mm] ou moins</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174015Z">
+        <seg>40 po (1015 mm) à 70 po (1780 mm) ou moins</seg>
       </tuv>
     </tu>
     <tu>
@@ -4269,13 +4268,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.873: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>6 feet (1830 mm) and greater</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>6 pi [1830 mm] et plus</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174030Z">
+        <seg>6 pi (1830 mm) et plus</seg>
       </tuv>
     </tu>
     <tu>
@@ -5177,13 +5175,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.927: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;703.1.3&lt;x3/&gt;Pictograms&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;703.1.3&lt;x3/&gt;Pictograms&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T173728Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;703.1.3&lt;x3/&gt;Pictogrammes&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5197,13 +5194,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.925: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;703.2.2&lt;x3/&gt;Case&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;703.2.2&lt;x3/&gt;Case&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T173907Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;703.2.2&lt;x3/&gt;Casse&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12381,13 +12377,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.807: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;5&lt;/g1&gt;/8 inch (16 mm), plus &lt;g2&gt;1&lt;/g2&gt;/8 inch (3.2 mm) per foot (305 mm) of viewing distance above 6 feet (1830 mm)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;5/8&lt;/g1&gt; po [16 mm], plus &lt;g2&gt;1/8&lt;/g2&gt; po [3,2 mm] par pied [305 mm] de distance de visualisation au-delà de 6 pi [1830 mm]</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174058Z">
+        <seg>&lt;g1&gt;5/8&lt;/g1&gt; po (16 mm), plus &lt;g2&gt;1/8&lt;/g2&gt; po (3,2 mm) par pied (305 mm) de distance de visualisation au-delà de 6 pi (1830 mm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15498,13 +15493,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.928: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;703.2.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;703.2.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T173812Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;703.2.1&lt;x3/&gt;Generalités.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28396,13 +28390,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Characters shall be uppercase, lowercase, or a combination of both.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les caractères doivent être en majuscules, en minuscules ou une combinaison des deux.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T173913Z">
+        <seg>Les caractères doivent être en majuscules, en minuscules ou dans une combinaison des deux.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32999,13 +32992,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.862: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Greater than 70 inches (1780 mm) to less than or equal to 120 inches (3050 mm)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Plus de 70 po (1780 mm) et 120 po (3050 mm) ou moins</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174131Z">
+        <seg>Supérieure à 70 po (1 780 mm) et inférieure ou égale à 120 po (3 050 mm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35893,13 +35885,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.87: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Less than 6 feet (1830 mm)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Moins de 6 pi [1830 mm]</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174020Z">
+        <seg>Moins de 6 pi (1830 mm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45122,13 +45113,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The visual and raised requirements of item 1 shall be permitted to be provided by two separate signs that provide corresponding information provided one sign complies with Section 703.2 and the second sign complies with Section 703.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les exigences visuelles et en relief du point 1 peuvent être satisfaites par deux enseignes distinctes qui fournissent les informations correspondantes, à condition qu'une enseigne soit conforme à la section 703.2 et que la deuxième enseigne soit conforme à la section 703.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T173858Z">
+        <seg>Les exigences relatives aux caractères visuels et aux caractères en relief du point 1 peuvent être respectées au moyen de deux panneaux distincts fournissant les renseignements correspondants, pourvu que l’un des panneaux soit conforme à la section 703.2 et que le second panneau soit conforme à la section 703.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48271,13 +48261,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where pictograms are provided as designations of permanent interior rooms and spaces, the pictograms shall comply with Section 703.5 and shall have text descriptors located directly below the pictogram field and complying with Sections 703.2 and 703.3.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des pictogrammes sont prévus pour désigner des pièces et des espaces intérieurs permanents, les pictogrammes doivent être conformes à la section 703.5 et doivent comporter des descriptions textuelles situées directement sous le champ du pictogramme et conformes aux sections 703.2 et 703.3.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T173752Z">
+        <seg>Lorsque des pictogrammes sont prévus pour désigner des pièces et des espaces intérieurs permanents, les pictogrammes doivent être conformes à la section 703.5 et être accompagnés de descripteurs textuels situés directement sous le champ du pictogramme et conformes aux sections 703.2 et 703.3.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48585,13 +48574,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where signs with both visual and raised characters are required, either one sign with both visual and raised characters, or two separate signs, one with visual, and one with raised characters, shall be provided.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des panneaux comportant à la fois des caractères visuels et des caractères en relief sont exigés, il faut prévoir soit un panneau comportant à la fois des caractères visuels et des caractères en relief, soit deux panneaux distincts, l'un comportant des caractères visuels et l'autre, des caractères en relief.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T173700Z">
+        <seg>Lorsque des panneaux comportant à la fois des caractères visuels et des caractères en relief sont exigés, il faut prévoir soit un seul panneau comportant à la fois des caractères visuels et des caractères en relief, soit deux panneaux distincts, l’un comportant des caractères visuels et l’autre des caractères en relief.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
