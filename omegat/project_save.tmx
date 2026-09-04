@@ -451,13 +451,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.825: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;8.5 pounds (37.7 N) maximum for vertical or horizontal sliding windows.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; 8,5 lb [37,7 N] maximum pour les fenêtres coulissantes verticales ou horizontales.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T143052Z">
+        <seg>1.&lt;x1/&gt; 8,5 lb (37.7 N) maximum pour les fenêtres coulissantes verticales ou horizontales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23948,13 +23947,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.807: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A clearance in front of bathtubs extending the length of the bathtub and 30 inches (760 mm) minimum in depth shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir un dégagement devant les baignoires qui s'étend sur toute la longueur de la baignoire et qui a une profondeur minimale de 30 po [760 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T150436Z">
+        <seg>Un espace libre devant les baignoires, s’étendant sur toute la longueur de la baignoire et ayant une profondeur d’au moins 30 po (760 mm), doit être prévu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37407,23 +37405,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.83: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Operable skylights shall not be required to comply with this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les puits de lumière ouvrants ne sont pas tenus de se conformer à la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142954Z">
+        <seg>Les puits de lumière ouvrants ne sont pas tenus de respecter les exigences de la présente section.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.857: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Operable windows in Type A units that comply with Section 1103.13.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Fenêtres ouvrantes dans les unités de type A qui se conforment à la section 1103.13.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142943Z">
+        <seg>Les fenêtres ouvrantes des unités de type A conformes à la section 1103.13.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37464,13 +37460,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Operable windows that are operated only by employees shall not be required to comply with this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les fenêtres ouvrantes qui sont utilisées uniquement par les employés ne sont pas tenues de se conformer à la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T142933Z">
+        <seg>Les fenêtres ouvrantes manœuvrées uniquement par des employés ne sont pas tenues de respecter les exigences de la présente section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43826,23 +43821,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.864: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The operating force for opening and closing operable windows shall be as follows:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La force d'actionnement pour ouvrir et fermer les fenêtres ouvrantes doit être la suivante :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T143121Z">
+        <seg>La force de manœuvre pour ouvrir et fermer les fenêtres ouvrantes doit être la suivante :</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The operating force for windows includes forces for opening, closing, locking or latching, and unlocking or unlatching and shall be determined in accordance with AAMA 513 listed in Section 106.2.11.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La force d'actionnement des fenêtres comprend les forces d'ouverture, de fermeture, de verrouillage ou de blocage, et de déverrouillage ou de déblocage, et doit être déterminée conformément à la norme AAMA 513 indiquée à la section 106.2.11.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T143008Z">
+        <seg>La force de manœuvre des fenêtres comprend les forces nécessaires à l’ouverture, à la fermeture, au verrouillage ou à l’enclenchement, ainsi qu’au déverrouillage ou au désenclenchement, et doit être déterminée conformément à la norme AAMA 513 mentionnée à la section 106.2.11.</seg>
       </tuv>
     </tu>
     <tu>
