@@ -2209,13 +2209,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.811: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Lifts serving two landings maximum and having doors or gates on adjacent sides shall be permitted to have self-closing manual doors or gates provided that the side door or gate is located with the strike side furthest from the end door.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Les ascenseurs desservant au plus deux paliers et ayant des portes ou des portillons sur des côtés adjacents peuvent avoir des portes ou des portillons manuels à fermeture automatique, à condition que la porte ou le portillon latéral soit situé avec le côté de la gâche le plus éloigné de la porte d'extrémité.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T135803Z">
+        <seg>2.&lt;x1/&gt; Les élévateurs desservant au plus deux paliers et munis de portes ou de barrières sur des côtés adjacents peuvent être munis de portes ou de barrières à fermeture automatique et à commande manuelle, pourvu que la porte ou la barrière latérale soit située de manière que son côté gâche soit le plus éloigné de la porte située à l’extrémité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4962,8 +4961,8 @@
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;410.2.2&lt;x3/&gt;Ramps&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062905Z">
-        <seg>e&lt;b1/&gt;&lt;b2/&gt;410.2.2&lt;x3/&gt;Ramps&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T135816Z">
+        <seg>e&lt;b1/&gt;&lt;b2/&gt;410.2.2&lt;x3/&gt;Rampes&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
