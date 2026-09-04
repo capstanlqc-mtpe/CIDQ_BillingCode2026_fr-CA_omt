@@ -363,13 +363,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>0.7 seconds in classrooms with volumes of more than 10,000 cubic feet (285 m3), but less than 20,000 cubic feet (566 m3).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>0,7 seconde dans les salles de classe dont le volume est supérieur à 10 000 pi3 [285 m3], mais inférieur à 20 000 pi3 [566 m3].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192112Z">
+        <seg>0,7 seconde dans les salles de classe dont le volume est supérieur à 10 000 pi3 (285 m3), mais inférieur à 20 000 pi3 (566 m3).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23647,13 +23646,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.83: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A clear floor space positioned adjacent to the dishwasher door, shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir une surface de plancher dégagée positionnée à côté de la porte du lave-vaisselle.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191650Z">
+        <seg>Une aire de plancher dégagée adjacente à la porte du lave-vaisselle doit être prévue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23746,13 +23744,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A clear floor space, positioned for a parallel approach to the refrigerator/freezer, shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir une surface de plancher dégagée, positionnée pour un accès parallèle au réfrigérateur/congélateur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191901Z">
+        <seg>Une aire de plancher dégagée, positionnée de manière à permettre une approche parallèle du réfrigérateur-congélateur, doit être prévue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28475,13 +28472,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.847: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Classroom reverberation times shall comply with either Section 808.2.1 or Section 808.2.2, depending on the size of the room.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les temps de réverbération des salles de classe doivent être conformes à l'article 808.2.1 ou à l'article 808.2.2, selon la taille de la pièce.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192005Z">
+        <seg>Les temps de réverbération des salles de classe doivent être conformes soit à la section 808.2.1, soit à la section 808.2.2, selon la superficie de la pièce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28761,13 +28757,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.811: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Combination refrigerators and freezers shall have at least 50 percent of the freezer compartment shelves, including the bottom of the freezer, 54 inches (1370 mm) maximum above the floor when the shelves are installed at the maximum heights possible in the compartment.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les réfrigérateurs-congélateurs, au moins 50 pour cent des tablettes du compartiment congélateur, y compris le fond du congélateur, doivent se trouver à une hauteur maximale de 54 po [1370 mm] au-dessus du sol lorsque les tablettes sont installées à la hauteur maximale possible dans le compartiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191849Z">
+        <seg>Dans les réfrigérateurs-congélateurs combinés, au moins 50 % des tablettes du compartiment congélateur, y compris le fond du congélateur, doivent se trouver à au plus 54 po (1 370 mm) au-dessus du plancher lorsque les tablettes sont installées aux hauteurs maximales possibles dans le compartiment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32182,13 +32177,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.877: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>For each of the octave frequency bands with center frequencies of 500, 1000, and 2000 Hz, the reverberation time (T60) shall not exceed the times specified below:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour chacune des bandes de fréquences d'octave avec des fréquences centrales de 500, 1 000 et 2 000 Hz, le temps de réverbération (T60) ne doit pas dépasser les temps spécifiés ci-dessous :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192049Z">
+        <seg>Pour chacune des bandes de fréquences d’octave ayant des fréquences centrales de 500, 1 000 et 2 000 Hz, le temps de réverbération (T60) ne doit pas dépasser les durées indiquées ci-dessous :</seg>
       </tuv>
     </tu>
     <tu>
@@ -41480,13 +41474,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.83: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The centerline of the clear floor space shall be offset 24 inches (610 mm) maximum from the centerline of the appliance.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La ligne d'axe de la surface de plancher dégagée doit être décalée d'au plus 24 po [610 mm] par rapport à la ligne d'axe de l'appareil.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191907Z">
+        <seg>L’axe central de l’aire de plancher dégagée doit être décalé d’au plus 24 po (610 mm) par rapport à l’axe central de l’appareil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41993,13 +41986,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.854: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The dishwasher door in the open position shall not obstruct the clear floor space for the dishwasher or an adjacent sink.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La porte du lave-vaisselle en position ouverte ne doit pas obstruer la surface de plancher dégagée pour le lave-vaisselle ou un évier adjacent.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191655Z">
+        <seg>Lorsque la porte du lave-vaisselle est ouverte, elle ne doit pas obstruer l’aire de plancher dégagée du lave-vaisselle ni celle d’un évier adjacent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43115,13 +43107,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The location of controls shall not require reaching across burners.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'emplacement des commandes ne doit pas exiger de passer la main au-dessus des brûleurs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191733Z">
+        <seg>L’emplacement des commandes ne doit pas nécessiter de tendre le bras au-dessus des brûleurs.</seg>
       </tuv>
     </tu>
     <tu>
