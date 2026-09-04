@@ -831,13 +831,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;In a room containing only a lavatory and a water closet, reinforcement is not required provided the room does not contain the only lavatory or water closet on the accessible level of the unit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Dans une pièce ne contenant qu'un lavabo et une cabine de toilette, un renforcement n'est pas exigé à condition que la pièce ne contienne pas le seul lavabo ou la seule cabine de toilette au niveau accessible de l'unité.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T210418Z">
+        <seg>1.&lt;x1/&gt; Dans une pièce qui ne contient qu’un lavabo et un cabinet d’aisances, aucun renforcement n’est requis, à condition que la pièce ne contienne pas le seul lavabo ou le seul cabinet d’aisances du niveau accessible de l’unité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1365,13 +1364,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>10.&lt;x1/&gt;Where redundant controls other than light switches are provided for a single element, one control in each space shall not be required to comply with this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>10.&lt;x1/&gt; Lorsque des commandes redondantes autres que des interrupteurs d'éclairage sont prévues pour un seul élément, une commande dans chaque espace n'est pas tenue de se conformer à la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T210228Z">
+        <seg>10.&lt;x1/&gt; Lorsque des commandes redondantes autres que les interrupteurs d’éclairage sont prévues pour un même élément, il n’est pas nécessaire qu’une commande dans chaque espace soit conforme à la présente section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1435,13 +1433,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>11.&lt;x1/&gt;Within kitchens and bathrooms, lighting controls, electrical switches and receptacle outlets are permitted to be located over cabinets with countertops 36 inches (915 mm) maximum in height and 251/2 inches (650 mm) maximum in depth.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>11.&lt;x1/&gt; Dans les cuisines et les salles de bain, les commandes d'éclairage, les interrupteurs électriques et les prises de courant peuvent être situés au-dessus des armoires dont les comptoirs ont une hauteur maximale de 36 po [915 mm] et une profondeur maximale de 251/2 po [650 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T210233Z">
+        <seg>11.&lt;x1/&gt; Dans les cuisines et les salles de bains, les commandes d’éclairage, les interrupteurs électriques et les prises de courant peuvent être situés au-dessus d’armoires comportant des comptoirs d’une hauteur maximale de 36 po (915 mm) et d’une profondeur maximale de 25 1/2 po (650 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1895,13 +1892,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;At water closets reinforcement for the side wall vertical grab bar component required by Section 604.5 is not required.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Dans les cabines de toilette, le renforcement pour la barre d'appui verticale de la paroi latérale exigé par la section 604.5 n'est pas requis.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T210507Z">
+        <seg>2.&lt;x1/&gt; Dans les cabines de toilette, aucun renforcement n’est requis pour le composant vertical de la barre d’appui sur le mur latéral exigé par la section 604.5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2958,13 +2954,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;At water closets where wall space will not permit a grab bar complying with Section 604.5.2, reinforcement for a rear wall grab bar 24 inches (610 mm) minimum in length centered on the water closet shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Dans les cabines de toilette où l'espace mural ne permet pas une barre d'appui conforme à la section 604.5.2, il faut prévoir un renforcement pour une barre d'appui au mur arrière d'une longueur minimale de 24 po [610 mm], centrée sur la cabine de toilette.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T210527Z">
+        <seg>3.&lt;x1/&gt; Dans les cabines de toilette où l’espace mural ne permet pas l’installation d’une barre d’appui conforme à la section 604.5.2, un renforcement doit être prévu pour une barre d’appui sur le mur arrière d’une longueur d’au moins 24 po (610 mm), centrée par rapport à la cabine de toilette.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3594,13 +3589,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>4.&lt;x1/&gt;At water closets where a side wall is not available for a 42-inch (1065 mm) grab bar complying with Section 604.5.1, reinforcement for a sidewall grab bar, 24 inches (610 mm) minimum in length, located 12 inches (305 mm) maximum from the rear wall, shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>4.&lt;x1/&gt; Dans les cabines de toilette où il n'y a pas de paroi latérale disponible pour une barre d'appui de 42 po [1065 mm] conforme à la section 604.5.1, il faut prévoir un renforcement pour une barre d'appui de paroi latérale d'une longueur minimale de 24 po [610 mm], située à une distance maximale de 12 po [305 mm] du mur arrière.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T210640Z">
+        <seg>4.&lt;x1/&gt; Aux toilettes, lorsqu’un mur latéral n’est pas disponible pour une barre d’appui de 42 po (1 065 mm) conforme à la section 604.5.1, un renforcement doit être prévu pour une barre d’appui latérale d’une longueur d’au moins 24 po (610 mm), située à au plus 12 po (305 mm) du mur arrière.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4236,13 +4230,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>5&lt;x1/&gt;.HVAC diffusers.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>5&lt;x1/&gt;. Diffuseurs CVC.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T210151Z">
+        <seg>5&lt;x1/&gt;. Diffuseurs de CVCA.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38539,13 +38532,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.803: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Reinforcement shall be provided for the future installation of grab bars and shower seats at water closets, bathtubs, and shower compartments.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un renforcement doit être prévu pour l'installation future de barres d'appui et de sièges de douche dans les cabines de toilette, les baignoires et les cabines de douche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T210353Z">
+        <seg>Un renforcement doit être prévu pour l’installation ultérieure de barres d’appui et de sièges de douche aux cabines de toilette, aux baignoires et dans les cabines de douche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49033,13 +49025,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where walls are located to permit the installation of grab bars and seats complying with Section 604.5 at water closets; grab bars complying with Section 607.4 at bathtubs; and for grab bars and shower seats complying with Sections, 608.3, 608.2.1.3, 608.2.2.3 and 608.2.3.2 at shower compartments; reinforcement shall be provided for the future installation of grab bars and seats complying with those requirements.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les murs sont situés de manière à permettre l'installation de barres d'appui et de sièges conformes à l'article 604.5 dans les cabines de toilette; de barres d'appui conformes à l'article 607.4 dans les baignoires; et de barres d'appui et de sièges de douche conformes aux articles 608.3, 608.2.1.3, 608.2.2.3 et 608.2.3.2 dans les compartiments de douche; il faut prévoir un renforcement pour l'installation future de barres d'appui et de sièges conformes à ces exigences.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T210400Z">
+        <seg>Lorsque les murs sont situés de manière à permettre l’installation de barres d’appui et de sièges conformes à la section 604.5 aux cabinets d’aisances, de barres d’appui conformes à la section 607.4 aux baignoires et de barres d’appui et de sièges de douche conformes aux sections 608.3, 608.2.1.3, 608.2.2.3 et 608.2.3.2 dans les cabines de douche, un renforcement doit être prévu pour l’installation ultérieure de barres d’appui et de sièges conformes à ces exigences.</seg>
       </tuv>
     </tu>
     <tu>
