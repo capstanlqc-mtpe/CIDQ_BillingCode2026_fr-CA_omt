@@ -22731,13 +22731,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.843: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Raised characters shall be 48 inches (1220 mm) minimum above the floor, measured to the baseline of the lowest raised character and 60 inches (1525 mm) maximum above the floor, measured to the baseline of the highest raised character.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les caractères en relief doivent être à une hauteur minimale de 48 po [1220 mm] au-dessus du sol, mesurée à la ligne de base du caractère en relief le plus bas, et à une hauteur maximale de 60 po [1525 mm] au-dessus du sol, mesurée à la ligne de base du caractère en relief le plus haut.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T181124Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les caractères en relief doivent se trouver à au moins 48 po (1 220 mm) au-dessus du plancher, la mesure étant prise jusqu’à la ligne de base du caractère en relief le plus bas, et à au plus 60 po (1 525 mm) au-dessus du plancher, la mesure étant prise jusqu’à la ligne de base du caractère en relief le plus haut.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39542,13 +39541,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.815: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Signs containing raised characters and braille shall be located so that a clear floor area 18 inches (455 mm) minimum by 18 inches (455 mm) minimum, centered on the raised characters is provided beyond the arc of any door swing between the closed position and 45 degree open position.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les enseignes comportant des caractères en relief et du braille doivent être situées de manière à ce qu'une surface de plancher libre d'au moins 18 po [455 mm] x 18 po [455 mm], centrée sur les caractères en relief, soit prévue au-delà de l'arc d'ouverture de toute porte entre la position fermée et la position ouverte à 45 degrés.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T182707Z">
+        <seg>Les panneaux comportant des caractères en relief et du braille doivent être situés de manière à ce qu’une aire de plancher dégagée d’au moins 18 po (455 mm) sur 18 po (455 mm), centrée sur les caractères en relief, soit prévue au-delà de l’arc de rotation d’une porte entre sa position fermée et sa position ouverte à 45 degrés.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -47356,13 +47354,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a sign containing raised characters and braille is provided at double doors with two active leaves, the sign shall be to the right of the right-hand door.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un panneau contenant des caractères en relief et du braille est prévu sur des portes doubles à deux vantaux actifs, le panneau doit être à droite de la porte de droite.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T181205Z">
+        <seg>Lorsqu'un panneau contenant des caractères en relief et du braille est prévu sur des portes doubles à deux battants actifs, le panneau doit être à droite de la porte de droite.</seg>
       </tuv>
     </tu>
     <tu>
