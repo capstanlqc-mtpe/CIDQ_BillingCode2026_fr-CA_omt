@@ -24754,13 +24754,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.812: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A sign stating EXIT in raised characters and Braille and complying with Sections 703.3 and 703.4 shall be provided adjacent to each door to an area of refuge providing direct access to a stairway, an exterior area for assisted rescue, an exit stairway, an exit ramp, an exit passageway and the exit discharge.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un panneau indiquant ISSUE en caractères en relief et en braille et conforme aux articles 703.3 et 703.4 doit être prévu à côté de chaque porte donnant sur une zone de refuge offrant un accès direct à un escalier, à une zone extérieure pour le sauvetage assisté, à un escalier d'issue, à une rampe d'issue, à un passage d'issue et à l'issue d'évacuation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T141429Z">
+        <seg>Un panneau portant la mention « SORTIE » en caractères en relief et en braille et conforme aux sections 703.3 et 703.4 doit être prévu à côté de chaque porte donnant accès à une aire de refuge offrant un accès direct à un escalier, à une aire extérieure de sauvetage assisté, à un escalier d’issue, à une rampe d’issue, à un passage d’issue ou à l’issue d'évaculation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40425,13 +40424,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Stair level identification signs in raised characters and braille complying with Sections 703.3 and 703.4 shall be located at each floor level landing in all enclosed stairways adjacent to the door leading from the stairwell into the corridor to identify the floor level.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Des panneaux d'identification du niveau de l'escalier en caractères en relief et en braille conformes aux articles 703.3 et 703.4 doivent être situés à chaque palier au niveau du sol dans tous les escaliers encloisonnés adjacents à la porte menant de la cage d'escalier au corridor pour identifier le niveau du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T141222Z">
+        <seg>Des panneaux d’identification du niveau des escaliers, comportant des caractères en relief et du braille conformes aux sections 703.3 et 703.4, doivent être situés à chaque palier de niveau de plancher de tous les escaliers encloisonnés, à côté de la porte menant de la cage d’escalier au couloir, afin d’identifier le niveau de plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42538,13 +42536,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.808: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The exit door discharging to the outside or to the level of exit discharge shall have a sign with raised characters and braille stating “EXIT.”</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La porte d'issue menant à l'extérieur ou au niveau de l'issue d'évacuation doit avoir un panneau en caractères en relief et en braille indiquant « ISSUE ».</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T141256Z">
+        <seg>La porte d’issue donnant sur l’extérieur ou sur le niveau de sortie d’issue doit comporter un panneau portant le mot « SORTIE » en caractères en relief et en braille.</seg>
       </tuv>
     </tu>
     <tu>
