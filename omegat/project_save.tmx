@@ -643,13 +643,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.808: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Destination-oriented elevators shall not be required to comply with Section 407.2.2.1, provided a visible signal and audible tones and verbal announcements complying with Section 407.2.1.7 are provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1. Les ascenseurs&lt;x1/&gt; à destination ne sont pas tenus de se conformer à la section 407.2.2.1, à condition qu'un signal visible, des tonalités audibles et des annonces verbales conformes à la section 407.2.1.7 soient fournis.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061127Z">
+        <seg>1. Les ascenseurs&lt;x1/&gt; déterminée ne sont pas tenus de respecter les exigences de la section 407.2.2.1, pourvu qu’un signal visuel ainsi que des tonalités audibles et des annonces vocales conformes à la section 407.2.1.7 soient prévus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15256,13 +15255,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.874: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;407.2.2 Hall Signals.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;407.2.2 Signaux de hall.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T060958Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;407.2.2 Signaux d’appel à l’étage.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22680,8 +22678,8 @@
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Hall signals, including in-car signals, shall comply with Section 407.2.2.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260829T053107Z">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les signaux d’appel, y compris les signaux dans la cabine, doivent être conformes à la section 407.2.2.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T060951Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les signaux d’appel à l’étage, y compris les signaux dans la cabine, doivent être conformes à la section 407.2.2..&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23183,13 +23181,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.815: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;A visible and audible signal shall be provided at each hoistway entrance to indicate which car is answering a call and the car’s direction of travel.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Un signal visible et sonore doit être prévu à chaque entrée de la gaine pour indiquer quelle cabine répond à un appel et le sens de déplacement de la cabine.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061028Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Un signal visuel et audible doit être prévu à chaque entrée de puits afin d’indiquer quelle cabine répond à un appel ainsi que la direction de déplacement de la cabine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23560,13 +23557,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Visible signal fixtures shall be centered at &lt;g3&gt;72 inches (1830 mm) minimum &lt;/g3&gt;above the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Les dispositifs de signalisation visibles doivent être centrés à au &lt;g3&gt;moins 72 po [1830 mm] &lt;/g3&gt;au-dessus du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061151Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Les dispositifs de signalisation visibles doivent être centrés à au &lt;g3&gt;moins 72 po (1830 mm) &lt;/g3&gt;au-dessus du plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39770,13 +39766,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.863: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Signals shall be visible from the floor area adjacent to the hall call button.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les signaux doivent être visibles depuis la surface de plancher adjacente au bouton d'appel du hall.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061214Z">
+        <seg>Les signaux doivent être visibles depuis la surface de plancher adjacente au bouton d'appel à l'étage.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41309,13 +41304,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.847: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The International Symbol for Accessibility, complying with Section 703.6.3.1, shall be 5/8 inch (16 mm) in height and be a visual character complying with Section 703.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le Symbole international d'accessibilité, conforme à la section 703.6.3.1, doit avoir une hauteur de 5/8 po (16 mm) et être un caractère visuel conforme à la section 703.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T060909Z">
+        <seg>Le Symbole international d'accessibilité, conforme à la section 703.6.3.1, doit avoir une hauteur de 5/8 po (16 mm) et être un caractère visuel conforme à la section 703.2. (6.4 mm),</seg>
       </tuv>
     </tu>
     <tu>
@@ -45375,13 +45369,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The visible signal elements shall be 21/2 inches (64 mm) minimum between the uppermost and lowest edges of the illuminated shape measured vertically.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les éléments de signalisation visible doivent être espacés d'au moins 21/2 po [64 mm] entre les bords supérieur et inférieur de la forme éclairée, mesurés verticalement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061205Z">
+        <seg>Les éléments de signalisation visible doivent être espacés d'au moins 21/2 po (64 mm) entre les bords supérieur et inférieur de la forme éclairée, mesurés verticalement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48248,13 +48241,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.785: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where in-car signals are provided they shall be visible from the floor area adjacent to the hall call buttons.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des signaux dans la cabine sont prévus, ils doivent être visibles depuis la surface de plancher adjacente aux boutons d'appel de hall.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061059Z">
+        <seg>Lorsque des signaux dans la cabine sont prévus, ils doivent être visibles depuis la surface de plancher adjacente aux boutons d'appel à l’étage.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
