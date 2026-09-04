@@ -1501,13 +1501,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.875: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>15 feet (4570 mm) and greater</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>15 pi [4570 mm] et plus</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174540Z">
+        <seg>Égale ou supérieure à 15 pi (4570 mm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1643,23 +1642,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2 inches (51 mm)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2 po [51 mm]</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174448Z">
+        <seg>2 po (51 mm)</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.804: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2 inches (51 mm), plus &lt;g1&gt;1&lt;/g1&gt;/8 inch (3.2 mm) per foot (305 mm) of viewing distance above 15 feet (4570 mm)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2 po [51 mm], plus &lt;g1&gt;1/8&lt;/g1&gt; po [3,2 mm] par pied [305 mm] de distance de visualisation au-delà de 15 pi [4 570 mm]</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174631Z">
+        <seg>2 po (51 mm), plus &lt;g1&gt;1&lt;/g1&gt;  &lt;g1&gt;/8&lt;/g1&gt; po (3,2 mm) par pied (305 mm) de distance de visualisation au-delà de 15 pi (4 570 mm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3826,8 +3823,8 @@
       <tuv lang="en">
         <seg>40 inches (1015 mm) to less than or equal to 70 inches (1780 mm)</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174015Z">
-        <seg>40 po (1015 mm) à 70 po (1780 mm) ou moins</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174429Z">
+        <seg>Égale à 40 po (1 015 mm) et inférieure ou égale à 70 po (1 780 mm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4272,8 +4269,8 @@
       <tuv lang="en">
         <seg>6 feet (1830 mm) and greater</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174030Z">
-        <seg>6 pi (1830 mm) et plus</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174200Z">
+        <seg>Supérieure à 6 pi (1830 mm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35855,13 +35852,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.861: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Less than 15 feet (4570 mm)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Moins de 15 pi [4570 mm]</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174441Z">
+        <seg>Inférieure à 15 pi (4570 mm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35889,8 +35885,8 @@
       <tuv lang="en">
         <seg>Less than 6 feet (1830 mm)</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174020Z">
-        <seg>Moins de 6 pi (1830 mm)</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T174315Z">
+        <seg>Inférieure à 6 pi (1830 mm)</seg>
       </tuv>
     </tu>
     <tu>
