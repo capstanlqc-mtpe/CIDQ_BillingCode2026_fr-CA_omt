@@ -7243,13 +7243,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1030.6 Capacity of aisle for assembly.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1030.6 Capacité de l'allée pour une réunion.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T040903Z">
+        <seg>&lt;g1&gt;1030.6 Capacité des allées d’une aire d’assemblée.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -49879,13 +49878,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Winder treads shall have a tread depth of not less than 10 inches (254 mm) measured between the vertical planes of the foremost projection of adjacent treads at the intersections with the walkline.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les marches balancées doivent avoir une profondeur de pas de marche d'au moins 10 po [254 mm], mesurée entre les plans verticaux de la saillie principale des marches adjacentes à l'intersection de la ligne de foulée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T041228Z">
+        <seg>Les marches balancées doivent avoir une profondeur de marche d’au moins 10 po (254 mm), mesurée entre les plans verticaux de la saillie la plus avancée des marches adjacentes aux intersections avec la ligne de foulée.</seg>
       </tuv>
     </tu>
     <tu>
