@@ -624,13 +624,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Destination-oriented elevators shall be permitted to have signals visible from the floor area adjacent to the hoistway entrance.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1. Les ascenseurs&lt;x1/&gt; orientés vers la destination peuvent avoir des signaux visibles depuis la surface de plancher adjacente à l'entrée de la cage.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061249Z">
+        <seg>1. Les ascenseurs&lt;x1/&gt; à destination déterminée peuvent avoir des signaux visibles depuis la surface de plancher adjacente à l'entrée de la cage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -647,18 +646,17 @@
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Destination-oriented elevators shall not be required to comply with Section 407.2.2.1, provided a visible signal and audible tones and verbal announcements complying with Section 407.2.1.7 are provided.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061127Z">
-        <seg>1. Les ascenseurs&lt;x1/&gt; déterminée ne sont pas tenus de respecter les exigences de la section 407.2.2.1, pourvu qu’un signal visuel ainsi que des tonalités audibles et des annonces vocales conformes à la section 407.2.1.7 soient prévus.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061237Z">
+        <seg>1. Les ascenseurs&lt;x1/&gt; à destination déterminée ne sont pas tenus de respecter les exigences de la section 407.2.2.1, pourvu qu’un signal visuel ainsi que des tonalités audibles et des annonces vocales conformes à la section 407.2.1.7 soient prévus.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Destination-oriented elevators shall not be required to comply with Section 407.2.2.3, provided the audible tone and verbal announcement is the same as those given at the call button or call button keypad.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1. Les ascenseurs&lt;x1/&gt; à destination ne sont pas tenus de se conformer à la section 407.2.2.3, à condition que la tonalité sonore et l'annonce verbale soient les mêmes que celles émises au niveau du bouton d'appel ou du clavier du bouton d'appel.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061455Z">
+        <seg>1. Les ascenseurs&lt;x1/&gt; à destination déterminée ne sont pas tenus de se conformer à la section 407.2.2.3, à condition que la tonalité sonore et l'annonce verbale soient les mêmes que celles émises au niveau du bouton d'appel ou du clavier du bouton d'appel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22523,13 +22521,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.83: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Each destination-oriented elevator in a bank of elevators shall have audible and visible means for differentiation.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Chaque ascenseur orienté vers la destination dans un groupe d'ascenseurs doit avoir des moyens sonores et visuels de différenciation.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061614Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Chaque ascenseur à destination déterminée dans un groupe d'ascenseurs doit avoir des moyens sonores et visuels de différenciation.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23257,13 +23254,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Destination-oriented elevators shall provide car identification in raised characters and braille complying with Sections 703.3 and 703.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Les ascenseurs orientés vers la destination doivent fournir l'identification de la cabine en caractères en relief et en braille conformément aux sections 703.3 et 703.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061642Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Les ascenseurs à destination déterminée doivent fournir l'identification de la cabine en caractères en relief et en braille conformément aux sections 703.3 et 703.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23323,13 +23319,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Floor designations shall be provided in raised characters and braille complying with Sections 703.3 and 703.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Les désignations d'étage doivent être prévues en caractères en relief et en braille conformément aux sections 703.3 et 703.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061518Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Les désignations des étages doivent être prévues en caractères en relief et en braille conformément aux sections 703.3 et 703.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24655,13 +24650,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A raised star shall be provided on both jambs at the main entry level.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir une étoile en relief sur les deux montants au niveau de l'entrée principale.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061548Z">
+        <seg>Un astérisque en relief doit être prévu sur les deux montants au niveau de l’entrée principale.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29688,13 +29682,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.851: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Destination oriented elevator systems shall not be required to comply with Section 407.2.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les systèmes d'ascenseurs orientés vers la destination ne sont pas tenus de se conformer à la section 407.2.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061658Z">
+        <seg>Les systèmes d'ascenseurs à destination déterminée ne sont pas tenus de se conformer à la section 407.2.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38488,13 +38481,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Raised characters shall be 2 inches (51 mm) minimum in height.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les caractères en relief doivent avoir une hauteur minimale de 2 po [51 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061525Z">
+        <seg>Les caractères en relief doivent avoir une hauteur minimale de 2 po (51 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41499,13 +41491,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.797: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The audible signal or verbal annunciator shall be 10 dBA minimum above ambient, but shall not exceed 80 dBA, measured at the hall call button.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le signal sonore ou l'annonceur vocal doit être d'au moins 10 dBA au-dessus du bruit ambiant, mais ne doit pas dépasser 80 dBA, mesuré au bouton d'appel dans le hall.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061358Z">
+        <seg>Le signal audible ou l’avertisseur vocal doit être supérieur d’au moins 10 dBA au niveau sonore ambiant, sans toutefois dépasser 80 dBA, mesuré au niveau du bouton d’appel à l’étage.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -46749,13 +46740,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Verbal annunciators shall have a frequency of 300 Hz minimum and 3,000 Hz maximum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les annonceurs verbaux doivent avoir une fréquence minimale de 300 Hz et maximale de 3 000 Hz.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T061338Z">
+        <seg>Les avertisseurs vocaux doivent avoir une fréquence d’au moins 300 Hz et d’au plus 3 000 Hz.</seg>
       </tuv>
     </tu>
     <tu>
