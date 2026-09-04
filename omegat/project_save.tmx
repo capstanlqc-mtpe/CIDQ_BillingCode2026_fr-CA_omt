@@ -12546,13 +12546,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.886: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;607.4.2.3 Head end wall.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;607.4.2.3 Tête de mur.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T151638Z">
+        <seg>&lt;g1&gt;607.4.2.3 Mur à l’extrémité de la baignoire.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24289,13 +24288,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A hand shower with a hose 59 inches (1500 mm) minimum in length, that can be used as both a fixed shower head and as a hand shower, shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir une douchette à main avec un tuyau d'une longueur minimale de 59 po [1500 mm], qui peut être utilisée à la fois comme pomme de douche fixe et comme douchette à main.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T153529Z">
+        <seg>Une douchette à main munie d’un flexible d’au moins 59 po (1 500 mm) de longueur, pouvant être utilisée à la fois comme pomme de douche fixe et comme douchette à main, doit être prévue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24342,13 +24340,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A horizontal grab bar 12 inches (305 mm) minimum in length shall be provided on the head end wall at the front edge of the bathtub.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une barre d'appui horizontale d'une longueur minimale de 12 po [305 mm] doit être prévue sur la tête de mur, au bord avant de la baignoire.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T151645Z">
+        <seg>Une barre d’appui horizontale d’au moins 12 po (305 mm) de longueur doit être prévue sur le mur à l’extrémité de la baignoire, au niveau du bord avant de la baignoire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29361,13 +29358,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Controls, other than drain stoppers, shall be provided on an end wall, located between the bathtub rim and grab bar, and between the open side of the bathtub and the centerline of the width of the bathtub.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les commandes, autres que les bouchons de vidange, doivent être prévues sur un mur d'extrémité, situées entre le rebord de la baignoire et la barre d'appui, et entre le côté dégagé de la baignoire et la ligne d'axe de la largeur de la baignoire.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T151709Z">
+        <seg>Les commandes, à l’exception des bouchons de vidange, doivent être prévues sur un mur d’extrémité, entre le rebord de la baignoire et la barre d’appui, et entre le côté ouvert de la baignoire et l’axe médian de la largeur de la baignoire.</seg>
       </tuv>
     </tu>
     <tu>
