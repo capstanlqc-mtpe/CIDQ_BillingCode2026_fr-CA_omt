@@ -10385,13 +10385,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.734: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;2021 INTERNATIONAL RESIDENTIAL CODE ( END)&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;CODE INTERNATIONAL DU BÂTIMENT RÉSIDENTIEL 2021 (FIN)&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T052516Z">
+        <seg>&lt;g1&gt;2021 INTERNATIONAL RESIDENTIAL CODE (CODE INTERNATIONAL DU BÂTIMENT RÉSIDENTIEL 2021) (FIN)&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11014,13 +11013,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.772: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;407.2 Bathtub waste outlets and overflows.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;407.2 Évacuations et trop-pleins de baignoire.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T052658Z">
+        <seg>&lt;g1&gt;407.2 Évacuations et trop-pleins des baignoires.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19715,13 +19713,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.776: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;SECTION E3903 LIGHTING OUTLETS&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;SECTION E3903 PRISES D'ÉCLAIRAGE&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T052238Z">
+        <seg>&lt;g1&gt;SECTION E3903 PRISES D’ÉCLAIRAGE&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22320,13 +22317,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.674: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;“This is reproduced from 2021International RESIDENTIAL Code, International Code Council, Inc., Washington, D.C. Reproduced with permission.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;« La version en anglais de ce document consiste en extraits de l'International RESIDENTIAL Code 2021, produit par l'International Code Council, inc., Washington, D.C., et utilisé avec leur permission.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T052558Z">
+        <seg>&lt;g1&gt;« Le présent document est reproduit à partir du Code résidentiel international 2021, International Code Council, Inc., Washington, D.C. Reproduit avec permission.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27258,23 +27254,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.814: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At least one wall-switch-controlled lighting outlet shall be installed in hallways, stairways, attached garages, and detached garages with electric power.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Au moins une prise de courant d'éclairage commandée par un interrupteur mural doit être installée dans les couloirs, les escaliers, les garages attenants et les garages détachés alimentés en électricité.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T052352Z">
+        <seg>Au moins une prise d’éclairage commandée par un interrupteur mural doit être installée dans les couloirs, les escaliers, les garages attenants et les garages détachés alimentés en électricité.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.812: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At least one wall-switch-controlled lighting outlet shall be installed to provide illumination on the exterior side of each outdoor egress door having grade level access, including outdoor egress doors for attached garages and detached garages with electric power.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Au moins une prise d'éclairage commandée par un interrupteur mural doit être installée pour éclairer le côté extérieur de chaque porte d'évacuation extérieure ayant un accès au niveau du sol, y compris les portes d'évacuation extérieures des garages attenants et des garages détachés alimentés en électricité.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T052419Z">
+        <seg>Au moins une prise d’éclairage commandée par un interrupteur mural doit être installée de manière à assurer l’éclairage du côté extérieur de chaque porte d’issue extérieure donnant accès au niveau du sol, y compris les portes d’issue extérieures des garages attenants et des garages détachés alimentés en électricité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27578,13 +27572,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Bathtubs shall be equipped with a waste outlet that is not less than 11/2 inches (38 mm) in diameter.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les baignoires doivent être équipées d'une évacuation d'au moins 11/2 po [38 mm] de diamètre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T052704Z">
+        <seg> Les baignoires doivent être munies d’une évacuation d’au moins 1 1/2 po (38 mm) de diamètre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36281,13 +36274,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Lighting outlets shall be permitted to be controlled by occupancy sensors that are in addition to wall switches, or that are located at a customary wall switch location and equipped with a manual override that will allow the sensor to function as a wall switch.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les prises d'éclairage peuvent être commandées par des détecteurs de présence qui s'ajoutent aux interrupteurs muraux, ou qui sont situés à un emplacement habituel d'interrupteur mural et équipés d'une commande manuelle qui permettra au détecteur de fonctionner comme un interrupteur mural.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T052333Z">
+        <seg>Les prises d’éclairage peuvent être commandées par des détecteurs de présence qui s’ajoutent aux interrupteurs muraux, ou qui sont situés à l’emplacement habituel d’un interrupteur mural et munis d’une commande manuelle permettant au détecteur de fonctionner comme un interrupteur mural.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47351,13 +47343,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.852: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>When determining distance from receptacles, the distance shall be measured as the shortest path the cord of an appliance connected to the receptacle would follow without piercing a floor, wall, ceiling, or fixed barrier, or passing through a door, doorway or window.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lors de la détermination de la distance par rapport aux prises, la distance doit être mesurée comme le chemin le plus court que suivrait le cordon d'un appareil branché sur la prise sans percer un plancher, un mur, un plafond ou une barrière fixe, ni passer par une porte, une ouverture de porte ou une fenêtre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T052218Z">
+        <seg>Lors de la détermination de la distance par rapport aux prises de courant, la distance doit être mesurée selon le trajet le plus court que suivrait le cordon d’un appareil branché dans la prise de courant, sans traverser un plancher, un mur, un plafond ou une séparation fixe, ni passer par une porte, une baie de porte ou une fenêtre.</seg>
       </tuv>
     </tu>
     <tu>
