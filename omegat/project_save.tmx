@@ -12697,13 +12697,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.87: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;613.4 Changing surface.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;613.4 Surface à langer.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T165446Z">
+        <seg>&lt;g1&gt;613.4 Surface de changement.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23679,13 +23678,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A changing surface shall be provided and shall comply with Section 613.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une surface à langer doit être prévue et doit être conforme à la section 613.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T170811Z">
+        <seg>Une surface de changement doit être prévue et doit être conforme à la section 613.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25996,13 +25994,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.762: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An adult changing station and its supporting structure shall not obstruct required clear floor spaces and maneuvering clearances at fixtures, maneuvering clearances at the adult changing stations, maneuvering clearances at doors, or the turning spaces.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une station à langer pour adultes et sa structure de support ne doivent pas obstruer les surfaces de plancher dégagées requises et les espaces de dégagement au niveau des appareils sanitaires, les espaces de dégagement au niveau des stations à langer pour adultes, les espaces de dégagement au niveau des portes ou les espaces de rotation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T165439Z">
+        <seg>Un poste de changement pour adultes et sa structure de support ne doivent pas obstruer les espaces libres au sol exigés ni les zones de manœuvre libres au niveau des appareils sanitaires, les zones de manœuvre libres au niveau des postes de changement pour adultes, les zones de manœuvre libres au niveau des portes ni les espaces de rotation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38160,13 +38157,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Privacy provided by walls, curtains or partitions enclosing the compartment.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Intimité assurée par des murs, des rideaux ou des cloisons entourant le compartiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T165105Z">
+        <seg>Intimité assurée par des murs, des rideaux ou des cloisons entourant les cabines.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39522,13 +39518,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Signage indicating the weight capacity and instructions for operation of the changing station within the compartment.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une signalisation indiquant la capacité de poids et les instructions d'utilisation de la table à langer dans le compartiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T165127Z">
+        <seg>Une signalisation indiquant la capacité de charge et les instructions d’utilisation du poste de changement doit être prévue dans le compartiment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47253,23 +47248,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a lavatory is provided in the compartment or room, provide a dispenser for soap.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un lavabo est prévu dans le compartiment ou la pièce, il faut prévoir un distributeur de savon.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T165229Z">
+        <seg>Lorsqu'un lavabo est prévu dans la cabine ou la pièce, un distributeur de savon doit être prévu.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a lavatory is provided in the compartment or room, provide a hand towel dispenser or hand dryer complying with Table 603.6.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un lavabo est prévu dans le compartiment ou la pièce, prévoir un distributeur de serviettes ou un sèche-mains conforme au Tableau 603.6.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T165251Z">
+        <seg>Lorsqu’un lavabo est prévu dans la cabine ou la pièce, un distributeur d’essuie-mains ou un sèche-mains conforme au tableau 603.6 doit être prévu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47543,13 +47536,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where adult changing stations are provided in a room or space other than a toilet or bathing room and including, but not limited to, nurses’ work areas, therapist work areas, or special education classrooms, the adult changing station shall be located in a compartment or room that includes all of the following components:</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des postes à langer pour adultes sont prévus dans une pièce ou une aire autre qu'une salle de toilette ou de bain, y compris, mais sans s'y limiter, les zones de travail des infirmières, les zones de travail des thérapeutes ou les salles de classe d'éducation spécialisée, le poste à langer pour adultes doit être situé dans un compartiment ou une pièce qui comprend tous les éléments suivants :</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T165154Z">
+        <seg>Lorsque des postes de changement pour adultes sont prévus dans une pièce ou un espace autre qu’une toilette ou une salle de bain, notamment, sans toutefois s’y limiter, dans les aires de travail des infirmiers, les aires de travail des thérapeutes ou les salles de classe d’éducation spécialisée, le poste de changement pour adultes doit être situé dans une cabine ou une pièce comportant tous les éléments suivants :</seg>
       </tuv>
     </tu>
     <tu>
