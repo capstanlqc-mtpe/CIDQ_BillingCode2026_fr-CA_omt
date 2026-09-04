@@ -7462,13 +7462,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;104.11.3.1.3.2 Forward approach bathtubs.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;104.11.3.1.3.2 Baignoires à approche frontale.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T212606Z">
+        <seg>&lt;g1&gt;104.11.3.1.3.2 Baignoires avec approche frontale.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8714,13 +8713,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.866: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1104.11.3.1.2.2.3 Increased clearance depth at forward approach.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1104.11.3.1.2.2.3 Profondeur de dégagement accrue lors de l'approche par l'avant.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T212143Z">
+        <seg>&lt;g1&gt;1104.11.3.1.2.2.3 Profondeur de dégagement accrue lors de l'approche avant.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8744,13 +8742,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1104.11.3.1.3.1 Parallel approach bathtubs.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1104.11.3.1.3.1 Baignoires à accès parallèle.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T212611Z">
+        <seg>&lt;g1&gt;1104.11.3.1.3.1 Baignoires avec approche parallèle.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23789,13 +23786,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.821: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A clearance 60 inches (1525 mm) minimum in length and 48 inches (1220 mm) minimum in width shall be provided in front of bathtubs with a forward approach.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un dégagement d'au moins 60 po [1525 mm] en longueur et d'au moins 48 po [1220 mm] en largeur doit être prévu devant les baignoires à accès frontal.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T212635Z">
+        <seg>Un dégagement d’au moins 60 po (1 525 mm) de longueur et d’au moins 48 po (1 220 mm) de largeur doit être prévu devant les baignoires avec une approche frontale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24224,13 +24220,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A lavatory complying with Section 1104.11.3.1.1 shall be permitted at one end of the bathtub if a clearance 48 inches (1220 mm) minimum in length and 30 inches (760 mm) minimum in width is provided in front of the bathtub.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un lavabo conforme à la section 1104.11.3.1.1 doit être autorisé à une extrémité de la baignoire si un dégagement d'au moins 48 po [1220 mm] en longueur et d'au moins 30 po [760 mm] en largeur est prévu devant la baignoire.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T212540Z">
+        <seg>Un lavabo conforme à la section 1104.11.3.1.1 est autorisé à une extrémité de la baignoire lorsqu’un dégagement d’au moins 48 po (1 220 mm) de longueur et d’au moins 30 po (760 mm) de largeur est prévu devant la baignoire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35690,13 +35685,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.772: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Lavatories complying with Section 606 shall be permitted in the clearance.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les lavabos conformes à l'article 606 peuvent être autorisés dans le dégagement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T212527Z">
+        <seg>Les lavabos conformes à la section 606 sont autorisés dans le dégagement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46942,13 +46936,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a forward approach is provided, the clearance shall be 66 inches (1675 mm) minimum in depth, measured perpendicular from the rear wall.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'une approche frontale est prévue, le dégagement doit avoir une profondeur minimale de 66 po [1675 mm], mesurée perpendiculairement au mur arrière.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T212212Z">
+        <seg>Lorsqu’une approche frontale est prévue, le dégagement doit avoir une profondeur d’au moins 66 po (1 675 mm), mesurée perpendiculairement à partir du mur arrière.</seg>
       </tuv>
     </tu>
     <tu>
