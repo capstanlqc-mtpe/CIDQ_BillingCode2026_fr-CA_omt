@@ -11854,13 +11854,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.855: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;421.5 Shower floors or receptors.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;421.5 Sols ou récepteurs de douche.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053507Z">
+        <seg>&lt;g1&gt;421.5 Planchers ou récepteurs de douche.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27561,13 +27560,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Bathtub floors, shower floors, wall areas above built-in tubs that have installed shower heads and walls in shower compartments shall be constructed of smooth, corrosion-resistant and nonabsorbent waterproof materials.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les planchers de baignoire, les planchers de douche, les surfaces de mur au-dessus des baignoires encastrées munies de têtes de douche installées et les murs des compartiments de douche doivent être construits en matériaux imperméables lisses, résistants à la corrosion et non absorbants.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053414Z">
+        <seg>Les planchers des baignoires et des douches, les surfaces murales au-dessus des baignoires encastrées munies de pommes de douche ainsi que les murs des cabines de douche doivent être construits avec des matériaux lisses, résistants à la corrosion, non absorbants et imperméables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31275,13 +31273,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.854: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Except as required in Section 404, the minimum required area and dimension shall be measured from the finished interior dimension at a height equal to the top of the threshold and at a point tangent to its centerline and shall be continued to a height not less than 70 inches (1778 mm) above the shower drain outlet.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Sauf dans les cas prévus à l'article 404, l'aire et la dimension minimales exigées doivent être mesurées à partir de la dimension intérieure finie à une hauteur égale au sommet du seuil et à un point tangent à son axe, et elles doivent se prolonger jusqu'à une hauteur d'au moins 70 po [1778 mm] au-dessus de la sortie du drain de douche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053359Z">
+        <seg>Sauf dans les cas exigés à la section 404, la superficie et les dimensions minimales exigées doivent être mesurées à partir de la dimension intérieure finie à une hauteur correspondant au dessus du seuil et à un point tangent à sa ligne médiane, et doivent se poursuivre jusqu’à une hauteur d’au moins 70 po (1 778 mm) au-dessus de la sortie d’évacuation de la douche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32101,13 +32098,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.804: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Floor surfaces under shower heads provided for rinsing laid directly on the ground are not required to comply with this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les surfaces de plancher sous les têtes de mur de douche prévues pour le rinçage et posées directement sur le sol ne sont pas tenues de se conformer à cette section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053705Z">
+        <seg>Les surfaces de plancher sous les pommes de douche prévues pour le rinçage et installées directement sur le sol ne sont pas tenues de respecter les exigences de la présente section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32138,23 +32134,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.805: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Floors or receptors under shower compartments shall be laid on, and supported by, a smooth and structurally sound base.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les sols ou les récepteurs sous les compartiments de douche doivent être posés sur une base de mur lisse et structurellement solide, et soutenus par celle-ci.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053523Z">
+        <seg>Les planchers ou les récepteurs sous les compartiments de douche doivent être posés sur une base de mur lisse et structurellement solide, et soutenus par celle-ci.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Floors under shower compartments, except where prefabricated receptors have been provided, shall be lined and made watertight utilizing material complying with Sections 421.5.2.1 through 421.5.2.6.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les planchers sous les compartiments de douche, sauf si des récepteurs préfabriqués ont été prévus, doivent être revêtus et rendus étanches à l'eau à l'aide de matériaux conformes aux articles 421.5.2.1 à 421.5.2.6.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053607Z">
+        <seg>Les planchers sous les cabines de douche, sauf lorsqu’ils sont munis de receveurs préfabriqués, doivent être revêtus et rendus étanches au moyen d’un matériau conforme aux sections 421.5.2.1 à 421.5.2.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36291,23 +36285,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.804: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Liners shall be pitched one-fourth unit vertical in 12 units horizontal (2-percent slope) and shall be sloped toward the fixture drains and be securely fastened to the waste outlet at the seepage entrance, making a watertight joint between the liner and the outlet.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les revêtements doivent être inclinés d'un quart d'unité verticale sur 12 unités horizontales (pente de 2 pour cent) et doivent être inclinés vers les drains de l'appareil et solidement fixés à la sortie des eaux usées à l'entrée de l'infiltration, formant un joint étanche entre le revêtement et la sortie.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053637Z">
+        <seg>Les revêtements doivent présenter une pente verticale d’un quart d’unité pour 12 unités horizontales (pente de 2 %) et être inclinés vers les évacuations des appareils sanitaires, et être solidement fixés à l’évacuation au niveau de l’entrée d’infiltration, de manière à former un joint étanche entre le revêtement et l’évacuation.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Liners shall be recessed and fastened to an approved backing so as not to occupy the space required for wall covering, and shall not be nailed or perforated at any point less than 1 inch (25 mm) above the finished threshold.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les revêtements doivent être encastrés et fixés à un support approuvé de manière à ne pas occuper l'espace requis pour le revêtement mural, et ils ne doivent pas être cloués ou perforés en aucun point situé à moins de 1 po [25 mm] au-dessus du seuil fini.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053628Z">
+        <seg>Les revêtements doivent être encastrés et fixés à un support approuvé de manière à ne pas occuper l’espace requis pour le revêtement mural, et ne doivent être ni cloués ni perforés en aucun point situé à moins de 1 po (25 mm) au-dessus du seuil fini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40948,13 +40940,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Such liners shall turn up on all sides not less than 2 inches (51 mm) above the finished threshold level.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ces revêtements doivent remonter de tous les côtés à au moins 2 po [51 mm] au-dessus du niveau du seuil fini.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053617Z">
+        <seg>Ces revêtements doivent remonter sur tous les côtés d’au moins 2 po (51 mm) au-dessus du niveau du seuil fini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41081,13 +41072,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.851: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Such walls shall form a watertight joint with each other and with either the tub or shower floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ces murs doivent former un joint étanche entre eux et avec le plancher de la baignoire ou de la douche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053435Z">
+        <seg>Ces murs doivent former un joint étanche avec les murs adjacents ainsi qu’avec le plancher de la baignoire ou de la douche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41561,13 +41551,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.855: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The attachment to the structure shall be made by the use of support devices designed for use with the specific piping material or by fittings anchored with screws.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La fixation à la structure doit être effectuée à l'aide de dispositifs de support conçus pour être utilisés avec le matériau de tuyauterie spécifique ou de raccords ancrés avec des vis.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053227Z">
+        <seg>La fixation à la structure doit être réalisée au moyen de dispositifs de support conçus pour être utilisés avec le matériau de tuyauterie particulier ou au moyen de raccords ancrés à l’aide de vis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44629,13 +44618,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The shower compartment access and egress opening shall have a clear and unobstructed finished width of not less than 22 inches (559 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'ouverture d'accès et d'évacuation du compartiment de douche doit avoir une largeur finie libre et non obstruée d'au moins 22 po [559 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053453Z">
+        <seg>L'ouverture d'accès et d'évacuation du compartiment de douche doit avoir une largeur finie libre et dégagée d'au moins 22 po (559 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -47162,23 +47150,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Waste outlets serving showers shall be not less than 11/2 inches (38 mm) in diameter and, for other than waste outlets in bathtubs, shall have removable strainers not less than 3 inches (76 mm) in diameter with strainer openings not less than 1/4 inch (6.4 mm) in least dimension.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les sorties d'évacuation desservant les douches doivent avoir un diamètre d'au moins 11/2 po [38 mm] et, à l'exception des sorties d'évacuation des baignoires, elles doivent être munies de crépines amovibles d'un diamètre d'au moins 3 po [76 mm] avec des ouvertures de crépine d'au moins 1/4 po [6,4 mm] dans la plus petite dimension.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053250Z">
+        <seg>Les évacuations desservant les douches doivent avoir un diamètre d’au moins 1 1/2 po (38 mm) et, à l’exception des évacuations des baignoires, doivent être munies de crépines amovibles d’au moins 3 po (76 mm) de diamètre dont les ouvertures ont une dimension minimale d’au moins 1/4 po (6,4 mm).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Waste outlets shall be fastened to the waste pipe in an approved manner.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les évacuations d'eaux usées doivent être fixées au tuyau d'évacuation d'une manière approuvée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053320Z">
+        <seg>Les évacuations doivent être fixées au tuyau d’évacuation d’une manière approuvée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47237,13 +47223,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Water supply risers from the shower valve to the shower head outlet, whether exposed or concealed, shall be attached to the structure.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les colonnes montantes d'alimentation en eau allant de la vanne de douche à la sortie de la tête de mur de douche, qu'elles soient exposées ou dissimulées, doivent être fixées à la structure.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053210Z">
+        <seg>Les colonnes montantes d’alimentation en eau allant du robinet de douche à la sortie de la pomme de douche, qu’elles soient apparentes ou dissimulées, doivent être fixées à la structure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48204,13 +48189,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where each shower space is not provided with an individual waste outlet, the waste outlet shall be located and the floor pitched so that waste from one shower does not flow over the floor area serving another shower.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque chaque espace de douche n'est pas équipé d'une évacuation individuelle, l'évacuation doit être située et le plancher incliné de manière à ce que les eaux usées d'une douche ne s'écoulent pas sur la surface de plancher desservant une autre douche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053315Z">
+        <seg>Lorsque chaque espace de douche n’est pas muni d’une évacuation individuelle, l’évacuation doit être située et le plancher doit être incliné de manière que les eaux usées d’une douche ne s’écoulent pas sur la superficie de plancher desservant une autre douche.</seg>
       </tuv>
     </tu>
     <tu>
