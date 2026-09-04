@@ -634,13 +634,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Destination-oriented elevators shall not be required to comply with Section 407.2.1.5, provided a visible signal and audible tones and verbal announcements complying with Section 407.2.1.7 are provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1. Les ascenseurs&lt;x1/&gt; à destination ne sont pas tenus de se conformer à la section 407.2.1.5, à condition qu'un signal visible, des tonalités audibles et des annonces verbales conformes à la section 407.2.1.7 soient fournis.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T060546Z">
+        <seg>1. &lt;x1/&gt; Les ascenseurs à destination déterminée ne sont pas tenus de respecter les exigences de la section 407.2.1.5, pourvu qu’un signal visuel ainsi que des tonalités audibles et des annonces vocales conformes à la section 407.2.1.7 soient prévus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2021,13 +2020,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.879: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Existing elevators shall not be required to comply with Section 407.2.1.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Les ascenseurs existants ne sont pas tenus de se conformer à la section 407.2.1.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T060553Z">
+        <seg>2.&lt;x1/&gt; Les ascenseurs existants ne sont pas tenus de respecter les exigences de la section 407.2.1.5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4938,13 +4936,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.806: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;407.2.1.7&lt;x3/&gt;Destination-oriented Elevator Signals&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;407.2.1.7 Signaux&lt;x3/&gt; d'ascenseur orientés vers la destination&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T060627Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;407.2.1.7 Signaux&lt;x3/&gt; d'ascenseur à destination déterminée&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15240,13 +15237,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.928: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;407.2.1.6&lt;x3/&gt;Keypads.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;407.2.1.6&lt;x3/&gt;Keypads.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T060602Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;407.2.1.6&lt;x3/&gt;Claviers.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22427,13 +22423,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.807: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Call buttons shall be 3/4 inch (19 mm) minimum in the smallest dimension.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les boutons d'appel doivent avoir une dimension minimale de 3/4 po [19 mm] dans la plus petite dimension.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T060352Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les boutons d'appel doivent avoir une dimension minimale de 3/4 po (19 mm) dans la plus petite dimension.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23595,13 +23590,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.815: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Where elevator call buttons or keypads are provided, they shall comply with Sections 407.2.1 and 309.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Lorsque des boutons d'appel d'ascenseur ou des claviers sont prévus, ils doivent être conformes aux sections 407.2.1 et 309.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T060243Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Lorsque des boutons d’appel d’ascenseur ou des claviers sont prévus, ils doivent être conformes aux sections 407.2.1 et 309.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27985,13 +27979,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Call buttons shall be raised or flush.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les boutons d'appel doivent être en saillie ou affleurants.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T060252Z">
+        <seg>Les boutons d’appel doivent être en saillie ou affleurants.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29709,23 +29702,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Destination-oriented elevators shall be provided with a visible signal and audible tones, and verbal announcements to indicate which car is responding to a call.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ascenseurs à destination doivent être dotés d'un signal visible et de tonalités sonores, ainsi que d'annonces verbales pour indiquer quelle cabine répond à un appel.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T060637Z">
+        <seg>Les ascenseurs à destination déterminée doivent être dotés d'un signal visible et de tonalités sonores, ainsi que d'annonces verbales pour indiquer quelle cabine répond à un appel.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Destination-oriented elevators shall not be required to comply with Section 407.2.1.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ascenseurs orientés vers la destination ne sont pas tenus de se conformer à la section 407.2.1.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T060445Z">
+        <seg>Les ascenseurs orientés vers la destination ne sont pas tenus de respecter les exigences de la section 407.2.1.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31303,13 +31294,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Existing call buttons and existing keypads shall be permitted to be located 54 inches (1370 mm) maximum above the floor, measured to the centerline of the highest operable part.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les boutons d'appel existants et les claviers existants peuvent être situés à une hauteur maximale de 54 po [1370 mm] au-dessus du sol, mesurée jusqu'à la ligne d'axe de la partie manœuvrable la plus haute.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T060341Z">
+        <seg>Les boutons d’appel existants et les claviers existants peuvent être situés à au plus 54 po (1 370 mm) au-dessus du plancher, la mesure étant prise jusqu’à l’axe de la partie manœuvrable la plus haute.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31323,13 +31313,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.815: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Existing elevator call buttons shall not be required to comply with Section 407.2.1.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les boutons d'appel d'ascenseur existants ne sont pas tenus de se conformer à la section 407.2.1.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T060414Z">
+        <seg>Les boutons d’appel d’ascenseur existants ne sont pas tenus de respecter les exigences de la section 407.2.1.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37131,13 +37120,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Objects beneath hall call buttons shall protrude 1 inch (25 mm) maximum.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les objets situés sous les boutons d'appel du hall doivent empiéter d'au plus 1 po [25 mm].&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T060258Z">
+        <seg>Les objets situés sous les boutons d’appel à l’étage ne doivent pas faire saillie de plus de 1 po (25 mm).&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
