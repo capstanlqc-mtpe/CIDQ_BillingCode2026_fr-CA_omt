@@ -22610,13 +22610,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.81: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Doors, other than hoistway doors and the elevator car door, shall be prohibited at the point of access to an elevator car unless such doors are readily openable from the car side without a key, tool, special knowledge or effort.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les portes, autres que les portes de la gaine et la porte de la cabine d'ascenseur, doivent être interdites au point d'accès à une cabine d'ascenseur, à moins que ces portes ne puissent être facilement ouvertes du côté de la cabine sans clé, outil, connaissance particulière ou effort.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T011705Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt; Les portes autres que les portes de puits et la porte de cabine d’ascenseur sont interdites au point d’accès à une cabine d’ascenseur, à moins que ces portes puissent être facilement ouvertes du côté de la cabine sans clé, outil, connaissance particulière ou effort.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22660,13 +22659,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Escalators, moving walks, conveyors,  personnel hoists and material hoists shall comply with the provisions of Sections 3004.2 through 3004.4.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les escaliers mécaniques, les trottoirs roulants, les convoyeurs, les monte-personnes et les monte-matériaux doivent être conformes aux dispositions des articles 3004.2 à 3004.4.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T011819Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les escaliers mécaniques, les trottoirs roulants, les convoyeurs, les monte-personnes et les élévateurs de matériaux doivent être conformes aux dispositions des sections 3004.2 à 3004.4.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23142,13 +23140,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.86: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Where an elevator is installed in a single blind hoistway or on the outside of a building, there shall be installed in the blind portion of the hoistway or blank face of the building, an emergency door in accordance with ASME A17.1/CSA B44.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Lorsqu'un ascenseur est installé dans une cage d'ascenseur simple aveugle ou à l'extérieur d'un bâtiment, il faut installer dans la partie aveugle de la cage d'ascenseur ou sur la façade vierge du bâtiment une porte de secours conforme à la norme ASME A17.1/CSA B44.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T011653Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Lorsqu’un ascenseur est installé dans un puits aveugle unique ou à l’extérieur d’un bâtiment, une porte d’urgence conforme à la norme ASME A17.1/CSA B44 doit être installée dans la partie aveugle du puits ou dans la face aveugle du bâtiment.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31014,13 +31011,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.796: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Elevators within open parking garages need not be separated from stairway enclosures.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ascenseurs dans les parcs de stationnement ouverts n'ont pas besoin d'être séparés des cages d'escalier.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T011730Z">
+        <seg>Les ascenseurs dans les garages de stationnement ouverts n'ont pas besoin d'être séparés des cages d'escalier.</seg>
       </tuv>
     </tu>
     <tu>
