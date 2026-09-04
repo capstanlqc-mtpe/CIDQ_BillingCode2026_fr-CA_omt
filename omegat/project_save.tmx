@@ -17680,13 +17680,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.843: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;R1001.7 Lintel and throat.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;R1001.7 Linteau et goulotte.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045334Z">
+        <seg>&lt;g1&gt;R1001.7 Linteau et collet.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36592,13 +36591,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Masonry fireplaces shall be equipped with a ferrous metal damper located not less than 8 inches (203 mm) above the top of the fireplace opening.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les foyers en maçonnerie doivent être équipés d'un registre en métal ferreux situé à au moins 8 po [203 mm] au-dessus du sommet de l'ouverture du foyer.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045459Z">
+        <seg>Les foyers en maçonnerie doivent être équipés d'un registre en métal ferreux situé à au moins 8 po (203 mm) au-dessus du sommet de l'ouverture du foyer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39354,13 +39352,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Rumford fireplaces shall be permitted provided that the depth of the fireplace is not less than 12 inches (305 mm) and not less than one-third of the width of the fireplace opening, that the throat is not less than 12 inches (305 mm) above the lintel and is not less than one-twentieth the cross-sectional area of the fireplace opening.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les foyers Rumford sont autorisés à condition que la profondeur du foyer ne soit pas inférieure à 12 po [305 mm] et au tiers de la largeur de l'ouverture du foyer, que la goulotte soit à au moins 12 po [305 mm] au-dessus du linteau et qu'elle ne soit pas inférieure au vingtième de la surface de la coupe transversale de l'ouverture du foyer.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045421Z">
+        <seg>Les foyers Rumford sont autorisés pourvu que la profondeur du foyer soit d’au moins 12 po (305 mm) et d’au moins le tiers de la largeur de l’ouverture du foyer, que le collet soit situé à au moins 12 po (305 mm) au-dessus du linteau et que sa section transversale soit d’au moins un vingtième de la superficie de l’ouverture du foyer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40171,13 +40168,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.792: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Smoke chamber walls shall be constructed of solid masonry units, hollow masonry units grouted solid, stone or concrete.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les murs de la chambre à fumée doivent être construits en éléments de maçonnerie pleins, en éléments de maçonnerie creux jointoyés, en pierre ou en béton.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045540Z">
+        <seg>Les parois de la chambre à fumée doivent être construites en éléments de maçonnerie pleine, en éléments de maçonnerie creux injectés de coulis, en pierre ou en béton.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40768,13 +40764,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Steel fireplace units incorporating a steel firebox lining shall be constructed with steel not less than 1/4 inch (6.4 mm) thick, and an air-circulating chamber that is ducted to the interior of the building.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les foyers en acier comportant un revêtement de chambre de combustion en acier doivent être construits en acier d'une épaisseur d'au moins 1/4 po (6,4 mm) et comporter une chambre de circulation d'air reliée par un conduit à l'intérieur du bâtiment.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045207Z">
+        <seg>Les unités de foyer en acier comportant un revêtement de foyer en acier doivent être construites en acier d’une épaisseur d’au moins 1/4 po (6,4 mm) et comporter une chambre de circulation d’air raccordée par des conduits à l’intérieur du bâtiment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42345,13 +42340,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.874: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The cross-sectional area of the passageway above the firebox, including the throat, damper and smoke chamber, shall be not less than the cross-sectional area of the flue.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La section transversale du passage au-dessus de la chambre de combustion, y compris la gorge, le registre et la chambre à fumée, ne doit pas être inférieure à la section transversale du conduit de fumée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045310Z">
+        <seg>La section transversale du passage au-dessus de la chambre de combustion, y compris le collet, le registre et la chambre à fumée, ne doit pas être inférieure à la section transversale du conduit de fumée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42892,33 +42886,30 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.805: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The firebox lining shall be encased with solid masonry to provide a total thickness at the back and sides of not less than 8 inches (203 mm), of which not less than 4 inches (102 mm) shall be of solid masonry or concrete.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le revêtement de la chambre de combustion doit être entouré de maçonnerie pleine pour fournir une épaisseur totale à l'arrière et sur les côtés d'au moins 8 po [203 mm], dont au moins 4 po [102 mm] doivent être en maçonnerie pleine ou en béton.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045212Z">
+        <seg>Le revêtement du foyer doit être enrobé de maçonnerie pleine de manière à obtenir une épaisseur totale d’au moins 8 po (203 mm) à l’arrière et sur les côtés, dont au moins 4 po (102 mm) doivent être constitués de maçonnerie pleine ou de béton.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.881: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The firebox of a concrete or masonry fireplace shall have a depth of not less than 20 inches (508 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La chambre de combustion d'un foyer en béton ou en maçonnerie doit avoir une profondeur d'au moins 20 po [508 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045221Z">
+        <seg>La chambre de combustion d'un foyer en béton ou en maçonnerie doit avoir une profondeur d'au moins 20 po (508 mm).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.836: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The fireplace throat or damper shall be located not less than 8 inches (203 mm) above the lintel.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La gueule ou le registre du foyer doit être situé à au moins 8 po [203 mm] au-dessus du linteau.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045446Z">
+        <seg>Le collet ou le registre du foyer doit être situé à au moins 8 po (203 mm) au-dessus du linteau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43335,23 +43326,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The inside height of the smoke chamber from the fireplace throat to the beginning of the flue shall not be greater than the inside width of the fireplace opening.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La hauteur intérieure de la chambre à fumée, de la gueule du foyer au début du conduit de fumée, ne doit pas être supérieure à la largeur intérieure de l'ouverture du foyer.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045622Z">
+        <seg>La hauteur intérieure de la chambre à fumée, du collet du foyer au début du conduit de fumée, ne doit pas être supérieure à la largeur intérieure de l'ouverture du foyer.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The inside surface of the smoke chamber shall not be inclined more than 45 degrees (0.79 rad) from vertical where prefabricated smoke chamber linings are used or where the smoke chamber walls are rolled or sloped rather than corbeled.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La surface intérieure de la chambre à fumée ne doit pas être inclinée de plus de 45 degrés (0,79 rad) par rapport à la verticale lorsque des revêtements préfabriqués de chambre à fumée sont utilisés ou lorsque les murs de la chambre à fumée sont roulés ou inclinés plutôt qu'en encorbellement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045705Z">
+        <seg>La surface intérieure de la chambre à fumée ne doit pas être inclinée de plus de 45 degrés (0,79 rad) par rapport à la verticale lorsque des revêtements préfabriqués de chambre à fumée sont utilisés ou lorsque les murs de la chambre à fumée sont arrondies ou inclinées plutôt que disposées en encorbellement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43844,13 +43833,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The minimum required bearing length on each end of the fireplace opening shall be 4 inches (102 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La longueur minimale requise de l'appui à chaque extrémité de l'ouverture du foyer doit être de 4 po [102 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045432Z">
+        <seg>La longueur minimale requise de l'appui à chaque extrémité de l'ouverture du foyer doit être de 4 po(102 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45232,23 +45220,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.849: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The throat opening shall be not less than 4 inches (102 mm) deep.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'ouverture de la goulotte ne doit pas être inférieure à 4 po (102 mm) de profondeur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045300Z">
+        <seg>L'ouverture du collet ne doit pas être inférieure à 4 po (102 mm) de profondeur.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The throat shall be not less than 8 inches (203 mm) above the fireplace opening.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La goulotte ne doit pas être à moins de 8 po [203 mm] au-dessus de l'ouverture du foyer.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045248Z">
+        <seg>Le collet doit se trouver à au moins 8 po (203 mm) au-dessus de l’ouverture du foyer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45346,13 +45332,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The total minimum thickness of front, back and side walls shall be 8 inches (203 mm) of solid masonry.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'épaisseur minimale totale des parois avant, arrière et latérales doit être de 8 po [203 mm] de maçonnerie pleine.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045545Z">
+        <seg>L’épaisseur minimale totale des parois avant, arrière et latérales doit être de 8 po (203 mm) de maçonnerie pleine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47706,13 +47691,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a lining of firebrick not less than 2 inches (51 mm) thick, or a lining of vitrified clay not less than 5/8 inch (16 mm) thick, is provided, the total minimum thickness of front, back and side walls shall be 6 inches (152 mm) of solid masonry, including the lining.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un revêtement en brique réfractaire d'au moins 2 po [51 mm] d'épaisseur ou un revêtement en argile vitrifiée d'au moins 5/8 po [16 mm] d'épaisseur est prévu, l'épaisseur minimale totale des murs avant, arrière et latéraux doit être de 6 po [152 mm] de maçonnerie pleine, incluant le revêtement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045603Z">
+        <seg>Lorsqu’un revêtement en briques réfractaires d’au moins 2 po (51 mm) d’épaisseur ou un revêtement en argile vitrifiée d’au moins 5/8 po (16 mm) d’épaisseur est prévu, l’épaisseur minimale totale des parois avant, arrière et latérales doit être de 6 po (152 mm) de maçonnerie pleine, y compris le revêtement.</seg>
       </tuv>
     </tu>
     <tu>
