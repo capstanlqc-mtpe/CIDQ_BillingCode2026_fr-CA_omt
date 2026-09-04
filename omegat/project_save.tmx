@@ -5149,13 +5149,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.925: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;611.4&lt;x3/&gt;Height&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;611.4&lt;x3/&gt;Height&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T164058Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;611.4&lt;x3/&gt;Hauteur&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15466,13 +15465,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.927: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;611.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;611.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T163919Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;611.1&lt;x3/&gt;Generalités.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20151,13 +20149,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;WASHING MACHINES AND CLOTHES DRYERS&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;LAVEUSES ET SÉCHEUSES À LINGE&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T163914Z">
+        <seg>&lt;g1&gt;LAVEUSES ET SÉCHEUSES&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22899,13 +22896,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;The rear edge of an L- shaped seat shall be 2 &lt;/g2&gt;&lt;g4&gt;½ &lt;/g4&gt;&lt;x6/&gt;inches (64 mm) maximum and the front edge 15 inches (380 mm) minimum and 16 inches (405 mm) maximum from the seat wall.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Le bord arrière d'un siège en forme de L doit être à une distance maximale de 2 &lt;/g2&gt;&lt;g4&gt;½ &lt;/g4&gt;&lt;x6/&gt;po [64 mm] et le bord avant à une distance minimale de 15 po [380 mm] et maximale de 16 po [405 mm] du mur du siège.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T163634Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Le bord arrière d'un siège en forme de L doit être situé à une distance maximale de 2 &lt;/g2&gt;&lt;g4&gt;½ &lt;/g4&gt;&lt;x6/&gt;po (64 mm) et le bord avant à une distance minimale de 15 po (380 mm) et maximale de 16 po (405 mm) du mur du siège.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23100,13 +23096,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;A clear floor space complying with Section 305, positioned for parallel approach, shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Il faut prévoir une surface de plancher dégagée conforme à la section 305, positionnée pour un accès parallèle.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T164019Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Une surface de plancher dégagée conforme à la section 305, positionné de manière à permettre une approche parallèle, doit être prévue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25804,13 +25799,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Allowable stresses shall not be exceeded for materials used where a vertical or horizontal force of 250 pounds (1112 N) is applied at any point on the seat, fastener mounting device, or supporting structure.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les contraintes admissibles ne doivent pas être dépassées pour les matériaux utilisés lorsqu'une force verticale ou horizontale de 250 lb [1112 N] est appliquée en tout point du siège, du dispositif de montage de la fixation ou de la structure de support.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T163906Z">
+        <seg>Les contraintes admissibles ne doivent pas être dépassées pour les matériaux utilisés lorsqu’une force verticale ou horizontale de 250 lb (1 112 N) est appliquée en un point quelconque du siège, du dispositif de fixation ou de la structure de support.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32277,13 +32271,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.843: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>For front loading machines, the centerline of the clear floor space shall be offset 24 inches (610 mm) maximum from the centerline of the door opening.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les machines à chargement frontal, la ligne d'axe de la surface de plancher dégagée doit être décalée d'au plus 24 po [610 mm] de la ligne d'axe de l'ouverture de la porte.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T164032Z">
+        <seg>Pour les appareils à chargement frontal, l’axe médian de l’espace libre au sol doit être décalé d’au plus 24 po (610 mm) par rapport à l’axe médian de l’ouverture de la porte.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42286,13 +42279,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.866: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The end of the “L” shall be 22 inches (560 mm) minimum and 23 inches (585 mm) maximum from the main seat wall.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'extrémité du « L » doit se trouver à une distance comprise entre 22 po [560 mm] et 23 po [585 mm] du mur principal du siège.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T163836Z">
+        <seg>L'extrémité du « L » doit se trouver à une distance comprise entre 22 po (560 mm) et 23 po (585 mm) du mur principal du siège.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44073,13 +44065,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.83: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The rear edge of the “L” portion of the seat shall be 1&lt;x1/&gt;&lt;g2&gt;½ &lt;/g2&gt;&lt;x4/&gt;inches (38 mm) maximum from the wall and the front edge shall be 14 inches (355 mm) minimum and 15 inches (380 mm) maximum from the wall.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le bord arrière de la partie en « L » du siège doit être à au plus 1&lt;x1/&gt;&lt;g2&gt; ½ &lt;/g2&gt;&lt;x4/&gt;po [38 mm] du mur et le bord avant doit être à au moins 14 po [355 mm] et à au plus 15 po [380 mm] du mur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T163658Z">
+        <seg>Le bord arrière de la partie en « L » du siège doit être à au plus 1&lt;x1/&gt;&lt;g2&gt; ½ &lt;/g2&gt;&lt;x4/&gt;po (38 mm) du mur et le bord avant doit être à au moins 14 po (355 mm) et à au plus 15 po (380 mm) du mur.</seg>
       </tuv>
     </tu>
     <tu>
