@@ -2837,13 +2837,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.825: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3 inches (75 mm)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3 po [75 mm]</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055452Z">
+        <seg>3 po (75 mm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4303,13 +4302,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.825: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>6 inches (150 mm)</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>6 po [150 mm]</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055518Z">
+        <seg>6 po (150 mm)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20054,13 +20052,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.815: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;TABLE 405.2—ALLOWABLE RAMP DIMENSIONS FOR CONSTRUCTION IN EXISTING SITES, BUILDINGS AND FACILITIES&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;TABLEAU 405.2—DIMENSIONS ADMISSIBLES DES RAMPES POUR LA CONSTRUCTION DANS LES SITES, BÂTIMENTS ET INSTALLATIONS EXISTANTS&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055402Z">
+        <seg>&lt;g1&gt;TABLEAU 405.2—DIMENSIONS DE RAMPE AUTORISÉES POUR LES CONSTRUCTIONS DANS LES SITES, BÂTIMENTS ET INSTALLATIONS EXISTANTS&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33439,13 +33436,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.789: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Handrails and handrail supports that are provided on the ramp run shall not project into the required clear width of the ramp run.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes et les supports de rampes qui sont prévus sur la course de la rampe ne doivent pas faire saillie dans la largeur libre exigée de la course de la rampe.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055606Z">
+        <seg>Les mains courantes et leurs supports installés sur le tronçon de rampe ne doivent pas empiéter sur la largeur libre exigée du tronçon de rampe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34691,13 +34687,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.758: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In assembly areas, aisle ramps adjacent to seating and not serving elements required to be on an accessible route shall not be required to comply with this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les aires de rassemblement, les rampes d'allée adjacentes aux SIÈGES et ne desservant pas d'éléments devant se trouver sur un itinéraire accessible ne sont pas tenues de se conformer à la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055250Z">
+        <seg>Dans les aires d’assemblée, les rampes d’allée adjacentes aux sièges et ne desservant pas les éléments qui doivent se trouver sur un itinéraire accessible ne sont pas tenues de respecter les exigences de la présente section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34921,13 +34916,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.844: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In existing buildings or facilities, ramps shall be permitted to have slopes steeper than 1:12 complying with Table 405.2 where such slopes are necessary due to space limitations.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les bâtiments ou les installations existants, les rampes peuvent avoir des pentes plus fortes que 1:12 conformément au tableau 405.2 lorsque de telles pentes sont nécessaires en raison de contraintes d'espace.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055335Z">
+        <seg>Dans les bâtiments ou installations existants, les rampes peuvent avoir des pentes supérieures à 1:12 conformes au tableau 405.2 lorsque de telles pentes sont nécessaires en raison de contraintes d’espace.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36031,13 +36025,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.843: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Landings shall have a slope not steeper than 1:48 and shall comply with Section 302.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les paliers doivent présenter une pente d'au plus 1:48 et se conformer à la section 302.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055703Z">
+        <seg>Les paliers doivent présenter une pente maximale de 1:48 et être conformes à la section 302.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38557,13 +38550,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Ramp runs shall have a running slope greater than 1:20 and not steeper than 1:12.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes doivent avoir une pente supérieure à 1:20 et d'au plus 1:12.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055316Z">
+        <seg>Les tronçons de rampe doivent avoir une pente supérieure à 1:20 et ne dépassant pas 1:12.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40684,23 +40676,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Steeper than 1:10 but not steeper than 1:8</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Plus raide que 1:10, mais pas plus raide que 1:8</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055443Z">
+        <seg>Supérieure à 1:10, mais ne dépassant pas 1:8</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.821: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Steeper than 1:12 but not steeper than 1:10</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Plus raide que 1:12 mais pas plus raide que 1:10</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055506Z">
+        <seg>Supérieure à 1:12, mais ne dépassant pas 1:10</seg>
       </tuv>
     </tu>
     <tu>
@@ -41988,13 +41978,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The clear width of a ramp run shall be 36 inches (915 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La largeur libre d'une course de rampe doit être d'au moins 36 po [915 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055537Z">
+        <seg>La largeur libre d'une course de rampe doit être d'au moins 36 po (915 mm)].</seg>
       </tuv>
     </tu>
     <tu>
@@ -44524,13 +44513,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The rise for any ramp run shall be 30 inches (760 mm) maximum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La hauteur de tout tronçon de rampe doit être d'au plus 30 po [760 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055637Z">
+        <seg>La hauteur de tout tronçon de rampe doit être d'au plus 30 po (760 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49797,13 +49785,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Within employee work areas, the required clear width of ramps that are a part of common use circulation paths shall be permitted to be decreased by work area equipment provided that the decrease is essential to the function of the work being performed.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les zones de travail des employés, la largeur libre exigée des rampes qui font partie des voies de circulation à usage commun peut être réduite par l'équipement de la zone de travail, à condition que la réduction soit essentielle à la fonction du travail effectué.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055626Z">
+        <seg>Dans les aires de travail des employés, la largeur libre exigée des rampes qui font partie des voies de circulation à usage commun peut être réduite par l’équipement de l’aire de travail, pourvu que cette réduction soit essentielle à la fonction du travail effectué.</seg>
       </tuv>
     </tu>
     <tu>
