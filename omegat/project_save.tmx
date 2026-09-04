@@ -1634,13 +1634,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.865: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1&lt;x1/&gt;At a height of 38 inches (965 mm) minimum and 48 inches (1220 mm) maximum above the shower floor, and</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; À une hauteur comprise entre 38 po [965 mm] et 48 po [1220 mm] au-dessus du sol de la douche, et</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162501Z">
+        <seg>1.&lt;x1/&gt; À une hauteur d’au moins 38 po (965 mm) et d’au plus 48 po (1 220 mm) au-dessus du plancher de la douche, et</seg>
       </tuv>
     </tu>
     <tu>
@@ -2539,13 +2538,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Where the controls and hand shower are located on the side wall adjacent to the seat, the controls and hand shower shall be 16 inches (405 mm) minimum and 27 inches (685 mm) maximum from the wall behind the seat wall, or</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Lorsque les commandes et la douchette sont situées sur la paroi latérale adjacente au siège, les commandes et la douchette doivent être situées à une distance comprise entre 16 po [405 mm] et 27 po [685 mm] du mur derrière le mur du siège, ou</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162541Z">
+        <seg>2.&lt;x1/&gt; Lorsque les commandes et la douchette à main sont situées sur le mur latéral adjacent au siège, les commandes et la douchette à main doivent être situées à au moins 16 po (405 mm) et à au plus 27 po (685 mm) du mur situé derrière le mur du siège, ou</seg>
       </tuv>
     </tu>
     <tu>
@@ -2927,13 +2925,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;16 inches (405 mm) minimum and 27 inches (685 mm) maximum from the wall behind the seat.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3. À une distance comprise entre&lt;x1/&gt; 16 po [405 mm] et 27 po [685 mm] du mur derrière le siège.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162157Z">
+        <seg>3. À au moins 16 po (405 mm) et à au plus 27 po (685 mm) du mur situé derrière le siège.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3406,13 +3403,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;Where the controls and hand shower are located on the back wall opposite the seat, the controls and hand shower shall be located within 15 inches (380 mm) maximum from the centerline of the seat toward the transfer space.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Lorsque les commandes et la douchette sont situées sur le mur arrière en face du siège, les commandes et la douchette doivent être situées à une distance maximale de 15 po [380 mm] de la ligne d'axe du siège vers l'espace de transfert.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162556Z">
+        <seg>3.&lt;x1/&gt; Lorsque les commandes et la douchette à main sont situées sur le mur arrière opposé au siège, les commandes et la douchette à main doivent être situées à au plus 15 po (380 mm) de l’axe médian du siège, vers l’espace de transfert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5016,8 +5012,8 @@
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;608.2.2&lt;x3/&gt;Standard Roll-in-type Shower &lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;Compartments.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T155939Z">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;608.2.2 &lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;Cabines de douche de type à accès de plain-pied standard&lt;x3/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162418Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;608.2.2 &lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;Cabines de douche à accès de plain-pied standard&lt;x3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5043,8 +5039,8 @@
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;608.2.3&lt;x3/&gt;Alternate Roll-in-type Shower &lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;Compartments.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T160343Z">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;608.2.3 &lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;Cabines de douche de type à accès de plain-pied de remplacement&lt;x3/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162418Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;608.2.3 &lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;Cabines de douche à accès de plain-pied de remplacement&lt;x3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5081,8 +5077,8 @@
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;608.3.3 Alternate Roll-in-Type Showers&lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161643Z">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;608.3.3 Douches de type à accès de plain-pied de remplacement&lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162418Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;608.3.3 Douches à accès de plain-pied de remplacement&lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5100,18 +5096,17 @@
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;608.4.2&lt;x3/&gt;Standard Roll-in Showers&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161946Z">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;608.4.2 Douches de type à accès de plain-pied standard&lt;x3/&gt;&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162418Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;608.4.2 Douches à accès de plain-pied standard&lt;x3/&gt;&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;608.4.3&lt;x3/&gt;Alternate Roll-in Showers&lt;e1/&gt;&lt;e2/&gt;&lt;g5&gt;.&lt;/g5&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;608.4.3 Douches à l'&lt;x3/&gt;italienne alternatives&lt;e1/&gt;&lt;e2/&gt;&lt;g5&gt;.&lt;/g5&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162418Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;608.4.3 Douches à accès de plain-pied de remplacement&lt;x3/&gt;&lt;e1/&gt;&lt;e2/&gt;&lt;g5&gt;.&lt;/g5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15390,8 +15385,8 @@
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;608.3.2&lt;x3/&gt;Standard Roll-in-Type Showers.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161207Z">
-        <seg>&lt;g1&gt;&lt;x2/&gt;608.3.2 Douches de type à accès de plain-pied standard&lt;x3/&gt;.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162418Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;608.3.2 Douches à accès de plain-pied standard&lt;x3/&gt;.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23409,8 +23404,8 @@
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Standard roll-in-type shower compartments shall have a clear inside dimension of 60 inches (1525 mm) minimum in width and 30 inches (760 mm) minimum in depth, measured at the center point of opposing sides.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T155928Z">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Les cabines de douche de type à accès de plain-pied standard doivent avoir une dimension intérieure libre d’au moins 60 po (1 525 mm) de largeur et d’au moins 30 po (760 mm) de profondeur, mesurée au point central des côtés opposés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162418Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Les cabines de douche à accès de plain-pied standard doivent avoir une dimension intérieure libre d’au moins 60 po (1 525 mm) de largeur et d’au moins 30 po (760 mm) de profondeur, mesurée au point central des côtés opposés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23473,13 +23468,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Thresholds in roll-in-type shower compartments shall be 1/2 inch (13 mm) maximum in height in accordance with Section 303.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Les seuils dans les cabines de douche de type à accès de plain-pied doivent être d'une hauteur maximale de 1/2 po (13 mm) selon la section 303.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162418Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Les seuils dans les cabines de douche à accès de plain-pied doivent être d'une hauteur maximale de 1/2 po (13 mm) selon la section 303.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25831,8 +25825,8 @@
       <tuv lang="en">
         <seg>Alternate roll-in shower compartments shall have a clear inside dimension of 60 inches (1525 mm) minimum in width, and 36 inches (915 mm) in depth, measured at the center point of opposing sides.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T160505Z">
-        <seg>Les cabines de douche de type à accès de plain-pied de remplacement doivent avoir une dimension intérieure libre d’au moins 60 po (1 525 mm) de largeur et de 36 po (915 mm) de profondeur, mesurée au point central des côtés opposés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162418Z">
+        <seg>Les cabines de douche à accès de plain-pied de remplacement doivent avoir une dimension intérieure libre d’au moins 60 po (1 525 mm) de largeur et de 36 po (915 mm) de profondeur, mesurée au point central des côtés opposés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25840,8 +25834,8 @@
       <tuv lang="en">
         <seg>Alternate roll-in-type shower compartments shall comply with Section 608.2.3.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T160414Z">
-        <seg>Les cabines de douche de type à accès de plain-pied de remplacement doivent être conformes à la section 608.2.3.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162418Z">
+        <seg>Les cabines de douche à accès de plain-pied de remplacement doivent être conformes à la section 608.2.3.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34495,13 +34489,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.794: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In alternate roll-in showers, the controls and hand shower shall be located</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les douches à accès de plain-pied alternatives, les commandes et la douchette doivent être situées</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162443Z">
+        <seg>Dans les douches à accès de plain-pied de remplacement, les commandes et la douchette doivent être situées</seg>
       </tuv>
     </tu>
     <tu>
@@ -34509,8 +34502,8 @@
       <tuv lang="en">
         <seg>In alternate roll-in type showers, grab bars shall be provided on the back wall and the end wall adjacent to the seat.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161708Z">
-        <seg>Dans les douches de type à accès de plain-pied de remplacement, des barres d'appui sur le mur arrière et sur le mur d'extrémité adjacent au siège doivent être prévues.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162418Z">
+        <seg>Dans les douches à accès de plain-pied de remplacement, des barres d'appui sur le mur arrière et sur le mur d'extrémité adjacent au siège doivent être prévues.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35069,8 +35062,8 @@
       <tuv lang="en">
         <seg>In standard roll-in showers, the controls and hand shower shall not be located above the seat.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162038Z">
-        <seg>Dans les douches de type à accès de plain-pied standard, les commandes et la douchette ne doivent pas être situées au-dessus du siège.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162418Z">
+        <seg>Dans les douches à accès de plain-pied standard, les commandes et la douchette ne doivent pas être situées au-dessus du siège.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35078,8 +35071,8 @@
       <tuv lang="en">
         <seg>In standard roll-in type showers, a grab bar shall be provided on the back wall beginning at the edge of the seat.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161334Z">
-        <seg>Dans les douches standard de type à accès de plain-pied, une barre d’appui doit être prévue sur le mur arrière, à partir du bord du siège.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162418Z">
+        <seg>Dans les douches standard à accès de plain-pied, une barre d’appui doit être prévue sur le mur arrière, à partir du bord du siège.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39006,8 +38999,8 @@
       <tuv lang="en">
         <seg>Roll-in-type showers shall not be required to comply with ICC A117.1 where roll-in-type showers comply with Section 1110.2.3, in not more than 50 percent of Accessible units.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T201801Z">
-        <seg>Les douches de type à accès de plain-pied ne sont pas tenues d’être conformes à la norme ICC A117.1 lorsqu’elles sont conformes à la section 1110.2.3, dans au plus 50 % des unités accessibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162418Z">
+        <seg>Les douches à accès de plain-pied ne sont pas tenues d’être conformes à la norme ICC A117.1 lorsqu’elles sont conformes à la section 1110.2.3, dans au plus 50 % des unités accessibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39015,8 +39008,8 @@
       <tuv lang="en">
         <seg>Roll-in-type showers shall not be required to comply with ICC A117.1 where roll-in-type showers comply with Section 1110.2.3, in not more than 50 percent of the Accessible units.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T195353Z">
-        <seg>Les douches de type à accès de plain-pied ne sont pas tenues d’être conformes à la norme ICC A117.1 lorsqu’elles sont conformes à la section 1110.2.3, dans au plus 50 % des unités accessibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162418Z">
+        <seg>Les douches à accès de plain-pied ne sont pas tenues d’être conformes à la norme ICC A117.1 lorsqu’elles sont conformes à la section 1110.2.3, dans au plus 50 % des unités accessibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39024,8 +39017,8 @@
       <tuv lang="en">
         <seg>Roll-in-type showers shall not be required to comply with ICC A117.1 where roll-in-type showers comply with Section 1110.2.3, in not more than 90 percent of the Accessible units.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T200206Z">
-        <seg>Les douches de type à accès de plain-pied ne sont pas tenues d’être conformes à la norme ICC A117.1 lorsqu’elles sont conformes à la section 1110.2.3, dans au plus 90 % des unités accessibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162418Z">
+        <seg>Les douches à accès de plain-pied ne sont pas tenues d’être conformes à la norme ICC A117.1 lorsqu’elles sont conformes à la section 1110.2.3, dans au plus 90 % des unités accessibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40420,8 +40413,8 @@
       <tuv lang="en">
         <seg>Standard roll-in-type shower compartments shall comply with Section 608.2.2.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T155949Z">
-        <seg>Les cabines de douche de type à accès de plain-pied standard doivent être conformes à la section 608.2.2.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162418Z">
+        <seg>Les cabines de douche à accès de plain-pied standard doivent être conformes à la section 608.2.2.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44400,13 +44393,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.813: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The side edge of the seat shall be 1&lt;x1/&gt;&lt;g2&gt;½ &lt;/g2&gt;&lt;g4&gt;inches (38 mm) maximum from the back wall of a transfer-type shower and 1-1/2 inches (38 mm) maximum from the control wall of a roll-in-type shower.&lt;/g4&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le bord latéral du siège doit être situé à une distance maximale de 1&lt;x1/&gt;&lt;g2&gt; ½ &lt;/g2&gt;&lt;g4&gt;po [38 mm] du mur arrière d'une douche de type transfert et à une distance maximale de 1-1/2 po [38 mm] du mur de commande d'une douche de type à accès de plain-pied.&lt;/g4&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162418Z">
+        <seg>Le bord latéral du siège doit être situé à une distance maximale de 1&lt;x1/&gt;&lt;g2&gt; ½ &lt;/g2&gt;&lt;g4&gt;po [38 mm] du mur arrière d'une douche de type transfert et à une distance maximale de 1-1/2 po [38 mm] du mur de commande d'une douche à accès de plain-pied.&lt;/g4&gt;</seg>
       </tuv>
     </tu>
     <tu>
