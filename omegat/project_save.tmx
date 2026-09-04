@@ -963,13 +963,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.792: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Storm and screen doors serving individual dwelling or sleeping units shall not be required to comply with Section 404.2.5.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1. Les&lt;x1/&gt; contre-portes et les portes moustiquaires desservant des unités d'habitation individuelles ou des unités de couchage ne sont pas tenues de se conformer à la section 404.2.5.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T205816Z">
+        <seg>1. Les&lt;x1/&gt; portes moustiquaires et contre-portes desservant des logements ou des unités de couchage individuels ne sont pas tenues de se conformer à la section 404.2.5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1039,13 +1038,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;The clear width shall be permitted to be reduced to 32 inches (815 mm) minimum for a length of 24 inches (610 mm) maximum provided the reduced width segments are separated by segments that are 48 inches (1220 mm) minimum in length and 36 inches (915 mm) minimum in width.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; La largeur libre peut être réduite à 32 po [815 mm] minimum pour une longueur de 24 po [610 mm] maximum, à condition que les segments de largeur réduite soient séparés par des segments d'une longueur minimale de 48 po [1220 mm] et d'une largeur minimale de 36 po [915 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T203728Z">
+        <seg>1.&lt;x1/&gt; La largeur dégagée peut être réduite à au moins 32 po (815 mm) sur une longueur maximale de 24 po (610 mm), à condition que les segments de largeur réduite soient séparés par des segments d’une longueur d’au moins 48 po (1 220 mm) et d’une largeur d’au moins 36 po (915 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2494,13 +2492,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Where an accessible route makes a 180-degree turn around an object that is less than 48 inches (1220 mm) in width, clear widths shall be 42 inches (1065 mm) minimum approaching the turn, 48 inches (1220 mm) minimum during the turn and 42 (1065 mm) inches minimum leaving the turn.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Lorsqu'un itinéraire accessible effectue un virage à 180 degrés autour d'un objet d'une largeur inférieure à 48 po [1220 mm], les largeurs libres doivent être d'au moins 42 po [1065 mm] à l'approche du virage, d'au moins 48 po [1220 mm] pendant le virage et d'au moins 42 po [1065 mm] à la sortie du virage.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T203736Z">
+        <seg>2.&lt;x1/&gt; Lorsqu’un itinéraire accessible effectue un virage à 180 degrés autour d’un objet d’une largeur inférieure à 48 po (1 220 mm), les largeurs dégagées doivent être d’au moins 42 po (1 065 mm) à l’approche du virage, d’au moins 48 po (1 220 mm) pendant le virage et d’au moins 42 po (1 065 mm) à la sortie du virage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3365,13 +3362,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.851: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;Where an accessible route makes a 180-degree turn around an object that is less than 48 inches (1220 mm) in width, the clear width approaching the turn and leaving the turn shall be 36 inches (915 mm) minimum provided the clear width during the turn is 60 inches (1525 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Lorsqu'un itinéraire accessible effectue un virage à 180 degrés autour d'un objet d'une largeur inférieure à 48 po [1220 mm], la largeur libre à l'approche du virage et à la sortie du virage doit être d'au moins 36 po [915 mm], à condition que la largeur libre pendant le virage soit d'au moins 60 po [1525 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T203751Z">
+        <seg>3.&lt;x1/&gt; Lorsqu’un itinéraire accessible effectue un virage à 180 degrés autour d’un objet d’une largeur inférieure à 48 po (1 220 mm), la largeur dégagée à l’approche du virage et à sa sortie doit être d’au moins 36 po (915 mm), à condition que la largeur dégagée pendant le virage soit d’au moins 60 po (1 525 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3789,13 +3785,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.847: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>4.&lt;x1/&gt;Where an accessible route makes a 90-degree turn the clear widths approaching the turn and leaving the turn shall be 36 inches (915 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>4.&lt;x1/&gt; Lorsqu'un itinéraire accessible effectue un virage à 90 degrés, les largeurs libres à l'approche du virage et à la sortie du virage doivent être d'au moins 36 po [915 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T203758Z">
+        <seg>4.&lt;x1/&gt; Lorsqu’un itinéraire accessible effectue un virage à 90 degrés, les largeurs dégagées à l’approche du virage et à sa sortie doivent être d’au moins 36 po (915 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37451,13 +37446,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.804: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Passing spaces shall be either a 60-inch (1525 mm) minimum by 60-inch (1525 mm) minimum space, or an intersection of two walking surfaces that provide a T-shaped turning space complying with Section 304.3.2.2, provided the base and arms of the T-shaped space extend 48 inches (1220 mm) minimum beyond the intersection.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les zones de croisement doivent consister en une zone de dimensions minimales de 60 po [1525 mm] x 60 po [1525 mm] ou en l'intersection de deux surfaces de circulation qui procurent un espace de rotation en forme de T conforme à l'article 304.3.2.2, à condition que la base de mur et les bras de l'espace en T se prolongent d'au moins 48 po [1220 mm] au-delà de l'intersection.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T203822Z">
+        <seg>Les espaces de passage doivent être soit une aire d’au moins 60 po (1 525 mm) sur 60 po (1 525 mm), soit une intersection de deux surfaces de circulation offrant une aire de rotation en T conforme à la section 304.3.2.2, à condition que la base et les bras de l’aire en T s’étendent d’au moins 48 po (1 220 mm) au-delà de l’intersection.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47700,13 +47694,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where exterior deck, patio or balcony surface materials are impervious, the finished exterior impervious surface shall be 4 inches (100 mm) maximum below the floor level of the adjacent interior spaces of the unit.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les matériaux de surface de la terrasse extérieure, du patio ou du balcon sont imperméables, la surface imperméable extérieure finie doit se trouver au maximum 4 po [100 mm] en dessous du niveau du sol des espaces intérieurs adjacents de l'unité.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T203852Z">
+        <seg>Lorsque les matériaux de surface d’une terrasse extérieure, d’un patio extérieur ou d’un balcon extérieur sont imperméables, la surface extérieure imperméable finie doit être située à au plus 4 po (100 mm) sous le niveau du plancher des espaces intérieurs adjacents de l’unité.</seg>
       </tuv>
     </tu>
     <tu>
