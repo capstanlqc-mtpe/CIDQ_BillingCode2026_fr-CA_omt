@@ -22735,13 +22735,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.843: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;In every kitchen, family room, dining room, living room, parlor, library, den, sun room, bedroom, recreation room, or similar room or area of dwelling units, receptacle outlets shall be installed in accordance with the general provisions specified in Sections E3901.2.1 through E3901.2.3 (see Figure E3901.2).&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Dans chaque cuisine, salle familiale, salle à manger, salon, salon de réception, bibliothèque, coin détente, véranda, chambre à coucher, salle de loisirs ou pièce ou zone similaire des logements, des prises de courant doivent être installées conformément aux dispositions générales spécifiées aux sections E3901.2.1 à E3901.2.3 (voir la figure E3901.2).&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050557Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Dans chaque cuisine, salle familiale, salle à manger, salon, salon de réception, bibliothèque, coin détente, véranda, chambre à coucher, salle de loisirs ou pièce ou zone similaire des logements, des prises de courant doivent être installées conformément aux dispositions générales spécifiées dans les sections E3901.2.1 à E3901.2.3 (voir la figure E3901.2).&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26797,13 +26796,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.795: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Any space that is 2 feet (610 mm) or more in width, including space measured around corners, and that is unbroken along the floor line by doorways and similar openings, fireplaces, and fixed cabinets that do not have countertops or similar work surfaces.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Tout espace d'une largeur de 2 pi [610 mm] ou plus, y compris l'espace mesuré autour des coins, et qui n'est pas interrompu le long de la ligne de plancher par des ouvertures de porte et des ouvertures similaires, des foyers et des armoires fixes qui n'ont pas de comptoirs ou de surfaces de travail similaires.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050632Z">
+        <seg>Tout espace d’une largeur d’au moins 2 pi (610 mm), y compris l’espace mesuré autour des coins, qui est ininterrompu le long de la ligne de plancher par des portes et des ouvertures similaires, des foyers et des armoires fixes qui ne comportent pas de comptoirs ni de surfaces de travail similaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29091,13 +29089,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Combustible material within 12 inches (306 mm) of the fireplace opening shall not project more than 1/8 inch (3 mm) for each 1-inch (25 mm) distance from such an opening.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les matériaux combustibles situés à moins de 12 po [306 mm] de l'ouverture du foyer ne doivent pas faire saillie de plus de 1/8 po [3 mm] pour chaque 1 po [25 mm] de distance par rapport à cette ouverture.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050353Z">
+        <seg>Les matériaux combustibles situés à moins de 12 po (306 mm) de l’ouverture du foyer ne doivent pas faire saillie de plus de 1/8 po (3 mm) par tranche de 1 po (25 mm) de distance par rapport à cette ouverture.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29422,13 +29419,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.904: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Controlled by a wall switch in accordance with Section E3903.2, Exception 1; or</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Commandée par un interrupteur mural selon la section E3903.2, Exception 1; ou</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050451Z">
+        <seg>Est commandée par un interrupteur mural selon la section E3903.2, Exception 1; ou</seg>
       </tuv>
     </tu>
     <tu>
@@ -31580,23 +31576,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.777: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exposed combustible mantels or trim is permitted to be placed directly on the masonry fireplace front surrounding the fireplace opening providing such combustible materials are not placed within 6 inches (152 mm) of a fireplace opening.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les manteaux ou les garnitures combustibles exposés peuvent être placés directement sur le devant du foyer en maçonnerie entourant l'ouverture du foyer, à condition que ces matériaux combustibles ne soient pas placés à moins de 6 po [152 mm] d'une ouverture du foyer.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050325Z">
+        <seg>Les manteaux ou garnitures combustibles exposés peuvent être placés directement sur la façade en maçonnerie du foyer entourant l’ouverture du foyer, pourvu que ces matériaux combustibles ne soient pas placés à moins de 6 po (152 mm) de l’ouverture du foyer.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.807: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exposed combustible trim and the edges of sheathing materials such as wood siding, flooring and gypsum board shall be permitted to abut the masonry fireplace sidewalls and hearth extension in accordance with Figure R1001.11, provided such combustible trim or sheathing is not less than 12 inches (305 mm) from the inside surface of the nearest firebox lining.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les garnitures combustibles exposées et les bords des matériaux de revêtement tels que les panneaux de bois, les planchers et les plaques de plâtre peuvent être adjacents aux parois latérales du foyer en maçonnerie et au prolongement de l'âtre conformément à la figure R1001.11, à condition que ces garnitures ou revêtements combustibles ne soient pas à moins de 12 po [305 mm] de la surface intérieure du revêtement de la chambre de combustion le plus proche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050313Z">
+        <seg>Les garnitures combustibles exposées et les bords des matériaux de revêtement tels que les revêtements en bois, les revêtements de sol et les panneaux de gypse peuvent être contigus aux parois latérales du foyer en maçonnerie et à l’extension de l’âtre conformément à la figure R1001.11, pourvu que ces garnitures combustibles ou ces matériaux de revêtement ne se trouvent pas à moins de 12 po (305 mm) de la surface intérieure du revêtement de foyer le plus proche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36378,23 +36372,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.857: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Located over 5.5 feet (1676 mm) above the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Située à plus de 5,5 pi [1676 mm] au-dessus du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050507Z">
+        <seg>Est située à plus de 5,5 pi (1676 mm) au-dessus du sol.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.872: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Located within cabinets or cupboards;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Située dans des armoires ou des placards;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050442Z">
+        <seg>Est située dans des armoires ou des placards;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36565,13 +36557,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Masonry fireplaces listed and labeled for use in contact with combustibles in accordance with UL 127 and installed in accordance with the manufacturer’s instructions are permitted to have combustible material in contact with their exterior surfaces.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les foyers en maçonnerie répertoriés et étiquetés pour une utilisation en contact avec des combustibles conformément à la norme UL 127 et installés conformément aux instructions du fabricant peuvent avoir des matériaux combustibles en contact avec leurs surfaces extérieures.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050240Z">
+        <seg>Les foyers en maçonnerie homologués et étiquetés pour être utilisés en contact avec des matériaux combustibles conformément à la norme UL 127 et installés conformément aux instructions du fabricant peuvent avoir des matériaux combustibles en contact avec leurs surfaces extérieures.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37855,13 +37846,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.789: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Part of a luminaire or appliance;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Fait partie d'un appareil d'éclairage ou d'un appareil;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050435Z">
+        <seg>Fait partie d'un lumnaire ou d'un appareil;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38083,13 +38073,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.79: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Permanently installed electric baseboard heaters equipped with factory-installed receptacle outlets, or outlets provided as a separate assembly by the baseboard manufacturer shall be permitted as the required outlet or outlets for the wall space utilized by such permanently installed heaters.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les plinthes chauffantes électriques installées de façon permanente et équipées de prises de courant installées en usine, ou de prises fournies en tant qu'ensemble séparé par le fabricant de la plinthe, peuvent être autorisées comme prise ou prises exigées pour l'espace mural utilisé par ces plinthes chauffantes installées de façon permanente.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050524Z">
+        <seg>Les plinthes électriques permanentes équipées de prises de courant installées en usine, ou de prises de courant fournies comme ensemble distinct par le fabricant des plinthes, peuvent être utilisées comme prise ou prises de courant exigées pour l’espace mural occupé par ces appareils de chauffage permanents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38838,13 +38827,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Receptacle outlets in floors shall not be counted as part of the required number of receptacle outlets except where located within 18 inches (457 mm) of the wall.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les prises de courant dans les planchers ne doivent pas être comptées dans le nombre requis de prises de courant, sauf si elles sont situées à moins de 18 po [457 mm] du mur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050656Z">
+        <seg>Les prises de courant dans les planchers ne doivent pas être comptées dans le nombre requis de prises de courant, sauf si elles sont situées à moins de 18 po (457 mm) du mur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38858,13 +38846,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.843: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Receptacle outlets required by this section shall be in addition to any receptacle that is:&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les prises de courant exigées par la présente section doivent s'ajouter à toute prise qui est :&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050419Z">
+        <seg>Les prises de courant exigées par la présente section doivent s'ajouter à toute prise qui :&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41070,13 +41057,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.891: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Such receptacle outlets shall not be connected to the heater circuits.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Ces prises de courant ne doivent pas être connectées aux circuits de chauffage.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050534Z">
+        <seg>Ces prises de courant ne doivent pas être branchées aux circuits de chauffage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48479,13 +48465,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where masonry fireplaces are part of masonry or concrete walls, combustible materials shall not be in contact with the masonry or concrete walls less than 12 inches (306 mm) from the inside surface of the nearest firebox lining.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les foyers en maçonnerie font partie de murs en maçonnerie ou en béton, les matériaux combustibles ne doivent pas être en contact avec les murs en maçonnerie ou en béton à moins de 12 po [306 mm] de la surface intérieure du revêtement de la chambre de combustion le plus proche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050251Z">
+        <seg>Lorsque les foyers en maçonnerie font partie de murs en maçonnerie ou en béton, les matériaux combustibles ne doivent pas être en contact avec les murs en maçonnerie ou en béton à moins de 12 po (306 mm) de la surface intérieure du revêtement de foyer le plus proche.</seg>
       </tuv>
     </tu>
     <tu>
