@@ -1192,13 +1192,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Where glazing is adjacent to a walking surface and a horizontal rail is installed at 34 to 38 inches (864 to 965 mm) above the walking surface.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Lorsque le vitrage est adjacent à une surface de marche et qu'une rampe horizontale est installée de 34 à 38 po [864 à 965 mm] au-dessus de la surface de marche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T032430Z">
+        <seg>1.&lt;x1/&gt; Lorsque le vitrage est adjacent à une surface de marche et qu'une rampe horizontale est installée de 34 à 38 po (864 à 965 mm) au-dessus de la surface de marche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33005,13 +33004,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.805: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Glazing adjacent to the landing at the bottom of a stairway where the glazing is less than 36 inches (914 mm) above the landing and within a 60-inch (1524 mm) horizontal arc less than 180 degrees (3.14 rad) from the bottom tread nosing shall be considered to be a hazardous location.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le vitrage adjacent au palier au bas d'un escalier où le vitrage est à moins de 36 po [914 mm] au-dessus du palier et dans un arc horizontal de 60 po [1524 mm] à moins de 180 degrés (3,14 rad) du nez de la marche inférieure doit être considéré comme un emplacement dangereux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T032528Z">
+        <seg>Le vitrage adjacent au palier au bas d'un escalier où le vitrage est à moins de 36 po (914 mm) au-dessus du palier et dans un arc horizontal de 60 po [1524 mm] faisant moins de 180 degrés (3,14 rad) à partir du nez de la marche inférieure, doivent être considérés comme étant situés dans un emplacement dangereux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33100,13 +33098,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.808: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Glazing in walls, enclosures or fences containing or facing hot tubs, spas, whirlpools, saunas, steam rooms, bathtubs, showers and indoor or outdoor swimming pools where the bottom exposed edge of the glazing is less than 60 inches (1524 mm) measured vertically above any standing or walking surface shall be considered to be a hazardous location.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le vitrage dans les murs, les enclos ou les clôtures contenant ou faisant face à des cuves thermales, des spas, des bains à remous, des saunas, des hammams, des baignoires, des douches et des piscines intérieures ou extérieures où le bord inférieur exposé du vitrage est à moins de 60 po [1524 mm], mesuré verticalement au-dessus de toute surface de station debout ou de marche, doit être considéré comme un endroit dangereux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T032258Z">
+        <seg>Les vitrages dans les murs, enceintes ou clôtures contenant des cuves thermales, spas, cuves à remous, saunas, bains de vapeur, baignoires et piscines intérieures ou extérieures, ou leur faisant face, lorsque le bord inférieur exposé du vitrage se trouve à moins de 60 po (1 524 mm), mesuré verticalement au-dessus de toute surface où l’on peut se tenir debout ou circuler, doivent être considérés comme étant situés dans un emplacement dangereux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33177,13 +33174,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Glazing that is more than 60 inches (1524 mm), measured horizontally and in a straight line, from the water’s edge of a bathtub, hot tub, spa, whirlpool or swimming pool or from the edge of a shower, sauna or steam room.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Vitrage situé à plus de 60 po [1524 mm], mesuré horizontalement et en ligne droite, du bord de l’eau d’une baignoire, d’un spa, d’un bain à remous ou d’une piscine ou du bord d’une douche, d’un sauna ou d’un hammam.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T032318Z">
+        <seg>Vitrage situé à plus de 60 po (1524 mm), mesuré horizontalement et en ligne droite, du bord de l’eau d’une baignoire, d’un spa, d’un bain à remous ou d’une piscine ou du bord d’une douche, d’un sauna ou d’un hammam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33205,13 +33201,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Glazing where the bottom exposed edge of the glazing is less than 36 inches (914 mm) above the plane of the adjacent walking surface of stairways, landings between flights of stairs and ramps shall be considered to be a hazardous location.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le vitrage dont le bord inférieur exposé est à moins de 36 po [914 mm] au-dessus du plan de la surface de marche adjacente des escaliers, des paliers entre les volées de marches et des rampes doit être considéré comme un endroit dangereux.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T032334Z">
+        <seg>Le vitrage dont le bord inférieur exposé est à moins de 36 po (914 mm) au-dessus du plan de la surface de marche adjacente des escaliers, des paliers entre les volées de marches et des rampes doit être considéré comme un endroit dangereux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42164,13 +42159,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.863: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The clear height of the door opening shall be not less than 78 inches (1981 mm) in height measured from the top of the threshold to the bottom of the stop.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La hauteur libre de l'ouverture de la porte ne doit pas être inférieure à 78 po [1981 mm], mesurée du haut du seuil au bas de la butée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T032819Z">
+        <seg>La hauteur libre de l'ouverture de la porte ne doit pas être inférieure à 78 po (1981 mm), mesurée du haut du seuil au bas de la butée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42676,13 +42670,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The egress door shall be side-hinged, and shall provide a clear width of not less than 32 inches (813 mm) where measured between the face of the door and the stop, with the door open 90 degrees (1.57 rad).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La porte de sortie doit être à charnières latérales et offrir une largeur libre d'au moins 32 po [813 mm] mesurée entre la face de la porte et la butée, lorsque la porte est ouverte à 90 degrés (1,57 rad).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T032810Z">
+        <seg>La porte de sortie doit être à charnières latérales et offrir une largeur libre d'au moins 32 po (813 mm) mesurée entre la face de la porte et la butée, lorsque la porte est ouverte à 90 degrés (1,57 rad).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44538,13 +44531,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.876: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The rail shall be capable of withstanding a horizontal load of 50 pounds per linear foot (730 N/m) without contacting the glass and have a cross-sectional height of not less than 11/2 inches (38 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La rampe doit pouvoir supporter une charge horizontale de 50 livres par pied linéaire (730 N/m) sans toucher la vitre et avoir une hauteur de coupe transversale d'au moins 11/2 po [38 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T032053Z">
+        <seg>La rampe doit pouvoir supporter une charge horizontale de 50 livres par pied linéaire (730 N/m) sans toucher la vitre et avoir une hauteur de coupe transversale d'au moins 11/2 po (38 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45434,13 +45426,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The top rail or handrail shall be supported by not less than three glass baluster panels, or shall be otherwise supported to remain in place should one glass baluster panel fail.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le garde-corps supérieur ou la rampe doit être soutenu par au moins trois panneaux de balustrade en verre, ou il doit être soutenu d'une autre manière pour rester en place en cas de défaillance d'un panneau de balustrade en verre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T032230Z">
+        <seg>Le garde-corps supérieur ou la main courante doit être soutenu par au moins trois panneaux de balustrade en verre, ou doit être soutenu d'une autre manière pour rester en place en cas de défaillance d'un panneau de balustrade en verre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45989,13 +45980,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>There shall be a landing or floor on each side of each exterior door.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il doit y avoir un palier ou un étage de chaque côté de chaque porte extérieure.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T032856Z">
+        <seg>Il doit y avoir un palier ou un plancher de chaque côté de chaque porte extérieure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49474,13 +49464,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.875: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the glazing is protected by a guard complying with Section R312 and the plane of the glass is more than 18 inches (457 mm) from the guard.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque le vitrage est protégé par un garde-corps conforme à la section R312 et que le plan du verre est à plus de 18 po [457 mm] du garde-corps.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T032542Z">
+        <seg>Lorsque le vitrage est protégé par un garde-corps conforme à la section R312 et que le plan du verre est à plus de 18 po (457 mm) du garde-corps.</seg>
       </tuv>
     </tu>
     <tu>
