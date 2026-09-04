@@ -505,13 +505,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.844: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;A shower compartment with dimensions of 30 inches (760 mm) minimum in depth and 44 inches (1120 mm) minimum in width shall be permitted.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Une cabine de douche dont les dimensions sont d'au moins 30 po [760 mm] en profondeur et d'au moins 44 po [1120 mm] en largeur est autorisée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T212802Z">
+        <seg>1.&lt;x1/&gt; Une cabine de douche dont les dimensions sont d'au moins 30 po (760 mm) en profondeur et d'au moins 44 po (1120 mm) en largeur est autorisée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1844,13 +1843,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;A shower door assembly shall be permitted where the assembly can be removed without removal or replacement of the surrounding walls and floor to which it is affixed.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Un ensemble de porte de douche est autorisé lorsque l'ensemble peut être retiré sans enlever ou remplacer les murs environnants et le sol sur lequel il est fixé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T212818Z">
+        <seg>2.&lt;x1/&gt; Un ensemble de porte de douche est autorisé lorsque l'ensemble peut être retiré sans enlever ou remplacer les murs environnants et le plancher sur lequel il est fixé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8751,13 +8749,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.905: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1104.11.3.1.3.3 Shower compartment.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1104.11.3.1.3.3 Compartiment de douche.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T212745Z">
+        <seg>&lt;g1&gt;1104.11.3.1.3.3 Cabine de douche.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8821,13 +8818,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.907: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1104.11.3.2.3.2 Shower compartment.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1104.11.3.2.3.2 Compartiment de douche.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T213050Z">
+        <seg>&lt;g1&gt;1104.11.3.2.3.2 Cabine de douche.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23813,13 +23809,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A clearance of 48 inches (1220 mm) minimum in length, measured perpendicular from the control wall, and 30 inches (760 mm) minimum in depth, measured from the face of the shower compartment, shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un dégagement d'au moins 48 po [1220 mm] en longueur, mesuré perpendiculairement au mur de commande, et d'au moins 30 po [760 mm] en profondeur, mesuré à partir de la face de la cabine de douche, doit être prévu.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T212739Z">
+        <seg>Un dégagement d’au moins 48 po (1 220 mm) de longueur, mesuré perpendiculairement à partir du mur de commande, et d’au moins 30 po (760 mm) de profondeur, mesuré à partir de la face de la cabine de douche, doit être prévu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24527,8 +24522,8 @@
       <tuv lang="en">
         <seg>A shower compartment shall comply with Section 1104.11.3.1.3.3.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T034105Z">
-        <seg>Un compartiment de douche doit être conforme à la section 1104.11.3.1.3.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T213040Z">
+        <seg>&lt;/g1&gt;Un compartiment de douche doit être conforme à la section 1104.11.3.1.3.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33553,13 +33548,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.81: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>If a shower compartment is the only bathing facility, the shower compartment shall have dimensions of 36 inches (915 mm) minimum in width and 36 inches (915 mm) minimum in depth.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Si un compartiment de douche est la seule installation de bain, le compartiment de douche doit avoir des dimensions d'au moins 36 po [915 mm] en largeur et d'au moins 36 po [915 mm] en profondeur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T212731Z">
+        <seg>Si une cabine de douche est le seul équipement de bain, la cabine de douche doit avoir une largeur d’au moins 36 po (915 mm) et une profondeur d’au moins 36 po (915 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34639,13 +34633,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.779: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In kitchens with counters, appliances or cabinets on three contiguous sides, clearance between all opposing base cabinets, countertops, appliances, or walls within kitchen work areas shall be 60 inches (1525 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les cuisines avec des comptoirs, des appareils électroménagers ou des armoires sur trois côtés contigus, le dégagement entre toutes les bases de mur, tous les comptoirs, tous les appareils électroménagers ou tous les murs opposés dans les aires de travail de la cuisine doit être d'au moins 60 po [1525 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T213118Z">
+        <seg>Dans les cuisines comportant des comptoirs, des appareils électroménagers ou des armoires sur trois côtés contigus, le dégagement entre toutes les armoires de base, tous les comptoirs, tous les appareils électroménagers ou tous les murs qui se font face dans les zones de travail de la cuisine doit être d’au moins 60 po (1 525 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41124,13 +41117,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.871: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The bathing fixture shall be a bathtub complying with Section 1104.11.3.2.3.1 or a shower compartment complying with Section 1104.11.3.2.3.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'appareil sanitaire de bain doit être une baignoire conforme à la section 1104.11.3.2.3.1 ou un compartiment de douche conforme à la section 1104.11.3.2.3.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T213004Z">
+        <seg>L’appareil de bain doit être une baignoire conforme à la section 1104.11.3.2.3.1 ou une cabine de douche conforme à la section 1104.11.3.2.3.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42454,13 +42446,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.805: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The front of the lavatory shall be 34 inches (865 mm) maximum above the floor, measured to the higher of the rim or counter surface.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'avant du lavabo doit se situer à une hauteur maximale au-dessus du sol de 34 po [865 mm], mesuré à la bordure de l'évier ou la surface du comptoir, selon la valeur la plus élevée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T212853Z">
+        <seg>L’avant du lavabo doit se trouver à au plus 34 po (865 mm) au-dessus du plancher, la mesure étant prise jusqu’au bord supérieur de la cuvette ou de la surface du comptoir, selon celui qui est le plus élevé.</seg>
       </tuv>
     </tu>
     <tu>
