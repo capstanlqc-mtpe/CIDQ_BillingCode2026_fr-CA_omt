@@ -11999,13 +11999,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.872: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;423.3 Footbaths and pedicure baths.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;423.3 Bains de pieds et bains de pédicure.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T054246Z">
+        <seg>&lt;g1&gt;423.3 Bains de pieds et bains de pieds pour pédicure.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44281,13 +44280,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The pump drain and circulation piping shall be sloped to drain the water in the volute and the circulation piping when the whirlpool bathtub is empty.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La tuyauterie de vidange et de circulation de la pompe doit être inclinée pour drainer l'eau dans la volute et la tuyauterie de circulation lorsque la baignoire à remous est vide.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T054401Z">
+        <seg>La tuyauterie d’évacuation de la pompe et la tuyauterie de circulation doivent être inclinées de manière à permettre l’évacuation de l’eau présente dans la volute et la tuyauterie de circulation lorsque la baignoire à remous est vid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45632,13 +45630,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The water supplied to specialty plumbing fixtures, such as pedicure chairs having an integral foot bathtub and footbaths, shall be limited to not greater than 120ºF (49ºC) by a water-temperature-limiting device that conforms to ASSE 1070/ASME A112.1070/CSA B125.70 or by a water heater complying with ASSE 1082.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'eau fournie aux appareils de plomberie spécialisés, tels que les fauteuils de pédicure munis d'une baignoire pour les pieds intégrée et les pédiluves, doit être limitée à une température maximale de 120 ºF (49 ºC) par un dispositif de limitation de la température de l'eau conforme à la norme ASSE 1070/ASME A112.1070/CSA B125.70 ou par un chauffe-eau conforme à la norme ASSE 1082.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T054258Z">
+        <seg>L’eau fournie aux appareils sanitaires spécialisés, tels que les fauteuils de pédicure munis d’une baignoire pour les pieds intégrée et les bains de pieds, doit être limitée à une température maximale de 120 °F (49 °C) au moyen d’un dispositif de limitation de la température de l’eau conforme à la norme ASSE 1070/ASME A112.1070/CSA B125.70 ou au moyen d’un chauffe-eau conforme à la norme ASSE 1082.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48746,13 +48743,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.855: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where pumps are located more than 2 feet (609 mm) from the access opening, an opening not less than 18 inches by 18 inches (457 mm by 457 mm) shall be installed.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les pompes sont situées à plus de 2 pi [609 mm] de l'ouverture d'accès, une ouverture d'au moins 18 po sur 18 po [457 mm sur 457 mm] doit être installée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T054700Z">
+        <seg>Lorsque les pompes sont situées à plus de 2 pi (609 mm) de l'ouverture d'accès, une ouverture d'au moins 18 po sur 18 po (457 mm par 457 mm) doit être installée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49293,13 +49289,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.863: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the manufacturer’s instructions do not specify the location and minimum size of field-fabricated access openings, an opening not less than 12 inches by 12 inches (305 mm by 305 mm) shall be installed to provide access to the circulation pump.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les directives du fabricant ne précisent pas l’emplacement et la taille minimale des ouvertures d’accès fabriquées sur place, une ouverture d’au moins 12 po sur 12 po [305 mm sur 305 mm] doit être installée pour permettre l’accès à la pompe de circulation.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T054410Z">
+        <seg>Lorsque les instructions du fabricant ne précisent pas l’emplacement et la dimension minimale des ouvertures d’accès fabriquées sur place, une ouverture d’au moins 12 po sur 12 po (305 mm sur 305 mm) doit être installée pour permettre l’accès à la pompe de circulation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49654,13 +49649,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.866: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Whirlpool bathtubs shall comply with ASME A112.19.7/CSA B45.10 and shall be listed and labeled in accordance with UL 1795.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les baignoires à remous doivent être conformes à la norme ASME A112.19.7/CSA B45.10 et doivent être répertoriées et étiquetées conformément à la norme UL 1795.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T054316Z">
+        <seg>Les baignoires à remous doivent être conformes à la norme ASME A112.19.7/CSA B45.10 et doivent être homologuées et étiquetées conformément à la norme UL 1795.</seg>
       </tuv>
     </tu>
     <tu>
