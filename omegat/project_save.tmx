@@ -22600,13 +22600,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.836: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Conveyors and related equipment connecting successive floors or levels shall be enclosed with shaft enclosures complying with Section 713.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les convoyeurs et l'équipement connexe reliant des planchers ou des niveaux successifs doivent être encloisonnés dans des puits encloisonnés conformes à la section 713.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T015941Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les convoyeurs et l’équipement connexe reliant des étages ou des niveaux successifs doivent être encloisonnés par des puits encloisonnés conformes à la section 713.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48955,13 +48954,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where provided in below-grade transportation stations, escalators shall have a clear width of not less than 32 inches (815 mm).&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'elles sont installées dans des stations de transport souterraines, les escaliers mécaniques doivent avoir une largeur libre d'au moins 32 po [815 mm].&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T015004Z">
+        <seg>Lorsqu'elles sont installées dans des stations de transport souterraines, les escaliers mécaniques doivent avoir une largeur libre d'au moins 32 po (815 mm).&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
