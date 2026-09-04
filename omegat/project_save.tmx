@@ -882,23 +882,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;On the back wall,</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Sur la paroi arrière,</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162048Z">
+        <seg>1.&lt;x1/&gt; Sur le mur arrière,</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;On the control wall opposite the seat.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Sur le mur de commande en face du siège.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161910Z">
+        <seg>1.&lt;x1/&gt; Sur le mur où se trouvent les commandes, opposé au siège.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1889,23 +1887,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.864: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;At a height of 38 inches (965 mm) minimum and 48 inches (1220 mm) maximum above the shower floor and</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; À une hauteur comprise entre 38 po [965 mm] et 48 po [1220 mm] au-dessus du sol de la douche et</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162115Z">
+        <seg>2.&lt;x1/&gt; À une hauteur d’au moins 38 po (965 mm) et d’au plus 48 po (1 220 mm) au-dessus du plancher de la douche, et</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.87: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;At a height of 38 inches (965 mm) minimum and 48 inches (1220 mm) maximum above the shower floor, and</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; À une hauteur comprise entre 38 po [965 mm] et 48 po [1220 mm] au-dessus du sol de la douche, et</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162004Z">
+        <seg>2.&lt;x1/&gt; À une hauteur d’au moins 38 po (965 mm) et d’au plus 48 po (1 220 mm) au-dessus du plancher de la douche, et</seg>
       </tuv>
     </tu>
     <tu>
@@ -2922,13 +2918,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;15 inches (380 mm) maximum, from the centerline of the control wall toward the shower opening.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3. À au plus&lt;x1/&gt; 15 po [380 mm] de la ligne d'axe du mur de commande vers l'ouverture de la douche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162017Z">
+        <seg>3. À au plus&lt;x1/&gt; 15 po (380 mm) de l’axe médian du mur où se trouvent les commandes vers l’ouverture de la douche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5082,13 +5077,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.81: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;608.3.3 Alternate Roll-in-Type Showers&lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;608.3.3 Douches de type à accès de plain-pied alternatives&lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161643Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;608.3.3 Douches de type à accès de plain-pied de remplacement&lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5102,13 +5096,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.762: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;608.4.2&lt;x3/&gt;Standard Roll-in Showers&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;608.4.2 Douches à&lt;x3/&gt; l'italienne standard&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161946Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;608.4.2 Douches de type à accès de plain-pied standard&lt;x3/&gt;&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15412,13 +15405,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.814: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;608.4&lt;x3/&gt;Controls and Hand Showers.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;608.4&lt;x3/&gt; Commandes et douches à main.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161825Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;608.4&lt;x3/&gt; Commandes et douchettes à main.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22439,13 +22431,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.869: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Controls and hand showers shall comply with Sections 608.4 and 309.4.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les commandes et les douches à main doivent être conformes aux sections 608.4 et 309.4.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161834Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les commandes et les douchettes à main doivent être conformes aux sections 608.4 et 309.4.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25032,13 +25023,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.814: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A vertical grab bar 18 inches (455 mm) minimum in length shall be provided on the end wall 3 inches (75 mm) minimum and 6 inches (150 mm) maximum above the horizontal grab bar, and 4 inches (100 mm) maximum inward from the front edge of the shower.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une barre d'appui verticale d'une longueur minimale de 18 po [455 mm] doit être prévue sur le mur d'extrémité, à une hauteur comprise entre 3 po [75 mm] et 6 po [150 mm] au-dessus de la barre d'appui horizontale, et à une distance maximale de 4 po [100 mm] vers l'intérieur à partir du bord avant de la douche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161624Z">
+        <seg>Une barre d'appui verticale d'une longueur minimale de 18 po (455 mm) doit être prévue sur le mur d'extrémité, à une hauteur comprise entre 3 po (75 mm) et 6 po (150 mm) au-dessus de la barre d'appui horizontale, et à une distance maximale de 4 po (100 mm) vers l'intérieur à partir du bord avant de la douche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32992,13 +32982,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.859: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Grab bars shall be 6 inches (150 mm) maximum from the adjacent wall.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les barres d'appui doivent être situées à une distance maximale de 6 po [150 mm] du mur adjacent.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161749Z">
+        <seg>Les barres d’appui doivent se trouver à au plus 6 po (150 mm) du mur adjacent.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33011,13 +33000,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.83: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Grab bars shall not be provided above the seat.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il ne faut pas prévoir de barres d'appui au-dessus du siège.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161741Z">
+        <seg>Les barres d’appui ne doivent pas être prévues au-dessus du siège.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34517,13 +34505,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In alternate roll-in type showers, grab bars shall be provided on the back wall and the end wall adjacent to the seat.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les douches de type alternatif à accès de plain-pied, il faut prévoir des barres d'appui sur le mur arrière et sur le mur d'extrémité adjacent au siège.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161708Z">
+        <seg>Dans les douches de type à accès de plain-pied de remplacement, des barres d'appui sur le mur arrière et sur le mur d'extrémité adjacent au siège doivent être prévues.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35078,13 +35065,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In standard roll-in showers, the controls and hand shower shall not be located above the seat.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les douches à l'italienne standard, les commandes et la douchette ne doivent pas être situées au-dessus du siège.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162038Z">
+        <seg>Dans les douches de type à accès de plain-pied standard, les commandes et la douchette ne doivent pas être situées au-dessus du siège.</seg>
       </tuv>
     </tu>
     <tu>
