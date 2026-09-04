@@ -17611,13 +17611,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.893: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;R1001.3.2 Horizontal reinforcing.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;R1001.3.2 Renfort horizontal.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T044708Z">
+        <seg>&lt;g1&gt;R1001.3.2 Renforcement horizontal.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26716,13 +26715,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.883: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Anchorage shall conform to the requirements of Section R1001.4.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'ancrage doit être conforme aux exigences de l'article R1001.4.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T044755Z">
+        <seg>L'ancrage doit être conforme aux exigences de la section R1001.4.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30444,13 +30442,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Each strap shall be fastened to not less than four floor ceiling or floor joists or rafters with two 1/2-inch (12.7 mm) bolts.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Chaque sangle doit être fixée à au moins quatre solives de plancher ou de plafond ou chevrons avec deux boulons de 1/2 pouce (12,7 mm).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045005Z">
+        <seg>Chaque feuillard doit être fixé à au moins quatre solives de plancher ou de plafond ou chevrons avec deux boulons de 1/2 pouce (12,7 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35538,13 +35535,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.814: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Installation of steel fireplace units with solid masonry to form a masonry fireplace is permitted where installed either in accordance with the requirements of their listing or the requirements of this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'installation d'unités de foyer en acier avec de la maçonnerie pleine pour former un foyer en maçonnerie est autorisée lorsqu'elles sont installées conformément aux exigences de leur homologation ou aux exigences de la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045159Z">
+        <seg>L’installation d’unités de foyer en acier avec de la maçonnerie pleine pour former un foyer en maçonnerie est permise lorsqu’elles sont installées soit conformément aux exigences de leur homologation, soit aux exigences de la présente section..</seg>
       </tuv>
     </tu>
     <tu>
@@ -36606,13 +36602,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Masonry or concrete chimneys in Seismic Design Category D0, D1 or D2 shall be anchored at each floor, ceiling or roof line more than 6 feet (1829 mm) above grade, except where constructed completely within the exterior walls.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les cheminées en maçonnerie ou en béton de la catégorie de conception sismique D0, D1 ou D2 doivent être ancrées à chaque plancher, plafond ou ligne de toit à plus de 6 pieds (1829 mm) au-dessus du niveau du sol, sauf si elles sont construites entièrement à l'intérieur des murs extérieurs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T044807Z">
+        <seg>Les cheminées en maçonnerie ou en béton des catégories de conception sismique D0, D1 ou D2 doivent être ancrées à chaque niveau de plancher, de plafond ou de toiture situé à plus de 6 pi (1 829 mm) au-dessus du niveau du sol, sauf lorsqu’elles sont entièrement construites à l’intérieur des murs extérieurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40933,13 +40928,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.865: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Straps shall be hooked around the outer bars and extend 6 inches (152 mm) beyond the bend.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les sangles doivent être accrochées autour des barres extérieures et se prolonger de 6 po [152 mm] au-delà du coude.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T044950Z">
+        <seg>Les feuillards doivent être accrochés autour des barres extérieures et se prolonger de 6 po (152 mm) au-delà du coude.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45795,13 +45789,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.896: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The width of joints between firebricks shall not be greater than 1/4 inch (6.4 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La largeur des joints entre les briques réfractaires ne doit pas être supérieure à 1/4 po [6,4 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045102Z">
+        <seg>La largeur des joints entre les briques réfractaires ne doit pas être supérieure à 1/4 po (6,4 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46568,13 +46561,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Two 3/16-inch by 1-inch (5 mm by 25 mm) straps shall be embedded not less than 12 inches (305 mm) into the chimney.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Deux sangles de 3/16 po par 1 po [5 mm par 25 mm] doivent être encastrées à au moins 12 po [305 mm] dans la cheminée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T044936Z">
+        <seg>Deux feuillards de 3/16 po sur 1 po (5 mm sur 25 mm) doivent être encastrés d’au moins 12 po (305 mm) dans la cheminée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47049,13 +47041,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Vertical reinforcement shall be placed within 1/4-inch (6.4 mm) ties, or other reinforcing of equivalent net cross-sectional area, placed in the bed joints in accordance with Section R606 at not less than every 18 inches (457 mm) of vertical height.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'armature verticale doit être placée dans des attaches de 1/4 po (6,4 mm), ou une autre armature d'une surface de section transversale nette équivalente, placée dans les joints de lit selon la section R606 au moins tous les 18 pouces (457 mm) de hauteur verticale.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T044736Z">
+        <seg>Les armatures verticales doivent être placées dans des attaches de 1/4 po (6,4 mm), ou dans d’autres armatures ayant une aire de section transversale nette équivalente, placées dans les joints de lit conformément à la section R606 à des intervalles verticaux d’au plus 18 po (457 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -47697,23 +47688,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a lining is not provided, the total minimum thickness of back and side walls shall be 10 inches (254 mm) of solid masonry.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un revêtement n'est pas prévu, l'épaisseur minimale totale de la paroi arrière et des parois latérales doit être de 10 po [254 mm] de maçonnerie pleine.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045116Z">
+        <seg>Lorsqu'un revêtement n'est pas prévu, l'épaisseur minimale totale de la paroi arrière et des parois latérales doit être de 10 po (254 mm) de maçonnerie pleine.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a lining of firebrick not less than 2 inches (51 mm) thick or other approved lining is provided, the minimum thickness of back and sidewalls shall each be 8 inches (203 mm) of solid masonry, including the lining.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un revêtement en brique réfractaire d'au moins 2 po [51 mm] d'épaisseur ou un autre revêtement approuvé est prévu, l'épaisseur minimale des parois arrière et latérales doit être de 8 po [203 mm] de maçonnerie pleine, incluant le revêtement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045053Z">
+        <seg>Lorsqu’un revêtement en briques réfractaires d’au moins 2 po (51 mm) d’épaisseur ou un autre revêtement approuvé est prévu, l’épaisseur minimale des parois arrière et latérales doit être de 8 po (203 mm) de maçonnerie pleine, y compris le revêtement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48242,13 +48231,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where cold-formed steel framing is used, the location where the 1/2-inch (12.7 mm) bolts are used to attach the straps to the framing shall be reinforced with not less than a 3-inch × 3-inch × 0.229-inch (76 mm × 76 mm × 5.8 mm) steel plate on top of the strap that is screwed to the framing with not fewer than seven No. 6 screws for each bolt.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'une ossature en acier profilé à froid est utilisée, l'emplacement où les boulons de 1/2 po [12,7 mm] sont utilisés pour fixer les sangles à l'ossature doit être renforcé avec au moins une plaque d'acier de 3 po × 3 po × 0,229 po [76 mm × 76 mm × 5,8 mm] au-dessus de la sangle, qui est vissée à l'ossature avec au moins sept vis n° 6 pour chaque boulon.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T045026Z">
+        <seg>Lorsque des ossatures en profilés d’acier formés à froid sont utilisées, l’emplacement où les boulons de 1/2 po (12,7 mm) servent à fixer les feuillards à l’ossature doit être renforcé au moyen d’une plaque d’acier d’au moins 3 po × 3 po × 0,229 po (76 mm × 76 mm × 5,8 mm) placée sur le feuillard et vissée à l’ossature au moyen d’au moins sept vis no 6 par boulon.</seg>
       </tuv>
     </tu>
     <tu>
