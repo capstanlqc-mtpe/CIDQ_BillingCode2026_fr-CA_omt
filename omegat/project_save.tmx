@@ -24341,13 +24341,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A flight of stairs shall not have a vertical rise larger than 151 inches (3835 mm) between floor levels or landings.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'élévation verticale d'une volée de marches ne doit pas être supérieure à 151 pouces (3 835 mm) entre les niveaux du sol ou les paliers.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T033537Z">
+        <seg>L'élévation verticale d'une volée de marches ne doit pas être supérieure à 151 pouces (3 835 mm) entre les niveaux de plancher ou les paliers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27337,13 +27336,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At open risers, openings located more than 30 inches (762 mm), as measured vertically, to the floor or grade below shall not permit the passage of a 4-inch-diameter (102 mm) sphere.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Au niveau des contremarches ouvertes, les ouvertures situées à plus de 30 po [762 mm], mesurées verticalement, par rapport au plancher ou au niveau du sol ne doivent pas permettre le passage d'une sphère d'un diamètre de 4 po [102 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T033819Z">
+        <seg>Au niveau des contremarches ouvertes, les ouvertures situées à plus de 30 po(762 mm), mesurées verticalement, par rapport au plancher ou au niveau du sol ne doivent pas permettre le passage d'une sphère d'un diamètre de 4 po (102 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30086,13 +30084,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Doors other than the required egress door shall be provided with landings or floors not more than 73/4 inches (196 mm) below the top of the threshold.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes autres que la porte d'évacuation exigée doivent être munies de paliers ou de planchers situés à un maximum de 73/4 po [196 mm] au-dessous du dessus du seuil.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T033122Z">
+        <seg>Les portes autres que la porte d'évacuation exigée doivent être munies de paliers ou de planchers situés à un maximum de 73/4 po (196 mm) au-dessous du dessus du seuil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30676,13 +30673,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.869: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Egress from habitable levels including habitable attics and basements that are not provided with an egress door in accordance with Section R311.2 shall be by a ramp in accordance with Section R311.8 or a stairway in accordance with Section R311.7.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'évacuation des niveaux habitables, y compris les greniers et les sous-sols habitables, qui ne sont pas pourvus d'une porte d'évacuation selon la section R311.2, doit se faire par une rampe selon la section R311.8 ou par un escalier selon la section R311.7.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T033306Z">
+        <seg>L’issue des niveaux habitables, y compris des combles habitables et des sous-sols, qui ne sont pas pourvus d’une porte d’issue conformément à la section R311.2, doit se faire au moyen d’une rampe conforme à la section R311.8 ou d’un escalier conforme à la section R311.7.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31716,13 +31712,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exterior balconies less than 60 square feet (5.6 m2) and only accessed from a door are permitted to have a landing that is less than 36 inches (914 mm) measured in the direction of travel.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les balcons extérieurs de moins de 60 pieds carrés [5,6 m2] et accessibles uniquement par une porte peuvent avoir un palier de moins de 36 po [914 mm] mesuré dans le sens de déplacement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T032949Z">
+        <seg>Les balcons extérieurs de moins de 60 pieds carrés (5,6 m2) et accessibles uniquement par une porte peuvent avoir un palier de moins de 36 po (914 mm) mesuré dans le sens de déplacement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31809,13 +31804,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.862: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Exterior landings, decks, balconies, stairs and similar facilities shall be positively anchored to the primary structure to resist both vertical and lateral forces or shall be designed to be self-supporting.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les paliers, les terrasses, les balcons, les escaliers et les installations similaires extérieurs doivent être solidement ancrés à la structure principale pour résister aux forces verticales et latérales ou doivent être conçus pour être autoportants.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T033330Z">
+        <seg>Les paliers, terrasses, balcons, escaliers extérieurs et installations similaires doivent être solidement ancrés à la structure principale afin de résister aux forces verticales et latérales, ou doivent être conçus pour être autoportants..</seg>
       </tuv>
     </tu>
     <tu>
@@ -36111,13 +36105,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.847: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Landings or finished floors at the required egress door shall be not more than 11/2 inches (38 mm) lower than the top of the threshold.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les paliers ou les planchers finis au niveau de la porte d'issue obligatoire ne doivent pas être inférieurs de plus de 11/2 po [38 mm] au sommet du seuil.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T033011Z">
+        <seg>Les paliers ou les planchers finis au niveau de la porte d'issue obligatoire ne doivent pas être inférieurs de plus de 11/2 po (38 mm) au sommet du seuil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36159,13 +36152,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.847: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Landings shall have a dimension of not less than 36 inches (914 mm) measured in the direction of travel.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les paliers doivent avoir des dimensions d'au moins 36 po [914 mm] mesurées dans le sens de la marche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T032923Z">
+        <seg>Les paliers doivent avoir des dimensions d'au moins 36 po (914 mm) mesurées dans le sens de la marche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40782,13 +40774,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Stairways shall be not less than 36 inches (914 mm) in clear width at all points above the permitted handrail height and below the required headroom height.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les escaliers doivent avoir une largeur libre d'au moins 36 po [914 mm] en tout point au-dessus de la hauteur autorisée des rampes et en dessous de la hauteur libre requise.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T033410Z">
+        <seg>Les escaliers doivent avoir une largeur libre d'au moins 36 po (914 mm) en tout point au-dessus de la hauteur autorisée des mains courantes et en dessous de la hauteur libre requise.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41479,13 +41470,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.805: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The 12-inch (305 mm) dimension shall be measured from the widest point of the clear stair width at the walking surface.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La dimension de 12 po (305 mm) doit être mesurée à partir du point le plus large de la largeur libre de l'escalier à la surface de marche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T033654Z">
+        <seg>La dimension de 12 po (305 mm) doit être mesurée à partir du point le plus large de la largeur libre de l’escalier, au niveau de la surface de circulation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42215,13 +42205,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The clear width of stairways at and below the handrail height, including treads and landings, shall be not less than 311/2 inches (787 mm) where a handrail is installed on one side and 27 inches (698 mm) where handrails are installed on both sides.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La largeur libre des escaliers à la hauteur de la rampe et au-dessous, y compris les marches et les paliers, ne doit pas être inférieure à 311/2 po [787 mm] lorsqu'une rampe est installée d'un côté et à 27 po [698 mm] lorsque des rampes sont installées des deux côtés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T033430Z">
+        <seg>La largeur libre des escaliers, à la hauteur des mains courantes et au-dessous de celle-ci, y compris les marches et les paliers, ne doit pas être inférieure à 31 1/2 po (787 mm) lorsqu’une main courante est installée d’un côté et à 27 po (698 mm) lorsque des mains courantes sont installées des deux côtés.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43284,13 +43273,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The greatest riser height within any flight of stairs shall not exceed the smallest by more than 3/8 inch (9.5 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La plus grande hauteur de contremarche dans une volée de marches ne doit pas dépasser la plus petite de plus de 3/8 po (9,5 mm).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T033750Z">
+        <seg>La plus grande hauteur de contremarche dans une volée d'escalier ne doit pas dépasser la plus petite de plus de 3/8 po (9,5 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43324,13 +43312,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The headroom in stairways shall be not less than 6 feet 8 inches (2032 mm) measured vertically from the sloped line adjoining the tread nosing or from the floor surface of the landing or platform on that portion of the stairway.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La hauteur libre dans les escaliers ne doit pas être inférieure à 6 pieds 8 pouces [2032 mm], mesurée verticalement à partir de la ligne inclinée adjacente au nez de marche ou à partir de la surface de plancher du palier ou de la plateforme sur cette partie de l'escalier.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T033451Z">
+        <seg>La hauteur libre dans les escaliers ne doit pas être inférieure à 6 pieds 8 pouces (2032 mm), mesurée verticalement à partir de la ligne inclinée adjacente au nez de marche ou à partir de la surface de plancher du palier ou de la plateforme sur cette partie de l'escalier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43596,13 +43583,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The landing or floor on the exterior side shall be not more than 73/4 inches (196 mm) below the top of the threshold provided that the door does not swing over the landing or floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le palier ou le plancher du côté extérieur ne doit pas être à plus de 73/4 po [196 mm] au-dessous du dessus du seuil, à condition que la porte ne s'ouvre pas sur le palier ou le plancher.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T033041Z">
+        <seg>Le palier ou le plancher du côté extérieur ne doit pas être situé à plus de 7 3/4 po (196 mm) sous le dessus du seuil, pourvu que la porte ne s’ouvre pas au-dessus du palier ou du plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45678,23 +45664,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.821: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The walkline across winder treads and landings shall be concentric to the turn and parallel to the direction of travel entering and exiting the turn.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La ligne de foulée sur les marches balancées et les paliers doit être concentrique au virage et parallèle au sens de déplacement à l'entrée et à la sortie du virage.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T033625Z">
+        <seg>La ligne de foulée sur les marches balancées et les paliers doit être concentrique à la courbe et parallèle à la direction de déplacement à l’entrée et à la sortie de la courbe.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.873: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The walkline shall be located 12 inches (305 mm) from the inside of the turn.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La ligne de foulée doit être située à 12 po [305 mm] de l'intérieur du virage.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T033640Z">
+        <seg>La ligne de foulée doit être située à 12 po (305 mm) de l’intérieur de la courbe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45880,13 +45864,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.9: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The width of a hallway shall be not less than 3 feet (914 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La largeur d'un couloir ne doit pas être inférieure à 3 pieds [914 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T033347Z">
+        <seg>La largeur d'un couloir ne doit pas être inférieure à 3 pieds (914 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -48492,13 +48475,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where exterior landings or floors serving the required egress door are not at grade, they shall be provided with access to grade by means of a ramp in accordance with Section R311.8 or a stairway in accordance with Section R311.7.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les paliers ou les planchers extérieurs desservant la porte d'évacuation requise ne sont pas au niveau du sol, il faut prévoir un accès au niveau du sol au moyen d'une rampe selon la section R311.8 ou d'un escalier selon la section R311.7.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T033111Z">
+        <seg>Lorsque les paliers ou planchers extérieurs desservant la porte d’issue exigée ne sont pas au niveau du sol, ils doivent être pourvus d’un accès au niveau du sol au moyen d’une rampe conforme à la section R311.8 ou d’un escalier conforme à la section R311.7.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49881,13 +49863,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.812: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where winders are adjacent within a flight, the point of the widest clear stair width of the adjacent winders shall be used.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les marches biseautées sont adjacentes dans une volée, il faut utiliser le point de la largeur libre la plus large des marches biseautées adjacentes.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T033704Z">
+        <seg>Lorsque des marches balancées sont adjacentes dans une volée, le point correspondant à la largeur libre maximale de l’escalier des marches balancées adjacentes doit être utilisé.</seg>
       </tuv>
     </tu>
     <tu>
