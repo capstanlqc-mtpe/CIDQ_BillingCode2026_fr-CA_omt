@@ -15818,23 +15818,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.859: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;&lt;x3/&gt;A receptacle outlet shall be installed at each wall countertop and work surface that is 12 inches (305 mm) or wider.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;&lt;x3/&gt;Une prise de courant doit être installée sur chaque plan de travail mural et sur chaque surface de travail d'au moins 12 po [305 mm] de large.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050919Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;&lt;x3/&gt;Une prise de courant doit être installée sur chaque plan de travail mural et sur chaque surface de travail d'au moins 12 po (305 mm) de large.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.79: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;&lt;x3/&gt;At least one receptacle outlet shall be installed at each island countertop space with a long dimension of 24 inches (610 mm) or greater and a short dimension of 12 inches (305 mm) or greater.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;&lt;x3/&gt;Au moins une prise de courant doit être installée dans chaque espace de comptoir d'îlot dont la plus grande dimension est d'au moins 24 po [610 mm] et la plus petite dimension est d'au moins 12 po [305 mm].&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051120Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;&lt;x3/&gt;Au moins une prise de courant doit être installée à chaque espace de comptoir d’îlot dont la dimension longue est d’au moins 24 po (610 mm) et la dimension courte, d’au moins 12 po (305 mm).&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15858,23 +15856,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;&lt;x3/&gt;In kitchens pantries, breakfast rooms, dining rooms and similar areas of dwelling units, receptacle outlets for countertop and work surfaces shall be installed in accordance with Sections E3901.4.1 through E3901.4.5 (see Figure E3901.4).&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;&lt;x3/&gt;Dans les cuisines, les garde-manger, les salles de petit-déjeuner, les salles à manger et les espaces similaires des logements, les prises de courant pour les comptoirs et les surfaces de travail doivent être installées selon les sections E3901.4.1 à E3901.4.5 (voir la figure E3901.4).&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050900Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;&lt;x3/&gt;Dans les cuisines, les garde-manger, les salles à déjeuner, les salles à manger et les aires similaires des unités d’habitation, les prises de courant destinées aux comptoirs et aux surfaces de travail doivent être installées conformément aux sections E3901.4.1 à E3901.4.5 (voir la figure E3901.4).&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.804: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;&lt;x3/&gt;Not less than one receptacle outlet shall be installed at each peninsular countertop long dimension space having a long dimension of 24 inches (610 mm) or greater and a short dimension of 12 inches (305 mm) or greater.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;&lt;x3/&gt;Au moins une prise de courant doit être installée dans chaque espace de la grande dimension d'un comptoir en péninsule dont la grande dimension est d'au moins 24 po [610 mm] et la petite dimension est d'au moins 12 po [305 mm].&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051148Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;&lt;x3/&gt;Au moins une prise de courant doit être installée à chaque espace de comptoir de péninsule dont la dimension longue est d’au moins 24 po (610 mm) et la dimension courte, d’au moins 12 po (305 mm).&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16583,13 +16579,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.819: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;Countertop spaces separated by range tops, refrigerators, or sinks shall be considered as separate countertop spaces in applying the requirements of Sections E3901.4.1, E3901.4.2 and E3901.4.3.&lt;x2/&gt;&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;Les espaces de comptoir séparés par des dessus de cuisinière, des réfrigérateurs ou des éviers doivent être considérés comme des espaces de comptoir séparés dans l'application des exigences des articles E3901.4.1, E3901.4.2 et E3901.4.3.&lt;x2/&gt;&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T051227Z">
+        <seg>&lt;g1&gt;Les espaces de comptoir séparés par des dessus de cuisinière, des réfrigérateurs ou des éviers doivent être considérés comme des espaces de comptoir distincts pour l’application des exigences des sections E3901.4.1, E3901.4.2 et E3901.4.3.&lt;x2/&gt;&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18669,13 +18664,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.812: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;Receptacle outlets shall be installed so that no point along the wall line is more than 24 inches (610 mm), measured horizontally, from a receptacle outlet in that space.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;Les prises de courant doivent être installées de manière à ce qu'aucun point le long de la ligne du mur ne soit à plus de 24 po [610 mm], mesuré horizontalement, d'une prise de courant dans cet espace.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050929Z">
+        <seg>&lt;g1&gt;Les prises de courant doivent être installées de manière à ce qu'aucun point le long de la ligne du mur ne soit à plus de 24 po (610 mm), mesuré horizontalement, d'une prise de courant dans cet espace.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34591,13 +34585,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.879: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>In addition to the required receptacles specified by Section E3901.2, a receptacle outlet to serve a specific appliance shall be permitted to be supplied from an individual branch circuit rated at 15 amperes or greater.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>En plus des prises exigées spécifiées à l'article E3901.2, une prise de courant destinée à desservir un appareil spécifique peut être alimentée par un circuit de dérivation individuel d'une intensité nominale de 15 ampères ou plus.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050850Z">
+        <seg>En plus des prises de courant exigées par la section E3901.2, une prise de courant destinée à desservir un appareil particulier peut être alimentée par un circuit de dérivation individuel d’au moins 15 ampères.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35361,13 +35354,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In the kitchen, pantry, breakfast room, dining room, or similar area of a dwelling unit, the two or more 20-ampere small-appliance branch circuits required by Section E3703.2, shall serve all wall and floor receptacle outlets covered by Sections E3901.2 and E3901.4 and those receptacle outlets provided for refrigeration appliances.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans la cuisine, le garde-manger, la salle de petit-déjeuner, la salle à manger ou une zone similaire d'une unité d'habitation, les deux circuits de dérivation ou plus de 20 ampères pour petits appareils exigés par l'article E3703.2 doivent desservir toutes les prises murales et de plancher visées par les articles E3901.2 et E3901.4 et les prises prévues pour les appareils de réfrigération.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050756Z">
+        <seg>Dans la cuisine, le garde-manger, la salle à déjeuner, la salle à manger ou une aire similaire d’une unité d’habitation, les deux circuits de dérivation ou plus de 20 ampères pour petits appareils exigés par la section E3703.2 doivent desservir toutes les prises de courant murales et au sol visées aux sections E3901.2 et E3901.4 ainsi que les prises de courant prévues pour les appareils de réfrigération.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38885,13 +38877,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Receptacles installed for countertop and similar work surfaces as specified in Section E3901.4 shall not be considered as the receptacle outlets required by Section E3901.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les prises installées pour les comptoirs et les surfaces de travail similaires, comme spécifié à l'article E3901.4, ne doivent pas être considérées comme les prises de courant exigées par l'article E3901.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T050732Z">
+        <seg>Les prises installées pour les comptoirs et les surfaces de travail similaires, comme spécifié dans la section E3901.4, ne doivent pas être considérées comme les prises de courant exigées par la section E3901.2.</seg>
       </tuv>
     </tu>
     <tu>
