@@ -1281,13 +1281,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.Required glazed openings that face into a roofed porch where the porch abuts a street, yard or court and the longer side of the porch is not less than 65 percent unobstructed and the ceiling height is not less than 7 feet (2134 mm).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1. Ouvertures vitrées requises qui donnent sur un porche couvert lorsque le porche est adjacent à une rue, une cour ou un terrain et que le côté le plus long du porche est non obstrué à au moins 65 % et que la hauteur de plafond n'est pas inférieure à 7 pi (2134 mm).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T025843Z">
+        <seg>1. Les ouvertures vitrées requises donnant sur une véranda couverte lorsque la véranda est adjacente à une rue, une cour ou un espace ouvert, que le côté le plus long de la véranda est dégagé sur au moins 65 % de sa longueur et que la hauteur sous plafond est d’au moins 7 pi (2 134 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2505,13 +2504,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.854: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Vents and chimneys serving fuel-burning appliances shall be terminated in accordance with the applicable provisions of Chapters 18 and 24.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Les évents et les cheminées desservant des appareils à combustion de combustible doivent être terminés conformément aux dispositions applicables des chapitres 18 et 24.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T025531Z">
+        <seg>2.&lt;x1/&gt; Les évents et les cheminées desservant des appareils à combustion doivent déboucher conformément aux dispositions applicables des chapitres 18 et 24.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3063,13 +3061,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;Clothes dryer exhaust ducts shall be terminated in accordance with Section M1502.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Les conduits d'évacuation des sécheuses à linge doivent se terminer selon la section M1502.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T025541Z">
+        <seg>3.&lt;x1/&gt; Les conduits d'évacuation des sécheuses doivent se terminer selon la section M1502.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17894,13 +17891,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.867: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;R303.9 Required glazed openings.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;R303.9 Ouvertures vitrées exigées.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T025756Z">
+        <seg>&lt;g1&gt;R303.9 Ouvertures vitrées requises.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25771,13 +25767,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.852: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Air exhaust and intake openings that terminate outdoors shall be protected with corrosion-resistant screens, louvers or grilles having an opening size of not less than 1/4 inch (6 mm) and a maximum opening size of 1/2 inch (13 mm), in any dimension.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures d'évacuation et d'admission d'air qui débouchent à l'extérieur doivent être protégées par des écrans, des persiennes ou des grilles résistants à la corrosion dont la taille d'ouverture n'est pas inférieure à 1/4 po [6 mm] et la taille d'ouverture maximale est de 1/2 po [13 mm], dans toutes les dimensions.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T025614Z">
+        <seg>Les ouvertures de prise d’air et d’évacuation d’air qui débouchent à l’extérieur doivent être protégées par des moustiquaires, des persiennes ou des grilles résistantes à la corrosion, dont les ouvertures ont une dimension d’au moins 1/4 po (6 mm) et une dimension maximale de 1/2 po (13 mm), dans toute direction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36801,13 +36796,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Mechanical and gravity outdoor air intake openings shall be located not less than 10 feet (3048 mm) from any hazardous or noxious contaminant, such as vents, chimneys, plumbing vents, streets, alleys, parking lots and loading docks.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures d'admission d'air extérieur mécaniques et par gravité doivent être situées à au moins 10 pi [3048 mm] de tout contaminant dangereux ou nocif, comme les évents, les cheminées, les évents de plomberie, les rues, les ruelles, les stationnements et les quais de chargement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T024939Z">
+        <seg>Les ouvertures de prise d’air extérieur mécanique et par tirage naturel doivent être situées à au moins 10 pi (3 048 mm) de tout contaminant dangereux ou nocif, notamment des évents, des cheminées, des évents de plomberie, des rues, des ruelles, des parcs de stationnement et des quais de chargement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43733,13 +43727,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The light source shall be capable of illuminating treads and landings to levels of not less than 1 footcandle (11 lux) as measured at the center of treads and landings.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La source de lumière doit être capable d'éclairer les marches et les paliers à des niveaux d'au moins 1 pied-bougie [11 lux] mesurés au centre des marches et des paliers.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T025637Z">
+        <seg>La source de lumière doit être capable d'éclairer les marches et les paliers à des niveaux d'au moins 1 pied-bougie (11 lux) mesurés au centre des marches et des paliers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46044,13 +46037,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>There shall be a wall switch at each floor level to control the light source where the stairway has six or more risers.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il doit y avoir un interrupteur mural à chaque niveau du sol pour commander la source de lumière lorsque l'escalier comporte six contremarches ou plus.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T025652Z">
+        <seg>Il doit y avoir un interrupteur mural à chaque niveau de plancher pour commander la source de lumière lorsque l'escalier comporte six contremarches ou plus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49348,13 +49340,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.821: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the air infiltration rate of a dwelling unit is 5 air changes per hour or less where tested with a blower door at a pressure of 0.2 inch w.c (50 Pa) in accordance with Section N1102.4.1.2, the dwelling unit shall be provided with whole-house mechanical ventilation in accordance with Section M1505.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque le taux d'infiltration d'air d'une unité d'habitation est de 5 renouvellements d'air par heure ou moins lorsqu'il est testé avec une porte soufflante à une pression de 0,2 pouce CE (50 Pa) selon la section N1102.4.1.2, l'unité d'habitation doit être dotée d'une ventilation mécanique pour l'ensemble de l'habitation selon la section M1505.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T024917Z">
+        <seg>Lorsque le taux d’infiltration d’air d’un logement est d’au plus 5 renouvellements d’air à l’heure lorsqu’il est soumis à un essai à l’aide d’une porte soufflante à une pression de 0,2 po de colonne d’eau (50 Pa), conformément à la section N1102.4.1.2, le logement doit être pourvu d’un système de ventilation mécanique de l’ensemble du bâtiment conforme à la section M1505.4.</seg>
       </tuv>
     </tu>
     <tu>
