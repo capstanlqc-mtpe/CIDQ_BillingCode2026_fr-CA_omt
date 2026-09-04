@@ -16836,13 +16836,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;Exception&lt;/g1&gt;:Shower compartments having not less than 25 inches (635 mm) in minimum dimension measured from the finished interior dimension of the compartment, provided that the shower compartment has not less than 1,300 square inches (0.838 m2) of cross-sectional area.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;Exception&lt;/g1&gt; : Les cabines de douche dont la dimension minimale est d'au moins 25 po [635 mm] mesurée à partir de la dimension intérieure finie de la cabine, à condition que la cabine de douche ait une section transversale d'au moins 1 300 po² [0,838 m²].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T035217Z">
+        <seg>&lt;g1&gt;Exception&lt;/g1&gt; : Les cabines de douche dont la dimension minimale est d'au moins 25 po (635 mm) mesurée à partir de la dimension intérieure finie de la cabine, à condition que la cabine de douche ait une section transversale d'au moins 1 300 po² (0,838 m2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30177,13 +30176,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Doorways shall have a clear opening of 313/4 inches (805 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures de porte doivent avoir une ouverture libre d'au moins 313/4 po [805 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T034952Z">
+        <seg>Les ouvertures de porte doivent avoir une ouverture libre d'au moins 313/4 po (805 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39785,23 +39783,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.816: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Shower compartments shall be not less than 30 inches (762 mm) in least dimension as measured from the finished interior dimension of the compartment, exclusive of fixture valves, showerheads, soap dishes and safety grab bars or rails.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les compartiments de douche doivent avoir une dimension minimale d'au moins 30 po [762 mm], mesurée à partir de la dimension intérieure finie du compartiment, à l'exclusion des robinets d'appareils, des pommes de douche, des porte-savons et des barres d'appui ou des mains courantes de sécurité.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T035235Z">
+        <seg>Les compartiments de douche doivent avoir une dimension minimale d'au moins 30 po (762 mm), mesurée à partir de la dimension intérieure finie du compartiment, à l'exclusion des robinets d'appareils, des pommes de douche, des porte-savons et des barres d'appui ou des mains courantes de sécurité.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.801: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Shower compartments shall be not less than 900 square inches (0.58 m2) in interior crosssectional area.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les compartiments de douche doivent avoir une surface de section transversale intérieure d'au moins 900 po2 [0,58 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T035254Z">
+        <seg>Les compartiments de douche doivent avoir une surface de section transversale intérieure d'au moins 900 po2 (0,58 m2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -47269,13 +47265,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Wall materials shall extend to a height of not less than 6 feet (1829 mm) above the room floor level, and not less than 70 inches (1778 mm) above the drain of the tub or shower.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les matériaux des murs doivent se prolonger jusqu'à une hauteur d'au moins 6 pi [1829 mm] au-dessus du niveau du sol de la pièce et d'au moins 70 po [1778 mm] au-dessus du drain de la baignoire ou de la douche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T035134Z">
+        <seg>Les matériaux des murs doivent se prolonger jusqu'à une hauteur d'au moins 6 pi (1829 mm) au-dessus du niveau du sol de la pièce et d'au moins 70 po (1778 mm) au-dessus du drain de la baignoire ou de la douche.</seg>
       </tuv>
     </tu>
     <tu>
