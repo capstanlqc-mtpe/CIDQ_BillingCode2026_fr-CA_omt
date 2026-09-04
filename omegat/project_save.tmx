@@ -1149,13 +1149,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.854: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;The side of a stairway, landing or ramp that has a guard complying with the provisions of Sections 1015 and 1607.8, and the plane of the glass is greater than 18 inches (457 mm) from the railing.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Le côté d'un escalier, d'un palier ou d'une rampe qui est muni d'un garde-corps conforme aux dispositions des sections 1015 et 1607.8, et le plan de la vitre est à plus de 18 po [457 mm] de la rampe.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T234117Z">
+        <seg>1.&lt;x1/&gt; Le côté d’un escalier, d’un palier ou d’une rampe qui est muni d’un garde-corps conforme aux dispositions des sections 1015 et 1607.8, et dont le plan du vitrage se trouve à plus de 18 po (457 mm) de la rampe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2104,13 +2103,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.787: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;Glazing 36 inches (914 mm) or more measured horizontally from the walking surface.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Vitrage de 36 po [914 mm] ou plus mesuré horizontalement à partir de la surface de marche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T234059Z">
+        <seg>2.&lt;x1/&gt; Vitrage de 36 po (914 mm) ou plus mesuré horizontalement à partir de la surface de marche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16657,13 +16655,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.894: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;DOORS AND ENCLOSURES REGULATED BY SECTION 2406.4.5&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;PORTES ET ENCEINTES RÉGLEMENTÉES PAR LA SECTION 2406.4.5&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T234438Z">
+        <seg>&lt;g1&gt;PORTES ET ENCEINTES RÉGIS PAR LA SECTION 2406.4.5&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17093,13 +17090,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.787: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;GLASS IN HANDRAILS AND GUARDS&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;VERRE DANS LES RAMPES ET LES GARDE-CORPS&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T234649Z">
+        <seg>&lt;g1&gt;VERRE DANS LES MAINS COURANTES ET LES GARDE-CORPS&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17113,23 +17109,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;GLAZED PANELS REGULATED BY SECTION 2406.4.3&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;PANNEAUX VITRÉS RÉGLEMENTÉS PAR LA SECTION 2406.4.3&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T234421Z">
+        <seg>&lt;g1&gt;PANNEAUX VITRÉS RÉGIS PAR LA SECTION 2406.4.3&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.7: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;GLAZED PANELS REGULATED BY&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;PANNEAUX VITRÉS RÉGLEMENTÉS PAR&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T234544Z">
+        <seg>&lt;g1&gt;PANNEAUX VITRÉS RÉGIS PAR&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23458,13 +23452,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Glass used in a handrail or a guard shall be laminated glass constructed of fully tempered or heat-strengthened glass and shall comply with Category II or CPSC 16 CFR Part 1201 or Class A of ANSI Z97.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Le verre utilisé dans une rampe ou un garde-corps doit être du verre feuilleté fabriqué en verre entièrement trempé ou renforcé à la chaleur et doit être conforme à la catégorie II ou à la norme CPSC 16 CFR partie 1201 ou à la classe A de la norme ANSI Z97.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T234712Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Le verre utilisé dans une main courante ou un garde-corps doit être un verre feuilleté constitué de verre entièrement trempé ou de verre durci par traitement thermique et doit être conforme à la catégorie II de la norme CPSC 16 CFR Part 1201 ou à la classe A de la norme ANSI Z97.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33088,13 +33081,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.799: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Glazing adjacent to the landing at the bottom of a stairway where the glazing is less than 60 inches (1524 mm) above the landing and within a 60-inch (1524 mm) horizontal arc that is less than 180 degrees (3.14 rad) from the bottom tread nosing shall be considered to be a hazardous location.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le vitrage adjacent au palier au bas d'un escalier où le vitrage est à moins de 60 po [1524 mm] au-dessus du palier et dans un arc horizontal de 60 po [1524 mm] qui est inférieur à 180 degrés (3,14 rad) du nez de la marche inférieure doit être considéré comme un emplacement dangereux.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T234128Z">
+        <seg> Les vitrages adjacents au palier au bas d’un escalier, lorsque le vitrage se trouve à moins de 60 po (1 524 mm) au-dessus du palier et à l’intérieur d’un arc horizontal de 60 po (1 524 mm) faisant moins de 180 degrés (3,14 rad) à partir du nez de la marche inférieure, doivent être considérés comme étant situés dans un emplacement dangereux.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33148,13 +33140,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Glazing in railing in-fill panels shall be of an approved safety glazing material that conforms to the provisions of Section 2406.1.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le vitrage des panneaux de remplissage de garde-corps doit être fait d'un matériau de vitrage de sécurité approuvé qui est conforme aux dispositions de la Section 2406.1.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T000308Z">
+        <seg>Les vitrages des panneaux de remplissage des rampes doivent être constitués d’un matériau de vitrage de sécurité approuvé conforme aux dispositions de la section 2406.1.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33266,23 +33257,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Glazing that is more than 60 inches (1524 mm), measured horizontally and in a straight line, from the water’s edge of a bathtub, hot tub, spa, whirlpool or swimming pool.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Vitrage situé à plus de 60 po [1524 mm], mesuré horizontalement et en ligne droite, du bord de l’eau d’une baignoire, d’un bain tourbillon, d’un spa, d’un bain à remous ou d’une piscine.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T233838Z">
+        <seg>Vitrage situé à plus de 60 po (1524 mm), mesuré horizontalement et en ligne droite, du bord de l’eau d’une baignoire, d’un bain tourbillon, d’un spa, d’un bain à remous ou d’une piscine.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.884: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Glazing that is protected by a guard complying with Sections 1015 and 1607.8 where the plane of the glass is greater than 18 inches (457 mm) from the guard.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Vitrage protégé par un garde-corps conforme aux sections 1015 et 1607.8 lorsque le plan de la vitre est à plus de 18 po [457 mm] du garde-corps.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T234252Z">
+        <seg>Vitrage protégé par un garde-corps conforme aux sections 1015 et 1607.8 lorsque le plan de la vitre est à plus de 18 po (457 mm) du garde-corps.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33296,13 +33285,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.836: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Glazing where the bottom exposed edge of the glazing is less than 60 inches (1524 mm) above the plane of the adjacent walking surface of stairways, landings between flights of stairs and ramps shall be considered to be a hazardous location.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le vitrage dont le bord inférieur exposé est à moins de 60 po [1524 mm] au-dessus du plan de la surface de marche adjacente des escaliers, des paliers entre les volées de marches et des rampes doit être considéré comme un emplacement dangereux.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T234019Z">
+        <seg>Les vitrages dont le bord inférieur exposé se trouve à moins de 60 po (1 524 mm) au-dessus du plan de la surface de circulation adjacente des escaliers, des paliers entre les volées d’escaliers et des rampes doivent être considérés comme étant situés dans un emplacement dangereux.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -47109,13 +47097,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.853: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Use is only permitted by the exception to Section 2406.2</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'utilisation n'est autorisée que par l'exception à la section 2406.2</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260903T234634Z">
+        <seg>L’utilisation n’est permise que par l’exception à la section 2406.2</seg>
       </tuv>
     </tu>
     <tu>
