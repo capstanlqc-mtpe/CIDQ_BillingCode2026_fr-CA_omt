@@ -12853,13 +12853,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.927: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;703.5&lt;x2/&gt;Pictograms.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;703.5&lt;x2/&gt;Pictograms.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T183045Z">
+        <seg>&lt;g1&gt;703.5&lt;x2/&gt;Pictogrammes.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15642,13 +15641,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.928: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;703.4.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;703.4.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T182735Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;703.4.1&lt;x3/&gt;Generalités.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15662,13 +15660,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.928: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;703.5.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;703.5.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T183049Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;703.5.1&lt;x3/&gt;Generalités.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22312,13 +22309,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.808: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Braille shall be contracted (Grade 2) braille and shall comply with Section 703.4.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Le braille doit être du braille abrégé (grade 2) et se conformer à la section 703.4.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T182812Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Le braille doit être du braille contracté (niveau 2) et être conforme à la section 703.4.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22843,13 +22839,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.812: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;The indication of an uppercase letter or letters shall only be used before the first word of sentences, proper nouns and names, individual letters of the alphabet, initials, or acronyms.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;L'indication d'une ou de plusieurs lettres majuscules ne doit être utilisée qu'avant le premier mot des phrases, les noms propres et les noms, les lettres individuelles de l'alphabet, les initiales ou les acronymes.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T182819Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;L’indication d’une lettre majuscule ou de lettres majuscules doit être utilisée uniquement avant le premier mot des phrases, les noms propres et les noms de personnes, les lettres individuelles de l’alphabet, les initiales ou les acronymes.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23334,13 +23329,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Pictograms shall have a field 6 inches (150 mm) minimum in height.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Les pictogrammes doivent avoir un champ d'une hauteur minimale de 6 po [150 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T183624Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Les pictogrammes doivent avoir un champ d'une hauteur minimale de 6 po (150 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27624,23 +27618,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.792: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Braille provided on elevator car controls shall be separated 3/16 inch (4.8 mm) minimum either directly below or adjacent to the corresponding raised characters or symbols.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le braille prévu sur les commandes de la cabine d'ascenseur doit être séparé d'au moins 3/16 po [4,8 mm] des caractères ou symboles en relief correspondants, soit directement en dessous, soit à côté.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T182935Z">
+        <seg>Le braille fourni sur les commandes de la cabine d’ascenseur doit être séparé d’au moins 3/16 po (4,8 mm), directement sous les caractères ou symboles en relief correspondants ou adjacent à ceux-ci.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Braille shall be 48 inches (1220 mm) minimum and 60 inches (1525 mm) maximum above the floor, measured to the baseline of the braille cells.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le braille doit se trouver à une hauteur comprise entre 48 po [1220 mm] et 60 po [1525 mm] au-dessus du sol, mesurée jusqu'à la ligne de base des cellules braille.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T182951Z">
+        <seg>Le braille doit se trouver à une hauteur comprise entre 48 po (1220 mm) et 60 po (1525 mm) au-dessus du sol, mesurée jusqu'à la ligne de base des cellules braille.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27654,13 +27646,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.8: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Braille shall be separated 3/8 inch (9.5 mm) minimum from any other raised characters and 3/8 inch (9.5 mm) minimum from raised borders and decorative elements.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le braille doit être séparé d'au moins 3/8 po [9,5 mm] de tout autre caractère en relief et d'au moins 3/8 po [9,5 mm] des bordures en relief et des éléments décoratifs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T182916Z">
+        <seg>Le braille doit être séparé d’au moins 3/8 po (9,5 mm) de tout autre caractère en relief et d’au moins 3/8 po (9,5 mm) des bordures en relief et des éléments décoratifs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33750,13 +33741,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.792: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>If text is multilined, braille shall be placed below entire text.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Si le texte est sur plusieurs lignes, le braille doit être placé sous l'ensemble du texte.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T182925Z">
+        <seg>Si le texte comporte plusieurs lignes, le braille doit être placé sous l’ensemble du texte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39550,13 +39540,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.795: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Signs containing raised characters and braille shall be permitted on the push side of doors with closers and without hold-open devices.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les enseignes contenant des caractères en relief et du braille sont autorisées du côté où l'on pousse les portes munies de ferme-portes et sans dispositifs de maintien en position ouverte.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T182715Z">
+        <seg>Les panneaux comportant des caractères en relief et du braille sont autorisés du côté poussant des portes munies de ferme-portes et dépourvues de dispositifs de maintien en position ouverte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48524,13 +48513,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where separate raised characters and visual characters with the same information are provided, raised characters are not required to have nonglare finish or to contrast with their background.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des caractères en relief et des caractères visuels distincts contenant les mêmes informations sont fournis, les caractères en relief ne sont pas tenus d'avoir une finition antireflet ni de contraster avec leur arrière-plan.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T182744Z">
+        <seg>Lorsque des caractères en relief et des caractères visuels distincts contenant les mêmes renseignements sont fournis, les caractères en relief ne sont pas tenus d’avoir un fini non éblouissant ni de présenter un contraste avec leur arrière-plan.</seg>
       </tuv>
     </tu>
     <tu>
