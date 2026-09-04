@@ -11147,8 +11147,8 @@
       <tuv lang="en">
         <seg>&lt;g1&gt;408.3.2.1 Power operation.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T134620Z">
-        <seg>&lt;g1&gt;408.3.2.1 Fonctionnement motorisé.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T135122Z">
+        <seg>&lt;g1&gt;408.3.2.1 Fonctionnement automatique.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30619,13 +30619,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.85: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Elevator car doors and gates shall be power operated and shall comply with ANSI/BHMA A156.19 listed in Section 106.2.6.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes et les portillons de la cabine d'ascenseur doivent être à commande électrique et être conformes à la norme ANSI/BHMA A156.19 énumérée à la section 106.2.6.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T135107Z">
+        <seg>Les portes et les portillons de la cabine d'ascenseur doivent être à fonctionnement automatique et être conformes à la norme ANSI/BHMA A156.19 énumérée à la section 106.2.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30740,13 +30739,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.884: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Elevators complying with Section 407 or 408 shall not be required to comply with Section 409.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ascenseurs conformes à la section 407 ou 408 ne sont pas tenus de se conformer à la section 409.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T134933Z">
+        <seg>Les ascenseurs conformes à la section 407 ou 408 ne sont pas tenus de respecter les exigences de la section 409.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38263,8 +38261,8 @@
       <tuv lang="en">
         <seg>Power-operated swinging doors shall remain open for 20 seconds minimum when activated.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T134656Z">
-        <seg>Les portes à charnières à fonctionnement motorisé doivent demeurer ouvertes pendant au moins 20 secondes lorsqu'elles sont activées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T135144Z">
+        <seg>Les portes à charnières à fonctionnement automatique doivent demeurer ouvertes pendant au moins 20 secondes lorsqu'elles sont activées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41011,8 +41009,8 @@
       <tuv lang="en">
         <seg>Swinging doors shall be power-operated and shall comply with ANSI/BHMA A156.19 listed in Section 106.2.6.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T134640Z">
-        <seg>Les portes battantes doivent être à fonctionnement motorisé et être conformes à la norme ANSI/BHMA A156.19 mentionnée à la section 106.2.6.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T135137Z">
+        <seg>Les portes battantes doivent être à fonctionnement automatique et être conformes à la norme ANSI/BHMA A156.19 mentionnée à la section 106.2.6.</seg>
       </tuv>
     </tu>
     <tu>
