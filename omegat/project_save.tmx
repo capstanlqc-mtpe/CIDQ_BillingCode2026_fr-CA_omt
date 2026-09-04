@@ -5110,13 +5110,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.845: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;608.5&lt;x3/&gt;Hand Showers &lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;A hand shower with a hose 59 inches (1500 mm) minimum in length, that can be used both as a fixed shower head and as a hand shower, shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;608.5&lt;x3/&gt; Douchettes à main &lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;Il faut prévoir une douchette à main avec un tuyau d'une longueur minimale de 59 po [1500 mm], qui peut être utilisée à la fois comme tête de douche fixe et comme douchette à main.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162609Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;608.5&lt;x3/&gt; Douchettes à main &lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;Une douchette à main munie d’un flexible d’au moins 59 po (1 500 mm) de longueur, pouvant être utilisée à la fois comme pomme de douche fixe et comme douchette à main, doit être prévue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15409,13 +15408,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.928: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;608.6&lt;x3/&gt;Thresholds.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;608.6&lt;x3/&gt;Thresholds.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162756Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;608.6&lt;x3/&gt;Seuils.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15439,13 +15437,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.927: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;610.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;610.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162906Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;610.1&lt;x3/&gt;Generalités.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22808,13 +22805,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.764: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Shower compartment enclosures for shower compartments shall not obstruct controls or obstruct transfer from wheelchairs onto shower seats.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les enceintes de compartiments de douche pour les compartiments de douche ne doivent pas obstruer les commandes ou obstruer le transfert des fauteuils roulants vers les sièges de douche.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162854Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les enceintes des cabines de douche ne doivent pas obstruer les commandes ni entraver le transfert d’un fauteuil roulant vers les sièges de douche.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24483,13 +24479,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A means to hold the hand shower wand while in the on or off position shall be located at a height of 38 inches (965 mm) minimum and 48 inches (1220 mm) maximum above the shower finish floor..&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un moyen de tenir la douchette en position ouverte ou fermée doit être situé à une hauteur comprise entre 38 po [965 mm] et 48 po [1220 mm] au-dessus du sol fini de la douche.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162628Z">
+        <seg>Un moyen de tenir la douchette en position ouverte ou fermée doit être situé à une hauteur comprise entre 38 po (965 mm) et 48 po (1220 mm) au-dessus du sol fini de la douche.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34769,13 +34764,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.808: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In existing facilities, in transfer-type shower compartments where provision of a threshold 1/2 inch (13 mm) in height would disturb the structural reinforcement of the floor slab, a threshold 2 inches (51 mm) maximum in height shall be permitted</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les installations existantes, dans les cabines de douche de type transfert où la présence d'un seuil de 1/2 po [13 mm] de hauteur perturberait le renforcement structurel de la dalle de plancher, un seuil d'une hauteur maximale de 2 po [51 mm] est autorisé</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162842Z">
+        <seg>Dans les bâtiments et installations existants, dans les cabines de douche de type transfert où la présence d’un seuil de 1/2 po (13 mm) de hauteur perturberait le renforcement structural de la dalle de plancher, un seuil d’au plus 2 po (51 mm) de hauteur peut être autorisé</seg>
       </tuv>
     </tu>
     <tu>
@@ -34910,13 +34904,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.795: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In other than Accessible units and Type A units, a fixed shower head located 48 inches (1220 mm) maximum above the shower floor shall be permitted in lieu of a hand shower.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les unités autres que les unités accessibles et les unités de type A, une tête de mur de douche fixe située à une hauteur maximale de 48 po [1220 mm] au-dessus du plancher de la douche est autorisée à la place d'une douchette.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162747Z">
+        <seg>Dans les unités autres que les unités accessibles et les unités de type A, une tête de mur de douche fixe située à une hauteur maximale de 48 po (1220 mm) au-dessus du plancher de la douche est autorisée à la place d'une douchette.</seg>
       </tuv>
     </tu>
     <tu>
