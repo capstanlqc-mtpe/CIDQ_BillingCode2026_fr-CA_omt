@@ -4827,13 +4827,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.9: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;2407.1.3 &lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;Parking garages.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;2407.1.3 &lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;Parcs de stationnement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T001031Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;2407.1.3 &lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;Garages de stationnement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26318,13 +26317,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.803: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>An attached top rail or handrail is not required where the glass baluster panels are laminated glass with two or more glass plies of equal thickness and of the same glass type.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une rampe supérieure ou une rampe fixée n'est pas requise lorsque les panneaux de balustrade en verre sont en verre feuilleté avec deux couches de verre ou plus d'épaisseur égale et du même type de verre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T001009Z">
+        <seg>Une main courante ou une lisse supérieure rapportée n’est pas requise lorsque les panneaux de balustres en verre sont en verre feuilleté composé de deux plis de verre ou plus, d’épaisseur égale et du même type de verre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33187,13 +33185,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Glazing materials shall not be installed in handrails or guards in parking garages except for pedestrian areas not exposed to impact from vehicles.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les matériaux de vitrage ne doivent pas être installés dans les rampes ou les garde-corps dans les parcs de stationnement, sauf dans les zones piétonnes non exposées aux impacts de véhicules.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T003715Z">
+        <seg>Les matériaux de vitrage ne doivent pas être installés dans les mains couranges ou les garde-corps dans les garages de stationnement, sauf dans les zones piétonnes non exposées aux impacts de véhicules.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33505,13 +33502,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.801: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Guards with structural glass baluster panels shall be installed with an attached top rail or handrail.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les garde-corps avec des panneaux de balustrade en verre structurel doivent être installés avec une traverse supérieure ou une rampe fixée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T000910Z">
+        <seg>Les garde-corps avec des panneaux de balustrade en verre structurel doivent être installés avec une traverse supérieure ou une main courante fixée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45519,13 +45515,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.831: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The top rail or handrail shall be supported by not fewer than three glass baluster panels, or shall be otherwise supported to remain in place should one glass baluster panel fail.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le garde-corps supérieur ou la rampe doit être soutenu par au moins trois panneaux de balustrade en verre, ou doit être soutenu d'une autre manière pour rester en place en cas de défaillance d'un panneau de balustrade en verre.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T000932Z">
+        <seg>Le garde-corps supérieur ou la main courante doit être soutenu par au moins trois panneaux de balustrade en verre, ou doit être soutenu d'une autre manière pour rester en place en cas de défaillance d'un panneau de balustrade en verre.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
