@@ -10929,13 +10929,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.9: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;405.8 Handrails.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;405.8 Rampes.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055806Z">
+        <seg>&lt;g1&gt;405.8 Mains courantes.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10999,13 +10998,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.928: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;407.1&lt;x2/&gt;General.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;407.1&lt;x2/&gt;General.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T060154Z">
+        <seg>&lt;g1&gt;407.1&lt;x2/&gt;Généralités.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24087,23 +24085,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.897: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>A curb complying with Section 405.9.2.1 or a barrier complying with Section 405.9.2.2 shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir une bordure conforme à la section 405.9.2.1 ou une barrière conforme à la section 405.9.2.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T060109Z">
+        <seg>Une bordure conforme à la section 405.9.2.1 ou une barrière conforme à la section 405.9.2.2 doit être prévue.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.871: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>A curb shall be a minimum of 4 inches (100 mm) in height.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une bordure doit avoir une hauteur minimale de 4 po [100 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T060117Z">
+        <seg>Une bordure doit avoir une hauteur minimale de 4 po (100 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27478,13 +27474,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Barriers shall be constructed so that the barrier prevents the passage of a 4-inch (100 mm) diameter sphere where any portion of the sphere is within 4 inches (100 mm) of the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les barrières doivent être construites de manière à empêcher le passage d'une sphère de 4 po [100 mm] de diamètre lorsque toute partie de la sphère se trouve à moins de 4 po [100 mm] du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T060138Z">
+        <seg>Les barrières doivent être construites de manière à empêcher le passage d’une sphère de 4 po (100 mm) de diamètre lorsqu’une partie quelconque de la sphère se trouve à moins de 4 po (100 mm) du plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30449,23 +30444,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.774: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Edge protection shall not be required on ramps not required to have handrails and that have flared sides complying with Section 406.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une protection de bord n'est pas exigée sur les rampes qui ne sont pas tenues d'avoir des rampes et dont les côtés évasés sont conformes à l'article 406.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055931Z">
+        <seg>Une protection de bord n'est pas exigée sur les rampes qui ne sont pas tenues d'avoir des rampes et dont les côtés évasés sont conformes à la Section 406.3.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Edge protection shall not be required on the sides of ramp landings having a vertical drop-off of 1/2 inch (13 mm) maximum within 10 inches (255 mm) horizontally of the minimum landing area specified in Section 405.7.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Une protection de bord n'est pas exigée sur les côtés des paliers de rampe ayant une dénivellation verticale d'au plus 1/2 po [13 mm] à moins de 10 po [255 mm] horizontalement de la zone minimale du palier spécifiée à l'article 405.7.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T060011Z">
+        <seg>Une protection de bord n’est pas exigée sur les côtés des paliers de rampe présentant une dénivellation verticale d’au plus 1/2 po (13 mm) à moins de 10 po (255 mm) horizontalement de la superficie minimale du palier spécifiée à la section 405.7.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38559,13 +38552,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.863: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Ramp runs with a rise greater than 6 inches (150 mm) shall have handrails complying with Section 505.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les tronçons de rampe dont la hauteur est supérieure à 6 po [150 mm] doivent être munis de rampes conformes à la section 505.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055825Z">
+        <seg>Les tronçons de rampe dont la hauteur est supérieure à 6 po (150 mm) doivent être munis de mains courantes conformes à la section 505.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38645,13 +38637,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Ramps not subject to the exception to Section 405.5 shall be designed to maintain a 36-inch (915 mm) minimum clear width where handrails are installed.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes non soumises à l'exception à la section 405.5 doivent être conçues de manière à maintenir une largeur libre minimale de 36 po [915 mm] là où des rampes sont installées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055910Z">
+        <seg>Les rampes qui ne sont pas visées par l’exception à la section 405.5 doivent être conçues de manière à maintenir une largeur libre minimale de 36 po (915 mm) lorsque des mains courantes sont installées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38692,13 +38683,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.805: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Ramps that change direction between runs at landings shall have a clear landing 60 inches (1525 mm) minimum by 60 inches (1525 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les rampes qui changent de direction entre les volées au niveau des paliers doivent avoir un palier dégagé d'au moins 60 po [1525 mm] x 60 po [1525 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055734Z">
+        <seg>Les rampes qui changent de direction entre les volées au niveau des paliers doivent avoir un palier dégagé d'au moins 60 po (1525 mm) x 60 po (1525 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42853,13 +42843,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The floor surface of ramp runs and ramp landings shall extend 12 inches (305 mm) minimum beyond the inside face of a railing complying with Section 505.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La surface de plancher des rampes et des paliers de rampe doit se prolonger d'au moins 12 po [305 mm] au-delà de la face intérieure d'une main courante conforme à la section 505.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T060046Z">
+        <seg>La surface de plancher des tronçons de rampe et des paliers de rampe doit se prolonger d’au moins 12 po (305 mm) au-delà de la face intérieure d’une rampe conforme à la section 505.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47419,13 +47408,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a door or gate is adjacent to a ramp landing, maneuvering clearances required by Sections 404.2.3 and 404.3.4 shall be permitted to overlap the landing area.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'une porte ou un portillon est adjacent à un palier de rampe, les espaces de dégagement exigés par les articles 404.2.3 et 404.3.4 peuvent chevaucher la zone du palier.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055751Z">
+        <seg>Lorsqu'une porte ou un portillon est adjacent à un palier de rampe, les espaces de dégagement exigés par les sections 404.2.3 et 404.3.4 peuvent chevaucher la zone du palier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49775,13 +49763,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.825: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Within employee work areas, handrails shall not be required where ramps that are part of common use circulation paths, and which are used for the movement of equipment, are designed to permit the installation of handrails complying with Section 505.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les zones de travail des employés, les rampes ne sont pas exigées lorsque les rampes qui font partie des voies de circulation à usage commun et qui sont utilisées pour le déplacement d'équipement sont conçues pour permettre l'installation de rampes conformes à l'article 505.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T055852Z">
+        <seg>Dans les aires de travail des employés, les mains courantes ne sont pas exigées lorsque les rampes qui font partie des voies de circulation à usage commun et qui sont utilisées pour le déplacement de l’équipement sont conçues de manière à permettre l’installation de mains courantes conformes à la section 505.</seg>
       </tuv>
     </tu>
     <tu>
