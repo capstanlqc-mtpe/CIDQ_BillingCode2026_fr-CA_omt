@@ -7636,13 +7636,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.865: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1102.15.1 Clear floor space.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1102.15.1 Surface de plancher dégagée.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T194711Z">
+        <seg>&lt;g1&gt;1102.15.1 Espace de plancher dégagé.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7666,13 +7665,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.836: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1102.15.4 Wheelchair charging area.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1102.15.4 Zone de recharge pour fauteuils roulants.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T194918Z">
+        <seg>&lt;g1&gt;1102.15.4 Aire de recharge pour fauteuil roulant.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8462,13 +8460,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.891: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1103.3.2 Turning space.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1103.3.2 Aire de braquage.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T194948Z">
+        <seg>&lt;g1&gt;1103.3.2 Espace de rotation.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23690,13 +23687,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.867: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A clear floor space shall be provided on both sides of the bed.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut prévoir une surface de plancher dégagée des deux côtés du lit.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T194756Z">
+        <seg>Un espace de plancher dégagé doit être prévu des deux côtés du lit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26941,13 +26937,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.826: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>At least one bed shall measure 17 to 23 inches (430 to 585 mm) high from the floor to the top of the uncompressed mattress.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Au moins un lit doit mesurer entre 17 et 23 po [430 et 585 mm] de hauteur du sol au sommet du matelas non comprimé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T194901Z">
+        <seg>Au moins un lit doit avoir une hauteur de 17 à 23 po (430 à 585 mm), mesurée du plancher jusqu’au dessus du matelas non comprimé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41524,13 +41519,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The clear floor space required by Section 1102.15.1 shall also serve as a wheelchair charging area complying with Section 906.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La surface de plancher dégagée exigée par l'article 1102.15.1 doit également servir de zone de recharge pour fauteuils roulants conforme à l'article 906.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T194926Z">
+        <seg>L’aire de plancher dégagée requise par la section 1102.15.1 doit également servir d’aire de recharge pour fauteuil roulant conforme à la section 906.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41554,13 +41548,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The clear floor space shall be positioned for parallel approach to the side of the bed.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La surface de plancher dégagée doit être positionnée pour un accès parallèle au côté du lit.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T194659Z">
+        <seg>L’espace de plancher dégagé doit être positionnée de manière à permettre une approche parallèle au côté du lit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47264,13 +47257,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.813: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a single clear floor space positioned for parallel approach is provided between two beds, a clear floor space shall not be required on both sides of the bed.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'une seule surface de plancher dégagée positionnée pour un accès parallèle est prévue entre deux lits, une surface de plancher dégagée n'est pas exigée des deux côtés du lit.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T194817Z">
+        <seg>Lorsqu’un espace de plancher dégagé permettant une approche parallèle est prévue entre deux lits, un espace de plancher dégagé n’est pas requis des deux côtés du lit.</seg>
       </tuv>
     </tu>
     <tu>
