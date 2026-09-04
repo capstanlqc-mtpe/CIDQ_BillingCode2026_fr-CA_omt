@@ -1585,13 +1585,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.869: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1&lt;x1/&gt;.Appliance doors and door latching devices shall not be required to comply with Section 309.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1&lt;x1/&gt;. Les portes d'appareils et les dispositifs de verrouillage de portes ne sont pas tenus de se conformer à la section 309.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T133923Z">
+        <seg>1&lt;x1/&gt;. Les portes des appareils et les dispositifs de verrouillage des portes ne sont pas tenus de respecter les exigences de la section 309.4.</seg>
       </tuv>
     </tu>
     <tu>
