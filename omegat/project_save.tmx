@@ -12628,13 +12628,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.87: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;612.3 Turning space.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;612.3 Aire de braquage.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T164340Z">
+        <seg>&lt;g1&gt;612.3 Espace de rotation.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16114,13 +16113,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.736: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;ADULT CHANGING STATIONS&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;COINS À LANGER POUR ADULTES&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T164532Z">
+        <seg>&lt;g1&gt;POSTES DE CHANGEMENT POUR ADULTES&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18614,13 +18612,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.901: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;SAUNAS AND STEAM ROOMS&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;SAUNAS ET HAMMAMS&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T164158Z">
+        <seg>&lt;g1&gt;SAUNAS ET SALLES DE VAPEUR&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24947,13 +24944,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A turning space shall be provided within saunas and steam rooms.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un espace de rotation doit être prévu dans les saunas et les hammams.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T164344Z">
+        <seg>Un espace de rotation doit être prévu dans les saunas et les salles de vapeur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25542,13 +25538,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.864: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Adult changing stations shall comply with Sections 613.2 through 613.4.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les tables à langer pour adultes doivent être conformes aux sections 613.2 à 613.4.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T164537Z">
+        <seg>Les postes de changement pour adultes doivent être conformes aux sections 613.2 à 613.4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29862,13 +29857,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Doors shall not swing into the clear floor space required by Section 903.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes ne doivent pas s'ouvrir dans la surface de plancher dégagée exigée par la section 903.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T164254Z">
+        <seg>Les portes ne doivent pas s'ouvrir sur la surface de plancher dégagée exigée par la section 903.2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32512,13 +32506,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.855: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Front loading machines shall have the bottom of the opening to the laundry compartment 15 inches (380 mm) minimum and 36 inches (915 mm) maximum above the floor.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le bas de l'ouverture du compartiment à linge des machines à chargement frontal doit se situer à une hauteur comprise entre 15 po [380 mm] et 36 po [915 mm] au-dessus du sol.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T164147Z">
+        <seg>Le bas de l'ouverture du compartiment à linge des machines à chargement frontal doit se situer à une hauteur comprise entre 15 po (380 mm) et 36 po (915 mm) au-dessus du plancher.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39113,8 +39106,8 @@
       <tuv lang="en">
         <seg>Saunas and steam rooms shall comply with Section 612.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260830T033102Z">
-        <seg>Les saunas et les bains de vapeur doivent être conformes à la section 612.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T164206Z">
+        <seg>Les saunas et les salles de vapeur doivent être conformes à la section 612.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42924,13 +42917,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.88: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The height of the obstruction in Section 308.3.2 shall be permitted to be 36 inches (915 mm) maximum above the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La hauteur de l'obstruction de la section 308.3.2 peut être d'au plus 36 po [915 mm] au-dessus du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T164109Z">
+        <seg>La hauteur de l’obstacle visé à la section 308.3.2 peut être d’au plus 36 po (915 mm) au-dessus du plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46047,13 +46039,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Top loading machines shall have the door to the laundry compartment 36 inches (915 mm) maximum above the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La porte du compartiment à linge des machines à chargement par le haut doit se trouver à une hauteur maximale de 36 po [915 mm] au-dessus du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T164125Z">
+        <seg>La porte du compartiment à linge des machines à chargement par le haut doit se trouver à une hauteur maximale de 36 po (915 mm) au-dessus du plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48385,13 +48376,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.859: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where provided, adult changing stations shall be installed in accordance with the locations specified in Section 613.2.1, 613.2.2 or 613.2.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'elles sont prévues, les tables à langer pour adultes doivent être installées conformément aux emplacements spécifiés à la section 613.2.1, 613.2.2 ou 613.2.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T164556Z">
+        <seg>Lorsqu'elles sont prévues, les postes de changement pour adultes doivent être installés conformément aux emplacements spécifiés à la section 613.2.1, 613.2.2 ou 613.2.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48560,13 +48550,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where seating is provided in saunas and steam rooms, at least one bench shall comply with Section 903.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des sièges sont prévus dans les saunas et les hammams, au moins un banc doit être conforme à la section 903.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T164236Z">
+        <seg>Lorsque des sièges sont prévus dans les saunas et les salles de vapeur, au moins un banc doit être conforme à la section 903.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49031,13 +49020,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the room is for individual use and a clear floor space complying with Section 305.3 is provided within the room beyond the arc of the door swing, the door shall not be required to comply with this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque la pièce est destinée à un usage individuel et qu'une surface de plancher dégagée conforme à l'article 305.3 est prévue dans la pièce au-delà de l'arc d'ouverture de la porte, celle-ci n'est pas tenue de se conformer au présent article.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T164311Z">
+        <seg>Lorsque la pièce est destinée à un usage individuel et qu’un espace libre au sol conforme à la section 305.3 est prévu dans la pièce, au-delà de l’arc de débattement de la porte, la porte n’est pas tenue de respecter les exigences de la présente section.</seg>
       </tuv>
     </tu>
     <tu>
