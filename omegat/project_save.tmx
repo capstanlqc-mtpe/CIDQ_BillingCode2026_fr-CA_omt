@@ -39305,13 +39305,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.815: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Side-hinged door ovens shall have a countertop positioned adjacent to the latch side of the oven door.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les fours à porte à charnières latérales doivent avoir un comptoir placé à côté du côté de la serrure de la porte du four.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T202629Z">
+        <seg>Les fours à porte articulée sur le côté doivent être munis d’un comptoir situé à côté du côté de la gâche de la porte du four.</seg>
       </tuv>
     </tu>
     <tu>
