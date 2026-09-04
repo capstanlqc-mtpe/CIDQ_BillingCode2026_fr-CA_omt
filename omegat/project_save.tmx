@@ -45,23 +45,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.886: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>(NRCFloor x SFloor)+ (NRCCeiling x SCeiling) + (NRCWall x SWall) ≥ Volume/12</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>(NRCSol x SSol)+ (NRCPlafond x SPlafond) + (NRCMur x SMur) ≥ Volume/12</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192214Z">
+        <seg>(NRCPlancher x SPlancher)+ (NRCPlafond x SPlafond) + (NRCMur x SMur) ≥ Volume/12</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.889: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>(NRCFloor x SFloor)+ (NRCCeiling x SCeiling) + (NRCWall x SWall) ≥ Volume/14</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>(NRCSol x SSol) + (NRCPlafond x SPlafond) + (NRCMur x SMur) ≥ Volume/14</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192225Z">
+        <seg>(NRCPlancher x SPlancher) + (NRCPlafond x SPlafond) + (NRCMur x SMur) ≥ Volume/14</seg>
       </tuv>
     </tu>
     <tu>
@@ -7709,13 +7707,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.895: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;1102.3.2 Turning space.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;1102.3.2 Aire de braquage.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192619Z">
+        <seg>&lt;g1&gt;1102.3.2 Espace de rotation.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28442,13 +28439,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.808: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Classroom ambient sound levels shall not exceed 35 dBA and 55 dBC due to intruding noise from sound sources outside of the classroom, whether from the exterior or from other interior spaces.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les niveaux sonores ambiants dans la salle de classe ne doivent pas dépasser 35 dBA et 55 dBC en raison du bruit intrusif provenant de sources sonores à l'extérieur de la salle de classe, que ce soit de l'extérieur ou d'autres espaces intérieurs.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192505Z">
+        <seg>Les niveaux sonores ambiants des salles de classe ne doivent pas dépasser 35 dBA et 55 dBC en raison du bruit intrusif provenant de sources sonores situées à l’extérieur de la salle de classe, qu’elles soient à l’extérieur du bâtiment ou dans d’autres espaces intérieurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28462,13 +28458,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Classroom equipment, including, but not limited to, computers, printers and fish tank pumps shall be turned off during these measurements.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'équipement de la salle de classe, y compris, mais sans s'y limiter, les ordinateurs, les imprimantes et les pompes d'aquarium, doit être éteint pendant ces mesures.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192428Z">
+        <seg>L’équipement de la salle de classe, notamment les ordinateurs, les imprimantes et les pompes d’aquarium, doit être éteint pendant ces mesures.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29952,13 +29947,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.791: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Dwelling units and sleeping units required by the scoping provisions adopted by the administrative authority to be Accessible units, Type A units, Type B units, Type C (Visitable) units or units with accessible communication features shall comply with the applicable provisions of Chapter 11.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les unités d'habitation et les unités de couchage qui, en vertu des dispositions de délimitation du champ d'application adoptées par l'autorité administrative, doivent être des unités accessibles, des unités de type A, des unités de type B, des unités de type C (visitable) ou des unités dotées de dispositifs de communication accessibles, doivent être conformes aux dispositions applicables du chapitre 11.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192541Z">
+        <seg>Dans les logements et les unités de couchage que les dispositions de portée adoptées par l’autorité administrative exigent d’être des unités accessibles, des unités de type A, des unités de type B, des unités de type C (visitables) ou des unités dotées de caractéristiques de communication accessibles, les dispositions applicables du chapitre 11 doivent être respectées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36517,23 +36511,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>NRCFloor = NRC rating of the floor finish material</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>NRCFloor = cote NRC du matériau de revêtement du plancher</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192247Z">
+        <seg>NRCPlancher = cote NRC du matériau de revêtement du plancher</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.811: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>NRCWall = NRC rating of the wall acoustical treatment</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>NRCWall = cote NRC du traitement acoustique du mur</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192259Z">
+        <seg>NRCMur = cote NRC du traitement acoustique du mur</seg>
       </tuv>
     </tu>
     <tu>
@@ -38937,23 +38929,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.798: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>SCeiling = ceiling area in square feet</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>SPlafond = aire du plafond en pieds carrés</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192329Z">
+        <seg>SPlafond = surface du plafond en pieds carrés</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>SFloor = floor area in square feet</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>SFloor = surface de plancher en pieds carrés</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192236Z">
+        <seg>SPlancher = surface de plancher en pieds carrés</seg>
       </tuv>
     </tu>
     <tu>
@@ -38967,13 +38957,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.765: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>SWall = wall treatment area in square feet</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>SWall = aire de traitement des murs en pieds carrés</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192321Z">
+        <seg>SMur = surface de traitement des murs en pieds carrés</seg>
       </tuv>
     </tu>
     <tu>
@@ -41091,13 +41080,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.806: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The ambient sound level limits shall apply to fully-furnished, unoccupied classrooms, and with only permanent HVAC, electrical and plumbing systems functioning.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les limites de niveau sonore ambiant doivent s'appliquer aux salles de classe entièrement meublées et inoccupées, et avec uniquement les systèmes permanents de CVC, d'électricité et de plomberie en fonctionnement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192422Z">
+        <seg>Les limites de niveau sonore ambiant s’appliquent aux salles de classe entièrement meublées et inoccupées, avec uniquement les systèmes permanents de CVCA, d’électricité et de plomberie en fonctionnement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42682,13 +42670,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The greatest one-hour averaged sound levels shall be evaluated at the loudest usable location in the room at a height of 36 inches (915 mm) to 42 inches (1065 mm) above the floor and no closer than 36 inches (915 mm) from any wall, window or object.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les niveaux sonores moyens les plus élevés sur une heure doivent être évalués à l'endroit utilisable le plus bruyant de la pièce, à une hauteur de 36 po [915 mm] à 42 po [1065 mm] au-dessus du sol et à au moins 36 po [915 mm] de tout mur, fenêtre ou objet.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T192413Z">
+        <seg>Les niveaux sonores moyens horaires les plus élevés doivent être évalués à l’endroit utilisable le plus bruyant de la pièce, à une hauteur de 36 po (915 mm) à 42 po (1 065 mm) au-dessus du plancher et à au moins 36 po (915 mm) de tout mur, toute fenêtre ou tout objet.</seg>
       </tuv>
     </tu>
     <tu>
