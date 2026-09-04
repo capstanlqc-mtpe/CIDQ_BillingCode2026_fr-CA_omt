@@ -15527,13 +15527,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.875: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;703.2.9&lt;x3/&gt;Height Above Floor.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;703.2.9&lt;x3/&gt; Hauteur au-dessus du sol.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T175505Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;703.2.9&lt;x3/&gt; Hauteur au-dessus du plancher.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23465,13 +23464,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Visual characters shall be 40 inches (1015 mm) minimum above the floor of the viewing position, measured to the baseline of the character.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Les caractères visuels doivent être à une hauteur minimale de 40 po [1015 mm] au-dessus du sol de la position de visualisation, mesurée jusqu'à la ligne de base du caractère.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T175532Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Les caractères visuels doivent se trouver à au moins 40 po (1 015 mm) au-dessus du plancher de la position d’observation, la mesure étant prise jusqu’à la ligne de base du caractère.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33438,13 +33436,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.842: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Heights shall comply with Table 703.2.4, based on the size of the characters on the sign.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les hauteurs doivent être conformes au Tableau 703.2.4, en fonction de la taille des caractères sur l'enseigne.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T175556Z">
+        <seg>Les hauteurs doivent être conformes au Tableau 703.2.4, en fonction de la taille des caractères sur le panneau.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34505,13 +34502,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.797: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In assembly seating where the maximum viewing distance is 100 feet (30.5 m) or greater, the spacing between the baselines of separate lines of characters within a message shall be permitted to be 120 percent minimum and 170 percent maximum of the character height.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les SIÈGES d'assemblée où la distance de visibilité maximale est de 100 pieds (30,5 m) ou plus, l'espacement entre les lignes de base des lignes distinctes de caractères dans un message peut être d'au moins 120 % et d'au plus 170 % de la hauteur des caractères.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T175414Z">
+        <seg>Dans les aires de sièges d’assemblée où la distance de visualisation maximale est d’au moins 100 pi (30,5 m), l’espacement entre les lignes de base de lignes distinctes de caractères dans un message peut être d’au moins 120 % et d’au plus 170 % de la hauteur des caractères.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40018,13 +40014,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Spacing between individual characters shall be 10 percent minimum and 35 percent maximum of the character height.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'espacement entre les caractères individuels doit être compris entre 10 pour cent et 35 pour cent de la hauteur des caractères.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T175346Z">
+        <seg>L’espacement entre les caractères individuels doit être d’au moins 10 pour cent et d’au plus 35 pour cent de la hauteur des caractères.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -46645,13 +46640,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Visual characters indicating elevator car controls shall not be required to comply with Section 703.2.9.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les caractères visuels indiquant les commandes de la cabine d'ascenseur ne sont pas tenus de se conformer à la section 703.2.9.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T175623Z">
+        <seg>Les caractères visuels indiquant les commandes de la cabine d’ascenseur ne sont pas tenus de se conformer à la section 703.2.9.</seg>
       </tuv>
     </tu>
     <tu>
