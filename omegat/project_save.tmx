@@ -2042,13 +2042,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.817: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;For the maneuvering clearance at swinging doors for the front approach direction on the push side, the dimension perpendicular to the door shall be 48 inches (1220 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Pour le dégagement de manœuvre aux portes à charnières pour la direction d'approche avant du côté poussée, la dimension perpendiculaire à la porte doit être d'au moins 48 po [1220 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T205851Z">
+        <seg>2.&lt;x1/&gt; Pour le dégagement de manœuvre des portes battantes dans le sens d’approche frontale du côté poussant, la dimension perpendiculaire à la porte doit être d’au moins 48 po (1 220 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3053,13 +3052,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3.&lt;x1/&gt;For the maneuvering clearance at sliding and folding doors for the front approach direction, the dimension perpendicular to the door shall be 48 inches (1220 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3.&lt;x1/&gt; Pour le jeu de manœuvre aux portes coulissantes et pliantes pour la direction d'approche avant, la dimension perpendiculaire à la porte doit être d'au moins 48 po [1220 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T205855Z">
+        <seg>3.&lt;x1/&gt; Pour le dégagement de manœuvre des portes coulissantes et pliantes dans le sens d’approche frontale, la dimension perpendiculaire à la porte doit être d’au moins 48 po (1 220 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3511,13 +3509,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>3&lt;x1/&gt;In a kitchen where a clear floor space for a parallel approach cannot be located at a countertop in a corner between appliances, receptacle outlets over the countertop shall not be required to comply with this section provided that the countertop area does not exceed 9 square feet (0.835 m2) maximum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>3 &lt;x1/&gt;Dans une cuisine où une surface de plancher dégagée pour un accès parallèle ne peut pas être située à un comptoir dans un coin entre les appareils, les prises de courant au-dessus du comptoir ne sont pas tenues de se conformer à la présente section, à condition que la surface du comptoir ne dépasse pas 9 pi2 (0,835 m2) au maximum.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T210134Z">
+        <seg>3 &lt;x1/&gt;Dans une cuisine où une surface de plancher dégagée permettant une approche parallèle ne peut pas être située au niveau d’un comptoir dans un coin entre des appareils électroménagers, les prises de courant situées au-dessus du comptoir ne sont pas tenues de se conformer à la présente section, à condition que la superficie du comptoir ne dépasse pas 9 pi2 (0,835 m2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3636,13 +3633,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>4.&lt;x1/&gt;For doorways without doors, the dimension perpendicular to the doorway for the front direction shall be 48 inches (1220 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>4.&lt;x1/&gt; Pour les ouvertures de porte sans porte, la dimension perpendiculaire à l'ouverture de porte pour la direction avant doit être d'au moins 48 po [1220 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T205919Z">
+        <seg>4.&lt;x1/&gt; Pour les ouvertures de porte sans porte, la dimension perpendiculaire à la baie de porte dans le sens d’approche frontale doit être d’au moins 48 po (1 220 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37782,8 +37778,8 @@
       <tuv lang="en">
         <seg>Platform lifts with a single door or with doors on opposite ends shall provide a clear floor width of 36 inches (915 mm) minimum and a clear floor length of 48 inches (1220 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T040014Z">
-        <seg>Les élévateurs de plateforme munis d’une seule porte ou de portes situées à des extrémités opposées doivent avoir une largeur libre de plancher d’au moins 36 po (915 mm) et une longueur libre de plancher d’au moins 48 po (1 220 mm).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T210016Z">
+        <seg>Les plateformes élévatrices munies d’une seule porte ou de portes situées à des extrémités opposées doivent avoir une largeur libre de plancher d’au moins 36 po (915 mm) et une longueur libre de plancher d’au moins 48 po (1 220 mm).</seg>
       </tuv>
     </tu>
     <tu>
