@@ -11392,13 +11392,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.855: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;409.4 Residential dishwasher waste connection.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;409.4 Raccordement d'évacuation d'un lave-vaisselle résidentiel.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053102Z">
+        <seg>&lt;g1&gt;409.4 Raccordement à l’évacuation d’un lave-vaisselle résidentiel.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39687,13 +39686,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.881: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Shower valves for individual showers shall conform to the requirements of Section 412.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les robinets de douche pour les douches individuelles doivent être conformes aux exigences de l'article 412.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053144Z">
+        <seg>Les robinets de douche pour les douches individuelles doivent être conformes aux exigences de la section 412.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42392,13 +42390,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.871: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The discharge water temperature from a bidet fitting shall be limited to not greater than 110°F (43°C) by a water-temperature-limiting device conforming to ASSE 1070/ASME A112.1070/CSA B125.70.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La température de l'eau de refoulement d'un robinet de bidet doit être limitée à 110 °F (43 °C) au maximum par un dispositif de limitation de la température de l'eau conforme à la norme ASSE 1070/ASME A112.1070/CSA B125.70.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T052859Z">
+        <seg>La température de l’eau évacuée par la robinetterie de bidet doit être limitée à au plus 110 °F (43 °C) au moyen d’un dispositif de limitation de la température de l’eau conforme à la norme ASSE 1070/ASME A112.1070/CSA B125.70.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45612,33 +45609,30 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.808: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The waste connection of a residential dishwasher shall connect directly to a wye branch fitting on the tailpiece of the kitchen sink, directly to the dishwasher connection of a food waste disposer, or through an air break to a standpipe.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le raccord d'évacuation d'un lave-vaisselle résidentiel doit être raccordé directement à un raccord en étoile sur la queue de l'évier de la cuisine, directement au raccord de lave-vaisselle d'un broyeur de déchets alimentaires, ou par l'intermédiaire d'un siphon à air à une colonne montante.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053116Z">
+        <seg>Le raccordement à l’évacuation d’un lave-vaisselle résidentiel doit être effectué directement sur un raccord en Y du raccordement terminal de l’évier de cuisine, directement sur le raccordement du lave-vaisselle d’un broyeur de déchets alimentaires, ou par l’intermédiaire d’une coupure antiretour vers un tuyau vertical d’évacuation.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The waste line of a residential dishwasher shall rise and be securely fastened to the underside of the sink rim or countertop.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La conduite d'évacuation d'un lave-vaisselle résidentiel doit monter et être solidement fixée à la face inférieure du rebord de l'évier ou du comptoir.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053129Z">
+        <seg>La conduite d’évacuation d’un lave-vaisselle résidentiel doit remonter et être solidement fixée sous le rebord de l’évier ou au dessous du comptoir.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The waste outlet shall be equipped with a watertight stopper.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'évacuation doit être équipée d'un bouchon étanche.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T052716Z">
+        <seg>L’évacuation doit être munie d’un bouchon étanche à l’eau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45672,23 +45666,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.874: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>The water supply to a bidet shall be protected against backflow by an air gap or backflow preventer in accordance with Section 608.14.1, 608.14.2, 608.14.3, 608.14.5, 608.14.6 or 608.14.8.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'alimentation en eau d'un bidet doit être protégée contre le refoulement par un espace d'air ou un dispositif anti-refoulement selon la section 608.14.1, 608.14.2, 608.14.3, 608.14.5, 608.14.6 ou 608.14.8.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T052827Z">
+        <seg>L’alimentation en eau d’un bidet doit être protégée contre le refoulement au moyen d’une coupure antiretour ou d’un dispositif antirefoulement conformément à la section 608.14.1, 608.14.2, 608.14.3, 608.14.5, 608.14.6 ou 608.14.8.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.855: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The water supply to a dishwashing machine shall be protected against backflow by an air gap that is integral with the machine or a backflow preventer shall be installed in accordance with Section 608.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'alimentation en eau d'un lave-vaisselle doit être protégée contre le refoulement par un entrefer faisant partie intégrante de la machine ou un dispositif anti-refoulement doit être installé selon la section 608.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T052938Z">
+        <seg>L’alimentation en eau d’un lave-vaisselle doit être protégée contre le refoulement au moyen d’une coupure antiretour intégrée à l’appareil, ou un dispositif antirefoulement doit être installé conformément à la section 608.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48013,13 +48005,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where an overflow is installed, the overflow shall be not less than 11/2 inches (38 mm) in diameter.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un trop-plein est installé, il doit avoir un diamètre d'au moins 11/2 po [38 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T052721Z">
+        <seg>Lorsqu’un trop-plein est installé, celui-ci doit avoir un diamètre d’au moins 1 1/2 po (38 mm).</seg>
       </tuv>
     </tu>
     <tu>
