@@ -1006,13 +1006,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;The back wall grab bar shall not be required to exceed 48 inches (1220 mm) in length.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; La barre d'appui du mur arrière n'est pas tenue de dépasser 48 po [1220 mm] en longueur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161410Z">
+        <seg>1.&lt;x1/&gt; La barre d'appui du mur arrière n'est pas tenue de dépasser 48 po (1220 mm) en longueur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2338,13 +2337,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;The back-wall grab bar is not required to extend within 6 inches (150 mm) of the adjacent side wall opposite the seat if it would require the grab bar length to exceed 48 inches (1220 mm) in length.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Il n'est pas exigé que la barre d'appui du mur arrière se prolonge à moins de 6 po [150 mm] de la paroi latérale adjacente opposée au siège si cela nécessiterait que la longueur de la barre d'appui dépasse 48 po [1220 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161428Z">
+        <seg>2.&lt;x1/&gt; La barre d’appui du mur arrière n’est pas tenue de se prolonger jusqu’à moins de 6 po (150 mm) du mur latéral adjacent opposé au siège si cela exigeait que la longueur de la barre d’appui dépasse 48 po (1 220 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5075,13 +5073,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.852: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;608.3.2.1 Back-wall grab bar&lt;e1/&gt;&lt;e2/&gt;&lt;g4&gt;.&lt;/g4&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;608.3.2.1 Barre d'appui de la paroi arrière&lt;e1/&gt;&lt;e2/&gt;&lt;g4&gt;.&lt;/g4&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161255Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;608.3.2.1 Barre d'appui sur le mur arrière&lt;e1/&gt;&lt;e2/&gt;&lt;g4&gt;.&lt;/g4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22620,13 +22617,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.85: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Grab bars in standard roll-in showers shall comply with Sections 608.3.2.1 through 608.3.2.3.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les barres d'appui dans les douches à accès de plain-pied standard doivent être conformes aux articles 608.3.2.1 à 608.3.2.3.&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161236Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les barres d'appui dans les douches à accès de plain-pied standard doivent être conformes aux sections 608.3.2.1 à 608.3.2.3.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35092,13 +35088,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.808: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In standard roll-in type showers, a grab bar shall be provided on the back wall beginning at the edge of the seat.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les douches à l'italienne standard, il faut prévoir une barre d'appui sur le mur arrière à partir du bord du siège.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161334Z">
+        <seg>Dans les douches standard de type à accès de plain-pied, une barre d’appui doit être prévue sur le mur arrière, à partir du bord du siège.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41366,13 +41361,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The back-wall grab bar shall extend the length of the wall and extend within 6 inches (150 mm) maximum from the adjacent side wall opposite the seat.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La barre d'appui du mur arrière doit s'étendre sur toute la longueur du mur et se prolonger jusqu'à une distance maximale de 6 po [150 mm] du mur latéral adjacent opposé au siège.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161346Z">
+        <seg>La barre d'appui du mur arrière doit s'étendre sur toute la longueur du mur et se prolonger jusqu'à une distance maximale de 6 po (150 mm) du mur latéral adjacent opposé au siège.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44440,23 +44434,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.836: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The side wall grab bar shall extend the length of the wall and extend within 6 inches (150 mm) maximum from the adjacent back wall.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La barre d'appui de la paroi latérale doit s'étendre sur toute la longueur du mur et se prolonger jusqu'à une distance maximale de 6 po [150 mm] du mur arrière adjacent.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161521Z">
+        <seg>La barre d'appui sur le mur latéral doit s'étendre sur toute la longueur du mur et se prolonger jusqu'à une distance maximale de 6 po (150 mm) du mur arrière adjacent.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The side-wall grab bar shall not be required to exceed 30 inches (760 mm) in length.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La barre d'appui de la paroi latérale ne doit pas dépasser 30 po [760 mm] de longueur.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161538Z">
+        <seg>La barre d'appui sur le mur latéral ne doit pas dépasser 30 po (760 mm) de longueur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47456,23 +47448,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a side wall is provided opposite the seat within 72 inches (1830 mm) of the seat wall a vertical grab bar shall be provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'une paroi latérale est prévue en face du siège à moins de 72 po [1830 mm] du mur du siège, une barre d'appui verticale doit être prévue.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161558Z">
+        <seg>Lorsqu'un mur latéral est prévu en face du siège à moins de 72 po (1830 mm) du mur du siège, une barre d'appui verticale doit être prévue.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.837: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a side wall is provided opposite the seat within 72 inches (1830 mm) of the seat wall, a grab bar shall be provided on the side-wall opposite the seat.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'une paroi latérale est prévue en face du siège à moins de 72 po [1830 mm] du mur du siège, il faut prévoir une barre d'appui sur la paroi latérale en face du siège.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T161501Z">
+        <seg>Lorsqu'un mur latéral est prévu en face du siège à moins de 72 po (1830 mm) du mur du siège, une barre d'appui sur la paroi latérale en face du siège doit être prévue.</seg>
       </tuv>
     </tu>
     <tu>
