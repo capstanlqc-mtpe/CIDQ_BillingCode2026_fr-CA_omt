@@ -13605,13 +13605,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.777: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;802.10.4.1 Spaces with seating on risers.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;802.10.4.1 Espaces avec SIÈGES sur des contremarches.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190846Z">
+        <seg>&lt;g1&gt;802.10.4.1 Espaces avec sièges sur des contremarches.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13625,13 +13624,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;802.11 Sign language interpreter stations.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;802.11 Postes d'interprètes en langue des signes.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190947Z">
+        <seg>&lt;g1&gt;802.11 Postes pour interprètes en langue des signes.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13675,13 +13673,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;802.11.5 Backdrop.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;802.11.5 Toile de fond.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191115Z">
+        <seg>&lt;g1&gt;802.11.5 Arrière-plan.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24614,13 +24611,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.81: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A sign language interpreter station shall provide a level and clear floor of a minimum size of 24 inches (610 mm) deep and 36 inches (915 mm) wide that is located to provide a direct line of sight from the seating area identified in Section 802.11.3.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un poste d'interprète en langue des signes doit offrir un plancher plat et dégagé d'une taille minimale de 24 po [610 mm] de profondeur et de 36 po [915 mm] de largeur, situé de manière à offrir une ligne de vue directe depuis la zone de SIÈGES identifiée à la section 802.11.3.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191018Z">
+        <seg>Un poste pour interprète en langue des signes doit comporter une surface de plancher de niveau et dégagée d’au moins 24 po (610 mm) de profondeur sur 36 po (915 mm) de largeur, située de manière à offrir une ligne de visibilité directe depuis la zone de sièges identifiée à la section 802.11.3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26705,23 +26701,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.809: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Assembly areas utilized for viewing motion picture projections with 300 seats or less shall not be required to comply with Section 802.10.2.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les zones de rassemblement utilisées pour regarder des projections de films et comptant 300 places ou moins ne sont pas tenues de se conformer à la section 802.10.2.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190748Z">
+        <seg>Les aires d’assemblée utilisées pour le visionnement de projections cinématographiques comptant 300 sièges ou moins ne sont pas tenues de se conformer à la section 802.10.2.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.796: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Assembly areas with 300 seats or less other than those utilized for viewing motion picture projections shall not be required to comply with Section 802.10.2 where all wheelchair space locations are within the front 50 percent of the total rows.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les zones de réunion de 300 places ou moins, autres que celles utilisées pour regarder des projections de films, ne sont pas tenues de se conformer à la section 802.10.2 lorsque tous les emplacements pour fauteuils roulants se trouvent dans les 50 pour cent avant du nombre total de rangées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190802Z">
+        <seg>Les aires d’assemblée comptant 300 sièges ou moins, autres que celles utilisées pour le visionnement de projections cinématographiques, ne sont pas tenues de se conformer à la section 802.10.2 lorsque tous les emplacements réservés aux espaces pour fauteuils roulants se trouvent dans les 50 % des rangées les plus proches de l’avant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33763,13 +33757,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.81: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>If the row length in the 2nd and 3rd quartile of the row is insufficient to accommodate the required number of companion seats and wheelchair spaces, the additional companion seats and wheelchair spaces shall be permitted to extend into in the 1st and 4th quartile of the row.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Si la longueur de la rangée dans les 2e et 3e quartiles de la rangée est insuffisante pour accueillir le nombre requis de sièges d'accompagnateurs et d'espaces pour fauteuils roulants, les sièges d'accompagnateurs et les espaces pour fauteuils roulants supplémentaires peuvent se prolonger dans les 1er et 4e quartiles de la rangée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190634Z">
+        <seg>Si la longueur de la rangée dans le 2e et le 3e quartile est insuffisante pour accueillir le nombre requis de sièges d’accompagnement et d’espaces pour fauteuils roulants, les sièges d’accompagnement et les espaces pour fauteuils roulants supplémentaires peuvent s’étendre dans le 1er et le 4e quartile de la rangée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34501,13 +34494,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.685: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In bleachers, wheelchair space locations provided only in rows at points of entry to bleacher seating shall be permitted.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les gradins, les emplacements pour fauteuils roulants prévus uniquement dans les rangées aux points d'entrée des SIÈGES des gradins peuvent être autorisés.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190738Z">
+        <seg>Dans les gradins, les emplacements réservés aux espaces pour fauteuils roulants peuvent être situés uniquement dans les rangées aux points d’accès aux gradins.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35374,13 +35366,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.811: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Intermediate aisles shall be included in determining the total row length.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les allées intermédiaires doivent être incluses dans la détermination de la longueur totale de la rangée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190629Z">
+        <seg>Les allées intermédiaires doivent être prises en compte pour déterminer la longueur totale de la rangée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36042,13 +36033,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.794: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Located within the area of an auditorium in which the vertical viewing angles, as measured to the top of the screen, are from the 40th to the 100th percentile of vertical viewing angles for all seats as ranked from the seats in the first row (1st percentile) to seats in the back row (100th percentile).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Situés dans la zone d'un auditorium dans lequel les angles de vision verticaux, mesurés jusqu'au sommet de l'écran, sont compris entre le 40e et le 100e percentile des angles de vision verticaux pour tous les sièges, classés depuis les sièges de la première rangée (1er percentile) jusqu'aux sièges de la dernière rangée (100e percentile).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190930Z">
+        <seg>Situés dans la zone d’un auditorium où les angles de visibilité verticaux, mesurés jusqu’au sommet de l’écran, vont du 40e au 100e percentile des angles de visibilité verticaux pour tous les sièges, classés depuis les sièges de la première rangée (1er percentile) jusqu’aux sièges de la dernière rangée (100e percentile).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39411,13 +39401,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.771: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Sign language interpreter stations shall be located so that seating within an arc from the station and measured to the left and to the right 60 degrees within 65 feet (19.8 m) horizontal distance from the station is provided with sight lines providing a view of the sign language station from a height of 36 inches (915 mm) to 72 inches (1830 mm) above the floor of the station.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les postes d'interprètes en langue des signes doivent être situés de manière à ce que les sièges situés dans un arc de cercle à partir du poste et mesurés à gauche et à droite à 60 degrés à une distance horizontale de 65 pi [19,8 m] du poste soient dotés de lignes de visibilité offrant une vue du poste de langue des signes à une hauteur de 36 po [915 mm] à 72 po [1830 mm] au-dessus du sol du poste.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191036Z">
+        <seg>Les postes pour interprètes en langue des signes doivent être situés de manière que les sièges se trouvant dans un arc de cercle à partir du poste, mesuré à 60 degrés vers la gauche et vers la droite, dans un rayon horizontal de 65 pi (19,8 m) du poste, bénéficient de lignes de visibilité permettant de voir le poste pour interprète en langue des signes depuis une hauteur de 36 po (915 mm) à 72 po (1 830 mm) au-dessus du plancher du poste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44292,13 +44281,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.792: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The sign language interpreter station shall have lighting facilities capable of providing 10 footcandles (108 lux) of illuminance while signing is underway measured at the center of the floor of the sign language station at a height of 48 inches (1220 mm) above the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le poste d'interprète en langue des signes doit être équipé d'un éclairage capable de fournir un éclairement de 10 pieds-candelles (108 lux) pendant que l'interprétation est en cours, mesuré au centre du sol du poste d'interprète en langue des signes à une hauteur de 48 po [1220 mm] au-dessus du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191043Z">
+        <seg>Le poste pour interprète en langue des signes doit être doté d’installations d’éclairage capables de fournir un éclairement de 10 footcandles (108 lux) pendant l’interprétation en langue des signes, mesuré au centre du plancher du poste pour interprète en langue des signes, à une hauteur de 48 po (1 220 mm) au-dessus du plancher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46831,13 +46819,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.757: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Wheelchair space locations shall be dispersed at a variety of distances from the event to provide viewing options.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les emplacements pour fauteuils roulants doivent être dispersés à différentes distances de l'événement pour offrir des options de visionnement.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190723Z">
+        <seg>Les emplacements réservés aux espaces pour fauteuils roulants doivent être dispersés à différentes distances de l’événement afin d’offrir diverses possibilités de visionnement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47315,13 +47302,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.783: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a sign language interpreter station is located with a permanent wall less than 10 feet (3050 mm) behind the sign language interpreter station, the permanent wall to a height of 96 inches (2440 mm) from the finish floor shall be considered as a backdrop.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'un poste d'interprète en langue des signes est situé avec un mur permanent à moins de 10 pi [3050 mm] derrière le poste d'interprète en langue des signes, le mur permanent jusqu'à une hauteur de 96 po [2440 mm] à partir du sol fini doit être considéré comme une toile de fond.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191109Z">
+        <seg>Lorsqu’un poste pour interprète en langue des signes est situé devant un mur permanent se trouvant à moins de 10 pi (3 050 mm) derrière le poste pour interprète en langue des signes, le mur permanent jusqu’à une hauteur de 96 po (2 440 mm) à partir du plancher fini doit être considéré comme un arrière-plan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47610,13 +47596,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.747: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where assembly seating has multiple distinct seating areas with amenities that differ from other distinct seating areas, wheelchair space locations shall be provided within each distinct seating area.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les SIÈGES d'un lieu de rassemblement comportent plusieurs zones de sièges distinctes dotées d'équipements différents de ceux des autres zones de sièges distinctes, des emplacements pour fauteuils roulants doivent être prévus dans chaque zone de sièges distincte.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190818Z">
+        <seg>Lorsque les sièges d’une aire d’assemblée comportent plusieurs zones de sièges distinctes dont les commodités diffèrent de celles des autres zones de sièges distinctes, des emplacements réservés aux espaces pour fauteuils roulants doivent être prévus dans chacune des zones de sièges distinctes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49097,13 +49082,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.729: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where tiered seating is provided, wheelchair space locations shall be integrated into the tiered seating area on a riser or a cross-aisle.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque des SIÈGES en gradins sont prévus, les emplacements pour fauteuils roulants doivent être intégrés à la zone de SIÈGES en gradins sur une contremarche ou dans une allée transversale.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T190857Z">
+        <seg>Lorsque des sièges en gradins sont prévus, les emplacements pour fauteuils roulants doivent être intégrés à la zone de sièges en gradins sur une contremarche ou dans une allée transversale.</seg>
       </tuv>
     </tu>
     <tu>
