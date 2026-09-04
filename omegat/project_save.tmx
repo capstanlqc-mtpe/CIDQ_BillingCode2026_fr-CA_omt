@@ -2138,13 +2138,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.824: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;In a kitchen where two or more receptacle outlets are provided above a length of countertop that is uninterrupted by a sink or appliance, only one receptacle outlet shall be required to comply with this section.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Dans une cuisine où deux prises de courant ou plus sont prévues au-dessus d'une longueur de comptoir qui n'est pas interrompue par un évier ou un appareil, une seule prise de courant doit être conforme à la présente section.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T035955Z">
+        <seg>2.&lt;x1/&gt; Dans une cuisine où deux prises de courant ou plus sont prévues au-dessus d’une longueur de comptoir qui n’est interrompue ni par un évier ni par un appareil, une seule prise de courant doit être conforme à la présente section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24036,13 +24035,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.825: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>A clearance 60 inches (1525 mm) minimum in length and 30 inches (760 mm) minimum in width shall be provided in front of bathtubs with a parallel approach.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Un dégagement d'au moins 60 po [1525 mm] en longueur et d'au moins 30 po [760 mm] en largeur doit être prévu devant les baignoires à accès parallèle.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T035832Z">
+        <seg>Un espace libre d’au moins 60 po (1 525 mm) de longueur et d’au moins 30 po (760 mm) de largeur doit être prévu devant les baignoires permettant une approche parallèle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35315,13 +35313,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In private residence elevators, the inside dimensions of elevator cars shall provide a clear floor length of 48 inches (1220 mm) minimum and a clear floor width of 36 inches (760 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les ascenseurs de résidences privées, les dimensions intérieures des cabines d'ascenseur doivent offrir une longueur libre au sol d'au moins 48 po [1220 mm] et une largeur libre au sol d'au moins 36 po [760 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T040035Z">
+        <seg>DDans les ascenseurs résidentiels privés, les dimensions intérieures des cabines d’ascenseur doivent permettre une longueur libre de plancher d’au moins 48 po (1 220 mm) et une largeur libre de plancher d’au moins 36 po (760 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36337,13 +36334,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.858: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Lighting controls, electrical switches and receptacle outlets, environmental controls, electrical panelboards, and user controls for security or intercom systems shall comply with Sections 309.3 and 1104.1.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les commandes d'éclairage, les interrupteurs électriques et les prises de courant, les commandes environnementales, les panneaux électriques et les commandes utilisateur pour les systèmes de sécurité ou d'interphone doivent être conformes aux sections 309.3 et 1104.1.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T035944Z">
+        <seg>Les commandes d’éclairage, les interrupteurs électriques et les prises de courant, les commandes environnementales, les tableaux électriques ainsi que les commandes utilisateur des systèmes de sécurité ou d’intercommunication doivent être conformes aux sections 309.3 et 1104.1.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38295,13 +38291,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.85: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Platform lifts with a single door or with doors on opposite ends shall provide a clear floor width of 36 inches (915 mm) minimum and a clear floor length of 48 inches (1220 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les plates-formes élévatrices à une seule porte ou à portes situées aux extrémités opposées doivent offrir une largeur libre au sol d'au moins 36 po [915 mm] et une longueur libre au sol d'au moins 48 po [1220 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T040014Z">
+        <seg>Les élévateurs de plateforme munis d’une seule porte ou de portes situées à des extrémités opposées doivent avoir une largeur libre de plancher d’au moins 36 po (915 mm) et une longueur libre de plancher d’au moins 48 po (1 220 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49513,13 +49508,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.882: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where the operable parts on an inactive leaf of a double leaf doorway are located more than 48 inches (1220 mm) or less than 15 inches (380 mm) above the floor, the active leaf shall provide the clearance required by Section 1104.5.2.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsque les parties manœuvrables d'un vantail inactif d'une ouverture de porte à deux vantaux sont situées à plus de 48 po [1220 mm] ou à moins de 15 po [380 mm] au-dessus du sol, le vantail actif doit fournir le dégagement exigé par la section 1104.5.2.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T040058Z">
+        <seg>Lorsque les éléments manœuvrables sur le vantail inactif d’une porte à deux vantaux sont situés à plus de 48 po (1 220 mm) ou à moins de 15 po (380 mm) au-dessus du plancher, le vantail actif doit offrir l’espace libre exigé à la section 1104.5.2.1.</seg>
       </tuv>
     </tu>
     <tu>
