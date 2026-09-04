@@ -11903,33 +11903,30 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;421.5.2.3 Sheet lead.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;421.5.2.3 Feuille de plomb.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053844Z">
+        <seg>&lt;g1&gt;421.5.2.3 Tôle de plomb.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.851: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;421.5.2.4 Sheet copper.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;421.5.2.4 Feuille de cuivre.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053912Z">
+        <seg>&lt;g1&gt;421.5.2.4 Tôle de cuivre.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.822: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;421.5.2.5 Sheet-applied, load-bearing, bonded, waterproof membranes.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;421.5.2.5 Membranes imperméables, portantes, collées, appliquées en feuilles.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T054006Z">
+        <seg>&lt;g1&gt;421.5.2.5 Membranes étanches en feuilles, porteuses et collées.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11963,13 +11960,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;422.2 Sink waste outlets.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;422.2 Évacuations d'évier.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T054135Z">
+        <seg>&lt;g1&gt;422.2 Évacuations des éviers.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27485,13 +27481,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Baptisteries, ornamental and lily pools, aquariums, ornamental fountain basins, swimming pools, and similar constructions, where provided with water supplies, shall be protected against backflow in accordance with Section 608.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les baptistères, les bassins ornementaux et à nénuphars, les aquariums, les bassins de fontaines ornementales, les piscines et les constructions similaires, lorsqu'ils sont pourvus d'alimentations en eau, doivent être protégés contre le refoulement selon la section 608.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T054205Z">
+        <seg>Les baptistères, les bassins ornementaux et les bassins à nénuphars, les aquariums, les bassins de fontaines ornementales, les piscines et les constructions similaires, lorsqu’ils sont munis d’une alimentation en eau, doivent être protégés contre le refoulement conformément à la section 608.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36303,13 +36298,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Liquid-type, trowel-applied, load-bearing, bonded waterproof materials shall meet the requirements of ANSI A118.10 and shall be applied in accordance with the manufacturer’s instructions.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les matériaux imperméabilisants de type liquide, appliqués à la truelle, porteurs de charge et collés doivent satisfaire aux exigences de la norme ANSI A118.10 et être appliqués conformément aux directives du fabricant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T054042Z">
+        <seg>Les matériaux étanches porteurs et collés de type liquide, appliqués à la truelle, doivent satisfaire aux exigences de la norme ANSI A118.10 et être appliqués conformément aux instructions du fabricant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39538,43 +39532,39 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.883: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Sheet copper shall conform to ASTM B152 and shall weigh not less than 12 ounces per square foot (3.7 kg/m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La feuille de cuivre doit être conforme à la norme ASTM B152 et doit peser au moins 12 onces par pied carré (3,7 kg/m2).</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053922Z">
+        <seg>La tôle de cuivre doit être conforme à la norme ASTM B152 et doit peser au moins 12 onces par pied carré (3,7 kg/m2).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.804: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Sheet lead shall be joined by burning.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La feuille de plomb doit être jointe par brûlage.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053905Z">
+        <seg>La  tôle de plomb doit être jointe par brûlage.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.874: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>Sheet lead shall weigh not less than 4 pounds per square foot (19.5 kg/m2) and shall be coated with an asphalt paint or other approved coating.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La feuille de plomb doit peser au moins 4 livres par pied carré (19,5 kg/m2) et doit être revêtue d'une peinture asphaltique ou d'un autre revêtement approuvé.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053837Z">
+        <seg>La tôle de plomb doit peser au moins 4 lb/pi2 (19.5 kg/m2) et être recouverte d’une peinture bitumineuse ou d’un autre revêtement approuvé.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.85: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Sheet-applied, load-bearing, bonded, waterproof membranes shall meet the requirements of ANSI A118.10 and shall be applied in accordance with the manufacturer’s installation instructions.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les membranes imperméables appliquées en feuilles, porteuses et collées doivent satisfaire aux exigences de la norme ANSI A118.10 et être appliquées conformément aux directives d'installation du fabricant.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T054013Z">
+        <seg>Les membranes étanches en feuilles, porteuses et collées doivent satisfaire aux exigences de la norme ANSI A118.10 et être installées conformément aux instructions d’installation du fabricant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42249,13 +42239,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The copper sheet shall be insulated from conducting substances other than the connecting drain by 15-pound (6.80 kg) asphalt felt or an equivalent.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La feuille de cuivre doit être isolée des substances conductrices autres que le drain de raccordement par du feutre asphaltique de 15 livres (6,80 kg) ou un matériau équivalent.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053931Z">
+        <seg>La tôle de cuivre doit être isolée des substances conductrices autres que le drain de raccordement par du feutre asphaltique de 15 livres (6,80 kg) ou un matériau équivalent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43427,13 +43416,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The lead sheet shall be insulated from conducting substances other than the connecting drain by 15-pound (6.80 kg) asphalt felt or an equivalent.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La feuille de plomb doit être isolée des substances conductrices autres que le drain de raccordement par du feutre d'asphalte de 15 livres (6,80 kg) ou un matériau équivalent.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053856Z">
+        <seg>La tôle de plomb doit être isolée des substances conductrices autres que le drain de raccordement par du feutre d'asphalte de 15 livres (6,80 kg) ou un matériau équivalent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47695,13 +47683,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.733: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a sheet-applied, load-bearing, bonded, waterproof membrane is installed as the shower lining, the membrane shall not be required to be recessed.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'une membrane imperméable, collée, porteuse et appliquée en feuille est installée comme revêtement de douche, la membrane n'est pas tenue d'être encastrée.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T053728Z">
+        <seg>Lorsque l’étanchéité de la douche est assurée par une membrane étanche en feuilles, porteuse et collée, il n’est pas nécessaire d’encastrer la membrane.</seg>
       </tuv>
     </tu>
     <tu>
