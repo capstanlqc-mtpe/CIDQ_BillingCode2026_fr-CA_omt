@@ -14129,13 +14129,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.806: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;804.2.1 Pass-through kitchens.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;804.2.1 Cuisines avec passe-plat.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T040315Z">
+        <seg>&lt;g1&gt;804.2.1 Cuisines traversantes.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15413,13 +15412,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.927: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;&lt;x2/&gt;608.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;&lt;x2/&gt;608.1&lt;x3/&gt;General.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T040458Z">
+        <seg>&lt;g1&gt;&lt;x2/&gt;608.1&lt;x3/&gt;Generalités.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35303,13 +35301,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.78: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In pass-through kitchens where counters, appliances or cabinets are on two opposing sides, or where counters, appliances or cabinets are opposite a parallel wall, clearance between all opposing base cabinets, countertops, appliances, or walls within kitchen work areas shall be 40 inches (1015 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les cuisines avec passe-plat où les comptoirs, les appareils électroménagers ou les armoires sont sur deux côtés opposés, ou lorsque les comptoirs, les appareils électroménagers ou les armoires sont en face d'un mur parallèle, le dégagement entre toutes les bases de mur, tous les comptoirs, tous les appareils électroménagers ou tous les murs opposés dans les zones de travail de la cuisine doit être d'au moins 40 po [1015 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T040310Z">
+        <seg>Dans les cuisines traversantes où des comptoirs, des appareils ou des armoires sont situés sur deux côtés opposés, ou lorsque des comptoirs, des appareils ou des armoires sont situés en face d’un mur parallèle, l’espace libre entre toutes les armoires basses, tous les comptoirs, tous les appareils ou tous les murs opposés dans les zones de travail de la cuisine doit être d’au moins 40 po (1 015 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -47811,13 +47808,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.797: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a pass-through kitchen is provided, clearances shall comply with Section 804.2.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'une cuisine avec passe-plat est prévue, les dégagements doivent être conformes à la section 804.2.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T040329Z">
+        <seg>Lorsqu'une cuisine traversante est prévue, les dégagements doivent être conformes à la section 804.2.1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48874,13 +48870,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.802: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where provided, a shelf shall be 40 inches (1015 mm) minimum and 48 inches (1220 mm) maximum above the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'elle est prévue, une tablette doit être installée à une hauteur comprise entre 40 po [1015 mm] et 48 po [1220 mm] au-dessus du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T040358Z">
+        <seg>Lorsqu'elle est prévue, une tablette doit être installée à une hauteur comprise entre 40 po (1015 mm) et 48 po (1220 mm) au-dessus du sol.</seg>
       </tuv>
     </tu>
     <tu>
