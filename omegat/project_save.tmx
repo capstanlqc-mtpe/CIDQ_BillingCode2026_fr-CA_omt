@@ -2071,13 +2071,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.789: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>2.&lt;x1/&gt;For other than fire service access elevators and occupant evacuation elevators, in buildings four stories or less above grade plane where machine room, machinery spaces, control rooms and control spaces do not abut and do not have openings to the hoistway enclosure they serve, the machine room, machinery spaces, control rooms and control spaces are not required to be fire-resistance rated.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>2.&lt;x1/&gt; Pour les ascenseurs autres que les ascenseurs d'accès pour les services d'incendie et les ascenseurs d'évacuation des occupants, dans les bâtiments de quatre étages ou moins au-dessus du plan de référence, lorsque la salle des machines, les locaux de machines, les salles de commande et les locaux de commande ne sont pas adjacents et ne comportent pas d'ouvertures vers la cage d'ascenseur qu'ils desservent, la salle des machines, les locaux de machines, les salles de commande et les locaux de commande ne sont pas tenus d'offrir un degré de résistance au feu.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T023510Z">
+        <seg>2.&lt;x1/&gt; Pour les ascenseurs autres que les ascenseurs destinés à l’accès du service d’incendie et les ascenseurs destinés à l’évacuation des occupants, dans les bâtiments de quatre étages ou moins au-dessus du plan de référence du sol, lorsque les locaux des machines, les locaux de machinerie, les locaux de commande et les espaces de commande ne sont pas attenants à l’enceinte du puits qu’ils desservent et ne comportent pas d’ouvertures donnant sur celle-ci, les locaux des machines, les locaux de machinerie, les locaux de commande et les espaces de commande ne sont pas tenus d’avoir un degré de résistance au feu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10428,13 +10427,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.748: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;2021 INTERNATIONAL RESIDENTIAL CODE&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;INTERNATIONAL RESIDENTIAL CODE 2021 (code international résidentiel)&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T023755Z">
+        <seg>&lt;g1&gt;INTERNATIONAL RESIDENTIAL CODE 2021 (CODE RÉSIDENTIEL INTERNATIONAL 2021)&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22371,13 +22369,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.79: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;“This is reproduced from 2018 International Building Code, the 2018 International Plumbing Code and ICC A117.1-2009 Standard and Commentary:&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;« La version en anglais de ce document consiste en extraits de l'International Building Code 2018, de l'International Plumbing Code 2018 et du document ICC A117.1-2009 Standard and Commentary :&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T023712Z">
+        <seg>&lt;g1&gt;« Le présent document est reproduit à partir de l’International Building Code de 2018, de l’International Plumbing Code de 2018 et de la norme et du commentaire ICC A117.1-2009 :&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23701,13 +23698,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.83: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;Where elevator hoistways, elevator machine rooms, control rooms and control spaces containing elevator control equipment are protected with automatic sprinklers, a means installed in accordance with Section 21.4 of NFPA 72 shall be provided to automatically disconnect the main line power supply to the affected elevator prior to the application of water.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Lorsque les cages d'ascenseur, les salles des machines d'ascenseur, les salles de commande et les espaces de commande contenant l'équipement de commande d'ascenseur sont protégés par des gicleurs automatiques, il faut prévoir un moyen installé selon la section 21.4 de la norme NFPA 72 pour couper automatiquement l'alimentation électrique principale de l'ascenseur concerné avant l'application de l'eau.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T023559Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;Lorsque les puits d’ascenseur, les locaux des machines d’ascenseur, les locaux de commande et les espaces de commande contenant de l’équipement de commande des ascenseurs sont protégés par des systèmes automatiques d’extinction, un dispositif installé conformément à la section 21.4 de la norme NFPA 72 doit être prévu afin de couper automatiquement l’alimentation électrique principale de l’ascenseur concerné avant l’application de l’eau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41654,13 +41650,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.825: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The activation of automatic sprinklers outside the hoistway, machine room, machinery space, control room or control space shall not disconnect the main line power supply.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>L'activation des gicleurs automatiques à l'extérieur de la cage d'ascenseur, de la salle des machines, de l'espace des machines, de la salle de commande ou de l'espace de commande ne doit pas déconnecter l'alimentation électrique de la ligne principale.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T023618Z">
+        <seg>L’activation des systèmes automatiques d’extinction situés à l’extérieur du puits d’ascenseur, du local des machines, du local de machinerie, du local de commande ou de l’espace de commande ne doit pas couper l’alimentation électrique principale.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
