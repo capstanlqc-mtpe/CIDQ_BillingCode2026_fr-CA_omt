@@ -660,13 +660,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.832: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>1.&lt;x1/&gt;Doors or gates shall be permitted to be of the self-closing, manual type, where that door or gate provides access to a narrow end of the platform that serves only one landing.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>1.&lt;x1/&gt; Les portes ou les barrières peuvent être de type manuel à fermeture automatique, lorsque cette porte ou cette barrière donne accès à une extrémité étroite de la plateforme qui ne dessert qu'un seul palier.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062840Z">
+        <seg>1.&lt;x1/&gt; Les portes ou barrières peuvent être du type à fermeture automatique et à commande manuelle lorsque la porte ou la barrière donne accès à l’extrémité étroite de la plateforme qui ne dessert qu’un seul palier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4962,23 +4961,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.927: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;410.2.2&lt;x3/&gt;Ramps&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;410.2.2&lt;x3/&gt;Ramps&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062905Z">
+        <seg>e&lt;b1/&gt;&lt;b2/&gt;410.2.2&lt;x3/&gt;Ramps&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.874: HIGH CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;410.5.1&lt;x3/&gt;Lifts with Single Door or Doors on Opposite Ends&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;410.5.1&lt;x3/&gt; Plates-formes élévatrices à porte unique ou à portes aux extrémités opposées&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062938Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;410.5.1&lt;x3/&gt; Platesformes élévatrices à porte unique ou à portes aux extrémités opposées&lt;e1/&gt;&lt;e2/&gt;&lt;x5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16526,13 +16523,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;Clear floor space of platform lifts shall comply with Section 410.5&lt;/g1&gt;&lt;g3&gt;.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;La surface de plancher dégagée des plates-formes élévatrices doit être conforme à la section 410.5&lt;/g1&gt;&lt;g3&gt;.&lt;/g3&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062931Z">
+        <seg>&lt;g1&gt;La surface de plancher dégagée des platesformes élévatrices doit être conforme à la section 410.5&lt;/g1&gt;&lt;g3&gt;.&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20167,13 +20163,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.834: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;The clearance between the platform sill and the edge of any runway landing shall be 11/4 inch (32 mm) maximum&lt;/g1&gt;&lt;g3&gt;.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;Le dégagement entre le seuil de la plateforme et le bord de tout palier de la piste doit être de 11/4 po [32 mm] au maximum&lt;/g1&gt;&lt;g3&gt;.&lt;/g3&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062922Z">
+        <seg>&lt;g1&gt;Le dégagement entre le seuil de la plateforme et le bord de tout palier de la piste doit être de 11/4 po (32 mm) au maximum&lt;/g1&gt;&lt;g3&gt;.&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22781,13 +22776,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.856: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;Platform lifts with a single door or with doors on opposite ends shall provide a clear floor width of 36 inches (915 mm) minimum and a clear floor depth of 48 inches (1220 mm) minimum.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Les plates-formes élévatrices à une seule porte ou à portes situées aux extrémités opposées doivent offrir une largeur libre au sol d'au moins 36 po [915 mm] et une profondeur libre au sol d'au moins 48 po [1220 mm].&lt;/g2&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T063000Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Les élévateurs de plateforme munis d’une seule porte ou de portes situées à des extrémités opposées doivent avoir une largeur libre de plancher d’au moins 36 po (915 mm) et une profondeur libre de plancher d’au moins 48 po (1 220 mm).&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37194,23 +37188,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.843: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>On lifts with one door on a narrow end and one door on a long side, the end door clear opening width shall be 36 inches (915 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Sur les monte-personnes avec une porte à une extrémité étroite et une porte sur un côté long, la largeur d'ouverture libre de la porte d'extrémité doit être d'au moins 36 po [915 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062746Z">
+        <seg>Sur les monte-personnes avec une porte à une extrémité étroite et une porte sur un côté long, la largeur d'ouverture libre de la porte d'extrémité doit être d'au moins 36 po (915 mm).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.848: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>On lifts with one door or with doors on opposite ends, the end door clear opening width shall be 32 inches (815 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Sur les monte-charges avec une porte ou avec des portes aux extrémités opposées, la largeur d'ouverture libre de la porte d'extrémité doit être d'au moins 32 po [815 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062740Z">
+        <seg>Sur les monte-charges avec une porte ou avec des portes aux extrémités opposées, la largeur d'ouverture libre de la porte d'extrémité doit être d'au moins 32 po (815 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38095,13 +38087,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.765: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Platform lifts shall not be attendant operated and shall provide unassisted entry and exit from the lift.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les plates-formes élévatrices ne doivent pas être actionnées par un accompagnateur et doivent permettre d'entrer et de sortir de la plate-forme sans assistance.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062718Z">
+        <seg>Les platesformes élévatrices ne doivent pas être actionnées par un accompagnateur et doivent permettre d'entrer et de sortir de la plate-forme sans assistance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39612,13 +39603,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Side door clear opening width shall be 42 inches (1065 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La largeur d'ouverture libre de la porte latérale doit être d'au moins 42 po [1065 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062801Z">
+        <seg>La largeur d'ouverture libre de la porte latérale doit être d'au moins 42 po (1065 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -47344,13 +47334,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Where a door is provided on a long side and on a narrow end of a lift, the side door shall be located with either the strike side or the hinge side in the corner furthest from the door on the narrow end.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Lorsqu'une porte est prévue sur un côté long et sur une extrémité étroite d'un monte-personne, la porte latérale doit être située avec le côté de la gâche ou le côté de la charnière dans le coin le plus éloigné de la porte sur l'extrémité étroite.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T062820Z">
+        <seg>Lorsqu’une porte est prévue sur un côté long et à une extrémité étroite d’un élévateur, la porte latérale doit être située de manière que son côté gâche ou son côté paumelles se trouve dans le coin le plus éloigné de la porte située à l’extrémité étroite.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
