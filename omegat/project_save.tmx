@@ -17582,13 +17582,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.775: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;R1001.2.1 Ash dump cleanout.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;R1001.2.1 Regard de nettoyage du dépôt de cendres.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T044546Z">
+        <seg>&lt;g1&gt;R1001.2.1 Regard de ramonage du dépôt de cendres.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28763,13 +28762,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.829: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Cleanouts shall be located to allow access so that ash removal will not create a hazard to combustible materials.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les ouvertures de nettoyage doivent être situées de manière à permettre l'accès, afin que l'enlèvement des cendres ne crée pas de danger pour les matériaux combustibles.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T044540Z">
+        <seg>Les ouvertures de ramonage doivent être situées de manière à permettre un accès tel que l’enlèvement des cendres ne crée pas de risque pour les matériaux combustibles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32455,23 +32453,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.835: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>For chimneys more than 40 inches (1016 mm) wide, two additional No. 4 vertical bars shall be provided for each additional flue incorporated into the chimney or for each additional 40 inches (1016 mm) in width or fraction thereof.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les cheminées d'une largeur supérieure à 40 po [1016 mm], deux barres verticales n° 4 supplémentaires doivent être prévues pour chaque conduit supplémentaire incorporé dans la cheminée ou pour chaque 40 po [1016 mm] supplémentaire de largeur ou fraction de celle-ci.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T044658Z">
+        <seg>Pour les cheminées d’une largeur supérieure à 40 po (1 016 mm), deux barres verticales supplémentaires no 4 doivent être prévues pour chaque conduit de fumée supplémentaire intégré à la cheminée ou pour chaque largeur supplémentaire de 40 po (1 016 mm) ou fraction de celle-ci.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.838: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>For chimneys up to 40 inches (1016 mm) wide, four No. 4 continuous vertical bars shall be placed between wythes of solid masonry or within the cells of hollow unit masonry and grouted in accordance with Section R606.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Pour les cheminées d'une largeur maximale de 40 po [1016 mm], quatre barres verticales continues n° 4 doivent être placées entre les assises de maçonnerie pleine ou à l'intérieur des cellules de maçonnerie à éléments creux et jointoyées selon la section R606.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T044630Z">
+        <seg>Pour les cheminées d’une largeur maximale de 40 po (1 016 mm), quatre barres verticales continues no 4 doivent être placées entre les parois de maçonnerie pleine ou dans les alvéoles des éléments de maçonnerie creux et être injectées de coulis conformément à la section R606.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33350,13 +33346,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.827: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Grout shall be prevented from bonding with the flue liner so that the flue liner is free to move with thermal expansion.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Il faut empêcher le coulis de se lier au revêtement du conduit de cheminée de manière à ce que le revêtement du conduit de cheminée puisse se déplacer librement en cas de dilatation thermique.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T044638Z">
+        <seg>Le coulis doit être empêché d’adhérer au revêtement du conduit de fumée afin que celui-ci puisse se déplacer librement sous l’effet de la dilatation thermique.</seg>
       </tuv>
     </tu>
     <tu>
