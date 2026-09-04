@@ -4836,13 +4836,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.839: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;b1/&gt;&lt;b2/&gt;2407.1.4 &lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;Glazing in windborne debris regions.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;b1/&gt;&lt;b2/&gt;2407.1.4 &lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;Vitrage dans les zones de débris transportés par le vent.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T004613Z">
+        <seg>&lt;b1/&gt;&lt;b2/&gt;2407.1.4 &lt;e1/&gt;&lt;e2/&gt;&lt;x4/&gt;Vitrages dans les régions exposées aux débris transportés par le vent.</seg>
       </tuv>
     </tu>
     <tu>
