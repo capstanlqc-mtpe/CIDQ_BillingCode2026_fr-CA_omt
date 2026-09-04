@@ -13946,13 +13946,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.864: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;803.2 Turning space.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;803.2 Aire de braquage.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191212Z">
+        <seg>&lt;g1&gt;803.2 Espace de rotation.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13976,13 +13975,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.846: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;803.5 Coat hooks and shelves.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;803.5 Patères et étagères.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191328Z">
+        <seg>&lt;g1&gt;803.5 Crochets à vêtements et étagères.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14035,13 +14033,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;g1&gt;804.2.3 Spaces where a cook top or conventional range is not provided.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;g1&gt;804.2.3 Pièces où il n'y a aucun plan de cuisson ni de cuisinière classique.&lt;/g1&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191518Z">
+        <seg>&lt;g1&gt;804.2.3 Espaces où aucune table de cuisson ni cuisinière conventionnelle n’est prévue.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28690,13 +28687,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Coat hooks provided within the room shall accommodate a forward reach or side reach complying with Section 308.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les crochets à vêtements prévus dans la pièce doivent permettre une portée vers l'avant ou une portée latérale conforme à la Section 308.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191335Z">
+        <seg> Les crochets à vêtements prévus dans la pièce doivent permettre une portée avant ou une portée latérale conforme à la section 308.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29799,13 +29795,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.841: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Doors shall not swing into the room unless a clear floor space complying with Section 305.3 is provided within the room, beyond the arc of the door swing.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les portes ne doivent pas s'ouvrir vers l'intérieur de la pièce, sauf si une surface de plancher dégagée conforme à l'article 305.3 est prévue dans la pièce, au-delà de l'arc d'ouverture de la porte.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191257Z">
+        <seg>Les portes ne doivent pas s’ouvrir dans la pièce, à moins qu’une aire de plancher dégagée conforme à la section 305.3 ne soit prévue à l’intérieur de la pièce, au-delà de l’arc de rotation de la porte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34197,13 +34192,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.765: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In a kitchen space where a cooktop or conventional range is not provided, clearance between all opposing base cabinets, countertops, appliances and walls within kitchen work areas shall be 40-inch (1015 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans une cuisine où il n'y a aucun plan de cuisson ni de cuisinière classique, l'espace libre entre toutes les armoires de base de mur opposées, les comptoirs, les appareils électroménagers et les murs dans les zones de travail de la cuisine doit être d'au moins 40 po [1015 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191554Z">
+        <seg>Dans un espace de cuisine où aucune table de cuisson ni cuisinière conventionnelle n’est prévue, le dégagement entre toutes les armoires de base, tous les comptoirs, tous les appareils électroménagers et tous les murs qui se font face dans les zones de travail de la cuisine doit être d’au moins 40 po (1 015 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34714,13 +34708,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.772: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In kitchens enclosed on three contiguous sides, clearance between all opposing base cabinets, countertops, appliances, or walls within kitchen work areas shall be 60 inches (1525 mm) minimum.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les cuisines fermées sur trois côtés contigus, le dégagement entre toutes les armoires de base de mur opposées, les comptoirs, les appareils électroménagers ou les murs dans les aires de travail de la cuisine doit être d'au moins 60 po [1525 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191453Z">
+        <seg>Dans les aires de cuisine fermées sur trois côtés contigus, le dégagement entre tous les armoires de base, comptoirs, appareils électroménagers ou murs qui se font face dans les zones de travail de la cuisine doit être d’au moins 60 po (1 525 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37486,13 +37479,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.736: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Pass-through kitchens shall have two entries.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les cuisines avec passe-plat doivent avoir deux entrées.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191417Z">
+        <seg>Les cuisines traversantes doivent avoir deux entrées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41214,13 +41206,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.81: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The backdrop shall provide a flat, smooth surface with a monochromatic, low-luster finish treatment.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La toile de fond doit fournir une surface plane et lisse avec un traitement de finition monochromatique à faible lustre.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191136Z">
+        <seg>L’arrière-plan doit présenter une surface plane et lisse avec un fini monochrome à faible lustre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45098,13 +45089,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.823: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The wall shall not be required to comply with this section where a backdrop with a monochromatic, low luster finish treatment is provided.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Le mur n'est pas tenu de se conformer à la présente section lorsqu'une toile de fond avec une finition monochromatique à faible lustre est fournie.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191151Z">
+        <seg>Le mur n'est pas tenu de se conformer à la présente section lorsqu'un arrière-plan avec une finition monochromatique à faible lustre est fourni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46188,13 +46178,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.868: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>U-shaped kitchens with an island complying with Section 804.2.1.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Cuisines en forme de U avec un îlot conforme à l'article 804.2.1.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T191524Z">
+        <seg>Les cuisines en U avec un îlot conforme à la section 804.2.1.</seg>
       </tuv>
     </tu>
     <tu>
