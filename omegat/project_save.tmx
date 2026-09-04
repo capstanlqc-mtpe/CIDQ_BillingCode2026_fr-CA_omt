@@ -22890,13 +22890,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.85: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;g2&gt;The rear edge of a rectangular seat shall be 2 &lt;/g2&gt;&lt;g4&gt;½ &lt;/g4&gt;&lt;x6/&gt;inches (64 mm) maximum and the front edge 15 inches (380 mm) minimum and 16 inches (405 mm) maximum from the seat wall.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;g2&gt;Le bord arrière d'un siège rectangulaire doit être à une distance maximale de 2 &lt;/g2&gt;&lt;g4&gt;½ &lt;/g4&gt;&lt;x6/&gt;po [64 mm] et le bord avant à une distance comprise entre 15 po [380 mm] et 16 po [405 mm] du mur du siège.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T163428Z">
+        <seg>&lt;x1/&gt;&lt;g2&gt;Le bord arrière d'un siège rectangulaire doit être à une distance maximale de 2 &lt;/g2&gt;&lt;g4&gt;½ &lt;/g4&gt;&lt;x6/&gt;po (64 mm) et le bord avant à une distance comprise entre 15 po (380 mm) et 16 po (405 mm) du mur du siège.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23415,13 +23414,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.82: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>&lt;x1/&gt;&lt;x2/&gt;The height of shower compartment seats shall be 17 inches (430 mm) minimum and 19 inches (485 mm) maximum above the bathroom floor, measured to the top of the seat.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>&lt;x1/&gt;&lt;x2/&gt;Les sièges de la cabine de douche doivent se trouver à une hauteur comprise entre 17 po (430 mm) et 19 po (485 mm) au-dessus du sol de la salle de bain, mesurée jusqu'à la partie supérieure du siège.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T163318Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;La hauteur des sièges des cabines de douche doit être d’au moins 17 po (430 mm) et d’au plus 19 po (485 mm) au-dessus du plancher de la salle de bains, la mesure étant prise jusqu’au dessus du siège.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35069,13 +35067,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.828: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In standard roll-in-type showers, the seat shall extend from the control wall to a point within 3 inches (75 mm) of the compartment entry.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les douches à accès de plain-pied standard, le siège doit s'étendre du mur de commande jusqu'à un point situé à moins de 3 po [75 mm] de l'entrée de la cabine.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T163357Z">
+        <seg>Dans les douches standard de type à accès de plain-pied, le siège doit se prolonger du mur où se trouvent les commandes jusqu’à un point situé à au plus 3 po (75 mm) de l’entrée de la cabine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35153,13 +35150,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.804: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>In transfer-type and alternate roll-in-type showers, the seat shall extend along the seat wall to a point within 3 inches (75 mm) of the compartment entry.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Dans les douches de type transfert et de type alternatif à accès de plain-pied, le siège doit s'étendre le long du mur du siège jusqu'à un point situé à moins de 3 po [75 mm] de l'entrée de la cabine.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T163348Z">
+        <seg>Dans les douches de type transfert et les douches de type à accès de plain-pied de remplacement, le siège doit se prolonger le long du mur du siège jusqu’à un point situé à au plus 3 po (75 mm) de l’entrée de la cabine. </seg>
       </tuv>
     </tu>
     <tu>
@@ -37790,23 +37786,21 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.836: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Permanent seats shall be 15 inches (380 mm) minimum in depth and shall extend from the back wall to or beyond the outer edge of the bathtub.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les sièges permanents doivent avoir une profondeur minimale de 15 po [380 mm] et s'étendre du mur arrière jusqu'au bord extérieur de la baignoire ou au-delà.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T163232Z">
+        <seg>Les sièges permanents doivent avoir une profondeur d’au moins 15 po (380 mm) et s’étendre du mur arrière jusqu’au bord extérieur de la baignoire ou au-delà de celui-ci.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.833: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Permanent seats shall be positioned at the head end of the bathtub.&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les sièges permanents doivent être placés à la tête de mur de la baignoire.&lt;x1/&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T163307Z">
+        <seg>Les sièges permanents doivent être situés à l’extrémité de la baignoire.&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38765,13 +38759,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.818: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>Removable in-tub seats shall be 15 inches (380 mm) minimum and 16 inches (405 mm) maximum in depth.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les sièges amovibles dans la baignoire doivent avoir une profondeur comprise entre 15 po [380 mm] et 16 po [405 mm].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T163137Z">
+        <seg>La profondeur des sièges amovibles dans la baignoire doit être d’au moins 15 po (380 mm) et d’au plus 16 po (405 mm).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42901,13 +42894,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.825: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The height of bathtub seats shall be 17 inches (430 mm) minimum and 19 inches (485 mm) maximum above the bathroom floor, measured to the top of the seat.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>Les sièges de baignoire doivent se trouver à une hauteur comprise entre 17 po [430 mm] et 19 po [485 mm] au-dessus du sol de la salle de bain, mesurée jusqu'à la partie supérieure du siège.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T163130Z">
+        <seg>La hauteur des sièges de baignoire doit être d’au moins 17 po (430 mm) et d’au plus 19 po (485 mm) au-dessus du plancher de la salle de bains, la mesure étant prise jusqu’au dessus du siège.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44390,8 +44382,8 @@
       <tuv lang="en">
         <seg>The side edge of the seat shall be 1&lt;x1/&gt;&lt;g2&gt;½ &lt;/g2&gt;&lt;g4&gt;inches (38 mm) maximum from the back wall of a transfer-type shower and 1-1/2 inches (38 mm) maximum from the control wall of a roll-in-type shower.&lt;/g4&gt;</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T162418Z">
-        <seg>Le bord latéral du siège doit être situé à une distance maximale de 1&lt;x1/&gt;&lt;g2&gt; ½ &lt;/g2&gt;&lt;g4&gt;po [38 mm] du mur arrière d'une douche de type transfert et à une distance maximale de 1-1/2 po [38 mm] du mur de commande d'une douche à accès de plain-pied.&lt;/g4&gt;</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T163602Z">
+        <seg>Le bord latéral du siège doit être situé à une distance maximale de 1&lt;x1/&gt;&lt;g2&gt; ½ &lt;/g2&gt;&lt;g4&gt;po [38 mm] du mur arrière d'une douche de type transfert et à une distance maximale de 1-1/2 po (38 mm) du mur de commande d'une douche à accès de plain-pied.&lt;/g4&gt;</seg>
       </tuv>
     </tu>
     <tu>
