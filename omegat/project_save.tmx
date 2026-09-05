@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.3_0_57b1bb571" segtype="paragraph" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.4_Beta_0_911305e31" segtype="paragraph" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24521,8 +24521,8 @@
       <tuv lang="en">
         <seg>A shower compartment shall comply with Section 1104.11.3.1.3.3.</seg>
       </tuv>
-      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T213040Z">
-        <seg>&lt;/g1&gt;Un compartiment de douche doit être conforme à la section 1104.11.3.1.3.3.</seg>
+      <tuv lang="fr-CA" changeid="qpe-YD_translator2" changedate="20260905T065602Z">
+        <seg>Un compartiment de douche doit être conforme à la section 1104.11.3.1.3.3.</seg>
       </tuv>
     </tu>
     <tu>
