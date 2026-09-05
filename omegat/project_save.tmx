@@ -40951,13 +40951,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.84: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The aggregate area of all such pass-through openings within a single room shall not exceed 80 square inches (0.05 m2).</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La superficie totale de toutes ces ouvertures de passage dans une même pièce ne doit pas excéder 80 po2 [0,05 m2].</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T214303Z">
+        <seg>La superficie totale de toutes ces ouvertures de passage dans une même pièce ne doit pas excéder 80 po2 (0,05 m2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44635,13 +44634,12 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>0.868: LOW CONFIDENCE</note>
       <tuv lang="en">
         <seg>The top of the pass-through opening is located a maximum of 48 inches (1219 mm) above the floor.</seg>
       </tuv>
-      <tuv lang="fr-CA">
-        <seg>La partie supérieure de l'ouverture de passage est située à une hauteur maximale de 48 po [1219 mm] au-dessus du sol.</seg>
+      <tuv lang="fr-CA" changeid="dulan" changedate="20260904T214253Z">
+        <seg>La partie supérieure de l'ouverture de passage est située à une hauteur maximale de 48 po (1219 mm) au-dessus du plancher.</seg>
       </tuv>
     </tu>
     <tu>
