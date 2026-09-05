@@ -1,13 +1,13 @@
 Project Statistics
 
                  	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
-Total:           	     689	 9924	                  64562	                 73742	     1	
+Total:           	    5788	84732	                 474016	                551774	     1	
 Remaining:       	       0	    0	                      0	                     0	     0	
-Unique:          	     657	 9791	                  63286	                 72346	     1	
+Unique:          	    5225	81704	                 454066	                529378	     1	
 Unique Remaining:	       0	    0	                      0	                     0	     0	
 
 
 Individual File Statistics:
 
 File Name                                                    	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
-20260722_BuildingCode2026_highlightedOnly.docx_fre-CA.mqxliff	           689	                 0	            657	                        0	       9924	              0	        9791	                     0	                        64562	                                0	                         63286	                                       0	                       73742	                               0	                        72346	                                      0	
+20260722_BuildingCode2026_highlightedOnly.docx_fre-CA.mqxliff	          5788	                 0	           5225	                        0	      84732	              0	       81704	                     0	                       474016	                                0	                        454066	                                       0	                      551774	                               0	                       529378	                                      0	

@@ -1,10 +1,10 @@
 {
   "total": {
-    "characters-without-spaces": 64562,
-    "characters": 73742,
-    "words": 9924,
+    "characters-without-spaces": 474016,
+    "characters": 551774,
+    "words": 84732,
     "files": 1,
-    "segments": 689
+    "segments": 5788
   },
   "unique-remaining": {
     "characters-without-spaces": 0,
@@ -14,25 +14,25 @@
     "segments": 0
   },
   "unique": {
-    "characters-without-spaces": 63286,
-    "characters": 72346,
-    "words": 9791,
+    "characters-without-spaces": 454066,
+    "characters": 529378,
+    "words": 81704,
     "files": 1,
-    "segments": 657
+    "segments": 5225
   },
   "project": {
-    "root": "C:/Users/dulan/CIDQ_BillingCode2026_fr-CA_omt/",
+    "root": "C:/Users/emma/Documents/CIDQ/QEPE/CIDQ_BillingCode2026_fr-CA_omt/",
     "source-language": "en",
     "target-language": "fr-CA",
     "name": "CIDQ_BillingCode2026_fr-CA_omt"
   },
   "files": [{
     "total": {
-      "characters-without-spaces": 64562,
-      "characters": 73742,
-      "words": 9924,
+      "characters-without-spaces": 474016,
+      "characters": 551774,
+      "words": 84732,
       "files": 0,
-      "segments": 689
+      "segments": 5788
     },
     "filename": "20260722_BuildingCode2026_highlightedOnly.docx_fre-CA.mqxliff",
     "unique-remaining": {
@@ -43,11 +43,11 @@
       "segments": 0
     },
     "unique": {
-      "characters-without-spaces": 63286,
-      "characters": 72346,
-      "words": 9791,
+      "characters-without-spaces": 454066,
+      "characters": 529378,
+      "words": 81704,
       "files": 0,
-      "segments": 657
+      "segments": 5225
     },
     "remaining": {
       "characters-without-spaces": 0,
